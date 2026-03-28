@@ -1,0 +1,220 @@
+GALLIFORMES: Cracidae
+ 
+GALLIFORMES: Numididae
+ 
+GALLIFORMES: Odontophoridae
+ 
+GALLIFORMES: Phasianidae
+ 
+ANSERIFORMES: Anatidae
+Green-winged Teal	Anas carolinensis	
+ 
+CAPRIMULGIFORMES: Caprimulgidae
+ 
+APODIFORMES: Apodidae
+ 
+APODIFORMES: Trochilidae
+ 
+CUCULIFORMES: Cuculidae
+ 
+PTEROCLIFORMES: Pteroclidae
+ 
+COLUMBIFORMES: Columbidae
+ 
+GRUIFORMES: Heliornithidae
+ 
+GRUIFORMES: Rallidae
+Grey-headed Swamphen	Porphyrio poliocephalus	Introduced species
+ 
+GRUIFORMES: Gruidae
+ 
+GRUIFORMES: Aramidae
+ 
+PODICIPEDIFORMES: Podicipedidae
+ 
+PHOENICOPTERIFORMES: Phoenicopteridae
+ 
+CHARADRIIFORMES: Burhinidae
+ 
+CHARADRIIFORMES: Haematopodidae
+ 
+CHARADRIIFORMES: Recurvirostridae
+ 
+CHARADRIIFORMES: Charadriidae
+Lesser Sand Plover	Charadrius mongolus	
+ 
+CHARADRIIFORMES: Jacanidae
+ 
+CHARADRIIFORMES: Scolopacidae
+ 
+CHARADRIIFORMES: Glareolidae
+ 
+CHARADRIIFORMES: Laridae
+Cabot's Tern	Thalasseus acuflavidus	
+ 
+CHARADRIIFORMES: Stercorariidae
+ 
+CHARADRIIFORMES: Alcidae
+ 
+PHAETHONTIFORMES: Phaethontidae
+ 
+GAVIIFORMES: Gaviidae
+ 
+PROCELLARIIFORMES: Oceanitidae
+ 
+PROCELLARIIFORMES: Diomedeidae
+ 
+PROCELLARIIFORMES: Hydrobatidae
+Hornby's Storm Petrel	Oceanodroma hornbyi	Rare/Accidental Near-threatened
+ 
+PROCELLARIIFORMES: Procellariidae
+ 
+CICONIIFORMES: Ciconiidae
+ 
+SULIFORMES: Fregatidae
+ 
+SULIFORMES: Sulidae
+ 
+SULIFORMES: Anhingidae
+ 
+SULIFORMES: Phalacrocoracidae
+ 
+PELECANIFORMES: Threskiornithidae
+ 
+PELECANIFORMES: Ardeidae
+ 
+PELECANIFORMES: Pelecanidae
+ 
+ACCIPITRIFORMES: Cathartidae
+ 
+ACCIPITRIFORMES: Pandionidae
+ 
+ACCIPITRIFORMES: Accipitridae
+Northern Goshawk	Accipiter gentilis	
+ 
+STRIGIFORMES: Tytonidae
+ 
+STRIGIFORMES: Strigidae
+ 
+TROGONIFORMES: Trogonidae
+ 
+BUCEROTIFORMES: Upupidae
+ 
+CORACIIFORMES: Alcedinidae
+ 
+PICIFORMES: Picidae
+ 
+FALCONIFORMES: Falconidae
+ 
+PSITTACIFORMES: Psittacidae
+ 
+PSITTACIFORMES: Psittaculidae
+ 
+PASSERIFORMES: Thamnophilidae
+ 
+PASSERIFORMES: Tyrannidae
+Chilean Elaenia	Elaenia chilensis	Rare/Accidental
+Cordilleran Flycatcher	Empidonax occidentalis	
+ 
+PASSERIFORMES: Tityridae
+ 
+PASSERIFORMES: Laniidae
+ 
+PASSERIFORMES: Vireonidae
+ 
+PASSERIFORMES: Monarchidae
+ 
+PASSERIFORMES: Corvidae
+ 
+PASSERIFORMES: Bombycillidae
+ 
+PASSERIFORMES: Ptiliogonatidae
+ 
+PASSERIFORMES: Mohoidae
+ 
+PASSERIFORMES: Paridae
+ 
+PASSERIFORMES: Remizidae
+ 
+PASSERIFORMES: Alaudidae
+ 
+PASSERIFORMES: Pycnonotidae
+ 
+PASSERIFORMES: Hirundinidae
+ 
+PASSERIFORMES: Cettiidae
+ 
+PASSERIFORMES: Aegithalidae
+ 
+PASSERIFORMES: Phylloscopidae
+ 
+PASSERIFORMES: Acrocephalidae
+ 
+PASSERIFORMES: Locustellidae
+ 
+PASSERIFORMES: Sylviidae
+ 
+PASSERIFORMES: Paradoxornithidae
+ 
+PASSERIFORMES: Zosteropidae
+ 
+PASSERIFORMES: Leiothrichidae
+ 
+PASSERIFORMES: Regulidae
+ 
+PASSERIFORMES: Troglodytidae
+ 
+PASSERIFORMES: Polioptilidae
+ 
+PASSERIFORMES: Sittidae
+ 
+PASSERIFORMES: Certhiidae
+ 
+PASSERIFORMES: Mimidae
+ 
+PASSERIFORMES: Sturnidae
+ 
+PASSERIFORMES: Turdidae
+ 
+PASSERIFORMES: Muscicapidae
+Stejneger's Stonechat	Saxicola stejnegeri	Rare/Accidental
+ 
+PASSERIFORMES: Cinclidae
+ 
+PASSERIFORMES: Passeridae
+ 
+PASSERIFORMES: Ploceidae
+ 
+PASSERIFORMES: Estrildidae
+ 
+PASSERIFORMES: Peucedramidae
+ 
+PASSERIFORMES: Prunellidae
+ 
+PASSERIFORMES: Motacillidae
+ 
+PASSERIFORMES: Fringillidae
+Arctic Redpoll	Acanthis hornemanni	
+ 
+PASSERIFORMES: Calcariidae
+ 
+PASSERIFORMES: Emberizidae
+ 
+PASSERIFORMES: Passerellidae
+Sooty Fox Sparrow	Passerella unalaschcensis	
+Slate-colored Fox Sparrow	Passerella schistacea	
+Thick-billed Fox Sparrow	Passerella megarhyncha	
+ 
+PASSERIFORMES: Spindalidae
+ 
+PASSERIFORMES: Icteriidae
+ 
+PASSERIFORMES: Icteridae
+Ochre Oriole	Icterus fuertesi	Rare/Accidental
+ 
+PASSERIFORMES: Parulidae
+Audubon's Warbler	Setophaga auduboni	
+ 
+PASSERIFORMES: Cardinalidae
+ 
+PASSERIFORMES: Thraupidae

@@ -1,0 +1,534 @@
+001	0001	栗树鸭	Dendrocygna	javanica	Lesser	Whistling	Duck	LC	二级	D
+002	0009	灰雁	Anser	anser	Greylag	Goose	LC	-	C
+003	0010	鸿雁	Anser	cygnoides	Swan	Goose	VU	二级	C
+004	0011	豆雁	Anser	fabalis	Taiga	Bean	Goose	LC	-	C
+005	0012	短嘴豆雁	Anser	serrirostris	Tundra	Bean	Goose	NR	-	C
+006	0013	白额雁	Anser	albifrons	Greater	White-fronted	Goose	LC	二级	C
+007	0016	小天鹅	Cygnus	columbianus	Tundra	Swan	LC	二级	D
+008	0019	翘鼻麻鸭	Tadorna	tadorna	Common	Shelduck	LC	-	C
+009	0020	赤麻鸭	Tadorna	ferruginea	Ruddy	Shelduck	LC	-	C
+010	0023	鸳鸯	Aix	galericulata	Mandarin	Duck	LC	二级	C
+011	0024	棉凫	Nettapus	coromandelianus	Cotton	Pygmy	Goose	LC	二级	C
+012	0025	花脸鸭	Sibirionetta	formosa	Baikal	Teal	LC	二级	C
+013	0026	白眉鸭	Spatula	querquedula	Garganey	LC	-	B
+014	0027	琵嘴鸭	Spatula	clypeata	Northern	Shoveler	LC	-	A
+015	0028	赤膀鸭	Mareca	strepera	Gadwall	LC	-	C
+016	0029	罗纹鸭	Mareca	falcata	Falcated	Duck	NT	-	B
+017	0030	赤颈鸭	Mareca	penelope	Eurasian	Wigeon	LC	-	A
+018	0034	斑嘴鸭	Anas	zonorhyncha	Chinese	Spot-billed	Duck	LC	-	A
+019	0035	绿头鸭	Anas	platyrhynchos	Mallard	LC	-	B
+020	0036	针尾鸭	Anas	acuta	Northern	Pintail	LC	-	B
+021	0037	绿翅鸭	Anas	crecca	Eurasian	Teal	LC	-	A
+022	0042	红头潜鸭	Aythya	ferina	Common	Pochard	VU	-	C
+023	0044	白眼潜鸭	Aythya	nyroca	Ferruginous	Pochard	NT	-	C
+024	0046	凤头潜鸭	Aythya	fuligula	Tufted	Duck	LC	-	A
+025	0047	斑背潜鸭	Aythya	marila	Greater	Scaup	LC	-	B
+026	0052	斑脸海番鸭	Melanitta	stejnegeri	Stejneger's	Scoter	LC	-	C
+027	0058	红胸秋沙鸭	Mergus	serrator	Red-breasted	Merganser	LC	-	C
+鸡形目	雉科	GALLIFORMES	Phasianidae
+028	0116	中华鹧鸪	Francolinus	pintadeanus	Chinese	Francolin	LC	-	C
+029	0122	鹌鹑	Coturnix	japonica	Japanese	Quail	NT	-	B
+030	0064	白眉山鹧鸪	Arborophila	gingica	White-necklaced	Partridge	NT	二级	B
+031	0113	灰胸竹鸡	Bambusicola	thoracicus	Chinese	Bamboo	Partridge	LC	-	A
+032	0107	白鹇	Lophura	nycthemera	Silver	Pheasant	LC	二级	A
+033	0100	雉鸡	Phasianus	colchicus	Common	Pheasant	LC	-	A
+潜鸟目	潜鸟科	GAVIIFORMES	Gaviidae
+034	0125	红喉潜鸟	Gavia	stellata	Red-throated	Loon	LC	-	C
+鹱形目	鹱科	PROCELLARIIFORMES	Procellariidae
+035	0142	白额鹱	Calonectris	leucomelas	Streaked	Shearwater	NT	-	D
+䴙䴘目	䴙䴘科	PODICIPEDIFORMES	Podicipedidae
+036	0148	小䴙䴘	Tachybaptus	ruficollis	Little	Grebe	LC	-	A
+037	0150	凤头䴙䴘	Podiceps	cristatus	Great	Crested	Grebe	LC	-	A
+038	0152	黑颈䴙䴘	Podiceps	nigricollis	Black-necked	Grebe	LC	二级	B
+鹳形目	鹳科	CICONIIFORMES	Ciconiidae
+039	0159	黑鹳	Ciconia	nigra	Black	Stork	LC	一级	C
+040	0162	东方白鹳	Ciconia	boyciana	Oriental	Stork	EN	一级	D
+鹈形目	鹮科	PELECANIFORMES	Threskiornithidae
+041	0168	白琵鹭	Platalea	leucorodia	Eurasian	Spoonbill	LC	二级	B
+042	0169	黑脸琵鹭	Platalea	minor	Black-faced	Spoonbill	EN	一级	B
+鹈形目	鹭科	PELECANIFORMES	Ardeidae
+043	0170	大麻鳽	Botaurus	stellaris	Great	Bittern	LC	-	C
+044	0172	黄苇鳽	Ixobrychus	sinensis	Yellow	Bittern	LC	-	A
+045	0173	紫背苇鳽	Ixobrychus	eurhythmus	Von	Schrenck's	Bittern	LC	-	C
+046	0174	栗苇鳽	Ixobrychus	cinnamomeus	Cinnamon	Bittern	LC	-	B
+047	0175	黑鳽	Ixobrychus	flavicollis	Black	Bittern	LC	-	C
+048	0177	栗鳽	Gorsachius	goisagi	Japanese	Night	Heron	VU	二级	C
+049	0178	黑冠鳽	Gorsachius	melanolophus	Malayan	Night	Heron	LC	二级	C
+050	0179	夜鹭	Nycticorax	nycticorax	Black-crowned	Night	Heron	LC	-	A
+051	0181	绿鹭	Butorides	striata	Striated	Heron	LC	-	B
+052	0183	池鹭	Ardeola	bacchus	Chinese	Pond	Heron	LC	-	A
+053	0185	牛背鹭	Bubulcus	coromandus	Eastern	Cattle	Egret	NR	-	A
+054	0186	苍鹭	Ardea	cinerea	Grey	Heron	LC	-	A
+055	0188	草鹭	Ardea	purpurea	Purple	Heron	LC	-	B
+056	0189	大白鹭	Ardea	alba	Great	Egret	LC	-	A
+057	0190	中白鹭	Ardea	intermedia	Intermediate	Egret	LC	-	A
+058	0193	白鹭	Egretta	garzetta	Little	Egret	LC	-	A
+059	0194	岩鹭	Egretta	sacra	Pacific	Reef	Heron	LC	二级	B
+060	0195	黄嘴白鹭	Egretta	eulophotes	Chinese	Egret	VU	一级	B
+鹈形目	鹈鹕科	PELECANIFORMES	Pelecanidae
+061	0198	卷羽鹈鹕	Pelecanus	crispus	Dalmatian	Pelican	NT	一级	C
+鲣鸟目	军舰鸟科	SULIFORMES	Fregatidae
+062	0201	白斑军舰鸟	Fregata	ariel	Lesser	Frigatebird	LC	二级	C
+鲣鸟目	鲣鸟科	SULIFORMES	Sulidae
+063	0203	红脚鲣鸟	Sula	sula	Red-footed	Booby	LC	二级	D
+鲣鸟目	鸬鹚科	SULIFORMES	Phalacrocoracidae
+064	0210	暗绿背鸬鹚	Phalacrocorax	capillatus	Japanese	Cormorant	LC	-	C
+065	0211	普通鸬鹚	Phalacrocorax	carbo	Great	Cormorant	LC	-	A
+鹰形目	鹗科	ACCIPITRIFORMES	Pandionidae
+066	0212	鹗	Pandion	haliaetus	Osprey	LC	二级	A
+鹰形目	鹰科	ACCIPITRIFORMES	Accipitridae
+067	0213	黑翅鸢	Elanus	caeruleus	Black-winged	Kite	LC	二级	A
+068	0217	凤头蜂鹰	Pernis	ptilorhynchus	Crested	Honey-buzzard	LC	二级	C
+069	0219	黑冠鹃隼	Aviceda	leuphotes	Black	Baza	LC	二级	B
+070	0225	秃鹫	Aegypius	monachus	Cinereous	Vulture	NT	一级	C
+071	0226	蛇雕	Spilornis	cheela	Crested	Serpent	Eagle	LC	二级	A
+白肩雕	
+栗鸢		
+白喉斑秧鸡	
+红腿斑秧鸡	
+西方秧鸡	
+长嘴剑鸻	
+072	0229	鹰雕	Nisaetus	nipalensis	Mountain	Hawk-Eagle	NT	二级	B
+073	0231	林雕	Ictinaetus	malaiensis	Black	Eagle	LC	二级	A
+074	0237	白腹隼雕	Aquila	fasciata	Bonelli's	Eagle	LC	二级	C
+075	0238	凤头鹰	Accipiter	trivirgatus	Crested	Goshawk	LC	二级	A
+076	0240	赤腹鹰	Accipiter	soloensis	Chinese	Sparrowhawk	LC	二级	A
+077	0241	日本松雀鹰	Accipiter	gularis	Japanese	Sparrowhawk	LC	二级	B
+078	0242	松雀鹰	Accipiter	virgatus	Besra	LC	二级	A
+079	0243	雀鹰	Accipiter	nisus	Eurasian	Sparrowhawk	LC	二级	C
+080	0244	苍鹰	Accipiter	gentilis	Northern	Goshawk	LC	二级	C
+081	0246	白腹鹞	Circus	spilonotus	Eastern	Marsh	Harrier	LC	二级	B
+082	0247	白尾鹞	Circus	cyaneus	Hen	Harrier	LC	二级	C
+083	0249	鹊鹞	Circus	melanoleucos	Pied	Harrier	LC	二级	C
+084	0251	黑鸢	Milvus	migrans	Black	Kite	LC	二级	A
+085	0253	白腹海雕	Haliaeetus	leucogaster	White-bellied	Sea	Eagle	LC	一级	D
+086	0260	灰脸鵟鹰	Butastur	indicus	Grey-faced	Buzzard	LC	二级	C
+087	0263	普通鵟	Buteo	japonicus	Eastern	Buzzard	LC	二级	A
+鹤形目	秧鸡科	GRUIFORMES	Rallidae
+088	0271	普通秧鸡	Rallus	indicus	Brown-cheeked	Rail	LC	-	B
+089	0273	灰胸秧鸡	Lewinia	striata	Slaty-breasted	Rail	LC	-	C
+090	0275	黑水鸡	Gallinula	chloropus	Common	Moorhen	LC	-	A
+091	0276	白骨顶	Fulica	atra	Eurasian	Coot	LC	-	A
+092	0278	紫水鸡	Porphyrio poliocephalus	Grey-headed Swamphen	NR	-	B
+093	0280	斑胁田鸡	Zapornia	paykullii	Band-bellied	Crake	NT	二级	C
+094	0282	红脚田鸡	Zapornia	akool	Brown	Crake	LC	-	B
+095	0283	小田鸡	Zapornia	pusilla	Baillon's	Crake	LC	-	C
+096	0285	红胸田鸡	Zapornia	fusca	Ruddy-breasted	Crake	LC	-	C
+097	0289	董鸡	Gallicrex	cinerea	Watercock	LC	-	C
+098	0290	白胸苦恶鸟	Amaurornis	phoenicurus	White-breasted	Waterhen	LC	-	A
+鸻形目	蛎鹬科	CHARADRIIFORMES	Haematopodidae
+099	0305	蛎鹬	Haematopus	ostralegus	Eurasian	Oystercatcher	NT	-	A
+鸻形目	反嘴鹬科	CHARADRIIFORMES	Recurvirostridae
+100	0307	黑翅长脚鹬	Himantopus	himantopus	Black-winged	Stilt	LC	-	A
+101	0308	反嘴鹬	Recurvirostra	avosetta	Pied	Avocet	LC	-	A
+鸻形目	鸻科	CHARADRIIFORMES	Charadriidae
+102	0309	凤头麦鸡	Vanellus	vanellus	Northern	Lapwing	NT	-	B
+103	0311	灰头麦鸡	Vanellus	cinereus	Grey-headed	Lapwing	LC	-	B
+104	0316	金斑鸻	Pluvialis	fulva	Pacific	Golden	Plover	LC	-	A
+105	0318	灰斑鸻	Pluvialis	squatarola	Grey	Plover	LC	-	A
+106	0321	金眶鸻	Charadrius	dubius	Little	Ringed	Plover	LC	-	A
+107	0322	环颈鸻	Charadrius	alexandrinus	Kentish	Plover	LC	-	A
+108	0323	白脸鸻	Charadrius	dealbatus	White-faced	Plover	DD	-	A
+109	0324	蒙古沙鸻	Charadrius	mongolus	Siberian	Sand	Plover	LC	-	A
+110	0325	青藏沙鸻	Charadrius	atrifrons	Tibetan	Sand	Plover	NR	-	B
+111	0326	铁嘴沙鸻	Charadrius	leschenaultii	Greater	Sand	Plover	LC	-	A
+112	0328	东方鸻	Charadrius	veredus	Oriental	Plover	LC	-	C
+鸻形目	彩鹬科	CHARADRIIFORMES	Rostratulidae
+113	0330	彩鹬	Rostratula	benghalensis	Greater	Painted	Snipe	LC	-	B
+鸻形目	水雉科	CHARADRIIFORMES	Jacanidae
+114	0331	水雉	Hydrophasianus	chirurgus	Pheasant-tailed	Jacana	LC	二级	B
+鸻形目	丘鹬科	CHARADRIIFORMES	Scolopacidae
+115	0333	中杓鹬	Numenius	phaeopus	Eurasian	Whimbrel	LC	-	A
+116	0334	小杓鹬	Numenius	minutus	Little	Curlew	LC	二级	B
+117	0335	大杓鹬	Numenius	madagascariensis	Eastern	Curlew	EN	二级	B
+118	0336	白腰杓鹬	Numenius	arquata	Eurasian	Curlew	NT	二级	A
+119	0337	斑尾塍鹬	Limosa	lapponica	Bar-tailed	Godwit	NT	-	A
+120	0338	黑尾塍鹬	Limosa	limosa	Black-tailed	Godwit	NT	-	A
+121	0339	翻石鹬	Arenaria	interpres	Ruddy	Turnstone	LC	二级	A
+122	0340	大滨鹬	Calidris	tenuirostris	Great	Knot	EN	二级	B
+123	0341	红腹滨鹬	Calidris	canutus	Red	Knot	NT	-	B
+124	0342	流苏鹬	Calidris	pugnax	Ruff	LC	-	C
+125	0343	阔嘴鹬	Calidris	falcinellus	Broad-billed	Sandpiper	LC	二级	A
+126	0344	尖尾滨鹬	Calidris	acuminata	Sharp-tailed	Sandpiper	VU	-	A
+127	0346	弯嘴滨鹬	Calidris	ferruginea	Curlew	Sandpiper	NT	-	A
+128	0347	青脚滨鹬	Calidris	temminckii	Temminck's	Stint	LC	-	B
+129	0348	长趾滨鹬	Calidris	subminuta	Long-toed	Stint	LC	-	B
+130	0349	勺嘴鹬	Calidris	pygmaea	Spoon-billed	Sandpiper	CR	一级	C
+131	0350	红颈滨鹬	Calidris	ruficollis	Red-necked	Stint	NT	-	A
+132	0351	三趾滨鹬	Calidris	alba	Sanderling	LC	-	A
+133	0352	黑腹滨鹬	Calidris	alpina	Dunlin	LC	-	A
+134	0355	小滨鹬	Calidris	minuta	Little	Stint	LC	-	C
+135	0358	斑胸滨鹬	Calidris	melanotos	Pectoral	Sandpiper	LC	-	D
+136	0360	半蹼鹬	Limnodromus	semipalmatus	Asian	Dowitcher	NT	二级	C
+137	0361	长嘴半蹼鹬	Limnodromus	scolopaceus	Long-billed	Dowitcher	LC	-	C
+138	0362	丘鹬	Scolopax	rusticola	Eurasian	Woodcock	LC	-	B
+139	0367	针尾沙锥	Gallinago	stenura	Pin-tailed	Snipe	LC	-	B
+140	0368	大沙锥	Gallinago	megala	Swinhoe's	Snipe	LC	-	B
+141	0369	扇尾沙锥	Gallinago	gallinago	Common	Snipe	LC	-	A
+142	0370	翘嘴鹬	Xenus	cinereus	Terek	Sandpiper	LC	-	A
+143	0371	红颈瓣蹼鹬	Phalaropus	lobatus	Red-necked	Phalarope	LC	-	A
+144	0372	灰瓣蹼鹬	Phalaropus	fulicarius	Red	Phalarope	LC	-	C
+145	0373	矶鹬	Actitis	hypoleucos	Common	Sandpiper	LC	-	A
+146	0374	白腰草鹬	Tringa	ochropus	Green	Sandpiper	LC	-	A
+147	0376	灰尾漂鹬	Tringa	brevipes	Grey-tailed	Tattler	NT	-	A
+148	0378	红脚鹬	Tringa	totanus	Common	Redshank	LC	-	A
+149	0379	泽鹬	Tringa	stagnatilis	Marsh	Sandpiper	LC	-	A
+150	0380	林鹬	Tringa	glareola	Wood	Sandpiper	LC	-	A
+151	0381	鹤鹬	Tringa	erythropus	Spotted	Redshank	LC	-	A
+152	0382	青脚鹬	Tringa	nebularia	Common	Greenshank	LC	-	A
+153	0383	小青脚鹬	Tringa	guttifer	Nordmann's	Greenshank	EN	一级	C
+鸻形目	燕鸻科	CHARADRIIFORMES	Glareolidae
+154	0385	普通燕鸻	Glareola	maldivarum	Oriental	Pratincole	LC	-	B
+鸻形目	鸥科	CHARADRIIFORMES	Laridae
+155	0391	三趾鸥	Rissa	tridactyla	Black-legged	Kittiwake	VU	-	C
+156	0396	红嘴鸥	Chroicocephalus	ridibundus	Black-headed	Gull	LC	-	A
+157	0397	黑嘴鸥	Chroicocephalus	saundersi	Saunders's	Gull	VU	一级	B
+158	0402	遗鸥	Ichthyaetus	relictus	Relict	Gull	VU	一级	C
+159	0403	渔鸥	Ichthyaetus	ichthyaetus	Pallas's	Gull	LC	-	C
+160	0404	黑尾鸥	Larus	crassirostris	Black-tailed	Gull	LC	-	B
+普通海鸥	C
+161	0410	西伯利亚银鸥	Larus	vegae	Vega	Gull	LC	-	A
+162	0413	小黑背鸥	Larus	fuscus	Lesser	Black-backed	Gull	LC	-	B
+163	0414	鸥嘴噪鸥	Gelochelidon	nilotica	Gull-billed	Tern	LC	-	A
+164	0415	红嘴巨燕鸥	Hydroprogne	caspia	Caspian	Tern	LC	-	A
+165	0416	大凤头燕鸥	Thalasseus	bergii	Greater	Crested	Tern	LC	二级	B
+166	0420	白额燕鸥	Sternula	albifrons	Little	Tern	LC	-	A
+167	0422	褐翅燕鸥	Onychoprion	anaethetus	Bridled	Tern	LC	-	C
+168	0425	粉红燕鸥	Sterna	dougallii	Roseate	Tern	LC	-	B
+169	0426	黑枕燕鸥	Sterna	sumatrana	Black-naped	Tern	LC	-	A
+170	0427	普通燕鸥	Sterna	hirundo	Common	Tern	LC	-	C
+171	0429	须浮鸥	Chlidonias	hybrida	Whiskered	Tern	LC	-	A
+172	0430	白翅浮鸥	Chlidonias	leucopterus	White-winged	Tern	LC	-	A
+鸽形目	鸠鸽科	COLUMBIFORMES	Columbidae
+173	0456	山斑鸠	Streptopelia	orientalis	Oriental	Turtle	Dove	LC	-	A
+174	0457	灰斑鸠	Streptopelia decaocto	Eurasian	Collared	Dove	LC	-	B
+175	0458	火斑鸠	Streptopelia	tranquebarica	Red	Collared	Dove	LC	-	A
+176	0459	珠颈斑鸠	Spilopelia	chinensis	Spotted	Dove	LC	-	A
+177	0461	斑尾鹃鸠	Macropygia	unchall	Barred	Cuckoo-Dove	LC	二级	B
+178	0464	绿翅金鸠	Chalcophaps	indica	Emerald	Dove	LC	-	B
+179	0473	红翅绿鸠	Treron	sieboldii	White-bellied	Green	Pigeon	LC	二级	C
+鹃形目	杜鹃科	CUCULIFORMES	Cuculidae
+180	0478	褐翅鸦鹃	Centropus	sinensis	Greater	Coucal	LC	二级	A
+181	0479	小鸦鹃	Centropus	bengalensis	Lesser	Coucal	LC	二级	B
+182	0481	红翅凤头鹃	Clamator	coromandus	Chestnut-winged	Cuckoo	LC	-	B
+183	0483	噪鹃	Eudynamys	scolopaceus	Asian	Koel	LC	-	A
+184	0487	八声杜鹃	Cacomantis	merulinus	Plaintive	Cuckoo	LC	-	A
+185	0488	乌鹃	Surniculus	lugubris	Square-tailed	Drongo-Cuckoo	LC	-	B
+186	0489	大鹰鹃	Hierococcyx	sparverioides	Large	Hawk-Cuckoo	LC	-	A
+187	0491	北棕腹鹰鹃	Hierococcyx	hyperythrus	Northern	Hawk-Cuckoo	LC	-	C
+188	0492	棕腹鹰鹃	Hierococcyx	nisicolor	Hodgson's	Hawk-Cuckoo	LC	-	C
+189	0493	小杜鹃	Cuculus	poliocephalus	Asian	Lesser	Cuckoo	LC	-	A
+190	0494	四声杜鹃	Cuculus	micropterus	Indian	Cuckoo	LC	-	C
+191	0495	中杜鹃	Cuculus	saturatus	Himalayan	Cuckoo	LC	-	B
+192	0496	东方中杜鹃	Cuculus	optatus	Oriental	Cuckoo	LC	-	C
+193	0497	大杜鹃	Cuculus	canorus	Common	Cuckoo	LC	-	D
+鸮形目	仓鸮科	STRIGIFORMES	Tytonidae
+194	0499	草鸮	Tyto	longimembris	Eastern	Grass	Owl	LC	二级	D
+鸮形目	鸱鸮科	STRIGIFORMES	Strigidae
+195	0510	黄嘴角鸮	Otus	spilocephalus	Mountain	Scops	Owl	LC	二级	C
+196	0515	领角鸮	Otus	lettia	Collared	Scops	Owl	LC	二级	A
+197	0513	红角鸮	Otus	sunia	Oriental	Scops	Owl	LC	二级	A
+198	0520	雕鸮	Bubo	bubo	Eurasian	Eagle-Owl	LC	二级	D
+199	0503	领鸺鹠	Taenioptynx	brodiei	Collared	Owlet	LC	二级	A
+200	0509	斑头鸺鹠	Glaucidium	cuculoides	Asian	Barred	Owlet	LC	二级	B
+201	0501	北鹰鸮	Ninox	japonica	Northern	Boobook	LC	二级	B
+202	0517	长耳鸮	Asio	otus	Long-eared	Owl	LC	二级	D
+203	0518	短耳鸮	Asio	flammeus	Short-eared	Owl	LC	二级	C
+夜鹰目	夜鹰科	CAPRIMULGIFORMES	Caprimulgidae
+204	0532	普通夜鹰	Caprimulgus	jotaka	Grey	Nightjar	LC	-	A
+205	0536	林夜鹰	Caprimulgus	affinis	Savanna	Nightjar	LC	-	A
+雨燕目	雨燕科	APODIFORMES	Apodidae
+普通雨燕	
+206	0538	短嘴金丝燕	Aerodramus	brevirostris	Himalayan	Swiftlet	LC	-	C
+207	0540	白喉针尾雨燕	Hirundapus	caudacutus	White-throated	Needletail	LC	-	C
+208	0547	白腰雨燕	Apus	pacificus	Pacific	Swift	LC	-	C
+209	0551	小白腰雨燕	Apus	nipalensis	House	Swift	LC	-	A
+灰喉针尾雨燕
+咬鹃目	咬鹃科	TROGONIFORMES	Trogonidae
+210	0553	红头咬鹃	Harpactes	erythrocephalus	Red-headed	Trogon	LC	二级	C
+佛法僧目	佛法僧科	CORACIIFORMES	Coraciidae
+211	0557	三宝鸟	Eurystomus	orientalis	Oriental	Dollarbird	LC	-	A
+佛法僧目	翠鸟科	CORACIIFORMES	Alcedinidae
+212	0559	赤翡翠	Halcyon	coromanda	Ruddy	Kingfisher	LC	-	C
+213	0560	白胸翡翠	Halcyon	smyrnensis	White-throated	Kingfisher	LC	二级	A
+214	0561	蓝翡翠	Halcyon	pileata	Black-capped	Kingfisher	VU	-	C
+215	0564	普通翠鸟	Alcedo	atthis	Common	Kingfisher	LC	-	A
+216	0568	斑鱼狗	Ceryle	rudis	Pied	Kingfisher	LC	-	A
+佛法僧目	蜂虎科	CORACIIFORMES	Meropidae
+217	0572	栗喉蜂虎	Merops	philippinus	Blue-tailed	Bee-eater	LC	二级	A
+218	0574	蓝喉蜂虎	Merops	viridis	Blue-throated	Bee-eater	LC	二级	C
+犀鸟目	戴胜科	BUCEROTIFORMES	Upupidae
+219	0577	戴胜	Upupa	epops	Common	Hoopoe	LC	-	B
+䴕形目	拟啄木鸟科	PICIFORMES	Megalaimidae
+220	0583	大拟啄木鸟	Psilopogon	virens	Great	Barbet	LC	-	A
+221	0587	黑眉拟啄木鸟	Psilopogon	faber	Chinese	Barbet	LC	-	C
+䴕形目	啄木鸟科	PICIFORMES	Picidae
+222	0593	蚁䴕	Jynx	torquilla	Eurasian	Wryneck	LC	-	B
+223	0594	斑姬啄木鸟	Picumnus	innominatus	Speckled	Piculet	LC	-	A
+224	0602	棕腹啄木鸟	Dendrocopos	hyperythrus	Rufous-bellied	Woodpecker	LC	-	C
+225	0617	灰头绿啄木鸟	Picus	canus	Grey-headed	Woodpecker	LC	-	C
+226	0621	黄嘴栗啄木鸟	Blythipicus	pyrrhotis	Bay	Woodpecker	LC	-	B
+227	0622	栗啄木鸟	Micropternus	brachyurus	Rufous	Woodpecker	LC	-	B
+隼形目	隼科	FALCONIFORMES	Falconidae
+228	0627	红隼	Falco	tinnunculus	Common	Kestrel	LC	二级	A
+229	0629	红脚隼	Falco	amurensis	Amur	Falcon	LC	二级	C
+230	0631	燕隼	Falco	subbuteo	Eurasian	Hobby	LC	二级	C
+231	0635	游隼	Falco	peregrinus	Peregrine	Falcon	LC	二级	B
+雀形目	八色鸫科	PASSERIFORMES	Pittidae
+232	0653	仙八色鸫	Pitta	nympha	Fairy	Pitta	VU	二级	C
+雀形目	钩嘴鵙科	PASSERIFORMES	Vangidae
+233	0656	钩嘴林鵙	Tephrodornis	virgatus	Large	Woodshrike	LC	-	C
+雀形目	鹃鵙科	PASSERIFORMES	Campephagidae
+234	0660	灰喉山椒鸟	Pericrocotus	solaris	Grey-chinned	Minivet	LC	-	A
+235	0663	赤红山椒鸟	Pericrocotus	speciosus	Scarlet	Minivet	LC	-	A
+236	0664	灰山椒鸟	Pericrocotus	divaricatus	Ashy	Minivet	LC	-	C
+237	0665	琉球山椒鸟	Pericrocotus	tegimae	Ryukyu	Minivet	LC	-	C
+238	0666	小灰山椒鸟	Pericrocotus	cantonensis	Swinhoe's	Minivet	LC	-	C
+239	0668	大鹃鵙	Coracina	macei	Large	Cuckooshrike	LC	-	C
+240	0670	暗灰鹃鵙	Lalage	melaschistos	Black-winged	Cuckooshrike	LC	-	B
+雀形目	伯劳科	PASSERIFORMES	Laniidae
+241	0671	虎纹伯劳	Lanius	tigrinus	Tiger	Shrike	LC	-	C
+242	0672	牛头伯劳	Lanius	bucephalus	Bull-headed	Shrike	LC	-	B
+243	0673	红尾伯劳	Lanius	cristatus	Brown	Shrike	LC	-	A
+244	0679	棕背伯劳	Lanius	schach	Long-tailed	Shrike	LC	-	A
+245	0685	楔尾伯劳	Lanius	sphenocercus	Chinese	Grey	Shrike	LC	-	C
+雀形目	莺雀科	PASSERIFORMES	Vireonidae
+246	0691	白腹凤鹛	Erpornis	zantholeuca	White-bellied	Erpornis	LC	-	A
+雀形目	黄鹂科	PASSERIFORMES	Oriolidae
+247	0697	黑枕黄鹂	Oriolus	chinensis	Black-naped	Oriole	LC	-	B
+雀形目	卷尾科	PASSERIFORMES	Dicruridae
+248	0703	发冠卷尾	Dicrurus	hottentottus	Hair-crested	Drongo	LC	-	B
+249	0704	灰卷尾	Dicrurus	leucophaeus	Ashy	Drongo	LC	-	B
+250	0705	黑卷尾	Dicrurus	macrocercus	Black	Drongo	LC	-	A
+雀形目	王鹟科	PASSERIFORMES	Monarchidae
+251	0709	黑枕王鹟	Hypothymis	azurea	Black-naped	Monarch	LC	-	B
+252	0712	寿带	Terpsiphone	incei	Amur	Paradise	Flycatcher	LC	-	C
+253	0713	紫寿带	Terpsiphone	atrocaudata	Japanese	Paradise-flycatcher	NT	-	B
+雀形目	鸦科	PASSERIFORMES	Corvidae
+254	0716	松鸦	Garrulus	glandarius	Eurasian	Jay	LC	-	B
+255	0717	灰喜鹊	Cyanopica	cyanus	Azure-winged	Magpie	LC	-	A
+256	0720	红嘴蓝鹊	Urocissa	erythroryncha	Red-billed	Blue	Magpie	LC	-	A
+257	0725	灰树鹊	Dendrocitta	formosae	Grey	Treepie	LC	-	A
+258	0730	喜鹊	Pica	serica	Oriental	Magpie	LC	-	A
+259	0741	小嘴乌鸦	Corvus	corone	Carrion	Crow	LC	-	C
+260	0743	白颈鸦	Corvus	torquatus	Collared	Crow	VU	-	B
+261	0744	大嘴乌鸦	Corvus	macrorhynchos	Large-billed	Crow	LC	-	D
+雀形目	仙莺科	PASSERIFORMES	Stenostiridae
+262	0750	方尾鹟	Culicicapa	ceylonensis	Grey-headed	Canary	Flycatcher	LC	-	C
+雀形目	山雀科	PASSERIFORMES	Paridae
+263	0757	黄腹山雀	Pardaliparus	venustulus	Yellow-bellied	Tit	LC	-	C
+264	0770	大山雀	Parus	minor	Japanese	Tit	NR	-	A
+265	0775	黄颊山雀	Machlolophus	spilonotus	Yellow-cheeked	Tit	LC	-	B
+雀形目	攀雀科	PASSERIFORMES	Remizidae
+266	0777	中华攀雀	Remiz	consobrinus	Chinese	Penduline	Tit	LC	-	B
+雀形目	百灵科	PASSERIFORMES	Alaudidae
+267	0781	小云雀	Alauda	gulgula	Oriental	Skylark	LC	-	A
+268	0782	云雀	Alauda	arvensis	Eurasian	Skylark	LC	二级	B
+雀形目	鹎科	PASSERIFORMES	Pycnonotidae
+269	0801	栗背短脚鹎	Hemixos	castanonotus	Chestnut	Bulbul	LC	-	A
+270	0802	绿翅短脚鹎	Ixos	mcclellandii	Mountain	Bulbul	LC	-	A
+271	0803	栗耳短脚鹎	Hypsipetes	amaurotis	Brown-eared	Bulbul	LC	-	C
+272	0804	黑短脚鹎	Hypsipetes	leucocephalus	Black	Bulbul	LC	-	A
+273	0808	领雀嘴鹎	Spizixos	semitorques	Collared	Finchbill	LC	-	B
+274	0812	白头鹎	Pycnonotus	sinensis	Light-vented	Bulbul	LC	-	A
+275	0814	红耳鹎	Pycnonotus	jocosus	Red-whiskered	Bulbul	LC	-	A
+276	0817	白喉红臀鹎	Pycnonotus	aurigaster	Sooty-headed	Bulbul	LC	-	A
+雀形目	燕科	PASSERIFORMES	Hirundinidae
+277	0820	淡色沙燕	Riparia	diluta	Pale	Martin	LC	-	C
+278	0826	家燕	Hirundo	rustica	Barn	Swallow	LC	-	A
+279	0828	白腹毛脚燕	Delichon	lagopodum	Siberian	House	Martin	LC	-	C
+280	0829	烟腹毛脚燕	Delichon	dasypus	Asian	House	Martin	LC	-	B
+281	0831	金腰燕	Cecropis	daurica	Red-rumped	Swallow	LC	-	A
+雀形目	鳞胸鹪鹛科	PASSERIFORMES	Pnoepygidae
+282	0837	小鳞胸鹪鹛	Pnoepyga	pusilla	Pygmy	Cupwing	LC	-	B
+雀形目	树莺科	PASSERIFORMES	Cettiidae
+283	0839	棕脸鹟莺	Abroscopus	albogularis	Rufous-faced	Warbler	LC	-	C
+284	0841	金头拟缝叶莺	Phyllergates	cucullatus	Mountain	Tailorbird	LC	-	C
+285	0843	日本树莺	Horornis	diphone	Japanese	Bush	Warbler	LC	-	D
+286	0844	远东树莺	Horornis	canturians	Manchurian	Bush	Warbler	LC	-	B
+287	0845	强脚树莺	Horornis	fortipes	Brownish-flanked	Bush	Warbler	LC	-	A
+288	0855	鳞头树莺	Urosphena	squameiceps	Asian	Stubtail	LC	-	C
+雀形目	长尾山雀科	PASSERIFORMES	Aegithalidae
+289	0861	红头长尾山雀	Aegithalos	concinnus	Black-throated	Bushtit	LC	-	A
+雀形目	柳莺科	PASSERIFORMES	Phylloscopidae
+290	0869	黄眉柳莺	Phylloscopus	inornatus	Yellow-browed	Warbler	LC	-	A
+291	0874	黄腰柳莺	Phylloscopus	proregulus	Pallas's	Leaf	Warbler	LC	-	A
+292	0876	巨嘴柳莺	Phylloscopus	schwarzi	Radde's	Warbler	LC	-	C
+293	0881	褐柳莺	Phylloscopus	fuscatus	Dusky	Warbler	LC	-	A
+294	0882	棕腹柳莺	Phylloscopus	subaffinis	Buff-throated	Warbler	LC	-	D
+295	0886	冕柳莺	Phylloscopus	coronatus	Eastern	Crowned	Warbler	LC	-	B
+296	0888	白眶鹟莺	Phylloscopus	intermedius	White-spectacled	Warbler	LC	-	C
+297	0896	双斑绿柳莺	Phylloscopus	plumbeitarsus	Two-barred	Warbler	LC	-	C
+298	0901	淡脚柳莺	Phylloscopus	tenellipes	Pale-legged	Warbler	LC	-	B
+299	0904	极北柳莺	Phylloscopus	borealis	Arctic	Warbler	LC	-	A
+300	0905	栗头鹟莺	Phylloscopus	castaniceps	Chestnut-crowned	Warbler	LC	-	C
+301	0907	黑眉柳莺	Phylloscopus	ricketti	Sulphur-breasted	Warbler	LC	-	C
+302	0911	华南冠纹柳莺	Phylloscopus	goodsoni	Hartert's	Leaf	Warbler	LC	-	B
+叽喳柳莺	
+库页岛柳莺	
+雀形目	苇莺科	PASSERIFORMES	Acrocephalidae
+303	0917	东方大苇莺	Acrocephalus	orientalis	Oriental	Reed	Warbler	LC	-	A
+304	0919	黑眉苇莺	Acrocephalus	bistrigiceps	Black-browed	Reed	Warbler	LC	-	B
+305	0928	厚嘴苇莺	Arundinax	aedon	Thick-billed	Warbler	LC	-	C
+306	0929	靴篱莺	Iduna	caligata	Booted	Warbler	LC	-	D
+雀形目	蝗莺科	PASSERIFORMES	Locustellidae
+307	0935	小蝗莺	Helopsaltes	certhiola	Pallas's	Grasshopper	Warbler	LC	-	C
+308	0937	北蝗莺	Helopsaltes	ochotensis	Middendorff's	Grasshopper	Warble	LC	-	D
+309	0938	矛斑蝗莺	Locustella	lanceolata	Lanceolated	Warbler	LC	-	B
+310	0947	高山短翅蝗莺	Locustella	mandelli	Russet	Bush	Warbler	LC	-	A
+雀形目	扇尾莺科	PASSERIFORMES	Cisticolidae
+311	0950	棕扇尾莺	Cisticola	juncidis	Zitting	Cisticola	LC	-	B
+金头扇尾莺	
+312	0953	山鹪莺	Prinia	striata	Striped	Prinia	LC	-	C
+313	0955	黑喉山鹪莺	Prinia	superciliaris	Hill	Prinia	LC	-	B
+314	0958	黄腹山鹪莺	Prinia	flaviventris	Yellow-bellied	Prinia	LC	-	A
+315	0959	纯色山鹪莺	Prinia	inornata	Plain	Prinia	LC	-	A
+316	0960	长尾缝叶莺	Orthotomus	sutorius	Common	Tailorbird	LC	-	A
+雀形目	鹛科	PASSERIFORMES	Timaliidae
+317	0966	红头穗鹛	Cyanoderma	ruficeps	Rufous-capped	Babbler	LC	-	A
+318	0975	棕颈钩嘴鹛	Pomatorhinus	ruficollis	Streak-breasted	Scimitar	Babbler	LC	-	A
+319	0981	华南斑胸钩嘴鹛	Erythrogenys	swinhoei	Grey-sided	Scimitar	Babbler	LC	-	A
+雀形目	幽鹛科	PASSERIFORMES	Pellorneidae
+320	0996	褐顶雀鹛	Schoeniparus	brunneus	Dusky	Fulvetta	LC	-	C
+雀形目	雀鹛科	PASSERIFORMES	Alcippeidae
+321	1009	淡眉雀鹛	Alcippe	hueti	Huet's	Fulvetta	NR	-	A
+雀形目	噪鹛科	PASSERIFORMES	Leiothrichidae
+322	1041	红嘴相思鸟	Leiothrix	lutea	Red-billed	Leiothrix	LC	二级	B
+323	1050	画眉	Garrulax	canorus	Hwamei	LC	二级	A
+324	1052	小黑领噪鹛	Garrulax	monileger	Lesser	Necklaced	Laughingthrush	LC	-	B
+325	1059	灰翅噪鹛	Ianthocincla	cineracea	Moustached	Laughingthrush	LC	-	C
+326	1069	白颊噪鹛	Pterorhinus	sannio	White-browed	Laughingthrush	LC	-	A
+327	1070	黑脸噪鹛	Pterorhinus	perspicillatus	Masked	Laughingthrush	LC	-	A
+328	1071	黑领噪鹛	Pterorhinus	pectoralis	Greater	Necklaced	Laughingthrush	LC	-	B
+329	1073	矛纹草鹛	Pterorhinus	lanceolatus	Chinese	Babax	LC	-	B
+雀形目	莺鹛科	PASSERIFORMES	Sylviidae
+330	1084	白喉林莺	Curruca	curruca	Lesser	Whitethroat	LC	-	C
+雀形目	鸦雀科	PASSERIFORMES	Paradoxornithidae
+331	1115	短尾鸦雀	Neosuthora	davidiana	Short-tailed	Parrotbill	LC	二级	C
+332	1119	灰头鸦雀	Psittiparus	gularis	Grey-headed	Parrotbill	LC	-	C
+333	1120	点胸鸦雀	Paradoxornis	guttaticollis	Spot-breasted	Parrotbill	LC	-	B
+棕头鸦雀	
+雀形目	绣眼鸟科	PASSERIFORMES	Zosteropidae
+334	1124	栗颈凤鹛	Staphida	torqueola	Chestnut-collared	Yuhina	LC	-	A
+335	1125	黑颏凤鹛	Yuhina	nigrimenta	Black-chinned	Yuhina	LC	-	C
+336	1131	红胁绣眼鸟	Zosterops	erythropleurus	Chestnut-flanked	White-eye	LC	二级	C
+337	1132	暗绿绣眼鸟	Zosterops	simplex	Swinhoe's	White-eye	LC	-	A
+雀形目	丽星鹩鹛科	PASSERIFORMES	Elachuridae
+338	1139	丽星鹩鹛	Elachura	formosa	Spotted	Elachura	LC	-	C
+雀形目	椋鸟科	PASSERIFORMES	Sturnidae
+339	1165	八哥	Acridotheres	cristatellus	Crested	Myna	LC	-	A
+340	1169	丝光椋鸟	Spodiopsar	sericeus	Red-billed	Starling	LC	-	A
+341	1170	灰椋鸟	Spodiopsar	cineraceus	White-cheeked	Starling	LC	-	A
+342	1171	黑领椋鸟	Gracupica	nigricollis	Black-collared	Starling	LC	-	A
+343	1174	北椋鸟	Agropsar	sturninus	Daurian	Starling	LC	-	C
+344	1176	灰背椋鸟	Sturnia	sinensis	White-shouldered	Starling	LC	-	A
+345	1179	粉红椋鸟	Pastor	roseus	Rosy	Starling	LC	-	C
+346	1180	紫翅椋鸟	Sturnus	vulgaris	Common	Starling	LC	-	C
+雀形目	鸫科	PASSERIFORMES	Turdidae
+347	1193	橙头地鸫	Geokichla	citrina	Orange-headed	Thrush	LC	-	C
+348	1192	白眉地鸫	Geokichla	sibirica	Siberian	Thrush	LC	-	C
+349	1190	虎斑地鸫	Zoothera	aurea	White's	Thrush	LC	-	B
+350	1205	灰背鸫	Turdus	hortulorum	Grey-backed	Thrush	LC	-	A
+351	1204	乌灰鸫	Turdus	cardis	Japanese	Thrush	LC	-	B
+352	1197	乌鸫	Turdus	mandarinus	Chinese	Blackbird	LC	-	A
+353	1206	白眉鸫	Turdus	obscurus	Eyebrowed	Thrush	LC	-	A
+354	1207	白腹鸫	Turdus	pallidus	Pale	Thrush	LC	-	A
+355	1209	赤胸鸫	Turdus	chrysolaus	Brown-headed	Thrush	LC	-	B
+356	1216	红尾斑鸫	Turdus	naumanni	Naumann's	Thrush	LC	-	C
+357	1215	斑鸫	Turdus	eunomus	Dusky	Thrush	LC	-	C
+雀形目	鹟科	PASSERIFORMES	Muscicapidae
+358	1220	鹊鸲	Copsychus	saularis	Oriental	Magpie	Robin	LC	-	A
+359	1223	灰纹鹟	Muscicapa	griseisticta	Grey-streaked	Flycatcher	LC	-	B
+360	1224	乌鹟	Muscicapa	sibirica	Dark-sided	Flycatcher	LC	-	B
+361	1225	北灰鹟	Muscicapa	dauurica	Asian	Brown	Flycatcher	LC	-	A
+362	1226	褐胸鹟	Muscicapa	muttui	Brown-breasted	Flycatcher	LC	-	C
+363	1227	棕尾褐鹟	Muscicapa	ferruginea	Ferruginous	Flycatcher	LC	-	B
+364	1229	海南蓝仙鹟	Cyornis	hainanus	Hainan	Blue	Flycatcher	LC	-	A
+365	1233	山蓝仙鹟	Cyornis	whitei	Hill	Blue	Flycatcher	LC	-	C
+366	1236	中华仙鹟	Cyornis	glaucicomans	Chinese	Blue	Flycatcher	LC	-	C
+367	1237	白喉林鹟	Cyornis	brunneatus	Brown-chested	Jungle	Flycatcher	VU	二级	C
+368	1238	棕腹大仙鹟	Niltava	davidi	Fujian	Niltava	LC	二级	C
+369	1242	小仙鹟	Niltava	macgrigoriae	Small	Niltava	LC	-	C
+370	1243	白腹蓝鹟	Cyanoptila	cyanomelana	Blue-and-white	Flycatcher	LC	-	A
+371	1245	铜蓝鹟	Eumyias	thalassinus	Verditer	Flycatcher	LC	-	B
+372	1249	白喉短翅鸫	Brachypteryx	leucophris	Lesser	Shortwing	LC	-	B
+373	1254	蓝歌鸲	Larvivora	cyane	Siberian	Blue	Robin	LC	-	B
+374	1255	红尾歌鸲	Larvivora	sibilans	Rufous-tailed	Robin	LC	-	B
+375	1258	日本歌鸲	Larvivora	akahige	Japanese	Robin	LC	-	B
+376	1259	蓝喉歌鸲	Luscinia	svecica	Bluethroat	LC	二级	B
+377	1264	红喉歌鸲	Calliope	calliope	Siberian	Rubythroat	LC	二级	B
+378	1272	红胁蓝尾鸲	Tarsiger	cyanurus	Orange-flanked	Bluetail	LC	-	A
+379	1278	灰背燕尾	Enicurus	schistaceus	Slaty-backed	Forktail	LC	-	A
+380	1279	白冠燕尾	Enicurus	leschenaulti	White-crowned	Forktail	LC	-	C
+381	1282	紫啸鸫	Myophonus	caeruleus	Blue	Whistling	Thrush	LC	-	A
+382	1284	白眉姬鹟	Ficedula	zanthopygia	Yellow-rumped	Flycatcher	LC	-	C
+383	1285	绿背姬鹟	Ficedula	elisae	Green-backed	Flycatcher	LC	-	C
+384	1286	黄眉姬鹟	Ficedula	narcissina	Narcissus	Flycatcher	LC	-	A
+385	1287	琉球姬鹟	Ficedula	owstoni	Ryukyu	Flycatcher	LC	-	C
+386	1289	鸲姬鹟	Ficedula	mugimaki	Mugimaki	Flycatcher	LC	-	A
+387	1298	红喉姬鹟	Ficedula	albicilla	Taiga	Flycatcher	LC	-	B
+388	1299	红胸姬鹟	Ficedula	parva	Red-breasted	Flycatcher	LC	-	C
+389	1308	北红尾鸲	Phoenicurus	auroreus	Daurian	Redstart	LC	-	A
+390	1311	红尾水鸲	Phoenicurus	fuliginosus	Plumbeous	Water	Redstart	LC	-	A
+391	1314	蓝矶鸫	Monticola	solitarius	Blue	Rock	Thrush	LC	-	B
+392	1315	栗腹矶鸫	Monticola	rufiventris	Chestnut-bellied	Rock	Thrush	LC	-	C
+393	1316	白喉矶鸫	Monticola	gularis	White-throated	Rock	Thrush	LC	-	C
+394	1319	黑喉石䳭	Saxicola	stejnegeri	Stejneger's	Stonechat	NR	-	A
+395	1322	灰林䳭	Saxicola	ferreus	Grey	Bushchat	LC	-	B
+雀形目	河乌科	PASSERIFORMES	Cinclidae
+396	1329	褐河乌	Cinclus	pallasii	Brown	Dipper	LC	-	C
+雀形目	叶鹎科	PASSERIFORMES	Chloropseidae
+397	1333	橙腹叶鹎	Chloropsis	lazulina	Greyish-crowned	Leafbird	LC	-	A
+雀形目	啄花鸟科	PASSERIFORMES	Dicaeidae
+398	1338	红胸啄花鸟	Dicaeum	ignipectus	Fire-breasted	Flowerpecker	LC	-	A
+399	1337	纯色啄花鸟	Dicaeum	minullum	Plain	Flowerpecker	LC	-	C
+朱背啄花鸟	
+雀形目	太阳鸟科	PASSERIFORMES	Nectariniidae
+400	1344	蓝喉太阳鸟	Aethopyga	gouldiae	Mrs.	Gould's	Sunbird	LC	-	C
+401	1346	叉尾太阳鸟	Aethopyga	christinae	Fork-tailed	Sunbird	LC	-	A
+雀形目	雀科	PASSERIFORMES	Passeridae
+402	1361	山麻雀	Passer	cinnamomeus	Russet	Sparrow	LC	-	B
+403	1362	麻雀	Passer	montanus	Eurasian	Tree	Sparrow	LC	-	A
+雀形目	梅花雀科	PASSERIFORMES	Estrildidae
+404	1368	斑文鸟	Lonchura	punctulata	Scaly-breasted	Munia	LC	-	A
+405	1369	白腰文鸟	Lonchura	striata	White-rumped	Munia	LC	-	A
+雀形目	鹡鸰科	PASSERIFORMES	Motacillidae
+406	1382	山鹡鸰	Dendronanthus	indicus	Forest	Wagtail	LC	-	C
+407	1384	黄鹡鸰	Motacilla	tschutschensis	Eastern	Yellow	Wagtail	LC	-	B
+408	1386	灰鹡鸰	Motacilla	cinerea	Grey	Wagtail	LC	-	A
+409	1387	白鹡鸰	Motacilla	alba	White	Wagtail	LC	-	A
+410	1390	理氏鹨	Anthus	richardi	Richard's	Pipit	LC	-	A
+411	1396	树鹨	Anthus	hodgsoni	Olive-backed	Pipit	LC	-	A
+412	1397	北鹨	Anthus	gustavi	Pechora	Pipit	LC	-	C
+413	1398	粉红胸鹨	Anthus	roseatus	Rosy	Pipit	LC	-	C
+414	1399	红喉鹨	Anthus	cervinus	Red-throated	Pipit	LC	-	B
+415	1400	西伯利亚鹨	Anthus japonicus	Siberian Pipit	LC	-	B
+416	1401	水鹨	Anthus	spinoletta	Water	Pipit	LC	-	C
+雀形目	燕雀科	PASSERIFORMES	Fringillidae
+栗背伯劳	
+417	1405	燕雀	Fringilla	montifringilla	Brambling	LC	-	C
+418	1409	锡嘴雀	Coccothraustes	coccothraustes	Hawfinch	LC	-	D
+419	1410	黑尾蜡嘴雀	Eophona	migratoria	Chinese	Grosbeak	LC	-	A
+420	1411	黑头蜡嘴雀	Eophona	personata	Japanese	Grosbeak	LC	-	D
+421	1427	普通朱雀	Carpodacus	erythrinus	Common	Rosefinch	LC	-	C
+422	1454	金翅雀	Chloris	sinica	Grey-capped	Greenfinch	LC	-	A
+423	1467	黄雀	Spinus	spinus	Eurasian	Siskin	LC	-	B
+雀形目	鹀科	PASSERIFORMES	Emberizidae
+424	1470	凤头鹀	Emberiza	lathami	Crested	Bunting	LC	-	B
+425	1477	三道眉草鹀	Emberiza	cioides	Meadow	Bunting	LC	-	C
+426	1482	白眉鹀	Emberiza	tristrami	Tristram's	Bunting	LC	-	A
+427	1483	栗耳鹀	Emberiza	fucata	Chestnut-eared	Bunting	LC	-	B
+428	1484	小鹀	Emberiza	pusilla	Little	Bunting	LC	-	A
+429	1485	黄眉鹀	Emberiza	chrysophrys	Yellow-browed	Bunting	LC	-	B
+430	1486	田鹀	Emberiza	rustica	Rustic	Bunting	VU	-	C
+431	1487	黄喉鹀	Emberiza	elegans	Yellow-throated	Bunting	LC	-	C
+432	1488	黄胸鹀	Emberiza	aureola	Yellow-breasted	Bunting	CR	一级	B
+433	1489	栗鹀	Emberiza	rutila	Chestnut	Bunting	LC	-	B
+434	1491	黑头鹀	Emberiza	melanocephala	Black-headed	Bunting	LC	-	C
+435	1493	硫黄鹀	Emberiza	sulphurata	Yellow	Bunting	LC	-	C
+436	1494	灰头鹀	Emberiza	spodocephala	Black-faced	Bunting	LC	-	A
+437	1497	苇鹀	Emberiza	pallasi	Pallas's	Bunting	LC	-	C
+438	1499	芦鹀	Emberiza	schoeniclus	Reed	Bunting	LC	-	C
+紫背椋鸟	
+斑头秋沙鸭	
+远东苇莺	

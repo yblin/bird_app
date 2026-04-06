@@ -94,14 +94,14 @@ Cygnus melancoryphus,1,单型种(全);------------------------------------------
 Cygnus olor,1,单型种(全);----------------------------------------------------;2019-8-19 新加坡裕廊飞禽公园;2022-6-9 多伦多Thompson公园;2023-7-8 新疆乌伦古湖;
 Branta bernicla,1,3个亚种;----------------------------------------------------;2022-11-8 多伦多安省游乐宫(hrota);
 Branta canadensis,1,7个亚种;----------------------------------------------------;2019-1-29 新西兰库克雪山附近(maxima);2022-6-9 多伦多Thompson公园(canadensis);
-Branta hutchinsii,1,4个亚种;----------------------------------------------------;2022-10-10 加拿大马卡姆Reesor Pond(huchinsii);
-Branta leucopsis,0,
-Branta ruficollis,0,
+Branta hutchinsii,5,4个亚种;----------------------------------------------------;2022-10-10 加拿大马卡姆Reesor Pond(huchinsii);
+Branta leucopsis,4,
+Branta ruficollis,4,
 Branta sandvicensis,1,单型种(全);----------------------------------------------------;2019-5-7 香港动植物公园;2019-8-19 新加坡裕廊飞禽公园;
 Anser albifrons,1,5个亚种;----------------------------------------------------;2023-12-3 厦门马銮湾(albifrons);2023-12-7 江西永修鄱阳湖(albifrons);
 Anser anser,3,2个亚种;----------------------------------------------------;2021-5-17 内蒙古阿拉善月亮湖(rubrirostris);2023-7-8 新疆乌伦古湖(rubrirostris);2023-12-7 江西永修朱市湖(rubrirostris);
 Anser brachyrhynchus,0,
-Anser caerulescens,1,2个亚种(全);----------------------------------------------------;2022-12-8 多伦多Centennial公园(atlanticus);2023-5-21 多伦多动物园(caerulescens);
+Anser caerulescens,5,2个亚种(全);----------------------------------------------------;2022-12-8 多伦多Centennial公园(atlanticus);2023-5-21 多伦多动物园(caerulescens);
 Anser canagicus,0,
 Anser cygnoides,1,单型种(全);----------------------------------------------------;2020-1-31 闽江口湿地公园;2024-11-16 江西南昌五星农场;
 Anser erythropus,2,
@@ -6703,7 +6703,7 @@ Dicrurus densus,2,forest south of Kisol 44%;Kisol 36%;
 Dicrurus forficatus,0,
 Dicrurus fuscipennis,0,
 Dicrurus hottentottus,1,12个亚种;----------------------------------------------------;2018-4 厦门大学高尔夫球场(brevirostris);
-Dicrurus leucophaeus,5,15个亚种;----------------------------------------------------;2018-11 厦门天竺山森林公园(leucogenis);2022-1-24 海南三亚临春岭森林公园(innexus);
+Dicrurus leucophaeus,1,15个亚种;----------------------------------------------------;2018-11 厦门天竺山森林公园(leucogenis);2022-1-24 海南三亚临春岭森林公园(innexus);
 Dicrurus lophorinus,0,
 Dicrurus ludwigii,0,
 Dicrurus macrocercus,1,7个亚种;----------------------------------------------------;2018-2 厦门翔安东埭桥水库(cathoecus);2018-10-1 台湾高雄卫武营都会公园(harterti);2022-1-18 海南儋州(cathoecus);2025-7-30 大理古城南水库(cathoecus);
@@ -6879,9 +6879,9 @@ Lanius borealis,2,
 Lanius bucephalus,2,
 Lanius cabanisi,0,
 Lanius collaris,0,
-Lanius collurio,5,单型种(全);----------------------------------------------------;2023-7-10 新疆冲乎尔村;
+Lanius collurio,1,单型种(全);----------------------------------------------------;2023-7-10 新疆冲乎尔村;
 Lanius collurioides,2,版纳植物园9%;
-Lanius cristatus,5,4个亚种;----------------------------------------------------;2018-4 厦门栗喉蜂虎保护区(lucionensis，东亚，灰头);2018-10-1 台湾(lucionensis，东亚，灰头);2025-2-1 帕劳Malakal岛(lucionensis，东亚，灰头);
+Lanius cristatus,1,4个亚种;----------------------------------------------------;2018-4 厦门栗喉蜂虎保护区(lucionensis，东亚，灰头);2018-10-1 台湾(lucionensis，东亚，灰头);2025-2-1 帕劳Malakal岛(lucionensis，东亚，灰头);
 Lanius dorsalis,0,
 Lanius excubitor,1,12个亚种;----------------------------------------------------;2023-1-13 阿联酋乌姆盖万(aucheri);
 Lanius excubitoroides,0,
@@ -7763,7 +7763,7 @@ Tickellia hodgsoni,2,苏典 18%;
 Horornis acanthizoides,2,
 Horornis annae,1,单型种(全);----------------------------------------------------;2025-2-1 帕劳Ngeruktabel岛;
 Horornis brunnescens,0,
-Horornis canturians,5,2个亚种;----------------------------------------------------;2022-3-20 厦门园博苑(canturians);
+Horornis canturians,1,2个亚种;----------------------------------------------------;2022-3-20 厦门园博苑(canturians);
 Horornis carolinae,0,
 Horornis diphone,6,
 Horornis flavolivaceus,1,13个亚种;----------------------------------------------------;2025-7-20 云南梁王山(intricatus);
@@ -7777,7 +7777,7 @@ Phylloscopus amoenus,0,
 Phylloscopus armandii,2,
 Phylloscopus bonelli,0,
 Phylloscopus borealis,1,单型种(全);----------------------------------------------------;2019-9-25 厦门集美大学;2021-5-15 宁夏石嘴山大武口森林公园;
-Phylloscopus borealoides,1,单型种(全);----------------------------------------------------;2025-4-12 厦门虎头山公园;
+Phylloscopus borealoides,5,单型种(全);----------------------------------------------------;2025-4-12 厦门虎头山公园;
 Phylloscopus budongoensis,0,
 Phylloscopus burkii,1,单型种(全);----------------------------------------------------;2020-8-2 西藏吉隆镇扎村山路;
 Phylloscopus calciatilis,0,
@@ -7844,7 +7844,7 @@ Phylloscopus tenellipes,1,单型种(全);---------------------------------------
 Phylloscopus tephrocephalus,1,单型种(全);----------------------------------------------------;2025-7-31 大理苍山国家步道;
 Phylloscopus trivirgatus,0,
 Phylloscopus trochiloides,2,版纳植物园4%;
-Phylloscopus trochilus,4,
+Phylloscopus trochilus,0,
 Phylloscopus tytleri,0,
 Phylloscopus umbrovirens,0,
 Phylloscopus valentini,2,来凤山森林公园4%;版纳植物园3%;
@@ -10154,7 +10154,7 @@ Agraphospiza rubescens,2,
 Pyrrhoplectes epauletta,2,
 Callacanthis burtoni,0,
 Procarduelis nipalensis,1,2个亚种;----------------------------------------------------;2025-7-29 大理苍山(nipalensis);
-Leucosticte arctoa,1,5个亚种;----------------------------------------------------;2026-2-14 内蒙古乌尔旗汉(brunneonucha，褐枕);
+Leucosticte arctoa,5,5个亚种;----------------------------------------------------;2026-2-14 内蒙古乌尔旗汉(brunneonucha，褐枕);
 Leucosticte atrata,0,
 Leucosticte australis,0,
 Leucosticte brandti,1,7个亚种;----------------------------------------------------;2020-7-28 西藏江孜卡若拉冰川(walteri);
@@ -10288,7 +10288,7 @@ Emberiza jankowskii,0,
 Emberiza koslowi,0,
 Emberiza lathami,1,单型种(全);----------------------------------------------------;2020-3-27 厦门田头村;
 Emberiza leucocephalos,2,
-Emberiza melanocephala,5,单型种(全);----------------------------------------------------;2021-1-21 厦门田头村;
+Emberiza melanocephala,1,单型种(全);----------------------------------------------------;2021-1-21 厦门田头村;
 Emberiza pallasi,1,4个亚种;----------------------------------------------------;2020-10-31 陕西西安湖(pallasi);2021-5-16 宁夏石嘴山市沙湖(pallasi);2024-11-1 泉州九十九溪(polaris);
 Emberiza personata,0,
 Emberiza poliopleura,0,

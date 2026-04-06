@@ -1,19 +1,15 @@
-GALLIFORMES: Cracidae
  
-GALLIFORMES: Numididae
+ANSERIFORMES: Anatidae
+ 
+GALLIFORMES: Cracidae
  
 GALLIFORMES: Odontophoridae
  
 GALLIFORMES: Phasianidae
  
-ANSERIFORMES: Anatidae
-Green-winged Teal	Anas carolinensis	
+PHOENICOPTERIFORMES: Phoenicopteridae
  
-CAPRIMULGIFORMES: Caprimulgidae
- 
-APODIFORMES: Apodidae
- 
-APODIFORMES: Trochilidae
+PODICIPEDIFORMES: Podicipedidae
  
 CUCULIFORMES: Cuculidae
  
@@ -21,27 +17,21 @@ PTEROCLIFORMES: Pteroclidae
  
 COLUMBIFORMES: Columbidae
  
-GRUIFORMES: Heliornithidae
- 
-GRUIFORMES: Rallidae
-Grey-headed Swamphen	Porphyrio poliocephalus	Introduced species
+GRUIFORMES: Aramidae
  
 GRUIFORMES: Gruidae
  
-GRUIFORMES: Aramidae
+GRUIFORMES: Heliornithidae
  
-PODICIPEDIFORMES: Podicipedidae
- 
-PHOENICOPTERIFORMES: Phoenicopteridae
+GRUIFORMES: Rallidae
  
 CHARADRIIFORMES: Burhinidae
  
-CHARADRIIFORMES: Haematopodidae
- 
 CHARADRIIFORMES: Recurvirostridae
  
+CHARADRIIFORMES: Haematopodidae
+ 
 CHARADRIIFORMES: Charadriidae
-Lesser Sand Plover	Charadrius mongolus	
  
 CHARADRIIFORMES: Jacanidae
  
@@ -49,23 +39,21 @@ CHARADRIIFORMES: Scolopacidae
  
 CHARADRIIFORMES: Glareolidae
  
-CHARADRIIFORMES: Laridae
-Cabot's Tern	Thalasseus acuflavidus	
- 
 CHARADRIIFORMES: Stercorariidae
  
 CHARADRIIFORMES: Alcidae
+ 
+CHARADRIIFORMES: Laridae
  
 PHAETHONTIFORMES: Phaethontidae
  
 GAVIIFORMES: Gaviidae
  
-PROCELLARIIFORMES: Oceanitidae
- 
 PROCELLARIIFORMES: Diomedeidae
  
+PROCELLARIIFORMES: Oceanitidae
+ 
 PROCELLARIIFORMES: Hydrobatidae
-Hornby's Storm Petrel	Oceanodroma hornbyi	Rare/Accidental Near-threatened
  
 PROCELLARIIFORMES: Procellariidae
  
@@ -81,20 +69,25 @@ SULIFORMES: Phalacrocoracidae
  
 PELECANIFORMES: Threskiornithidae
  
-PELECANIFORMES: Ardeidae
- 
 PELECANIFORMES: Pelecanidae
  
-ACCIPITRIFORMES: Cathartidae
+PELECANIFORMES: Ardeidae
  
-ACCIPITRIFORMES: Pandionidae
+CAPRIMULGIFORMES: Caprimulgidae
  
-ACCIPITRIFORMES: Accipitridae
-Northern Goshawk	Accipiter gentilis	
+APODIFORMES: Apodidae
+ 
+APODIFORMES: Trochilidae
  
 STRIGIFORMES: Tytonidae
  
 STRIGIFORMES: Strigidae
+ 
+CATHARTIFORMES: Cathartidae
+ 
+ACCIPITRIFORMES: Pandionidae
+ 
+ACCIPITRIFORMES: Accipitridae
  
 TROGONIFORMES: Trogonidae
  
@@ -110,47 +103,39 @@ PSITTACIFORMES: Psittacidae
  
 PSITTACIFORMES: Psittaculidae
  
-PASSERIFORMES: Thamnophilidae
- 
-PASSERIFORMES: Tyrannidae
-Chilean Elaenia	Elaenia chilensis	Rare/Accidental
-Cordilleran Flycatcher	Empidonax occidentalis	
- 
 PASSERIFORMES: Tityridae
  
-PASSERIFORMES: Laniidae
+PASSERIFORMES: Tyrannidae
+ 
+PASSERIFORMES: Thamnophilidae
  
 PASSERIFORMES: Vireonidae
  
 PASSERIFORMES: Monarchidae
  
+PASSERIFORMES: Laniidae
+ 
 PASSERIFORMES: Corvidae
- 
-PASSERIFORMES: Bombycillidae
- 
-PASSERIFORMES: Ptiliogonatidae
- 
-PASSERIFORMES: Mohoidae
- 
-PASSERIFORMES: Paridae
  
 PASSERIFORMES: Remizidae
  
+PASSERIFORMES: Paridae
+ 
 PASSERIFORMES: Alaudidae
- 
-PASSERIFORMES: Pycnonotidae
- 
-PASSERIFORMES: Hirundinidae
- 
-PASSERIFORMES: Cettiidae
- 
-PASSERIFORMES: Aegithalidae
- 
-PASSERIFORMES: Phylloscopidae
  
 PASSERIFORMES: Acrocephalidae
  
 PASSERIFORMES: Locustellidae
+ 
+PASSERIFORMES: Hirundinidae
+ 
+PASSERIFORMES: Aegithalidae
+ 
+PASSERIFORMES: Cettiidae
+ 
+PASSERIFORMES: Phylloscopidae
+ 
+PASSERIFORMES: Pycnonotidae
  
 PASSERIFORMES: Sylviidae
  
@@ -160,60 +145,57 @@ PASSERIFORMES: Zosteropidae
  
 PASSERIFORMES: Leiothrichidae
  
+PASSERIFORMES: Bombycillidae
+ 
+PASSERIFORMES: Ptiliogonatidae
+ 
+PASSERIFORMES: Mohoidae
+ 
 PASSERIFORMES: Regulidae
- 
-PASSERIFORMES: Troglodytidae
- 
-PASSERIFORMES: Polioptilidae
  
 PASSERIFORMES: Sittidae
  
 PASSERIFORMES: Certhiidae
  
+PASSERIFORMES: Polioptilidae
+ 
+PASSERIFORMES: Troglodytidae
+ 
 PASSERIFORMES: Mimidae
  
 PASSERIFORMES: Sturnidae
  
+PASSERIFORMES: Cinclidae
+ 
 PASSERIFORMES: Turdidae
  
 PASSERIFORMES: Muscicapidae
-Stejneger's Stonechat	Saxicola stejnegeri	Rare/Accidental
  
-PASSERIFORMES: Cinclidae
- 
-PASSERIFORMES: Passeridae
+PASSERIFORMES: Peucedramidae
  
 PASSERIFORMES: Ploceidae
  
 PASSERIFORMES: Estrildidae
  
-PASSERIFORMES: Peucedramidae
- 
 PASSERIFORMES: Prunellidae
+ 
+PASSERIFORMES: Passeridae
  
 PASSERIFORMES: Motacillidae
  
 PASSERIFORMES: Fringillidae
-Arctic Redpoll	Acanthis hornemanni	
  
 PASSERIFORMES: Calcariidae
  
 PASSERIFORMES: Emberizidae
  
 PASSERIFORMES: Passerellidae
-Sooty Fox Sparrow	Passerella unalaschcensis	
-Slate-colored Fox Sparrow	Passerella schistacea	
-Thick-billed Fox Sparrow	Passerella megarhyncha	
  
 PASSERIFORMES: Spindalidae
  
-PASSERIFORMES: Icteriidae
- 
 PASSERIFORMES: Icteridae
-Ochre Oriole	Icterus fuertesi	Rare/Accidental
  
 PASSERIFORMES: Parulidae
-Audubon's Warbler	Setophaga auduboni	
  
 PASSERIFORMES: Cardinalidae
  

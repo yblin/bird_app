@@ -1,87 +1,61 @@
  
-CASUARIIFORMES: Casuariidae
+RHEIFORMES: Rheidae
  
-ANSERIFORMES: Anseranatidae
+TINAMIFORMES: Tinamidae
+ 
+ANSERIFORMES: Anhimidae
  
 ANSERIFORMES: Anatidae
  
-GALLIFORMES: Megapodiidae
+GALLIFORMES: Cracidae
  
-GALLIFORMES: Phasianidae
-Siamese Partridge	Arborophila diversa	Endemic
- 
-CAPRIMULGIFORMES: Caprimulgidae
- 
-PODARGIFORMES: Podargidae
- 
-AEGOTHELIFORMES: Aegothelidae
- 
-APODIFORMES: Hemiprocnidae
- 
-APODIFORMES: Apodidae
-Sulawesi Swiftlet	Aerodramus sororum	Endemic
-Seram Swiftlet	Aerodramus ceramensis	Endemic
-Germain's Swiftlet	Aerodramus germani	Endemic
-Cook's Swift	Apus cooki	
- 
-OTIDIFORMES: Otididae
- 
-CUCULIFORMES: Cuculidae
-Kai Coucal	Centropus spilopterus	Endemic
- 
-COLUMBIFORMES: Columbidae
- 
-GRUIFORMES: Heliornithidae
- 
-GRUIFORMES: Sarothruridae
- 
-GRUIFORMES: Rallidae
-Grey-headed Swamphen	Porphyrio poliocephalus	
-Black-backed Swamphen	Porphyrio indicus	Endemic
-Philippine Swamphen	Porphyrio pulverulentus	Endemic
-Australasian Swamphen	Porphyrio melanotus	
- 
-GRUIFORMES: Gruidae
- 
-PODICIPEDIFORMES: Podicipedidae
-Tricolored Grebe	Tachybaptus tricolor	
+GALLIFORMES: Odontophoridae
  
 PHOENICOPTERIFORMES: Phoenicopteridae
  
-CHARADRIIFORMES: Turnicidae
+PODICIPEDIFORMES: Podicipedidae
+ 
+CUCULIFORMES: Cuculidae
+ 
+COLUMBIFORMES: Columbidae
+ 
+OPISTHOCOMIFORMES: Opisthocomidae
+ 
+GRUIFORMES: Psophiidae
+ 
+GRUIFORMES: Aramidae
+ 
+GRUIFORMES: Heliornithidae
+ 
+GRUIFORMES: Rallidae
  
 CHARADRIIFORMES: Burhinidae
  
-CHARADRIIFORMES: Haematopodidae
- 
-CHARADRIIFORMES: Ibidorhynchidae
- 
 CHARADRIIFORMES: Recurvirostridae
  
-CHARADRIIFORMES: Charadriidae
-Lesser Sand Plover	Charadrius mongolus	
+CHARADRIIFORMES: Haematopodidae
  
-CHARADRIIFORMES: Rostratulidae
+CHARADRIIFORMES: Charadriidae
+ 
+CHARADRIIFORMES: Thinocoridae
  
 CHARADRIIFORMES: Jacanidae
  
 CHARADRIIFORMES: Scolopacidae
  
-CHARADRIIFORMES: Dromadidae
- 
-CHARADRIIFORMES: Glareolidae
+CHARADRIIFORMES: Stercorariidae
  
 CHARADRIIFORMES: Laridae
  
-CHARADRIIFORMES: Stercorariidae
- 
-CHARADRIIFORMES: Alcidae
+EURYPYGIFORMES: Eurypygidae
  
 PHAETHONTIFORMES: Phaethontidae
  
-PROCELLARIIFORMES: Oceanitidae
+SPHENISCIFORMES: Spheniscidae
  
 PROCELLARIIFORMES: Diomedeidae
+ 
+PROCELLARIIFORMES: Oceanitidae
  
 PROCELLARIIFORMES: Hydrobatidae
  
@@ -99,241 +73,108 @@ SULIFORMES: Phalacrocoracidae
  
 PELECANIFORMES: Threskiornithidae
  
+PELECANIFORMES: Pelecanidae
+ 
 PELECANIFORMES: Ardeidae
  
-PELECANIFORMES: Pelecanidae
+CAPRIMULGIFORMES: Caprimulgidae
+ 
+STEATORNITHIFORMES: Steatornithidae
+ 
+NYCTIBIIFORMES: Nyctibiidae
+ 
+APODIFORMES: Apodidae
+ 
+APODIFORMES: Trochilidae
+ 
+STRIGIFORMES: Tytonidae
+ 
+STRIGIFORMES: Strigidae
+ 
+CATHARTIFORMES: Cathartidae
  
 ACCIPITRIFORMES: Pandionidae
  
 ACCIPITRIFORMES: Accipitridae
-Northern Goshawk	Accipiter gentilis	
- 
-STRIGIFORMES: Tytonidae
-Moluccan Masked Owl	Tyto sororcula	
- 
-STRIGIFORMES: Strigidae
  
 TROGONIFORMES: Trogonidae
  
-BUCEROTIFORMES: Upupidae
- 
-BUCEROTIFORMES: Bucerotidae
- 
-CORACIIFORMES: Coraciidae
+CORACIIFORMES: Momotidae
  
 CORACIIFORMES: Alcedinidae
  
-CORACIIFORMES: Meropidae
+GALBULIFORMES: Galbulidae
  
-PICIFORMES: Megalaimidae
+GALBULIFORMES: Bucconidae
  
-PICIFORMES: Indicatoridae
+PICIFORMES: Capitonidae
+ 
+PICIFORMES: Ramphastidae
  
 PICIFORMES: Picidae
-Sumatran Woodpecker	Picus dedemi	Endemic
  
 FALCONIFORMES: Falconidae
  
-PSITTACIFORMES: Cacatuidae
+PSITTACIFORMES: Psittacidae
  
-PSITTACIFORMES: Psittaculidae
+PASSERIFORMES: Pipridae
  
-PASSERIFORMES: Eurylaimidae
+PASSERIFORMES: Cotingidae
  
-PASSERIFORMES: Calyptomenidae
+PASSERIFORMES: Tityridae
  
-PASSERIFORMES: Pittidae
-Siau Pitta	Erythropitta palliceps	
-Sangihe Pitta	Erythropitta caeruleitorques	Endemic
+PASSERIFORMES: Oxyruncidae
  
-PASSERIFORMES: Ptilonorhynchidae
-Northern Catbird	Ailuroedus jobiensis	
-Arfak Catbird	Ailuroedus arfakianus	
+PASSERIFORMES: Onychorhynchidae
  
-PASSERIFORMES: Climacteridae
+PASSERIFORMES: Tyrannidae
  
-PASSERIFORMES: Maluridae
+PASSERIFORMES: Melanopareiidae
  
-PASSERIFORMES: Meliphagidae
-New Guinea Friarbird	Philemon novaeguineae	
+PASSERIFORMES: Conopophagidae
  
-PASSERIFORMES: Acanthizidae
-Perplexing Scrubwren	Sericornis virgatus	
+PASSERIFORMES: Thamnophilidae
  
-PASSERIFORMES: Pomatostomidae
+PASSERIFORMES: Grallariidae
  
-PASSERIFORMES: Orthonychidae
+PASSERIFORMES: Rhinocryptidae
  
-PASSERIFORMES: Cnemophilidae
+PASSERIFORMES: Formicariidae
  
-PASSERIFORMES: Melanocharitidae
- 
-PASSERIFORMES: Paramythiidae
- 
-PASSERIFORMES: Psophodidae
- 
-PASSERIFORMES: Cinclosomatidae
- 
-PASSERIFORMES: Machaerirhynchidae
- 
-PASSERIFORMES: Vangidae
- 
-PASSERIFORMES: Pityriasidae
- 
-PASSERIFORMES: Artamidae
- 
-PASSERIFORMES: Rhagologidae
- 
-PASSERIFORMES: Aegithinidae
- 
-PASSERIFORMES: Campephagidae
- 
-PASSERIFORMES: Neosittidae
- 
-PASSERIFORMES: Eulacestomatidae
- 
-PASSERIFORMES: Oreoicidae
- 
-PASSERIFORMES: Pachycephalidae
-Rusty-breasted Whistler	Pachycephala fulvotincta	
-Cinnamon-breasted Whistler	Pachycephala johni	Endemic
-Variable Shrikethrush	Colluricincla fortis	
-Waigeo Shrikethrush	Colluricincla affinis	Endemic
-Mamberamo Shrikethrush	Colluricincla obscura	
-Sepik-Ramu Shrikethrush	Colluricincla tappenbecki	
-Rufous Shrikethrush	Colluricincla rufogaster	
- 
-PASSERIFORMES: Laniidae
+PASSERIFORMES: Furnariidae
  
 PASSERIFORMES: Vireonidae
  
-PASSERIFORMES: Oriolidae
- 
-PASSERIFORMES: Dicruridae
- 
-PASSERIFORMES: Rhipiduridae
-Biak Fantail	Rhipidura kordensis	Endemic
- 
-PASSERIFORMES: Monarchidae
- 
-PASSERIFORMES: Platylophidae
- 
 PASSERIFORMES: Corvidae
-Eastern Jungle Crow	Corvus levaillantii	
  
-PASSERIFORMES: Melampittidae
- 
-PASSERIFORMES: Ifritidae
- 
-PASSERIFORMES: Paradisaeidae
-Tagula Manucode	Manucodia alter	
-Crescent-caped Lophorina	Lophorina niedda	Endemic
- 
-PASSERIFORMES: Petroicidae
- 
-PASSERIFORMES: Eupetidae
- 
-PASSERIFORMES: Bombycillidae
- 
-PASSERIFORMES: Hylocitreidae
- 
-PASSERIFORMES: Stenostiridae
- 
-PASSERIFORMES: Paridae
-Japanese Tit	Parus minor	
- 
-PASSERIFORMES: Remizidae
- 
-PASSERIFORMES: Alaudidae
- 
-PASSERIFORMES: Pycnonotidae
+PASSERIFORMES: Donacobiidae
  
 PASSERIFORMES: Hirundinidae
-Striated Swallow	Cecropis striolata	
  
-PASSERIFORMES: Pnoepygidae
- 
-PASSERIFORMES: Macrosphenidae
- 
-PASSERIFORMES: Cettiidae
- 
-PASSERIFORMES: Aegithalidae
-Burmese Bushtit	Aegithalos sharpei	Endemic
- 
-PASSERIFORMES: Phylloscopidae
-Flores Leaf Warbler	Phylloscopus floresianus	Endemic
- 
-PASSERIFORMES: Acrocephalidae
- 
-PASSERIFORMES: Locustellidae
- 
-PASSERIFORMES: Cisticolidae
- 
-PASSERIFORMES: Sylviidae
- 
-PASSERIFORMES: Paradoxornithidae
- 
-PASSERIFORMES: Zosteropidae
- 
-PASSERIFORMES: Timaliidae
-Buff-chested Babbler	Cyanoderma ambiguum	
- 
-PASSERIFORMES: Pellorneidae
- 
-PASSERIFORMES: Alcippeidae
- 
-PASSERIFORMES: Leiothrichidae
- 
-PASSERIFORMES: Irenidae
- 
-PASSERIFORMES: Regulidae
- 
-PASSERIFORMES: Elachuridae
+PASSERIFORMES: Polioptilidae
  
 PASSERIFORMES: Troglodytidae
  
-PASSERIFORMES: Sittidae
- 
-PASSERIFORMES: Tichodromidae
- 
-PASSERIFORMES: Certhiidae
- 
-PASSERIFORMES: Sturnidae
-Violet-hooded Starling	Aplonis circumscripta	
-Nias Hill Myna	Gracula robusta	Endemic
-Enggano Hill Myna	Gracula enganensis	Endemic
- 
-PASSERIFORMES: Turdidae
- 
-PASSERIFORMES: Muscicapidae
-Amur Stonechat	Saxicola stejnegeri	
+PASSERIFORMES: Mimidae
  
 PASSERIFORMES: Cinclidae
  
-PASSERIFORMES: Chloropseidae
-Greyish-crowned Leafbird	Chloropsis lazulina	
- 
-PASSERIFORMES: Dicaeidae
-Striped Flowerpecker	Dicaeum aeruginosum	
- 
-PASSERIFORMES: Nectariniidae
-Luzon Sunbird	Aethopyga jefferyi	Endemic
-Bohol Sunbird	Aethopyga decorosa	Endemic
+PASSERIFORMES: Turdidae
  
 PASSERIFORMES: Passeridae
- 
-PASSERIFORMES: Ploceidae
- 
-PASSERIFORMES: Estrildidae
- 
-PASSERIFORMES: Viduidae
- 
-PASSERIFORMES: Prunellidae
  
 PASSERIFORMES: Motacillidae
  
 PASSERIFORMES: Fringillidae
  
-PASSERIFORMES: Calcariidae
+PASSERIFORMES: Passerellidae
  
-PASSERIFORMES: Emberizidae
+PASSERIFORMES: Icteridae
+ 
+PASSERIFORMES: Parulidae
+ 
+PASSERIFORMES: Cardinalidae
+ 
+PASSERIFORMES: Mitrospingidae
+ 
+PASSERIFORMES: Thraupidae

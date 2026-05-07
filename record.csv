@@ -10,9 +10,9 @@ Apteryx maxima,0,
 Apteryx owenii,0,
 Apteryx rowi,0,
 Rhea americana,1,5个亚种;----------------------------------------------------;2018-5-26 北京动物园;
-Rhea pennata,1,
+Rhea pennata,0,
 Tinamotis ingoufi,0,
-Tinamotis pentlandii,1,
+Tinamotis pentlandii,0,
 Eudromia elegans,1,10个亚种;----------------------------------------------------;2022-7-3 多伦多动物园;
 Eudromia formosa,0,
 Taoniscus nanus,0,
@@ -21,27 +21,27 @@ Nothura darwinii,0,
 Nothura maculosa,0,
 Nothura minor,0,
 Rhynchotus maculicollis,0,
-Rhynchotus rufescens,1,
+Rhynchotus rufescens,0,
 Nothoprocta cinerascens,0,
 Nothoprocta curvirostris,0,
-Nothoprocta ornata,1,
-Nothoprocta pentlandii,1,
+Nothoprocta ornata,0,
+Nothoprocta pentlandii,0,
 Nothoprocta perdicaria,0,
 Nothoprocta taczanowskii,0,
-Nothocercus bonapartei,1,3-24 Curi-Cancha Refugio de Vida Silvestre 2.52%;3-24 Reserva Bosque Nuboso Monteverde 7.07%;
+Nothocercus bonapartei,0,3-24 Curi-Cancha Refugio de Vida Silvestre 2.52%;3-24 Reserva Bosque Nuboso Monteverde 7.07%;
 Nothocercus julius,0,
 Nothocercus nigrocapillus,0,
-Tinamus guttatus,1,
+Tinamus guttatus,0,
 Tinamus major,0,3-19 Tirimbina Rainforest 12.39%;3-20 Estacion Biologica La Selva 43.98%;3-26 PN Carara-Entrada principal 44.19%;
-Tinamus osgoodi,1,
+Tinamus osgoodi,0,
 Tinamus solitarius,0,
-Tinamus tao,1,
+Tinamus tao,0,
 Crypturellus atrocapillus,0,
 Crypturellus bartletti,0,
 Crypturellus berlepschi,0,
 Crypturellus boucardi,0,3-20 Estacion Biologica La Selva 11.66%;
 Crypturellus brevirostris,0,
-Crypturellus casiquiare,4,
+Crypturellus casiquiare,0,
 Crypturellus cinereus,0,
 Crypturellus cinnamomeus,0,
 Crypturellus duidae,0,
@@ -51,32 +51,32 @@ Crypturellus noctivagus,0,
 Crypturellus obsoletus,0,
 Crypturellus parvirostris,0,
 Crypturellus ptaritepui,0,
-Crypturellus soui,1,3-20 Estacion Biologica La Selva 11.95%;
+Crypturellus soui,0,3-20 Estacion Biologica La Selva 11.95%;
 Crypturellus strigulosus,0,
-Crypturellus tataupa,1,
+Crypturellus tataupa,0,
 Crypturellus transfasciatus,0,
-Crypturellus undulatus,1,
+Crypturellus undulatus,0,
 Crypturellus variegatus,0,
 Anhima cornuta,0,
 Chauna chavaria,0,
-Chauna torquata,5,
+Chauna torquata,0,
 Anseranas semipalmata,1,单型种(全);----------------------------------------------------;2019-8-19 新加坡裕廊飞禽公园;
 Thalassornis leuconotus,0,
 Dendrocygna arborea,0,
 Dendrocygna arcuata,1,3个亚种;----------------------------------------------------;2019-8-19 新加坡裕廊飞禽公园(arcuata);
 Dendrocygna autumnalis,1,2个亚种;----------------------------------------------------;2019-8-19 新加坡裕廊飞禽公园;
-Dendrocygna bicolor,1,
+Dendrocygna bicolor,0,
 Dendrocygna eytoni,0,
 Dendrocygna guttata,0,
 Dendrocygna javanica,3,单型种(全);----------------------------------------------------;2019-8-19 新加坡裕廊飞禽公园;
-Dendrocygna viduata,5,单型种(全);----------------------------------------------------;2019-8-19 新加坡裕廊飞禽公园;2023-1-11 阿联酋迪拜;
+Dendrocygna viduata,1,单型种(全);----------------------------------------------------;2019-8-19 新加坡裕廊飞禽公园;2023-1-11 阿联酋迪拜;
 Biziura lobata,0,
 Nettapus auritus,0,
 Nettapus coromandelianus,1,2个亚种;----------------------------------------------------;2023-12-3 厦门敬贤公园(coromandelianus);
 Nettapus pulchellus,0,
 Stictonetta naevosa,0,
 Heteronetta atricapilla,0,
-Nomonyx dominicus,1,
+Nomonyx dominicus,0,
 Oxyura australis,0,
 Oxyura jamaicensis,1,单型种(全);----------------------------------------------------;2022-10-22 多伦多Thompson公园;
 Oxyura leucocephala,1,单型种(全);----------------------------------------------------;2023-7-8 新疆乌伦古湖;
@@ -109,9 +109,9 @@ Anser fabalis,1,3个亚种;----------------------------------------------------;
 Anser indicus,1,单型种(全);----------------------------------------------------;2020-7-26 拉萨宗角禄康公园;
 Anser rossii,0,
 Anser serrirostris,1,2个亚种;----------------------------------------------------;2021-12-5 石狮湿地公园(serrirostris);2023-12-7 江西永修鄱阳湖(serrirostris);
-Merganetta armata,1,
+Merganetta armata,0,
 Callonetta leucophrys,1,单型种(全);----------------------------------------------------;2019-5-7 香港动植物公园;
-Cairina moschata,1,3-25 Cerro Lodge 9.91%;3-25 Tarcoles--Tour en Bote 29.48%;3-26 PN Carara-Entrada principal 19.50%;
+Cairina moschata,0,3-25 Cerro Lodge 9.91%;3-25 Tarcoles--Tour en Bote 29.48%;3-26 PN Carara-Entrada principal 19.50%;
 Aix galericulata,1,单型种(全);----------------------------------------------------;2019-7-7 三明市明溪县当州;
 Aix sponsa,1,单型种(全);----------------------------------------------------;2019-8-19 新加坡裕廊飞禽公园;2022-6-11 多伦多High park;
 Neochen jubata,0,
@@ -162,8 +162,8 @@ Pteronetta hartlaubii,0,
 Marmaronetta angustirostris,1,单型种(全);----------------------------------------------------;2023-1-12 阿联酋沙迦野生动物中心;
 Asarcornis scutulata,0,
 Rhodonessa caryophyllacea,0,
-Netta erythrophthalma,4,
-Netta peposaca,5,单型种(全);----------------------------------------------------;2023-1-11 阿联酋迪拜;
+Netta erythrophthalma,0,
+Netta peposaca,1,单型种(全);----------------------------------------------------;2023-1-11 阿联酋迪拜;
 Netta rufina,1,单型种(全);----------------------------------------------------;2020-7-29 西藏日喀则贡觉林卡;2021-5-15 宁夏石嘴山星海湖;2023-7-7 新疆奎屯;
 Aythya affinis,1,单型种(全);----------------------------------------------------;2022-6-11 多伦多High park;2022-12-24 古巴哈瓦那;
 Aythya americana,1,单型种(全);----------------------------------------------------;2022-7-9 多伦多Thompson公园;
@@ -186,7 +186,7 @@ Tachyeres leucocephalus,0,
 Tachyeres patachonicus,0,
 Tachyeres pteneres,0,
 Sibirionetta formosa,3,单型种(全);----------------------------------------------------;2024-3-1 四川德阳旌河;
-Spatula clypeata,5,单型种(全);----------------------------------------------------;2019-12-21 深圳湾;2022-9-5 多伦多Thompson公园;
+Spatula clypeata,1,单型种(全);----------------------------------------------------;2019-12-21 深圳湾;2022-9-5 多伦多Thompson公园;
 Spatula cyanoptera,0,
 Spatula discors,1,单型种(全);----------------------------------------------------;2022-8-1 多伦多Thompson公园;2022-12-28 古巴萨塔纳;
 Spatula hottentota,0,
@@ -204,7 +204,7 @@ Mareca sibilatrix,0,
 Mareca strepera,1,2个亚种(全，仅剩指名亚种);----------------------------------------------------;2021-2-9 厦门东埭桥水库;2021-5-15 宁夏石嘴山星海湖;2022-6-18 多伦多Thompson公园;2023-7-7 新疆奎屯;
 Anas acuta,1,单型种(全);----------------------------------------------------;2019-2-26 泉州湾;2019-12-21 深圳湾;2022-9-26 多伦多Thompson公园;2023-7-7 新疆奎屯;
 Anas albogularis,0,
-Anas andium,4,
+Anas andium,0,
 Anas aucklandica,0,
 Anas bahamensis,0,
 Anas bernieri,0,
@@ -260,7 +260,7 @@ Chamaepetes unicolor,0,3-19 La Paz Waterfall Gardens 14.35%;3-21 Galeria de Coli
 Aburria aburri,0,
 Pipile cujubi,0,
 Pipile cumanensis,0,
-Pipile grayi,1,单型种(全);----------------------------------------------------;2022-7-3 多伦多动物园;
+Pipile grayi,0,单型种(全);----------------------------------------------------;2022-7-3 多伦多动物园;
 Pipile jacutinga,0,
 Pipile pipile,0,
 Penelope albipennis,0,

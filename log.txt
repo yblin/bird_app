@@ -1,65 +1,93 @@
  
-RHEIFORMES: Rheidae
- 
-TINAMIFORMES: Tinamidae
- 
-ANSERIFORMES: Anhimidae
+STRUTHIONIFORMES: Struthionidae
  
 ANSERIFORMES: Anatidae
+Green-winged Teal	Anas carolinensis	
  
-GALLIFORMES: Cracidae
+GALLIFORMES: Numididae
  
 GALLIFORMES: Odontophoridae
  
-PHOENICOPTERIFORMES: Phoenicopteridae
+GALLIFORMES: Phasianidae
+Rubeho Forest Partridge	Xenoperdix obscuratus	
  
-PODICIPEDIFORMES: Podicipedidae
+CAPRIMULGIFORMES: Caprimulgidae
+ 
+APODIFORMES: Apodidae
+Fernando Po Swift	Apus sladeniae	
+ 
+MUSOPHAGIFORMES: Musophagidae
+ 
+OTIDIFORMES: Otididae
  
 CUCULIFORMES: Cuculidae
  
+MESITORNITHIFORMES: Mesitornithidae
+ 
+PTEROCLIFORMES: Pteroclidae
+ 
 COLUMBIFORMES: Columbidae
- 
-OPISTHOCOMIFORMES: Opisthocomidae
- 
-GRUIFORMES: Psophiidae
- 
-GRUIFORMES: Aramidae
  
 GRUIFORMES: Heliornithidae
  
+GRUIFORMES: Sarothruridae
+ 
 GRUIFORMES: Rallidae
+African Swamphen	Porphyrio madagascariensis	
+ 
+GRUIFORMES: Gruidae
+ 
+PODICIPEDIFORMES: Podicipedidae
+ 
+PHOENICOPTERIFORMES: Phoenicopteridae
+ 
+CHARADRIIFORMES: Turnicidae
  
 CHARADRIIFORMES: Burhinidae
  
-CHARADRIIFORMES: Recurvirostridae
+CHARADRIIFORMES: Chionidae
  
 CHARADRIIFORMES: Haematopodidae
  
-CHARADRIIFORMES: Charadriidae
+CHARADRIIFORMES: Ibidorhynchidae
  
-CHARADRIIFORMES: Thinocoridae
+CHARADRIIFORMES: Recurvirostridae
+ 
+CHARADRIIFORMES: Charadriidae
+Lesser Sand Plover	Charadrius mongolus	
+ 
+CHARADRIIFORMES: Pluvianidae
+ 
+CHARADRIIFORMES: Rostratulidae
  
 CHARADRIIFORMES: Jacanidae
  
 CHARADRIIFORMES: Scolopacidae
  
-CHARADRIIFORMES: Stercorariidae
+CHARADRIIFORMES: Dromadidae
+ 
+CHARADRIIFORMES: Glareolidae
  
 CHARADRIIFORMES: Laridae
  
-EURYPYGIFORMES: Eurypygidae
+CHARADRIIFORMES: Stercorariidae
+ 
+CHARADRIIFORMES: Alcidae
  
 PHAETHONTIFORMES: Phaethontidae
  
+GAVIIFORMES: Gaviidae
+ 
 SPHENISCIFORMES: Spheniscidae
  
-PROCELLARIIFORMES: Diomedeidae
- 
 PROCELLARIIFORMES: Oceanitidae
+ 
+PROCELLARIIFORMES: Diomedeidae
  
 PROCELLARIIFORMES: Hydrobatidae
  
 PROCELLARIIFORMES: Procellariidae
+Balearic Shearwater	Puffinus mauretanicus	
  
 CICONIIFORMES: Ciconiidae
  
@@ -70,111 +98,248 @@ SULIFORMES: Sulidae
 SULIFORMES: Anhingidae
  
 SULIFORMES: Phalacrocoracidae
+White-breasted Cormorant	Phalacrocorax lucidus	
  
 PELECANIFORMES: Threskiornithidae
  
+PELECANIFORMES: Ardeidae
+Dimorphic Egret	Egretta dimorpha	
+ 
+PELECANIFORMES: Scopidae
+ 
+PELECANIFORMES: Balaenicipitidae
+ 
 PELECANIFORMES: Pelecanidae
  
-PELECANIFORMES: Ardeidae
- 
-CAPRIMULGIFORMES: Caprimulgidae
- 
-STEATORNITHIFORMES: Steatornithidae
- 
-NYCTIBIIFORMES: Nyctibiidae
- 
-APODIFORMES: Apodidae
- 
-APODIFORMES: Trochilidae
- 
-STRIGIFORMES: Tytonidae
- 
-STRIGIFORMES: Strigidae
- 
-CATHARTIFORMES: Cathartidae
+ACCIPITRIFORMES: Sagittariidae
  
 ACCIPITRIFORMES: Pandionidae
  
 ACCIPITRIFORMES: Accipitridae
+Red-chested Goshawk	Accipiter toussenelii	
+Northern Goshawk	Accipiter gentilis	
+Yellow-billed Kite	Milvus aegyptius	
+Cape Verde Buzzard	Buteo bannermani	
+ 
+STRIGIFORMES: Tytonidae
+ 
+STRIGIFORMES: Strigidae
+Torotoroka Scops Owl	Otus madagascariensis	
+Annobon Scops Owl	Otus feae	
+Maghreb Owl	Strix mauritanica	
+ 
+COLIIFORMES: Coliidae
+ 
+LEPTOSOMIFORMES: Leptosomidae
  
 TROGONIFORMES: Trogonidae
  
-CORACIIFORMES: Momotidae
+BUCEROTIFORMES: Upupidae
+African Hoopoe	Upupa africana	
+ 
+BUCEROTIFORMES: Phoeniculidae
+Grant's Wood Hoopoe	Phoeniculus granti	
+ 
+BUCEROTIFORMES: Bucorvidae
+ 
+BUCEROTIFORMES: Bucerotidae
+ 
+CORACIIFORMES: Coraciidae
+ 
+CORACIIFORMES: Brachypteraciidae
  
 CORACIIFORMES: Alcedinidae
  
-GALBULIFORMES: Galbulidae
+CORACIIFORMES: Meropidae
  
-GALBULIFORMES: Bucconidae
+PICIFORMES: Lybiidae
+White-chested Tinkerbird	Pogoniulus makawai	
+Yellow-billed Barbet	Trachyphonus purpuratus	
+Usambiro Barbet	Trachyphonus usambiro	
  
-PICIFORMES: Capitonidae
- 
-PICIFORMES: Ramphastidae
+PICIFORMES: Indicatoridae
  
 PICIFORMES: Picidae
+Little Spotted Woodpecker	Campethera cailliautii	
  
 FALCONIFORMES: Falconidae
  
+PSITTACIFORMES: Cacatuidae
+ 
 PSITTACIFORMES: Psittacidae
  
-PASSERIFORMES: Pipridae
+PSITTACIFORMES: Psittaculidae
  
-PASSERIFORMES: Cotingidae
+PASSERIFORMES: Philepittidae
  
-PASSERIFORMES: Tityridae
+PASSERIFORMES: Eurylaimidae
  
-PASSERIFORMES: Oxyruncidae
+PASSERIFORMES: Calyptomenidae
  
-PASSERIFORMES: Onychorhynchidae
+PASSERIFORMES: Pittidae
  
-PASSERIFORMES: Tyrannidae
+PASSERIFORMES: Platysteiridae
+Reichenow's Batis	Batis reichenowi	
  
-PASSERIFORMES: Melanopareiidae
+PASSERIFORMES: Malaconotidae
  
-PASSERIFORMES: Conopophagidae
+PASSERIFORMES: Vangidae
  
-PASSERIFORMES: Thamnophilidae
+PASSERIFORMES: Campephagidae
  
-PASSERIFORMES: Grallariidae
- 
-PASSERIFORMES: Rhinocryptidae
- 
-PASSERIFORMES: Formicariidae
- 
-PASSERIFORMES: Furnariidae
+PASSERIFORMES: Laniidae
  
 PASSERIFORMES: Vireonidae
  
-PASSERIFORMES: Corvidae
+PASSERIFORMES: Oriolidae
  
-PASSERIFORMES: Donacobiidae
+PASSERIFORMES: Dicruridae
+Fanti Drongo	Dicrurus atactus	
+Glossy-backed Drongo	Dicrurus divaricatus	
+Western Square-tailed Drongo	Dicrurus occidentalis	
+ 
+PASSERIFORMES: Monarchidae
+Annobon Paradise Flycatcher	Terpsiphone smithii	
+ 
+PASSERIFORMES: Corvidae
+Hooded Crow	Corvus cornix	
+ 
+PASSERIFORMES: Picathartidae
+ 
+PASSERIFORMES: Chaetopidae
+ 
+PASSERIFORMES: Bombycillidae
+ 
+PASSERIFORMES: Hypocoliidae
+ 
+PASSERIFORMES: Stenostiridae
+ 
+PASSERIFORMES: Paridae
+Cinnamon-breasted Tit	Melaniparus pallidiventris	
+ 
+PASSERIFORMES: Remizidae
+ 
+PASSERIFORMES: Nicatoridae
+ 
+PASSERIFORMES: Panuridae
+ 
+PASSERIFORMES: Alaudidae
+Benguela Long-billed Lark	Certhilauda benguelensis	
+Agulhas Long-billed Lark	Certhilauda brevirostris	
+Foxy Lark	Calendulauda alopex	
+Barlow's Lark	Calendulauda barlowi	
+Sharpe's Lark	Mirafra sharpii	
+Ash's Lark	Mirafra ashi	
+Maghreb Lark	Galerida macrorhyncha	
+Athi Short-toed Lark	Alaudala athensis	
+ 
+PASSERIFORMES: Pycnonotidae
+Kakamega Greenbul	Arizelocichla kakamegae	
+Placid Greenbul	Phyllastrephus placidus	
+Sharpe's Greenbul	Phyllastrephus alfredi	
+Dodson's Bulbul	Pycnonotus dodsoni	
+Somali Bulbul	Pycnonotus somaliensis	
+Dark-capped Bulbul	Pycnonotus tricolor	
  
 PASSERIFORMES: Hirundinidae
+West African Swallow	Cecropis domicella	
  
-PASSERIFORMES: Polioptilidae
+PASSERIFORMES: Macrosphenidae
+ 
+PASSERIFORMES: Cettiidae
+ 
+PASSERIFORMES: Scotocercidae
+ 
+PASSERIFORMES: Erythrocercidae
+ 
+PASSERIFORMES: Hyliidae
+ 
+PASSERIFORMES: Aegithalidae
+ 
+PASSERIFORMES: Phylloscopidae
+ 
+PASSERIFORMES: Acrocephalidae
+Anjouan Brush Warbler	Nesillas longicaudata	
+ 
+PASSERIFORMES: Locustellidae
+ 
+PASSERIFORMES: Bernieridae
+ 
+PASSERIFORMES: Cisticolidae
+Black-faced Prinia	Prinia melanops	
+Brown-tailed Apalis	Apalis flavocincta	
+Grey-backed Camaroptera	Camaroptera brevicaudata	
+Rubeho Warbler	Scepomycter rubehoensis	
+Salvadori's Eremomela	Eremomela salvadorii	
+ 
+PASSERIFORMES: Sylviidae
+ 
+PASSERIFORMES: Zosteropidae
+Anjouan White-eye	Zosterops anjuanensis	
+Aldabra White-eye	Zosterops aldabrensis	
+Moheli White-eye	Zosterops comorensis	
+ 
+PASSERIFORMES: Pellorneidae
+ 
+PASSERIFORMES: Leiothrichidae
+ 
+PASSERIFORMES: Modulatricidae
+ 
+PASSERIFORMES: Promeropidae
+ 
+PASSERIFORMES: Regulidae
+ 
+PASSERIFORMES: Hyliotidae
  
 PASSERIFORMES: Troglodytidae
  
-PASSERIFORMES: Mimidae
+PASSERIFORMES: Sittidae
  
-PASSERIFORMES: Cinclidae
+PASSERIFORMES: Tichodromidae
+ 
+PASSERIFORMES: Certhiidae
+ 
+PASSERIFORMES: Sturnidae
+Miombo Blue-eared Starling	Lamprotornis elisabeth	
+ 
+PASSERIFORMES: Buphagidae
  
 PASSERIFORMES: Turdidae
  
+PASSERIFORMES: Muscicapidae
+Mediterranean Flycatcher	Muscicapa tyrrhenica	
+Itombwe Flycatcher	Muscicapa itombwensis	
+Madagascar Stonechat	Saxicola sibilla	
+White-crowned Cliff Chat	Thamnolaea coronata	
+Ruaha Chat	Myrmecocichla collaris	
+Maghreb Wheatear	Oenanthe halophila	
+Basalt Wheatear	Oenanthe warriae	Rare/Accidental
+ 
+PASSERIFORMES: Cinclidae
+ 
+PASSERIFORMES: Nectariniidae
+Whyte's Double-collared Sunbird	Cinnyris whytei	
+Hofmann's Sunbird	Cinnyris hofmanni	
+ 
 PASSERIFORMES: Passeridae
+ 
+PASSERIFORMES: Ploceidae
+ 
+PASSERIFORMES: Estrildidae
+ 
+PASSERIFORMES: Viduidae
+ 
+PASSERIFORMES: Prunellidae
  
 PASSERIFORMES: Motacillidae
  
 PASSERIFORMES: Fringillidae
+African Crimson-winged Finch	Rhodopechys alienus	
+Lesser Redpoll	Acanthis cabaret	
  
-PASSERIFORMES: Passerellidae
+PASSERIFORMES: Calcariidae
  
-PASSERIFORMES: Icteridae
+PASSERIFORMES: Emberizidae
+Vincent's Bunting	Emberiza vincenti	
  
 PASSERIFORMES: Parulidae
- 
-PASSERIFORMES: Cardinalidae
- 
-PASSERIFORMES: Mitrospingidae
- 
-PASSERIFORMES: Thraupidae

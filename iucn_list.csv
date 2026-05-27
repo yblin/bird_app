@@ -114,7 +114,7 @@ Callonetta leucophrys,Least Concern
 Cairina moschata,Least Concern
 Aix galericulata,Least Concern
 Aix sponsa,Least Concern
-Neochen jubata,Near Threatened
+Neochen jubata,Least Concern
 Chloephaga hybrida,Least Concern
 Chloephaga melanoptera,Least Concern
 Chloephaga picta,Least Concern
@@ -213,15 +213,15 @@ Anas castanea,Least Concern
 Anas chlorotis,Near Threatened
 Anas crecca,Least Concern
 Anas diazi,Unknown
-Anas eatoni,Vulnerable
+Anas eatoni,Least Concern
 Anas erythrorhyncha,Least Concern
 Anas flavirostris,Least Concern
 Anas fulvigula,Least Concern
 Anas georgica,Least Concern
-Anas gibberifrons,Near Threatened
+Anas gibberifrons,Least Concern
 Anas gracilis,Least Concern
 Anas laysanensis,Critically Endangered
-Anas luzonica,Vulnerable
+Anas luzonica,Least Concern
 Anas melleri,Endangered
 Anas nesiotis,Vulnerable
 Anas platyrhynchos,Least Concern
@@ -289,7 +289,7 @@ Crax globulosa,Endangered
 Crax rubra,Vulnerable
 Pauxi koepckeae,Critically Endangered
 Pauxi pauxi,Vulnerable
-Pauxi unicornis,Critically Endangered
+Pauxi unicornis,Endangered
 Nothocrax urumutum,Least Concern
 Mitu mitu,Extinct in the Wild
 Mitu salvini,Least Concern
@@ -360,7 +360,7 @@ Melanoperdix niger,Vulnerable
 Arborophila ardens,Vulnerable
 Arborophila atrogularis,Least Concern
 Arborophila brunneopectus,Least Concern
-Arborophila cambodiana,Least Concern
+Arborophila cambodiana,Near Threatened
 Arborophila campbelli,Least Concern
 Arborophila crudigularis,Least Concern
 Arborophila davidi,Near Threatened
@@ -396,7 +396,7 @@ Bonasa umbellus,Least Concern
 Tetrastes bonasia,Least Concern
 Tetrastes sewerzowi,Near Threatened
 Centrocercus minimus,Endangered
-Centrocercus urophasianus,Near Threatened
+Centrocercus urophasianus,Vulnerable
 Dendragapus fuliginosus,Least Concern
 Dendragapus obscurus,Least Concern
 Tympanuchus cupido,Near Threatened
@@ -406,7 +406,7 @@ Lagopus lagopus,Least Concern
 Lagopus leucura,Least Concern
 Lagopus muta,Least Concern
 Lagopus scotica,Unknown
-Falcipennis falcipennis,Near Threatened
+Falcipennis falcipennis,Least Concern
 Canachites canadensis,Least Concern
 Tetrao urogalloides,Least Concern
 Tetrao urogallus,Least Concern
@@ -419,7 +419,7 @@ Syrmaticus ellioti,Least Concern
 Syrmaticus humiae,Vulnerable
 Syrmaticus mikado,Least Concern
 Syrmaticus reevesii,Vulnerable
-Syrmaticus soemmerringii,Near Threatened
+Syrmaticus soemmerringii,Least Concern
 Chrysolophus amherstiae,Least Concern
 Chrysolophus pictus,Least Concern
 Phasianus colchicus,Least Concern
@@ -430,7 +430,7 @@ Crossoptilon crossoptilon,Least Concern
 Crossoptilon harmani,Least Concern
 Crossoptilon mantchuricum,Least Concern
 Lophura bulweri,Vulnerable
-Lophura diardi,Least Concern
+Lophura diardi,Near Threatened
 Lophura edwardsi,Critically Endangered
 Lophura erythrophthalma,Critically Endangered
 Lophura ignita,Vulnerable
@@ -578,7 +578,7 @@ Gallirex johnstoni,Least Concern
 Gallirex porphyreolophus,Least Concern
 Menelikornis leucotis,Least Concern
 Menelikornis ruspolii,Vulnerable
-Tauraco bannermani,Endangered
+Tauraco bannermani,Near Threatened
 Tauraco corythaix,Least Concern
 Tauraco erythrolophus,Least Concern
 Tauraco fischeri,Near Threatened
@@ -601,7 +601,7 @@ Chlamydotis undulata,Vulnerable
 Neotis denhami,Near Threatened
 Neotis heuglinii,Least Concern
 Neotis ludwigii,Endangered
-Neotis nuba,Near Threatened
+Neotis nuba,Vulnerable
 Eupodotis caerulescens,Near Threatened
 Eupodotis senegalensis,Least Concern
 Heterotetrax humilis,Near Threatened
@@ -634,13 +634,13 @@ Neomorphus rufipennis,Least Concern
 Neomorphus squamiger,Unknown
 Carpococcyx radiceus,Vulnerable
 Carpococcyx renauldi,Endangered
-Carpococcyx viridis,Critically Endangered
+Carpococcyx viridis,Endangered
 Coua caerulea,Least Concern
 Coua coquereli,Least Concern
 Coua cristata,Least Concern
 Coua cursor,Least Concern
 Coua delalandei,Extinct
-Coua gigas,Least Concern
+Coua gigas,Vulnerable
 Coua olivaceiceps,Least Concern
 Coua reynaudii,Least Concern
 Coua ruficeps,Least Concern
@@ -671,7 +671,7 @@ Centropus sinensis,Least Concern
 Centropus steerii,Critically Endangered
 Centropus superciliosus,Least Concern
 Centropus toulou,Least Concern
-Centropus unirufus,Near Threatened
+Centropus unirufus,Least Concern
 Centropus violaceus,Least Concern
 Centropus viridis,Least Concern
 Rhinortha chlorophaea,Least Concern
@@ -698,7 +698,7 @@ Coccycua minuta,Least Concern
 Coccycua pumila,Least Concern
 Piaya cayana,Least Concern
 Piaya melanogaster,Least Concern
-Piaya mexicana,Unknown
+Piaya mexicana,Least Concern
 Coccyzus americanus,Least Concern
 Coccyzus erythropthalmus,Least Concern
 Coccyzus euleri,Least Concern
@@ -911,7 +911,7 @@ Columba argentina,Critically Endangered
 Columba arquatrix,Least Concern
 Columba bollii,Least Concern
 Columba delegorguei,Least Concern
-Columba elphinstonii,Vulnerable
+Columba elphinstonii,Least Concern
 Columba eversmanni,Vulnerable
 Columba guinea,Least Concern
 Columba hodgsonii,Least Concern
@@ -1068,7 +1068,7 @@ Ducula oceanica,Vulnerable
 Ducula oenothorax,Near Threatened
 Ducula pacifica,Least Concern
 Ducula perspicillata,Least Concern
-Ducula pickeringii,Vulnerable
+Ducula pickeringii,Near Threatened
 Ducula pinon,Least Concern
 Ducula pistrinaria,Least Concern
 Ducula poliocephala,Near Threatened
@@ -1081,17 +1081,17 @@ Ducula subflavescens,Near Threatened
 Ducula whartoni,Least Concern
 Ducula zoeae,Least Concern
 Megaloprepia formosa,Least Concern
-Megaloprepia magnifica,Unknown
-Ramphiculus fischeri,Unknown
+Megaloprepia magnifica,Least Concern
+Ramphiculus fischeri,Least Concern
 Ramphiculus gularis,Least Concern
-Ramphiculus jambu,Near Threatened
+Ramphiculus jambu,Vulnerable
 Ramphiculus leclancheri,Least Concern
 Ramphiculus mangoliensis,Near Threatened
-Ramphiculus marchei,Vulnerable
+Ramphiculus marchei,Near Threatened
 Ramphiculus merrilli,Near Threatened
 Ramphiculus occipitalis,Least Concern
-Ramphiculus subgularis,Vulnerable
-Alectroenas madagascariensis,Least Concern
+Ramphiculus subgularis,Near Threatened
+Alectroenas madagascariensis,Near Threatened
 Alectroenas nitidissimus,Extinct
 Alectroenas pulcherrimus,Least Concern
 Alectroenas sganzini,Near Threatened
@@ -1195,7 +1195,7 @@ Aramides cajaneus,Least Concern
 Aramides calopterus,Least Concern
 Aramides mangle,Least Concern
 Aramides saracura,Least Concern
-Aramides wolfi,Vulnerable
+Aramides wolfi,Least Concern
 Aramides ypecaha,Least Concern
 Canirallus oculeus,Least Concern
 Rallus aequatorialis,Unknown
@@ -1232,7 +1232,7 @@ Gallirallus calayanensis,Vulnerable
 Gallirallus castaneoventris,Least Concern
 Gallirallus dieffenbachii,Extinct
 Gallirallus insignis,Near Threatened
-Gallirallus lafresnayanus,Extinct
+Gallirallus lafresnayanus,Critically Endangered
 Gallirallus modestus,Extinct
 Gallirallus okinawae,Endangered
 Gallirallus owstoni,Critically Endangered
@@ -1247,7 +1247,7 @@ Gallirallus wallacii,Vulnerable
 Gallirallus woodfordi,Least Concern
 Himantornis haematopus,Least Concern
 Gymnocrex plumbeiventris,Least Concern
-Gymnocrex rosenbergii,Vulnerable
+Gymnocrex rosenbergii,Least Concern
 Gymnocrex talaudensis,Endangered
 Porphyriops melanops,Least Concern
 Tribonyx mortierii,Least Concern
@@ -1281,7 +1281,7 @@ Porphyrio hochstetteri,Endangered
 Porphyrio mantelli,Extinct
 Porphyrio martinica,Least Concern
 Porphyrio paepae,Extinct
-Porphyrio porphyrio,Unknown
+Porphyrio porphyrio,Least Concern
 Rufirallus fasciatus,Least Concern
 Rufirallus leucopyrrhus,Least Concern
 Rufirallus schomburgkii,Least Concern
@@ -1377,7 +1377,7 @@ Charadrius hiaticula,Least Concern
 Charadrius melodus,Near Threatened
 Charadrius semipalmatus,Least Concern
 Charadrius vociferus,Near Threatened
-Thinornis cucullatus,Vulnerable
+Thinornis cucullatus,Near Threatened
 Thinornis dubius,Least Concern
 Thinornis forbesi,Least Concern
 Thinornis melanops,Least Concern
@@ -1458,7 +1458,7 @@ Numenius madagascariensis,Endangered
 Numenius minutus,Least Concern
 Numenius phaeopus,Least Concern
 Numenius tahitiensis,Near Threatened
-Numenius tenuirostris,Critically Endangered
+Numenius tenuirostris,Extinct
 Limosa fedoa,Vulnerable
 Limosa haemastica,Vulnerable
 Limosa lapponica,Near Threatened
@@ -1470,7 +1470,7 @@ Lymnocryptes minimus,Least Concern
 Scolopax bukidnonensis,Least Concern
 Scolopax celebensis,Least Concern
 Scolopax minor,Least Concern
-Scolopax mira,Vulnerable
+Scolopax mira,Near Threatened
 Scolopax rochussenii,Vulnerable
 Scolopax rosenbergii,Least Concern
 Scolopax rusticola,Least Concern
@@ -1570,7 +1570,7 @@ Smutsornis africanus,Least Concern
 Rhinoptilus bitorquatus,Critically Endangered
 Rhinoptilus chalcopterus,Least Concern
 Rhinoptilus cinctus,Least Concern
-Cursorius coromandelicus,Least Concern
+Cursorius coromandelicus,Near Threatened
 Cursorius cursor,Least Concern
 Cursorius rufus,Least Concern
 Cursorius somalensis,Least Concern
@@ -1619,8 +1619,8 @@ Rynchops albicollis,Endangered
 Rynchops flavirostris,Least Concern
 Rynchops niger,Least Concern
 Gygis alba,Least Concern
-Gygis candida,Unknown
-Gygis microrhyncha,Unknown
+Gygis candida,Least Concern
+Gygis microrhyncha,Least Concern
 Anous albivitta,Least Concern
 Anous ceruleus,Least Concern
 Anous minutus,Least Concern
@@ -1905,8 +1905,8 @@ Mycteria cinerea,Endangered
 Mycteria ibis,Least Concern
 Mycteria leucocephala,Least Concern
 Jabiru mycteria,Least Concern
-Ephippiorhynchus asiaticus,Near Threatened
-Ephippiorhynchus senegalensis,Least Concern
+Ephippiorhynchus asiaticus,Least Concern
+Ephippiorhynchus senegalensis,Near Threatened
 Ciconia abdimii,Least Concern
 Ciconia boyciana,Endangered
 Ciconia ciconia,Least Concern
@@ -1997,7 +1997,7 @@ Platalea ajaja,Least Concern
 Platalea alba,Least Concern
 Platalea flavipes,Least Concern
 Platalea leucorodia,Least Concern
-Platalea minor,Endangered
+Platalea minor,Vulnerable
 Platalea regia,Least Concern
 Threskiornis aethiopicus,Least Concern
 Threskiornis bernieri,Endangered
@@ -2039,7 +2039,7 @@ Botaurus sturmii,Least Concern
 Gorsachius goisagi,Vulnerable
 Gorsachius melanolophus,Least Concern
 Calherodius leuconotus,Least Concern
-Oroanassa magnifica,Endangered
+Oroanassa magnifica,Near Threatened
 Pilherodius pileatus,Least Concern
 Syrigma sibilatrix,Least Concern
 Egretta ardesiaca,Least Concern
@@ -2098,7 +2098,7 @@ Eurostopodus nigripennis,Vulnerable
 Eurostopodus papuensis,Least Concern
 Lyncornis macrotis,Least Concern
 Lyncornis temminckii,Least Concern
-Gactornis enarratus,Least Concern
+Gactornis enarratus,Near Threatened
 Lurocalis rufiventris,Least Concern
 Lurocalis semitorquatus,Least Concern
 Nyctiprogne leucopyga,Least Concern
@@ -2305,7 +2305,7 @@ Collocalia neglecta,Unknown
 Collocalia sumbawae,Unknown
 Collocalia troglodytes,Least Concern
 Collocalia uropygialis,Unknown
-Hydrochous gigas,Near Threatened
+Hydrochous gigas,Least Concern
 Aerodramus amelis,Unknown
 Aerodramus bartschi,Vulnerable
 Aerodramus brevirostris,Least Concern
@@ -2520,7 +2520,7 @@ Metallura williami,Least Concern
 Oreonympha nobilis,Least Concern
 Oxypogon cyanolaemus,Endangered
 Oxypogon guerinii,Least Concern
-Oxypogon lindenii,Least Concern
+Oxypogon lindenii,Near Threatened
 Oxypogon stuebelii,Vulnerable
 Chalcostigma herrani,Least Concern
 Chalcostigma heteropogon,Least Concern
@@ -2706,7 +2706,7 @@ Tyto javanica,Unknown
 Tyto longimembris,Least Concern
 Tyto nigrobrunnea,Near Threatened
 Tyto novaehollandiae,Least Concern
-Tyto prigoginei,Endangered
+Tyto prigoginei,Data Deficient
 Tyto rosenbergii,Least Concern
 Tyto soumagnei,Vulnerable
 Tyto tenebricosa,Least Concern
@@ -2794,9 +2794,9 @@ Glaucidium sanchezi,Near Threatened
 Glaucidium siju,Least Concern
 Glaucidium sjostedti,Least Concern
 Glaucidium tephronotum,Least Concern
-Otus alfredi,Endangered
+Otus alfredi,Vulnerable
 Otus alius,Near Threatened
-Otus angelinae,Vulnerable
+Otus angelinae,Near Threatened
 Otus bakkamoena,Least Concern
 Otus balli,Least Concern
 Otus beccarii,Near Threatened
@@ -2811,7 +2811,7 @@ Otus enganensis,Least Concern
 Otus everetti,Least Concern
 Otus fuliginosus,Least Concern
 Otus grucheti,Extinct
-Otus gurneyi,Vulnerable
+Otus gurneyi,Near Threatened
 Otus hartlaubi,Vulnerable
 Otus icterorhynchus,Least Concern
 Otus insularis,Critically Endangered
@@ -2831,7 +2831,7 @@ Otus mindorensis,Near Threatened
 Otus mirus,Least Concern
 Otus moheliensis,Endangered
 Otus murivorus,Extinct
-Otus nigrorum,Vulnerable
+Otus nigrorum,Near Threatened
 Otus pamelae,Least Concern
 Otus pauliani,Endangered
 Otus pembaensis,Vulnerable
@@ -2863,7 +2863,7 @@ Asio madagascariensis,Least Concern
 Asio otus,Least Concern
 Asio solomonensis,Unknown
 Asio stygius,Least Concern
-Jubula lettii,Data Deficient
+Jubula lettii,Least Concern
 Bubo africanus,Least Concern
 Bubo ascalaphus,Least Concern
 Bubo bengalensis,Least Concern
@@ -2905,7 +2905,7 @@ Megascops hoyi,Least Concern
 Megascops ingens,Least Concern
 Megascops kennicottii,Least Concern
 Megascops koepckeae,Least Concern
-Megascops marshalli,Near Threatened
+Megascops marshalli,Least Concern
 Megascops petersoni,Least Concern
 Megascops roboratus,Least Concern
 Megascops roraimae,Unknown
@@ -3025,7 +3025,7 @@ Polemaetus bellicosus,Endangered
 Lophaetus occipitalis,Least Concern
 Ictinaetus malaiensis,Least Concern
 Clanga clanga,Vulnerable
-Clanga hastata,Vulnerable
+Clanga hastata,Near Threatened
 Clanga pomarina,Least Concern
 Hieraaetus ayresii,Least Concern
 Hieraaetus morphnoides,Least Concern
@@ -3152,7 +3152,7 @@ Buteogallus aequinoctialis,Near Threatened
 Buteogallus anthracinus,Least Concern
 Buteogallus coronatus,Endangered
 Buteogallus gundlachii,Near Threatened
-Buteogallus lacernulatus,Vulnerable
+Buteogallus lacernulatus,Near Threatened
 Buteogallus meridionalis,Least Concern
 Buteogallus schistaceus,Least Concern
 Buteogallus solitarius,Near Threatened
@@ -3196,7 +3196,7 @@ Buteo socotraensis,Vulnerable
 Buteo solitarius,Near Threatened
 Buteo swainsoni,Least Concern
 Buteo trizonatus,Near Threatened
-Buteo ventralis,Vulnerable
+Buteo ventralis,Endangered
 Urocolius indicus,Least Concern
 Urocolius macrourus,Least Concern
 Colius castanotus,Least Concern
@@ -3227,7 +3227,7 @@ Pharomachrus mocinno,Near Threatened
 Pharomachrus pavoninus,Least Concern
 Priotelus roseigaster,Unknown
 Priotelus temnurus,Least Concern
-Trogon ambiguus,Unknown
+Trogon ambiguus,Least Concern
 Trogon bairdii,Near Threatened
 Trogon caligatus,Unknown
 Trogon chionurus,Least Concern
@@ -3287,7 +3287,7 @@ Horizocerus albocristatus,Least Concern
 Horizocerus cassini,Least Concern
 Horizocerus granti,Least Concern
 Horizocerus hartlaubi,Least Concern
-Ceratogymna atrata,Least Concern
+Ceratogymna atrata,Near Threatened
 Ceratogymna elata,Vulnerable
 Bycanistes albotibialis,Least Concern
 Bycanistes brevis,Least Concern
@@ -3320,7 +3320,7 @@ Rhyticeros undulatus,Vulnerable
 Rhabdotorrhinus corrugatus,Endangered
 Rhabdotorrhinus exarhatus,Vulnerable
 Rhabdotorrhinus leucocephalus,Near Threatened
-Rhabdotorrhinus waldeni,Critically Endangered
+Rhabdotorrhinus waldeni,Endangered
 Penelopides affinis,Least Concern
 Penelopides manillae,Least Concern
 Penelopides mindorensis,Endangered
@@ -3337,7 +3337,7 @@ Eurystomus gularis,Least Concern
 Eurystomus orientalis,Least Concern
 Coracias abyssinicus,Least Concern
 Coracias affinis,Least Concern
-Coracias benghalensis,Least Concern
+Coracias benghalensis,Near Threatened
 Coracias caudatus,Least Concern
 Coracias cyanogaster,Least Concern
 Coracias garrulus,Least Concern
@@ -3411,7 +3411,7 @@ Alcedo semitorquata,Least Concern
 Ceyx argentatus,Near Threatened
 Ceyx azureus,Least Concern
 Ceyx cajeli,Near Threatened
-Ceyx collectoris,Least Concern
+Ceyx collectoris,Near Threatened
 Ceyx cyanopectus,Least Concern
 Ceyx dispar,Near Threatened
 Ceyx erithaca,Near Threatened
@@ -3457,7 +3457,7 @@ Halcyon senegalensis,Least Concern
 Halcyon senegaloides,Least Concern
 Halcyon smyrnensis,Least Concern
 Cittura cyanotis,Least Concern
-Cittura sanghirensis,Near Threatened
+Cittura sanghirensis,Least Concern
 Tanysiptera carolinae,Near Threatened
 Tanysiptera danae,Least Concern
 Tanysiptera ellioti,Near Threatened
@@ -3601,8 +3601,8 @@ Psilopogon rubricapillus,Least Concern
 Psilopogon virens,Least Concern
 Psilopogon viridis,Least Concern
 Psilopogon zeylanicus,Least Concern
-Trachylaemus goffinii,Unknown
-Trachylaemus purpuratus,Unknown
+Trachylaemus goffinii,Least Concern
+Trachylaemus purpuratus,Least Concern
 Trachyphonus darnaudii,Least Concern
 Trachyphonus erythrocephalus,Least Concern
 Trachyphonus margaritatus,Least Concern
@@ -3729,7 +3729,7 @@ Picumnus innominatus,Least Concern
 Picumnus lafresnayi,Least Concern
 Picumnus limae,Least Concern
 Picumnus minutissimus,Least Concern
-Picumnus nebulosus,Near Threatened
+Picumnus nebulosus,Least Concern
 Picumnus olivaceus,Least Concern
 Picumnus pumilus,Least Concern
 Picumnus pygmaeus,Least Concern
@@ -3774,7 +3774,7 @@ Picus viridis,Least Concern
 Picus vittatus,Least Concern
 Picus xanthopygaeus,Least Concern
 Chrysophlegma flavinucha,Least Concern
-Chrysophlegma mentale,Near Threatened
+Chrysophlegma mentale,Least Concern
 Chrysophlegma miniaceum,Least Concern
 Pardipicus caroli,Least Concern
 Pardipicus nivosus,Least Concern
@@ -3811,7 +3811,7 @@ Celeus ochraceus,Least Concern
 Celeus spectabilis,Least Concern
 Celeus torquatus,Least Concern
 Celeus undatus,Least Concern
-Piculus aurulentus,Near Threatened
+Piculus aurulentus,Least Concern
 Piculus callopterus,Least Concern
 Piculus chrysochloros,Least Concern
 Piculus flavigula,Least Concern
@@ -3912,7 +3912,7 @@ Dendropicos lugubris,Least Concern
 Dendropicos obsoletus,Least Concern
 Dendropicos poecilolaemus,Least Concern
 Dendropicos spodocephalus,Least Concern
-Dendropicos stierlingi,Near Threatened
+Dendropicos stierlingi,Least Concern
 Dendrocopos analis,Least Concern
 Dendrocopos assimilis,Least Concern
 Dendrocopos atratus,Least Concern
@@ -4131,7 +4131,7 @@ Amazona guildingii,Vulnerable
 Amazona imperialis,Critically Endangered
 Amazona kawalli,Least Concern
 Amazona leucocephala,Near Threatened
-Amazona lilacina,Unknown
+Amazona lilacina,Critically Endangered
 Amazona mercenarius,Least Concern
 Amazona ochrocephala,Least Concern
 Amazona oratrix,Endangered
@@ -4151,7 +4151,7 @@ Rhynchopsitta pachyrhyncha,Endangered
 Rhynchopsitta terrisi,Endangered
 Pyrrhura albipectus,Vulnerable
 Pyrrhura amazonum,Near Threatened
-Pyrrhura caeruleiceps,Unknown
+Pyrrhura caeruleiceps,Endangered
 Pyrrhura calliptera,Vulnerable
 Pyrrhura cruentata,Vulnerable
 Pyrrhura devillei,Least Concern
@@ -4159,7 +4159,7 @@ Pyrrhura egregia,Least Concern
 Pyrrhura emma,Least Concern
 Pyrrhura frontalis,Least Concern
 Pyrrhura griseipectus,Endangered
-Pyrrhura hoematotis,Least Concern
+Pyrrhura hoematotis,Near Threatened
 Pyrrhura hoffmanni,Least Concern
 Pyrrhura lepida,Vulnerable
 Pyrrhura leucotis,Vulnerable
@@ -4173,7 +4173,7 @@ Pyrrhura picta,Least Concern
 Pyrrhura rhodocephala,Least Concern
 Pyrrhura roseifrons,Least Concern
 Pyrrhura rupicola,Least Concern
-Pyrrhura subandina,Unknown
+Pyrrhura subandina,Critically Endangered
 Pyrrhura viridicata,Endangered
 Enicognathus ferrugineus,Least Concern
 Enicognathus leptorhynchus,Least Concern
@@ -4192,7 +4192,7 @@ Cyanopsitta spixii,Extinct in the Wild
 Orthopsittaca manilatus,Least Concern
 Primolius auricollis,Least Concern
 Primolius couloni,Vulnerable
-Primolius maracana,Near Threatened
+Primolius maracana,Least Concern
 Ara ambiguus,Critically Endangered
 Ara ararauna,Least Concern
 Ara chloropterus,Least Concern
@@ -4226,7 +4226,7 @@ Psittacara strenuus,Unknown
 Psittacara wagleri,Near Threatened
 Psittrichas fulgidus,Vulnerable
 Coracopsis barklyi,Vulnerable
-Coracopsis nigra,Least Concern
+Coracopsis nigra,Vulnerable
 Coracopsis sibilans,Near Threatened
 Coracopsis vasa,Least Concern
 Micropsitta bruijnii,Least Concern
@@ -4370,7 +4370,7 @@ Hypocharmosyna rubronotata,Least Concern
 Charmosynopsis pulchella,Least Concern
 Charmosynopsis toxopei,Critically Endangered
 Charmosyna josefinae,Least Concern
-Charmosyna multistriata,Near Threatened
+Charmosyna multistriata,Least Concern
 Charmosyna papou,Least Concern
 Charmosyna stellae,Least Concern
 Vini amabilis,Critically Endangered
@@ -4408,7 +4408,7 @@ Trichoglossus chlorolepidotus,Least Concern
 Trichoglossus concinnus,Least Concern
 Trichoglossus cyanogenius,Near Threatened
 Trichoglossus euteles,Least Concern
-Trichoglossus flavoviridis,Least Concern
+Trichoglossus flavoviridis,Near Threatened
 Trichoglossus forsteni,Endangered
 Trichoglossus haematodus,Least Concern
 Trichoglossus histrio,Endangered
@@ -4429,7 +4429,7 @@ Acanthisitta chloris,Least Concern
 Xenicus gilviventris,Endangered
 Xenicus longipes,Extinct
 Philepitta castanea,Least Concern
-Philepitta schlegeli,Near Threatened
+Philepitta schlegeli,Vulnerable
 Neodrepanis coruscans,Least Concern
 Neodrepanis hypoxantha,Vulnerable
 Pseudocalyptomena graueri,Vulnerable
@@ -4603,7 +4603,7 @@ Cotinga maynana,Least Concern
 Cotinga nattererii,Least Concern
 Cotinga ridgwayi,Vulnerable
 Procnias albus,Least Concern
-Procnias averano,Least Concern
+Procnias averano,Near Threatened
 Procnias nudicollis,Near Threatened
 Procnias tricarunculatus,Vulnerable
 Lipaugus ater,Least Concern
@@ -4616,7 +4616,7 @@ Lipaugus uropygialis,Vulnerable
 Lipaugus vociferans,Least Concern
 Lipaugus weberi,Critically Endangered
 Laniisoma buckleyi,Least Concern
-Laniisoma elegans,Near Threatened
+Laniisoma elegans,Least Concern
 Laniocera hypopyrra,Least Concern
 Laniocera rufescens,Least Concern
 Schiffornis aenea,Least Concern
@@ -4689,14 +4689,14 @@ Mionectes rufiventris,Least Concern
 Mionectes striaticollis,Least Concern
 Pogonotriccus chapmani,Least Concern
 Pogonotriccus difficilis,Least Concern
-Pogonotriccus eximius,Near Threatened
+Pogonotriccus eximius,Least Concern
 Pogonotriccus lanyoni,Vulnerable
 Pogonotriccus ophthalmicus,Least Concern
 Pogonotriccus orbitalis,Least Concern
 Pogonotriccus paulista,Near Threatened
 Pogonotriccus poecilotis,Least Concern
 Pogonotriccus venezuelanus,Near Threatened
-Phylloscartes beckeri,Endangered
+Phylloscartes beckeri,Near Threatened
 Phylloscartes ceciliae,Critically Endangered
 Phylloscartes flaviventris,Near Threatened
 Phylloscartes flavovirens,Least Concern
@@ -4705,7 +4705,7 @@ Phylloscartes kronei,Least Concern
 Phylloscartes nigrifrons,Least Concern
 Phylloscartes oustaleti,Least Concern
 Phylloscartes parkeri,Least Concern
-Phylloscartes roquettei,Endangered
+Phylloscartes roquettei,Near Threatened
 Phylloscartes superciliaris,Least Concern
 Phylloscartes sylviolus,Least Concern
 Phylloscartes ventralis,Least Concern
@@ -4748,7 +4748,7 @@ Hemitriccus cinnamomeipectus,Least Concern
 Hemitriccus cohnhafti,Near Threatened
 Hemitriccus diops,Least Concern
 Hemitriccus flammulatus,Least Concern
-Hemitriccus furcatus,Vulnerable
+Hemitriccus furcatus,Least Concern
 Hemitriccus granadensis,Least Concern
 Hemitriccus griseipectus,Least Concern
 Hemitriccus inornatus,Least Concern
@@ -4828,7 +4828,7 @@ Myiopagis subplacens,Least Concern
 Myiopagis viridicata,Least Concern
 Elaenia albiceps,Least Concern
 Elaenia brachyptera,Least Concern
-Elaenia cherriei,Unknown
+Elaenia cherriei,Least Concern
 Elaenia chiriquensis,Least Concern
 Elaenia cristata,Least Concern
 Elaenia dayi,Least Concern
@@ -4853,13 +4853,13 @@ Pseudelaenia leucospodia,Least Concern
 Capsiempis flaveola,Least Concern
 Phyllomyias fasciatus,Least Concern
 Phyllomyias griseiceps,Least Concern
-Phyllomyias griseocapilla,Near Threatened
+Phyllomyias griseocapilla,Least Concern
 Phyllomyias plumbeiceps,Least Concern
 Phyllomyias reiseri,Least Concern
 Phyllomyias sclateri,Least Concern
 Phyllomyias urichi,Endangered
 Phyllomyias virescens,Least Concern
-Phyllomyias weedeni,Vulnerable
+Phyllomyias weedeni,Near Threatened
 Nesotriccus maranonicus,Unknown
 Nesotriccus murinus,Unknown
 Nesotriccus ridgwayi,Vulnerable
@@ -4885,7 +4885,7 @@ Serpophaga nigricans,Least Concern
 Serpophaga subcristata,Least Concern
 Uromyias agilis,Least Concern
 Uromyias agraphia,Least Concern
-Anairetes alpinus,Endangered
+Anairetes alpinus,Vulnerable
 Anairetes fernandezianus,Endangered
 Anairetes flavirostris,Least Concern
 Anairetes nigrocristatus,Least Concern
@@ -5040,7 +5040,7 @@ Contopus albogularis,Least Concern
 Contopus bogotensis,Least Concern
 Contopus caribaeus,Least Concern
 Contopus cinereus,Least Concern
-Contopus cooperi,Near Threatened
+Contopus cooperi,Least Concern
 Contopus fumigatus,Least Concern
 Contopus hispaniolensis,Least Concern
 Contopus latirostris,Least Concern
@@ -5157,7 +5157,7 @@ Myrmotherula klagesi,Vulnerable
 Myrmotherula longicauda,Least Concern
 Myrmotherula longipennis,Least Concern
 Myrmotherula menetriesii,Least Concern
-Myrmotherula minor,Vulnerable
+Myrmotherula minor,Near Threatened
 Myrmotherula multostriata,Least Concern
 Myrmotherula pacifica,Least Concern
 Myrmotherula schisticolor,Least Concern
@@ -5169,7 +5169,7 @@ Myrmotherula unicolor,Least Concern
 Myrmotherula urosticta,Vulnerable
 Formicivora acutirostris,Near Threatened
 Formicivora erythronotos,Endangered
-Formicivora grantsaui,Endangered
+Formicivora grantsaui,Vulnerable
 Formicivora grisea,Least Concern
 Formicivora iheringi,Least Concern
 Formicivora intermedia,Least Concern
@@ -5204,8 +5204,8 @@ Dysithamnus mentalis,Least Concern
 Dysithamnus occidentalis,Near Threatened
 Dysithamnus plumbeus,Vulnerable
 Dysithamnus puncticeps,Least Concern
-Dysithamnus stictothorax,Near Threatened
-Dysithamnus striaticeps,Least Concern
+Dysithamnus stictothorax,Least Concern
+Dysithamnus striaticeps,Near Threatened
 Dysithamnus xanthopterus,Least Concern
 Herpsilochmus atricapillus,Least Concern
 Herpsilochmus axillaris,Least Concern
@@ -5226,7 +5226,7 @@ Herpsilochmus sticturus,Least Concern
 Herpsilochmus stotzi,Least Concern
 Sakesphorus canadensis,Least Concern
 Sakesphorus luctuosus,Least Concern
-Sakesphorus pulchellus,Unknown
+Sakesphorus pulchellus,Least Concern
 Thamnophilus aethiops,Least Concern
 Thamnophilus amazonicus,Least Concern
 Thamnophilus ambiguus,Least Concern
@@ -5251,7 +5251,7 @@ Thamnophilus praecox,Near Threatened
 Thamnophilus punctatus,Least Concern
 Thamnophilus ruficapillus,Least Concern
 Thamnophilus schistaceus,Least Concern
-Thamnophilus shumbae,Unknown
+Thamnophilus shumbae,Vulnerable
 Thamnophilus stictocephalus,Least Concern
 Thamnophilus sticturus,Least Concern
 Thamnophilus tenuepunctatus,Least Concern
@@ -5276,7 +5276,7 @@ Rhegmatorhina cristata,Least Concern
 Rhegmatorhina gymnops,Vulnerable
 Rhegmatorhina hoffmannsi,Least Concern
 Rhegmatorhina melanosticta,Least Concern
-Cercomacra brasiliana,Near Threatened
+Cercomacra brasiliana,Least Concern
 Cercomacra carbonaria,Vulnerable
 Cercomacra cinerascens,Least Concern
 Cercomacra ferdinandi,Near Threatened
@@ -5336,13 +5336,13 @@ Myrmelastes rufifacies,Least Concern
 Myrmelastes saturatus,Least Concern
 Myrmelastes schistaceus,Least Concern
 Myrmeciza longipes,Least Concern
-Rhopornis ardesiacus,Endangered
+Rhopornis ardesiacus,Near Threatened
 Myrmoborus leucophrys,Least Concern
 Myrmoborus lophotes,Least Concern
 Myrmoborus lugubris,Least Concern
 Myrmoborus melanurus,Near Threatened
 Myrmoborus myotherinus,Least Concern
-Pyriglena atra,Endangered
+Pyriglena atra,Near Threatened
 Pyriglena leuconota,Least Concern
 Pyriglena leucoptera,Least Concern
 Pyriglena maura,Unknown
@@ -5609,7 +5609,7 @@ Anabazenops fuscus,Least Concern
 Neophilydor erythrocercum,Least Concern
 Neophilydor fuscipenne,Least Concern
 Megaxenops parnaguae,Least Concern
-Anabacerthia amaurotis,Near Threatened
+Anabacerthia amaurotis,Least Concern
 Anabacerthia lichtensteini,Least Concern
 Anabacerthia ruficaudata,Least Concern
 Anabacerthia striaticollis,Least Concern
@@ -5673,7 +5673,7 @@ Upucerthia validirostris,Least Concern
 Cinclodes albidiventris,Least Concern
 Cinclodes albiventris,Least Concern
 Cinclodes antarcticus,Near Threatened
-Cinclodes aricomae,Critically Endangered
+Cinclodes aricomae,Endangered
 Cinclodes atacamensis,Least Concern
 Cinclodes comechingonus,Least Concern
 Cinclodes excelsior,Least Concern
@@ -5713,7 +5713,7 @@ Phacellodomus striaticollis,Least Concern
 Hellmayrea gularis,Least Concern
 Asthenes anthoides,Least Concern
 Asthenes arequipae,Least Concern
-Asthenes ayacuchensis,Least Concern
+Asthenes ayacuchensis,Near Threatened
 Asthenes baeri,Least Concern
 Asthenes berlepschi,Near Threatened
 Asthenes coryi,Least Concern
@@ -5745,7 +5745,7 @@ Pseudoseisura cristata,Least Concern
 Pseudoseisura gutturalis,Least Concern
 Pseudoseisura lophotes,Least Concern
 Pseudoseisura unirufa,Least Concern
-Acrobatornis fonsecai,Vulnerable
+Acrobatornis fonsecai,Near Threatened
 Metopothrix aurantiaca,Least Concern
 Xenerpestes minlosi,Least Concern
 Xenerpestes singularis,Least Concern
@@ -5755,7 +5755,7 @@ Thripophaga amacurensis,Vulnerable
 Thripophaga cherriei,Vulnerable
 Thripophaga fusciceps,Least Concern
 Thripophaga gutturata,Least Concern
-Thripophaga macroura,Vulnerable
+Thripophaga macroura,Near Threatened
 Limnoctites rectirostris,Near Threatened
 Limnoctites sulphuriferus,Least Concern
 Cranioleuca albicapilla,Least Concern
@@ -5997,8 +5997,8 @@ Melipotes carolae,Least Concern
 Melipotes fumigatus,Least Concern
 Melipotes gymnops,Least Concern
 Gliciphila melanops,Least Concern
-Gliciphila notabilis,Unknown
-Gliciphila undulata,Unknown
+Gliciphila notabilis,Least Concern
+Gliciphila undulata,Least Concern
 Prosthemadera novaeseelandiae,Least Concern
 Anthornis melanocephala,Extinct
 Anthornis melanura,Least Concern
@@ -6092,7 +6092,7 @@ Lichmera deningeri,Least Concern
 Lichmera flavicans,Least Concern
 Lichmera incana,Least Concern
 Lichmera indistincta,Least Concern
-Lichmera lombokia,Unknown
+Lichmera lombokia,Least Concern
 Lichmera monticola,Least Concern
 Lichmera notabilis,Least Concern
 Lichmera squamata,Least Concern
@@ -6178,14 +6178,14 @@ Cinclosoma cinnamomeum,Least Concern
 Cinclosoma clarum,Unknown
 Cinclosoma marginatum,Least Concern
 Cinclosoma punctatum,Least Concern
-Pericrocotus albifrons,Near Threatened
+Pericrocotus albifrons,Least Concern
 Pericrocotus brevirostris,Least Concern
 Pericrocotus cantonensis,Least Concern
 Pericrocotus cinnamomeus,Least Concern
 Pericrocotus divaricatus,Least Concern
 Pericrocotus erythropygius,Least Concern
 Pericrocotus ethologus,Least Concern
-Pericrocotus flammeus,Unknown
+Pericrocotus flammeus,Least Concern
 Pericrocotus igneus,Near Threatened
 Pericrocotus lansbergei,Least Concern
 Pericrocotus miniatus,Least Concern
@@ -6251,7 +6251,7 @@ Lalage polioptera,Least Concern
 Lalage sharpei,Near Threatened
 Lalage sueurii,Least Concern
 Lalage tricolor,Least Concern
-Lalage typica,Vulnerable
+Lalage typica,Endangered
 Cyanograucalus azureus,Least Concern
 Celebesica abbotti,Least Concern
 Edolisoma admiralitatis,Unknown
@@ -6274,7 +6274,7 @@ Edolisoma montanum,Least Concern
 Edolisoma morio,Least Concern
 Edolisoma nesiotis,Endangered
 Edolisoma obiense,Least Concern
-Edolisoma ostentum,Vulnerable
+Edolisoma ostentum,Near Threatened
 Edolisoma pelingi,Unknown
 Edolisoma remotum,Least Concern
 Edolisoma rostratum,Near Threatened
@@ -6338,7 +6338,7 @@ Dryoscopus gambensis,Least Concern
 Dryoscopus pringlii,Least Concern
 Dryoscopus sabini,Least Concern
 Dryoscopus senegalensis,Least Concern
-Rhodophoneus cruentus,Unknown
+Rhodophoneus cruentus,Least Concern
 Telophorus dohertyi,Least Concern
 Telophorus viridis,Least Concern
 Telophorus zeylonus,Least Concern
@@ -6380,7 +6380,7 @@ Platysteira chalybea,Least Concern
 Platysteira concreta,Unknown
 Platysteira cyanea,Least Concern
 Platysteira jamesoni,Least Concern
-Platysteira laticincta,Endangered
+Platysteira laticincta,Vulnerable
 Platysteira peltata,Least Concern
 Batis capensis,Least Concern
 Batis crypta,Least Concern
@@ -6405,10 +6405,10 @@ Batis soror,Least Concern
 Philentoma pyrhoptera,Least Concern
 Philentoma velata,Near Threatened
 Prionops alberti,Vulnerable
-Prionops caniceps,Least Concern
+Prionops caniceps,Near Threatened
 Prionops gabela,Endangered
 Prionops plumatus,Least Concern
-Prionops poliolophus,Near Threatened
+Prionops poliolophus,Least Concern
 Prionops retzii,Least Concern
 Prionops rufiventris,Least Concern
 Prionops scopifrons,Least Concern
@@ -6420,23 +6420,23 @@ Tephrodornis affinis,Least Concern
 Tephrodornis pondicerianus,Least Concern
 Tephrodornis sylvicola,Least Concern
 Tephrodornis virgatus,Least Concern
-Tylas eduardi,Least Concern
+Tylas eduardi,Near Threatened
 Calicalicus madagascariensis,Least Concern
 Calicalicus rufocarpalis,Vulnerable
 Newtonia amphichroa,Least Concern
 Newtonia archboldi,Least Concern
 Newtonia brunneicauda,Least Concern
 Newtonia fanovanae,Vulnerable
-Hypositta corallirostris,Least Concern
+Hypositta corallirostris,Near Threatened
 Leptopterus chabert,Least Concern
-Mystacornis crossleyi,Least Concern
-Cyanolanius comorensis,Endangered
-Cyanolanius madagascarinus,Least Concern
+Mystacornis crossleyi,Near Threatened
+Cyanolanius comorensis,Near Threatened
+Cyanolanius madagascarinus,Near Threatened
 Vanga curvirostris,Least Concern
-Pseudobias wardi,Least Concern
+Pseudobias wardi,Near Threatened
 Euryceros prevostii,Endangered
-Schetba rufa,Least Concern
-Xenopirostris damii,Endangered
+Schetba rufa,Near Threatened
+Xenopirostris damii,Vulnerable
 Xenopirostris polleni,Vulnerable
 Xenopirostris xenopirostris,Near Threatened
 Oriolia bernieri,Endangered
@@ -6483,9 +6483,9 @@ Vireolanius leucotis,Least Concern
 Vireolanius melitophrys,Least Concern
 Vireolanius pulchellus,Least Concern
 Tunchiornis ferrugineifrons,Unknown
-Tunchiornis luteifrons,Unknown
+Tunchiornis luteifrons,Least Concern
 Tunchiornis ochraceiceps,Least Concern
-Tunchiornis rubrifrons,Unknown
+Tunchiornis rubrifrons,Least Concern
 Pachysylvia aurantiifrons,Least Concern
 Pachysylvia decurtata,Least Concern
 Pachysylvia hypoxantha,Least Concern
@@ -6547,7 +6547,7 @@ Oriolus decipiens,Least Concern
 Oriolus finschi,Least Concern
 Oriolus flavocinctus,Least Concern
 Oriolus forsteni,Least Concern
-Oriolus hosii,Near Threatened
+Oriolus hosii,Least Concern
 Oriolus isabellae,Critically Endangered
 Oriolus kundoo,Least Concern
 Oriolus larvatus,Least Concern
@@ -6909,7 +6909,7 @@ Eurocephalus anguitimens,Least Concern
 Eurocephalus ruppelli,Least Concern
 Pyrrhocorax graculus,Least Concern
 Pyrrhocorax pyrrhocorax,Least Concern
-Crypsirina cucullata,Near Threatened
+Crypsirina cucullata,Least Concern
 Crypsirina temia,Least Concern
 Temnurus temnurus,Least Concern
 Platysmurus aterrimus,Least Concern
@@ -6929,7 +6929,7 @@ Urocissa caerulea,Least Concern
 Urocissa erythroryncha,Least Concern
 Urocissa flavirostris,Least Concern
 Urocissa ornata,Vulnerable
-Urocissa whiteheadi,Endangered
+Urocissa whiteheadi,Near Threatened
 Cyanopica cooki,Least Concern
 Cyanopica cyanus,Least Concern
 Perisoreus canadensis,Least Concern
@@ -6975,7 +6975,7 @@ Cyanocorax yncas,Least Concern
 Cyanocorax yucatanicus,Least Concern
 Garrulus glandarius,Least Concern
 Garrulus lanceolatus,Least Concern
-Garrulus lidthi,Vulnerable
+Garrulus lidthi,Least Concern
 Zavattariornis stresemanni,Endangered
 Pica asirensis,Endangered
 Pica bottanensis,Unknown
@@ -7155,7 +7155,7 @@ Parus major,Least Concern
 Parus monticolus,Least Concern
 Machlolophus aplonotus,Unknown
 Machlolophus holsti,Least Concern
-Machlolophus nuchalis,Vulnerable
+Machlolophus nuchalis,Near Threatened
 Machlolophus spilonotus,Least Concern
 Machlolophus xanthogenys,Least Concern
 Melaniparus afer,Least Concern
@@ -7220,7 +7220,7 @@ Pinarocorys nigricans,Least Concern
 Ramphocoris clotbey,Least Concern
 Ammomanes cinctura,Least Concern
 Ammomanes deserti,Least Concern
-Ammomanes phoenicura,Least Concern
+Ammomanes phoenicura,Near Threatened
 Eremopterix australis,Least Concern
 Eremopterix griseus,Least Concern
 Eremopterix hova,Least Concern
@@ -7325,9 +7325,9 @@ Sylvietta rufescens,Least Concern
 Sylvietta ruficapilla,Least Concern
 Sylvietta virens,Least Concern
 Sylvietta whytii,Least Concern
-Neomixis striatigula,Least Concern
+Neomixis striatigula,Near Threatened
 Neomixis tenella,Least Concern
-Neomixis viridis,Least Concern
+Neomixis viridis,Near Threatened
 Micromacronus leytensis,Near Threatened
 Micromacronus sordidus,Near Threatened
 Eremomela atricollis,Least Concern
@@ -7343,13 +7343,13 @@ Eremomela usticollis,Least Concern
 Drymocichla incana,Least Concern
 Schistolais leontica,Endangered
 Schistolais leucopogon,Least Concern
-Oreophilais robertsi,Least Concern
+Oreophilais robertsi,Near Threatened
 Phragmacia substriata,Least Concern
 Urolais epichlorus,Least Concern
 Oreolais pulcher,Least Concern
 Oreolais ruwenzorii,Least Concern
 Artisornis metopias,Least Concern
-Artisornis moreaui,Critically Endangered
+Artisornis moreaui,Endangered
 Poliolais lopezi,Least Concern
 Calamonastes fasciolatus,Least Concern
 Calamonastes simplex,Least Concern
@@ -7370,7 +7370,7 @@ Apalis chariessa,Near Threatened
 Apalis chirindensis,Vulnerable
 Apalis cinerea,Least Concern
 Apalis flavida,Least Concern
-Apalis flavigularis,Endangered
+Apalis flavigularis,Near Threatened
 Apalis fuscigularis,Critically Endangered
 Apalis goslingi,Least Concern
 Apalis jacksoni,Least Concern
@@ -7384,7 +7384,7 @@ Apalis porphyrolaema,Least Concern
 Apalis ruddi,Least Concern
 Apalis rufogularis,Least Concern
 Apalis sharpii,Near Threatened
-Apalis stronachi,Unknown
+Apalis stronachi,Vulnerable
 Apalis thoracica,Least Concern
 Orthotomus atrogularis,Least Concern
 Orthotomus castaneiceps,Least Concern
@@ -7473,7 +7473,7 @@ Cisticola lateralis,Least Concern
 Cisticola luapula,Least Concern
 Cisticola lugubris,Least Concern
 Cisticola marginatus,Least Concern
-Cisticola melanurus,Data Deficient
+Cisticola melanurus,Least Concern
 Cisticola nana,Least Concern
 Cisticola natalensis,Least Concern
 Cisticola nigriloris,Least Concern
@@ -7537,7 +7537,7 @@ Acrocephalus palustris,Least Concern
 Acrocephalus percernis,Least Concern
 Acrocephalus rehsei,Near Threatened
 Acrocephalus rimitarae,Critically Endangered
-Acrocephalus rodericanus,Near Threatened
+Acrocephalus rodericanus,Least Concern
 Acrocephalus rufescens,Least Concern
 Acrocephalus schoenobaenus,Least Concern
 Acrocephalus scirpaceus,Least Concern
@@ -7554,13 +7554,13 @@ Crossleyia tenebrosa,Data Deficient
 Crossleyia xanthophrys,Least Concern
 Xanthomixis apperti,Vulnerable
 Xanthomixis cinereiceps,Near Threatened
-Xanthomixis zosterops,Least Concern
+Xanthomixis zosterops,Near Threatened
 Hartertula flavoviridis,Near Threatened
 Thamnornis chloropetoides,Least Concern
-Randia pseudozosterops,Least Concern
+Randia pseudozosterops,Near Threatened
 Cryptosylvicola randrianasoloi,Least Concern
-Oxylabes madagascariensis,Least Concern
-Bernieria madagascariensis,Least Concern
+Oxylabes madagascariensis,Near Threatened
+Bernieria madagascariensis,Near Threatened
 Robsonius rabori,Near Threatened
 Robsonius sorsogonensis,Near Threatened
 Robsonius thompsoni,Least Concern
@@ -7568,8 +7568,8 @@ Helopsaltes amnicola,Least Concern
 Helopsaltes certhiola,Least Concern
 Helopsaltes fasciolatus,Least Concern
 Helopsaltes ochotensis,Least Concern
-Helopsaltes pleskei,Vulnerable
-Helopsaltes pryeri,Near Threatened
+Helopsaltes pleskei,Least Concern
+Helopsaltes pryeri,Least Concern
 Locustella accentor,Least Concern
 Locustella alfredi,Least Concern
 Locustella alishanensis,Least Concern
@@ -7584,7 +7584,7 @@ Locustella kashmirensis,Least Concern
 Locustella lanceolata,Least Concern
 Locustella luscinioides,Least Concern
 Locustella luteoventris,Least Concern
-Locustella major,Near Threatened
+Locustella major,Endangered
 Locustella mandelli,Least Concern
 Locustella montis,Least Concern
 Locustella musculus,Least Concern
@@ -7609,7 +7609,7 @@ Bradypterus grandis,Near Threatened
 Bradypterus graueri,Vulnerable
 Bradypterus lopezi,Least Concern
 Bradypterus seebohmi,Least Concern
-Bradypterus sylvaticus,Vulnerable
+Bradypterus sylvaticus,Near Threatened
 Poodytes albolimbatus,Vulnerable
 Poodytes carteri,Least Concern
 Poodytes gramineus,Least Concern
@@ -7632,7 +7632,7 @@ Pnoepyga albiventer,Least Concern
 Pnoepyga formosana,Least Concern
 Pnoepyga immaculata,Least Concern
 Pnoepyga pusilla,Least Concern
-Pseudochelidon eurystomina,Data Deficient
+Pseudochelidon eurystomina,Least Concern
 Pseudochelidon sirintarae,Critically Endangered
 Psalidoprocne albiceps,Least Concern
 Psalidoprocne fuliginosa,Least Concern
@@ -7880,7 +7880,7 @@ Baeopogon indicator,Least Concern
 Chlorocichla falkensteini,Least Concern
 Chlorocichla flaviventris,Least Concern
 Chlorocichla laetissima,Least Concern
-Chlorocichla prigoginei,Endangered
+Chlorocichla prigoginei,Data Deficient
 Chlorocichla simplex,Least Concern
 Criniger barbatus,Least Concern
 Criniger calurus,Least Concern
@@ -8003,7 +8003,7 @@ Hypsipetes longirostris,Least Concern
 Hypsipetes lucasi,Least Concern
 Hypsipetes madagascariensis,Least Concern
 Hypsipetes mindorensis,Unknown
-Hypsipetes moheliensis,Endangered
+Hypsipetes moheliensis,Near Threatened
 Hypsipetes mysticalis,Least Concern
 Hypsipetes nicobariensis,Near Threatened
 Hypsipetes olivaceus,Vulnerable
@@ -8066,7 +8066,7 @@ Paradoxornis bakeri,Least Concern
 Paradoxornis flavirostris,Vulnerable
 Paradoxornis gularis,Least Concern
 Paradoxornis guttaticollis,Least Concern
-Paradoxornis heudei,Near Threatened
+Paradoxornis heudei,Least Concern
 Paradoxornis margaritae,Vulnerable
 Paradoxornis paradoxus,Least Concern
 Paradoxornis ruficeps,Least Concern
@@ -8082,7 +8082,7 @@ Suthora przewalskii,Least Concern
 Suthora ricketti,Least Concern
 Suthora verreauxi,Least Concern
 Suthora webbiana,Least Concern
-Suthora zappeyi,Vulnerable
+Suthora zappeyi,Least Concern
 Parayuhina diademata,Least Concern
 Staphida castaniceps,Least Concern
 Staphida everetti,Least Concern
@@ -8098,7 +8098,7 @@ Cleptornis marchei,Endangered
 Apalopteron familiare,Least Concern
 Dasycrotapha plateni,Near Threatened
 Dasycrotapha pygmaea,Near Threatened
-Dasycrotapha speciosa,Endangered
+Dasycrotapha speciosa,Near Threatened
 Sterrhoptilus affinis,Unknown
 Sterrhoptilus capitalis,Least Concern
 Sterrhoptilus dennistouni,Near Threatened
@@ -8131,7 +8131,7 @@ Zosterops atriceps,Least Concern
 Zosterops atrifrons,Least Concern
 Zosterops auriventer,Least Concern
 Zosterops borbonicus,Least Concern
-Zosterops brunneus,Vulnerable
+Zosterops brunneus,Near Threatened
 Zosterops buruensis,Least Concern
 Zosterops ceylonensis,Least Concern
 Zosterops chloris,Least Concern
@@ -8139,7 +8139,7 @@ Zosterops chloronothos,Critically Endangered
 Zosterops cinereus,Least Concern
 Zosterops citrinella,Least Concern
 Zosterops consobrinorum,Least Concern
-Zosterops conspicillatus,Unknown
+Zosterops conspicillatus,Extinct
 Zosterops dehaani,Near Threatened
 Zosterops emiliae,Least Concern
 Zosterops erythropleurus,Least Concern
@@ -8180,7 +8180,7 @@ Zosterops mauritianus,Least Concern
 Zosterops mayottensis,Least Concern
 Zosterops mbuluensis,Least Concern
 Zosterops meeki,Near Threatened
-Zosterops melanocephalus,Vulnerable
+Zosterops melanocephalus,Near Threatened
 Zosterops melanurus,Vulnerable
 Zosterops meratusensis,Least Concern
 Zosterops metcalfii,Least Concern
@@ -8188,7 +8188,7 @@ Zosterops meyeni,Least Concern
 Zosterops minor,Least Concern
 Zosterops minutus,Least Concern
 Zosterops modestus,Vulnerable
-Zosterops mouroniensis,Vulnerable
+Zosterops mouroniensis,Near Threatened
 Zosterops murphyi,Least Concern
 Zosterops mysorensis,Near Threatened
 Zosterops natalis,Least Concern
@@ -8298,7 +8298,7 @@ Malacopteron albogulare,Near Threatened
 Malacopteron cinereum,Least Concern
 Malacopteron magnirostre,Least Concern
 Malacopteron magnum,Near Threatened
-Malacopteron palawanense,Near Threatened
+Malacopteron palawanense,Vulnerable
 Gampsorhynchus rufulus,Least Concern
 Gampsorhynchus torquatus,Least Concern
 Schoeniparus brunneus,Least Concern
@@ -8379,7 +8379,7 @@ Trochalopteron imbricatum,Least Concern
 Trochalopteron lineatum,Least Concern
 Trochalopteron melanostigma,Least Concern
 Trochalopteron milnei,Least Concern
-Trochalopteron morrisonianum,Least Concern
+Trochalopteron morrisonianum,Near Threatened
 Trochalopteron ngoclinhense,Endangered
 Trochalopteron peninsulae,Least Concern
 Trochalopteron squamatum,Least Concern
@@ -8438,7 +8438,7 @@ Turdoides chapini,Unknown
 Turdoides gilberti,Unknown
 Turdoides gymnogenys,Least Concern
 Turdoides hartlaubii,Least Concern
-Turdoides hindei,Vulnerable
+Turdoides hindei,Near Threatened
 Turdoides hypoleuca,Least Concern
 Turdoides jardineii,Least Concern
 Turdoides leucocephala,Least Concern
@@ -8472,7 +8472,7 @@ Ianthocincla lunulata,Least Concern
 Ianthocincla maxima,Least Concern
 Ianthocincla ocellata,Least Concern
 Ianthocincla rufogularis,Least Concern
-Ianthocincla sukatschewi,Vulnerable
+Ianthocincla sukatschewi,Least Concern
 Pterorhinus albogularis,Least Concern
 Pterorhinus berthemyi,Least Concern
 Pterorhinus caerulatus,Least Concern
@@ -8584,7 +8584,7 @@ Hylorchilus navai,Vulnerable
 Hylorchilus sumichrasti,Near Threatened
 Microcerculus bambla,Least Concern
 Microcerculus marginatus,Least Concern
-Microcerculus philomela,Least Concern
+Microcerculus philomela,Near Threatened
 Microcerculus ustulatus,Least Concern
 Thryothorus ludovicianus,Least Concern
 Thryomanes bewickii,Least Concern
@@ -8845,12 +8845,12 @@ Sialia currucoides,Least Concern
 Sialia mexicana,Least Concern
 Sialia sialis,Least Concern
 Pinarornis plumosus,Least Concern
-Stizorhina finschi,Least Concern
+Stizorhina finschi,Near Threatened
 Stizorhina fraseri,Least Concern
 Neocossyphus poensis,Least Concern
 Neocossyphus rufus,Least Concern
 Myadestes coloratus,Near Threatened
-Myadestes elisabeth,Near Threatened
+Myadestes elisabeth,Least Concern
 Myadestes genibarbis,Least Concern
 Myadestes lanaiensis,Critically Endangered
 Myadestes melanops,Least Concern
@@ -8863,7 +8863,7 @@ Myadestes townsendi,Least Concern
 Myadestes unicolor,Least Concern
 Myadestes woahensis,Extinct
 Zoothera andromedae,Least Concern
-Zoothera atrigena,Unknown
+Zoothera atrigena,Near Threatened
 Zoothera aurea,Least Concern
 Zoothera dauma,Least Concern
 Zoothera dixoni,Least Concern
@@ -8890,7 +8890,7 @@ Cochoa beccarii,Least Concern
 Cochoa purpurea,Least Concern
 Cochoa viridis,Least Concern
 Ixoreus naevius,Least Concern
-Cichlopsis leucogenys,Endangered
+Cichlopsis leucogenys,Vulnerable
 Entomodestes coracinus,Least Concern
 Entomodestes leucotis,Least Concern
 Hylocichla mustelina,Least Concern
@@ -8933,7 +8933,7 @@ Turdus abyssinicus,Least Concern
 Turdus albicollis,Least Concern
 Turdus albocinctus,Least Concern
 Turdus amaurochalinus,Least Concern
-Turdus ardosiaceus,Unknown
+Turdus ardosiaceus,Least Concern
 Turdus arthuri,Least Concern
 Turdus assimilis,Least Concern
 Turdus atrogularis,Least Concern
@@ -8964,7 +8964,7 @@ Turdus heinrothi,Unknown
 Turdus helleri,Endangered
 Turdus hortulorum,Least Concern
 Turdus ignobilis,Least Concern
-Turdus iliacus,Near Threatened
+Turdus iliacus,Least Concern
 Turdus infuscatus,Least Concern
 Turdus jamaicensis,Least Concern
 Turdus javanicus,Unknown
@@ -9127,14 +9127,14 @@ Eumyias oscillans,Least Concern
 Eumyias panayensis,Least Concern
 Eumyias sanfordi,Least Concern
 Eumyias sordidus,Near Threatened
-Eumyias stresemanni,Least Concern
+Eumyias stresemanni,Near Threatened
 Eumyias thalassinus,Least Concern
 Anthipes monileger,Least Concern
 Anthipes solitaris,Least Concern
 Cyornis banyumas,Critically Endangered
 Cyornis brunneatus,Vulnerable
 Cyornis caerulatus,Vulnerable
-Cyornis camarinensis,Vulnerable
+Cyornis camarinensis,Near Threatened
 Cyornis colonus,Near Threatened
 Cyornis glaucicomans,Least Concern
 Cyornis hainanus,Least Concern
@@ -9164,11 +9164,11 @@ Cyornis umbratilis,Near Threatened
 Cyornis unicolor,Least Concern
 Cyornis whitei,Least Concern
 Erithacus rubecula,Least Concern
-Swynnertonia swynnertoni,Vulnerable
+Swynnertonia swynnertoni,Near Threatened
 Pogonocichla stellata,Least Concern
 Stiphrornis erythrothorax,Least Concern
 Stiphrornis mabirae,Unknown
-Stiphrornis pyrrholaemus,Unknown
+Stiphrornis pyrrholaemus,Least Concern
 Cossyphicula isabellae,Least Concern
 Cossyphicula roberti,Least Concern
 Chamaetylas choloensis,Vulnerable
@@ -9197,7 +9197,7 @@ Sheppardia bocagei,Least Concern
 Sheppardia cyornithopsis,Least Concern
 Sheppardia gabela,Endangered
 Sheppardia gunningi,Near Threatened
-Sheppardia lowei,Vulnerable
+Sheppardia lowei,Near Threatened
 Sheppardia montana,Endangered
 Sheppardia poensis,Least Concern
 Sheppardia polioptera,Least Concern
@@ -9235,7 +9235,7 @@ Myophonus melanurus,Least Concern
 Myophonus robinsoni,Near Threatened
 Heinrichia calligyna,Least Concern
 Leonardina woodi,Least Concern
-Vauriella albigularis,Endangered
+Vauriella albigularis,Vulnerable
 Vauriella goodfellowi,Near Threatened
 Vauriella gularis,Least Concern
 Vauriella insignis,Least Concern
@@ -9243,7 +9243,7 @@ Larvivora akahige,Least Concern
 Larvivora brunnea,Least Concern
 Larvivora cyane,Least Concern
 Larvivora komadori,Near Threatened
-Larvivora namiyei,Near Threatened
+Larvivora namiyei,Least Concern
 Larvivora ruficeps,Endangered
 Larvivora sibilans,Least Concern
 Larvivora tanensis,Vulnerable
@@ -9301,7 +9301,7 @@ Tarsiger indicus,Least Concern
 Tarsiger johnstoniae,Least Concern
 Tarsiger rufilatus,Least Concern
 Heteroxenicus stellatus,Least Concern
-Phoenicurus alaschanicus,Near Threatened
+Phoenicurus alaschanicus,Least Concern
 Phoenicurus auroreus,Least Concern
 Phoenicurus bicolor,Near Threatened
 Phoenicurus coeruleocephala,Least Concern
@@ -9318,7 +9318,7 @@ Phoenicurus schisticeps,Least Concern
 Monticola angolensis,Least Concern
 Monticola brevipes,Least Concern
 Monticola cinclorhyncha,Least Concern
-Monticola erythronotus,Endangered
+Monticola erythronotus,Near Threatened
 Monticola explorator,Near Threatened
 Monticola gularis,Least Concern
 Monticola imerina,Least Concern
@@ -9471,7 +9471,7 @@ Anthreptes malacensis,Least Concern
 Anthreptes neglectus,Least Concern
 Anthreptes orientalis,Least Concern
 Anthreptes rectirostris,Least Concern
-Anthreptes reichenowi,Near Threatened
+Anthreptes reichenowi,Least Concern
 Anthreptes rhodolaemus,Near Threatened
 Anthreptes rubritorques,Vulnerable
 Anthreptes seimundi,Least Concern
@@ -9486,7 +9486,7 @@ Leptocoma zeylonica,Least Concern
 Aethopyga bella,Least Concern
 Aethopyga boltoni,Least Concern
 Aethopyga christinae,Least Concern
-Aethopyga duyvenbodei,Endangered
+Aethopyga duyvenbodei,Vulnerable
 Aethopyga eximia,Least Concern
 Aethopyga flagrans,Least Concern
 Aethopyga gouldiae,Least Concern
@@ -9573,7 +9573,7 @@ Cinnyris mariquensis,Least Concern
 Cinnyris mediocris,Least Concern
 Cinnyris melanogastrus,Least Concern
 Cinnyris minullus,Least Concern
-Cinnyris moreaui,Near Threatened
+Cinnyris moreaui,Least Concern
 Cinnyris nectarinioides,Least Concern
 Cinnyris neergaardi,Near Threatened
 Cinnyris notatus,Least Concern
@@ -9596,7 +9596,7 @@ Cinnyris talatala,Least Concern
 Cinnyris teysmanni,Unknown
 Cinnyris tsavoensis,Least Concern
 Cinnyris ursulae,Least Concern
-Cinnyris usambaricus,Near Threatened
+Cinnyris usambaricus,Least Concern
 Cinnyris venustus,Least Concern
 Chloropsis aurifrons,Least Concern
 Chloropsis cochinchinensis,Endangered
@@ -9701,7 +9701,7 @@ Quelea erythrops,Least Concern
 Quelea quelea,Least Concern
 Foudia aldabrana,Endangered
 Foudia eminentissima,Least Concern
-Foudia flavicans,Near Threatened
+Foudia flavicans,Least Concern
 Foudia madagascariensis,Least Concern
 Foudia omissa,Least Concern
 Foudia rubra,Endangered
@@ -9718,7 +9718,7 @@ Euplectes franciscanus,Least Concern
 Euplectes gierowii,Least Concern
 Euplectes hartlaubi,Least Concern
 Euplectes hordeaceus,Least Concern
-Euplectes jacksoni,Near Threatened
+Euplectes jacksoni,Least Concern
 Euplectes laticauda,Least Concern
 Euplectes macroura,Least Concern
 Euplectes nigroventris,Least Concern
@@ -9822,7 +9822,7 @@ Erythrura prasina,Least Concern
 Erythrura psittacea,Least Concern
 Erythrura trichroa,Least Concern
 Erythrura tricolor,Least Concern
-Erythrura viridifacies,Vulnerable
+Erythrura viridifacies,Least Concern
 Nesocharis ansorgei,Least Concern
 Nesocharis shelleyi,Least Concern
 Coccopygia bocagei,Least Concern
@@ -9965,7 +9965,7 @@ Motacilla maderaspatensis,Least Concern
 Motacilla samveasnae,Near Threatened
 Motacilla tschutschensis,Least Concern
 Tmetothylacus tenellus,Least Concern
-Hemimacronyx chloris,Unknown
+Hemimacronyx chloris,Vulnerable
 Macronyx ameliae,Least Concern
 Macronyx aurantiigula,Least Concern
 Macronyx capensis,Least Concern
@@ -10077,7 +10077,7 @@ Carpodacus dubius,Least Concern
 Carpodacus edwardsii,Least Concern
 Carpodacus erythrinus,Least Concern
 Carpodacus ferreorostris,Extinct
-Carpodacus formosanus,Least Concern
+Carpodacus formosanus,Near Threatened
 Carpodacus grandis,Unknown
 Carpodacus pulcherrimus,Least Concern
 Carpodacus puniceus,Least Concern
@@ -10185,7 +10185,7 @@ Crithagra citrinipectus,Least Concern
 Crithagra concolor,Critically Endangered
 Crithagra donaldsoni,Least Concern
 Crithagra dorsostriata,Least Concern
-Crithagra flavigula,Endangered
+Crithagra flavigula,Near Threatened
 Crithagra flaviventris,Least Concern
 Crithagra frontalis,Least Concern
 Crithagra gularis,Least Concern
@@ -10293,7 +10293,7 @@ Emberiza pallasi,Least Concern
 Emberiza personata,Least Concern
 Emberiza poliopleura,Least Concern
 Emberiza pusilla,Least Concern
-Emberiza rustica,Vulnerable
+Emberiza rustica,Near Threatened
 Emberiza rutila,Least Concern
 Emberiza sahari,Least Concern
 Emberiza schoeniclus,Least Concern
@@ -10348,7 +10348,7 @@ Arremon abeillei,Least Concern
 Arremon assimilis,Least Concern
 Arremon atricapillus,Least Concern
 Arremon aurantiirostris,Least Concern
-Arremon axillaris,Unknown
+Arremon axillaris,Least Concern
 Arremon basilicus,Near Threatened
 Arremon brunneinucha,Least Concern
 Arremon castaneiceps,Near Threatened
@@ -10370,7 +10370,7 @@ Spizelloides arborea,Least Concern
 Passerella iliaca,Least Concern
 Junco bairdi,Near Threatened
 Junco hyemalis,Least Concern
-Junco insularis,Endangered
+Junco insularis,Vulnerable
 Junco phaeonotus,Least Concern
 Junco vulcani,Least Concern
 Zonotrichia albicollis,Least Concern
@@ -10404,7 +10404,7 @@ Melozone crissalis,Least Concern
 Melozone fusca,Least Concern
 Melozone kieneri,Least Concern
 Melozone leucotis,Least Concern
-Melozone occipitalis,Unknown
+Melozone occipitalis,Least Concern
 Pezopetes capitalis,Least Concern
 Torreornis inexpectata,Near Threatened
 Pipilo chlorurus,Least Concern
@@ -10461,7 +10461,7 @@ Teretistris fernandinae,Least Concern
 Teretistris fornsi,Least Concern
 Icteria virens,Least Concern
 Xanthocephalus xanthocephalus,Least Concern
-Dolichonyx oryzivorus,Least Concern
+Dolichonyx oryzivorus,Near Threatened
 Sturnella lilianae,Unknown
 Sturnella magna,Near Threatened
 Sturnella neglecta,Least Concern
@@ -10495,7 +10495,7 @@ Icterus abeillei,Least Concern
 Icterus auratus,Least Concern
 Icterus auricapillus,Least Concern
 Icterus bonana,Vulnerable
-Icterus bullockiorum,Unknown
+Icterus bullockiorum,Least Concern
 Icterus cayanensis,Least Concern
 Icterus chrysater,Least Concern
 Icterus croconotus,Least Concern
@@ -10539,7 +10539,7 @@ Dives dives,Least Concern
 Dives warczewiczi,Least Concern
 Ptiloxena atroviolacea,Least Concern
 Euphagus carolinus,Vulnerable
-Euphagus cyanocephalus,Least Concern
+Euphagus cyanocephalus,Near Threatened
 Quiscalus lugubris,Least Concern
 Quiscalus major,Least Concern
 Quiscalus mexicanus,Least Concern
@@ -10674,7 +10674,7 @@ Cardellina versicolor,Least Concern
 Myioborus albifacies,Least Concern
 Myioborus albifrons,Near Threatened
 Myioborus brunniceps,Least Concern
-Myioborus cardonai,Near Threatened
+Myioborus cardonai,Least Concern
 Myioborus castaneocapilla,Least Concern
 Myioborus flavivertex,Least Concern
 Myioborus melanocephalus,Least Concern
@@ -10689,7 +10689,7 @@ Pheucticus chrysopeplus,Least Concern
 Pheucticus ludovicianus,Least Concern
 Pheucticus melanocephalus,Least Concern
 Pheucticus tibialis,Least Concern
-Granatellus paraensis,Unknown
+Granatellus paraensis,Least Concern
 Granatellus pelzelni,Least Concern
 Granatellus sallaei,Least Concern
 Granatellus venustus,Least Concern
@@ -10752,7 +10752,7 @@ Cyanerpes cyaneus,Least Concern
 Cyanerpes lucidus,Least Concern
 Cyanerpes nitidus,Least Concern
 Dacnis albiventris,Least Concern
-Dacnis berlepschi,Vulnerable
+Dacnis berlepschi,Least Concern
 Dacnis cayana,Least Concern
 Dacnis flaviventer,Least Concern
 Dacnis hartlaubi,Near Threatened
@@ -11039,7 +11039,7 @@ Sporathraupis cyanocephala,Least Concern
 Buthraupis montana,Least Concern
 Tephrophilus wetmorei,Vulnerable
 Chlorornis riefferii,Least Concern
-Cnemathraupis aureodorsalis,Endangered
+Cnemathraupis aureodorsalis,Near Threatened
 Cnemathraupis eximia,Least Concern
 Anisognathus igniventris,Least Concern
 Anisognathus lacrymosus,Least Concern
@@ -11069,7 +11069,7 @@ Bangsia arcaei,Near Threatened
 Bangsia aureocincta,Vulnerable
 Bangsia edwardsi,Least Concern
 Bangsia flavovirens,Vulnerable
-Bangsia melanochlamys,Vulnerable
+Bangsia melanochlamys,Least Concern
 Bangsia rothschildi,Least Concern
 Tangara arthus,Least Concern
 Tangara brasiliensis,Least Concern

@@ -1,69 +1,242 @@
+STRUTHIONIFORMES: Struthionidae
+ 
 ANSERIFORMES: Anatidae
+ 
+GALLIFORMES: Numididae
+ 
+GALLIFORMES: Odontophoridae
+ 
 GALLIFORMES: Phasianidae
-PHOENICOPTERIFORMES: Phoenicopteridae
-PODICIPEDIFORMES: Podicipedidae
-OTIDIFORMES: Otididae
-CUCULIFORMES: Cuculidae
-PTEROCLIFORMES: Pteroclidae
-COLUMBIFORMES: Columbidae
-GRUIFORMES: Gruidae
-GRUIFORMES: Rallidae
-CHARADRIIFORMES: Burhinidae
-CHARADRIIFORMES: Recurvirostridae
-CHARADRIIFORMES: Ibidorhynchidae
-CHARADRIIFORMES: Haematopodidae
-CHARADRIIFORMES: Charadriidae
-CHARADRIIFORMES: Scolopacidae
-CHARADRIIFORMES: Glareolidae
-CHARADRIIFORMES: Stercorariidae
-CHARADRIIFORMES: Laridae
-GAVIIFORMES: Gaviidae
-PROCELLARIIFORMES: Procellariidae
-CICONIIFORMES: Ciconiidae
-SULIFORMES: Phalacrocoracidae
-PELECANIFORMES: Threskiornithidae
-PELECANIFORMES: Pelecanidae
-PELECANIFORMES: Ardeidae
+Black-fronted Spurfowl	Pternistis atrifrons	
+ 
 CAPRIMULGIFORMES: Caprimulgidae
+Black-shouldered Nightjar	Caprimulgus nigriscapularis	Rare/Accidental
+ 
 APODIFORMES: Apodidae
-STRIGIFORMES: Strigidae
+ 
+MUSOPHAGIFORMES: Musophagidae
+ 
+OTIDIFORMES: Otididae
+ 
+CUCULIFORMES: Cuculidae
+ 
+PTEROCLIFORMES: Pteroclidae
+ 
+COLUMBIFORMES: Columbidae
+ 
+GRUIFORMES: Heliornithidae
+ 
+GRUIFORMES: Sarothruridae
+ 
+GRUIFORMES: Rallidae
+African Swamphen	Porphyrio madagascariensis	
+ 
+GRUIFORMES: Gruidae
+ 
+PODICIPEDIFORMES: Podicipedidae
+ 
+PHOENICOPTERIFORMES: Phoenicopteridae
+ 
+CHARADRIIFORMES: Turnicidae
+ 
+CHARADRIIFORMES: Burhinidae
+ 
+CHARADRIIFORMES: Haematopodidae
+ 
+CHARADRIIFORMES: Recurvirostridae
+ 
+CHARADRIIFORMES: Charadriidae
+Lesser Sand Plover	Charadrius mongolus	
+ 
+CHARADRIIFORMES: Pluvianidae
+ 
+CHARADRIIFORMES: Rostratulidae
+ 
+CHARADRIIFORMES: Jacanidae
+ 
+CHARADRIIFORMES: Scolopacidae
+ 
+CHARADRIIFORMES: Dromadidae
+ 
+CHARADRIIFORMES: Glareolidae
+ 
+CHARADRIIFORMES: Laridae
+ 
+CHARADRIIFORMES: Stercorariidae
+ 
+PHAETHONTIFORMES: Phaethontidae
+ 
+PROCELLARIIFORMES: Oceanitidae
+ 
+PROCELLARIIFORMES: Diomedeidae
+ 
+PROCELLARIIFORMES: Hydrobatidae
+ 
+PROCELLARIIFORMES: Procellariidae
+ 
+CICONIIFORMES: Ciconiidae
+ 
+SULIFORMES: Fregatidae
+ 
+SULIFORMES: Sulidae
+ 
+SULIFORMES: Anhingidae
+ 
+SULIFORMES: Phalacrocoracidae
+White-breasted Cormorant	Phalacrocorax lucidus	
+ 
+PELECANIFORMES: Threskiornithidae
+ 
+PELECANIFORMES: Ardeidae
+Dimorphic Egret	Egretta dimorpha	
+ 
+PELECANIFORMES: Scopidae
+ 
+PELECANIFORMES: Balaenicipitidae
+ 
+PELECANIFORMES: Pelecanidae
+ 
+ACCIPITRIFORMES: Sagittariidae
+ 
 ACCIPITRIFORMES: Pandionidae
+ 
 ACCIPITRIFORMES: Accipitridae
+Yellow-billed Kite	Milvus aegyptius	
+ 
+STRIGIFORMES: Tytonidae
+ 
+STRIGIFORMES: Strigidae
+ 
+COLIIFORMES: Coliidae
+ 
+TROGONIFORMES: Trogonidae
+ 
 BUCEROTIFORMES: Upupidae
+African Hoopoe	Upupa africana	
+ 
+BUCEROTIFORMES: Phoeniculidae
+Grant's Wood Hoopoe	Phoeniculus granti	
+ 
+BUCEROTIFORMES: Bucorvidae
+ 
+BUCEROTIFORMES: Bucerotidae
+ 
 CORACIIFORMES: Coraciidae
-CORACIIFORMES: Meropidae
+ 
 CORACIIFORMES: Alcedinidae
+ 
+CORACIIFORMES: Meropidae
+ 
+PICIFORMES: Lybiidae
+Yellow-billed Barbet	Trachyphonus purpuratus	
+ 
+PICIFORMES: Indicatoridae
+Thick-billed Honeyguide	Indicator conirostris	
+ 
 PICIFORMES: Picidae
+ 
 FALCONIFORMES: Falconidae
-PASSERIFORMES: Oriolidae
-PASSERIFORMES: Dicruridae
-PASSERIFORMES: Monarchidae
+ 
+PSITTACIFORMES: Psittacidae
+ 
+PSITTACIFORMES: Psittaculidae
+ 
+PASSERIFORMES: Calyptomenidae
+ 
+PASSERIFORMES: Pittidae
+ 
+PASSERIFORMES: Platysteiridae
+ 
+PASSERIFORMES: Malaconotidae
+ 
+PASSERIFORMES: Vangidae
+ 
+PASSERIFORMES: Campephagidae
+ 
 PASSERIFORMES: Laniidae
+ 
+PASSERIFORMES: Oriolidae
+ 
+PASSERIFORMES: Dicruridae
+Glossy-backed Drongo	Dicrurus divaricatus	
+ 
+PASSERIFORMES: Monarchidae
+ 
 PASSERIFORMES: Corvidae
-PASSERIFORMES: Remizidae
+ 
+PASSERIFORMES: Stenostiridae
+ 
 PASSERIFORMES: Paridae
-PASSERIFORMES: Panuridae
+ 
+PASSERIFORMES: Remizidae
+ 
+PASSERIFORMES: Nicatoridae
+ 
 PASSERIFORMES: Alaudidae
-PASSERIFORMES: Acrocephalidae
-PASSERIFORMES: Locustellidae
+Foxy Lark	Calendulauda alopex	
+Athi Short-toed Lark	Alaudala athensis	
+ 
+PASSERIFORMES: Pycnonotidae
+Kakamega Greenbul	Arizelocichla kakamegae	
+Placid Greenbul	Phyllastrephus placidus	
+Dodson's Bulbul	Pycnonotus dodsoni	
+Dark-capped Bulbul	Pycnonotus tricolor	
+ 
 PASSERIFORMES: Hirundinidae
-PASSERIFORMES: Aegithalidae
-PASSERIFORMES: Cettiidae
+ 
+PASSERIFORMES: Macrosphenidae
+ 
+PASSERIFORMES: Erythrocercidae
+ 
+PASSERIFORMES: Hyliidae
+ 
 PASSERIFORMES: Phylloscopidae
+ 
+PASSERIFORMES: Acrocephalidae
+African Reed Warbler	Acrocephalus baeticatus	
+ 
+PASSERIFORMES: Locustellidae
+ 
+PASSERIFORMES: Cisticolidae
+Black-faced Prinia	Prinia melanops	
+Grey-backed Camaroptera	Camaroptera brevicaudata	
+ 
 PASSERIFORMES: Sylviidae
-PASSERIFORMES: Bombycillidae
-PASSERIFORMES: Regulidae
-PASSERIFORMES: Tichodromidae
-PASSERIFORMES: Sittidae
+ 
+PASSERIFORMES: Zosteropidae
+ 
+PASSERIFORMES: Pellorneidae
+ 
+PASSERIFORMES: Leiothrichidae
+ 
+PASSERIFORMES: Modulatricidae
+ 
+PASSERIFORMES: Hyliotidae
+ 
 PASSERIFORMES: Certhiidae
-PASSERIFORMES: Troglodytidae
+ 
 PASSERIFORMES: Sturnidae
-PASSERIFORMES: Cinclidae
+Miombo Blue-eared Starling	Lamprotornis elisabeth	
+ 
+PASSERIFORMES: Buphagidae
+ 
 PASSERIFORMES: Turdidae
+ 
 PASSERIFORMES: Muscicapidae
-PASSERIFORMES: Prunellidae
+ 
+PASSERIFORMES: Nectariniidae
+ 
 PASSERIFORMES: Passeridae
+ 
+PASSERIFORMES: Ploceidae
+ 
+PASSERIFORMES: Estrildidae
+Red-backed Mannikin	Spermestes nigriceps	
+ 
+PASSERIFORMES: Viduidae
+ 
 PASSERIFORMES: Motacillidae
+ 
 PASSERIFORMES: Fringillidae
-PASSERIFORMES: Calcariidae
+ 
 PASSERIFORMES: Emberizidae

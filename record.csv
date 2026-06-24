@@ -592,7 +592,7 @@ Tauraco schalowi,0,
 Tauraco schuettii,0,
 Tauraco violaceus,1,单型种(全);----------------------------------------------------;2018-10-7 台北动物园;2019-8-19 新加坡裕廊飞禽公园;
 Otis tarda,1,2个亚种;----------------------------------------------------;2018-5-26 北京动物园(dybowskii);
-Ardeotis arabs,0,
+Ardeotis arabs,4,
 Ardeotis australis,0,
 Ardeotis kori,0,
 Ardeotis nigriceps,0,
@@ -8950,7 +8950,7 @@ Turdus deningeri,0,
 Turdus dissimilis,1,单型种(全);----------------------------------------------------;2025-7-15 昆明西山;
 Turdus eremita,0,
 Turdus erythropleurus,0,圣诞岛：58%;
-Turdus eunomus,5,单型种(全);----------------------------------------------------;2019-10-13 哈尔滨市植物园;2023-12-8 江西永修云居山;
+Turdus eunomus,1,单型种(全);----------------------------------------------------;2019-10-13 哈尔滨市植物园;2023-12-8 江西永修云居山;
 Turdus falcklandii,0,
 Turdus feae,2,
 Turdus flavipes,0,
@@ -8964,7 +8964,7 @@ Turdus heinrothi,0,
 Turdus helleri,0,
 Turdus hortulorum,1,单型种(全);----------------------------------------------------;2019-11-13 厦门水上运动中心;2023-12-7 江西永修九合乡;
 Turdus ignobilis,0,
-Turdus iliacus,4,
+Turdus iliacus,0,
 Turdus infuscatus,0,
 Turdus jamaicensis,0,
 Turdus javanicus,0,
@@ -8982,7 +8982,7 @@ Turdus mandarinus,1,2个亚种(全);--------------------------------------------
 Turdus maranonicus,0,
 Turdus maximus,1,单型种(全);----------------------------------------------------;2020-7-25 拉萨布达拉宫广场;
 Turdus menachensis,0,
-Turdus merula,5,7个亚种;----------------------------------------------------;2019-1 新西兰南岛(merula);2023-7-7 新疆奎屯(intermedius);
+Turdus merula,1,7个亚种;----------------------------------------------------;2019-1 新西兰南岛(merula);2023-7-7 新疆奎屯(intermedius);
 Turdus migratorius,1,7个亚种;----------------------------------------------------;2022-6-9 多伦多Alexandra Park(nigrideus);
 Turdus mindorensis,0,
 Turdus mupinensis,0,来凤山森林公园1%;姜家寨1%;紫溪山 31%;
@@ -9001,8 +9001,8 @@ Turdus olivater,0,
 Turdus pallidus,1,单型种(全);----------------------------------------------------;2019-12-25 厦门虎头山公园;
 Turdus papuensis,0,
 Turdus pelios,0,
-Turdus philomelos,5,4个亚种;----------------------------------------------------;2019-1 新西兰南岛(clarkei);
-Turdus pilaris,4,
+Turdus philomelos,1,4个亚种;----------------------------------------------------;2019-1 新西兰南岛(clarkei);
+Turdus pilaris,0,
 Turdus plebejus,0,3-19 La Paz Waterfall Gardens 6.53%;3-21 Galeria de Colibriy Soda Cinchona 1.44%;3-23 Hotel de Montana Monteverde 8.33%;3-24 Curi-Cancha Refugio de Vida Silvestre 51.07%;3-24 Reserva Bosque Nuboso Monteverde 33.03%;
 Turdus plumbeus,1,4个亚种;----------------------------------------------------;2022-12-24 古巴哈瓦那(rubripes);
 Turdus poliocephalus,0,
@@ -9031,7 +9031,7 @@ Turdus torquatus,0,
 Turdus turdoides,0,
 Turdus unicolor,0,
 Turdus vanikorensis,0,
-Turdus viscivorus,5,3个亚种;----------------------------------------------------;2023-7-6 乌鲁木齐植物园(bonapartei);
+Turdus viscivorus,1,3个亚种;----------------------------------------------------;2023-7-6 乌鲁木齐植物园(bonapartei);
 Turdus xanthopus,0,
 Turdus xanthorhynchus,0,
 Alethe castanea,0,
@@ -9632,7 +9632,7 @@ Bubalornis niger,0,
 Ploceus albinucha,0,
 Ploceus alienus,0,
 Ploceus angolensis,0,
-Ploceus aurantius,0,
+Ploceus aurantius,4,
 Ploceus aureonucha,0,
 Ploceus badius,0,
 Ploceus baglafecht,0,
@@ -9652,7 +9652,7 @@ Ploceus cucullatus,0,
 Ploceus dichrocephalus,0,
 Ploceus dorsomaculatus,0,
 Ploceus flavipes,0,
-Ploceus galbula,0,
+Ploceus galbula,4,
 Ploceus golandi,0,
 Ploceus grandis,0,
 Ploceus heuglini,0,
@@ -9692,7 +9692,7 @@ Ploceus temporalis,0,
 Ploceus tricolor,0,
 Ploceus velatus,0,
 Ploceus vitellinus,0,
-Ploceus weynsi,0,
+Ploceus weynsi,4,
 Ploceus xanthops,0,
 Ploceus xanthopterus,0,
 Pachyphantes superciliosus,0,

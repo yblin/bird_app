@@ -1,63 +1,81 @@
+STRUTHIONIFORMES: Struthionidae
  
-RHEIFORMES: Rheidae
+CASUARIIFORMES: Casuariidae
  
-TINAMIFORMES: Tinamidae
+GALLIFORMES: Megapodiidae
  
-ANSERIFORMES: Anhimidae
- 
-ANSERIFORMES: Anatidae
+GALLIFORMES: Numididae
  
 GALLIFORMES: Odontophoridae
  
 GALLIFORMES: Phasianidae
  
-PHOENICOPTERIFORMES: Phoenicopteridae
+ANSERIFORMES: Anseranatidae
  
-PODICIPEDIFORMES: Podicipedidae
+ANSERIFORMES: Anatidae
+ 
+CAPRIMULGIFORMES: Podargidae
+ 
+CAPRIMULGIFORMES: Caprimulgidae
+ 
+APODIFORMES: Aegothelidae
+ 
+APODIFORMES: Apodidae
+ 
+OTIDIFORMES: Otididae
  
 CUCULIFORMES: Cuculidae
  
 COLUMBIFORMES: Columbidae
  
-GRUIFORMES: Aramidae
- 
 GRUIFORMES: Rallidae
+Australasian Swamphen	Porphyrio melanotus	
  
-CHARADRIIFORMES: Pluvianellidae
+GRUIFORMES: Gruidae
  
-CHARADRIIFORMES: Chionidae
+PODICIPEDIFORMES: Podicipedidae
+Tricolored Grebe	Tachybaptus tricolor	Rare/Accidental
+ 
+PHOENICOPTERIFORMES: Phoenicopteridae
+ 
+CHARADRIIFORMES: Turnicidae
  
 CHARADRIIFORMES: Burhinidae
  
-CHARADRIIFORMES: Recurvirostridae
- 
 CHARADRIIFORMES: Haematopodidae
  
-CHARADRIIFORMES: Charadriidae
+CHARADRIIFORMES: Recurvirostridae
  
-CHARADRIIFORMES: Thinocoridae
+CHARADRIIFORMES: Charadriidae
+Lesser Sand Plover	Charadrius mongolus	
  
 CHARADRIIFORMES: Rostratulidae
  
 CHARADRIIFORMES: Jacanidae
  
+CHARADRIIFORMES: Pedionomidae
+ 
 CHARADRIIFORMES: Scolopacidae
  
-CHARADRIIFORMES: Stercorariidae
+CHARADRIIFORMES: Glareolidae
  
 CHARADRIIFORMES: Laridae
+ 
+CHARADRIIFORMES: Stercorariidae
  
 PHAETHONTIFORMES: Phaethontidae
  
 SPHENISCIFORMES: Spheniscidae
  
-PROCELLARIIFORMES: Diomedeidae
- 
 PROCELLARIIFORMES: Oceanitidae
+ 
+PROCELLARIIFORMES: Diomedeidae
+Campbell Albatross	Thalassarche impavida	Vulnerable
  
 PROCELLARIIFORMES: Hydrobatidae
  
 PROCELLARIIFORMES: Procellariidae
+Vanuatu Petrel	Pterodroma occulta	Rare/Accidental
  
 CICONIIFORMES: Ciconiidae
  
@@ -65,57 +83,126 @@ SULIFORMES: Fregatidae
  
 SULIFORMES: Sulidae
  
+SULIFORMES: Anhingidae
+ 
 SULIFORMES: Phalacrocoracidae
+Macquarie Shag	Leucocarbo purpurascens	Endemic
  
 PELECANIFORMES: Threskiornithidae
  
-PELECANIFORMES: Pelecanidae
- 
 PELECANIFORMES: Ardeidae
  
-CAPRIMULGIFORMES: Caprimulgidae
- 
-STEATORNITHIFORMES: Steatornithidae
- 
-NYCTIBIIFORMES: Nyctibiidae
- 
-APODIFORMES: Apodidae
- 
-APODIFORMES: Trochilidae
- 
-STRIGIFORMES: Tytonidae
- 
-STRIGIFORMES: Strigidae
- 
-CATHARTIFORMES: Cathartidae
+PELECANIFORMES: Pelecanidae
  
 ACCIPITRIFORMES: Pandionidae
+Eastern Osprey	Pandion cristatus	
  
 ACCIPITRIFORMES: Accipitridae
  
+STRIGIFORMES: Tytonidae
+Lesser Sooty Owl	Tyto multipunctata	Endemic
+ 
+STRIGIFORMES: Strigidae
+ 
+BUCEROTIFORMES: Upupidae
+ 
+CORACIIFORMES: Coraciidae
+ 
 CORACIIFORMES: Alcedinidae
  
-PICIFORMES: Picidae
+CORACIIFORMES: Meropidae
  
 FALCONIFORMES: Falconidae
  
-PSITTACIFORMES: Psittacidae
+PSITTACIFORMES: Strigopidae
  
-PASSERIFORMES: Cotingidae
+PSITTACIFORMES: Cacatuidae
+Major Mitchell's Cockatoo	Lophochroa leadbeateri	Endemic
  
-PASSERIFORMES: Tyrannidae
+PSITTACIFORMES: Psittaculidae
+Lord Howe Parakeet	Cyanoramphus subflavescens	Endemic
+Macquarie Parakeet	Cyanoramphus erythrotis	Endemic
+Western Ground Parrot	Pezoporus flaviventris	Endemic
  
-PASSERIFORMES: Rhinocryptidae
+PASSERIFORMES: Pittidae
  
-PASSERIFORMES: Furnariidae
+PASSERIFORMES: Menuridae
  
-PASSERIFORMES: Vireonidae
+PASSERIFORMES: Atrichornithidae
+ 
+PASSERIFORMES: Ptilonorhynchidae
+ 
+PASSERIFORMES: Climacteridae
+ 
+PASSERIFORMES: Maluridae
+ 
+PASSERIFORMES: Meliphagidae
+Hornbill Friarbird	Philemon yorki	Endemic
+ 
+PASSERIFORMES: Dasyornithidae
+ 
+PASSERIFORMES: Pardalotidae
+ 
+PASSERIFORMES: Acanthizidae
+ 
+PASSERIFORMES: Pomatostomidae
+ 
+PASSERIFORMES: Orthonychidae
+ 
+PASSERIFORMES: Psophodidae
+White-bellied Whipbird	Psophodes leucogaster	Endemic
+ 
+PASSERIFORMES: Cinclosomatidae
+ 
+PASSERIFORMES: Machaerirhynchidae
+ 
+PASSERIFORMES: Artamidae
+ 
+PASSERIFORMES: Campephagidae
+ 
+PASSERIFORMES: Neosittidae
+ 
+PASSERIFORMES: Oreoicidae
+ 
+PASSERIFORMES: Falcunculidae
+ 
+PASSERIFORMES: Pachycephalidae
+Western Whistler	Pachycephala occidentalis	Endemic
+Rufous Shrikethrush	Colluricincla rufogaster	
+ 
+PASSERIFORMES: Laniidae
+ 
+PASSERIFORMES: Oriolidae
+ 
+PASSERIFORMES: Dicruridae
+ 
+PASSERIFORMES: Rhipiduridae
+ 
+PASSERIFORMES: Monarchidae
+ 
+PASSERIFORMES: Corvidae
+ 
+PASSERIFORMES: Corcoracidae
+ 
+PASSERIFORMES: Paradisaeidae
+ 
+PASSERIFORMES: Petroicidae
+ 
+PASSERIFORMES: Alaudidae
+ 
+PASSERIFORMES: Pycnonotidae
  
 PASSERIFORMES: Hirundinidae
  
-PASSERIFORMES: Troglodytidae
+PASSERIFORMES: Phylloscopidae
  
-PASSERIFORMES: Mimidae
+PASSERIFORMES: Acrocephalidae
+ 
+PASSERIFORMES: Locustellidae
+ 
+PASSERIFORMES: Cisticolidae
+ 
+PASSERIFORMES: Zosteropidae
  
 PASSERIFORMES: Sturnidae
  
@@ -123,18 +210,17 @@ PASSERIFORMES: Turdidae
  
 PASSERIFORMES: Muscicapidae
  
+PASSERIFORMES: Dicaeidae
+ 
+PASSERIFORMES: Nectariniidae
+ 
 PASSERIFORMES: Passeridae
+ 
+PASSERIFORMES: Estrildidae
  
 PASSERIFORMES: Motacillidae
  
 PASSERIFORMES: Fringillidae
+Lesser Redpoll	Acanthis cabaret	Introduced species
  
-PASSERIFORMES: Passerellidae
- 
-PASSERIFORMES: Icteridae
- 
-PASSERIFORMES: Parulidae
- 
-PASSERIFORMES: Cardinalidae
- 
-PASSERIFORMES: Thraupidae
+PASSERIFORMES: Emberizidae

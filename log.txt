@@ -1,44 +1,43 @@
-STRUTHIONIFORMES: Struthionidae
  
-CASUARIIFORMES: Casuariidae
+TINAMIFORMES: Tinamidae
  
-GALLIFORMES: Megapodiidae
+ANSERIFORMES: Anhimidae
  
-GALLIFORMES: Numididae
+ANSERIFORMES: Anatidae
+Green-winged Teal	Anas carolinensis	Rare/Accidental
+Andean Duck	Oxyura ferruginea	
+ 
+GALLIFORMES: Cracidae
  
 GALLIFORMES: Odontophoridae
  
 GALLIFORMES: Phasianidae
  
-ANSERIFORMES: Anseranatidae
+CAPRIMULGIFORMES: Steatornithidae
  
-ANSERIFORMES: Anatidae
- 
-CAPRIMULGIFORMES: Podargidae
+CAPRIMULGIFORMES: Nyctibiidae
  
 CAPRIMULGIFORMES: Caprimulgidae
  
-APODIFORMES: Aegothelidae
- 
 APODIFORMES: Apodidae
  
-OTIDIFORMES: Otididae
+APODIFORMES: Trochilidae
  
 CUCULIFORMES: Cuculidae
  
 COLUMBIFORMES: Columbidae
  
-GRUIFORMES: Rallidae
-Australasian Swamphen	Porphyrio melanotus	
+GRUIFORMES: Heliornithidae
  
-GRUIFORMES: Gruidae
+GRUIFORMES: Rallidae
+ 
+GRUIFORMES: Psophiidae
+ 
+GRUIFORMES: Aramidae
  
 PODICIPEDIFORMES: Podicipedidae
-Tricolored Grebe	Tachybaptus tricolor	Rare/Accidental
  
 PHOENICOPTERIFORMES: Phoenicopteridae
- 
-CHARADRIIFORMES: Turnicidae
  
 CHARADRIIFORMES: Burhinidae
  
@@ -47,21 +46,19 @@ CHARADRIIFORMES: Haematopodidae
 CHARADRIIFORMES: Recurvirostridae
  
 CHARADRIIFORMES: Charadriidae
-Lesser Sand Plover	Charadrius mongolus	
- 
-CHARADRIIFORMES: Rostratulidae
  
 CHARADRIIFORMES: Jacanidae
  
-CHARADRIIFORMES: Pedionomidae
+CHARADRIIFORMES: Thinocoridae
  
 CHARADRIIFORMES: Scolopacidae
  
-CHARADRIIFORMES: Glareolidae
- 
 CHARADRIIFORMES: Laridae
+Cabot's Tern	Thalasseus acuflavidus	
  
 CHARADRIIFORMES: Stercorariidae
+ 
+EURYPYGIFORMES: Eurypygidae
  
 PHAETHONTIFORMES: Phaethontidae
  
@@ -70,12 +67,11 @@ SPHENISCIFORMES: Spheniscidae
 PROCELLARIIFORMES: Oceanitidae
  
 PROCELLARIIFORMES: Diomedeidae
-Campbell Albatross	Thalassarche impavida	Vulnerable
  
 PROCELLARIIFORMES: Hydrobatidae
+Hornby's Storm Petrel	Oceanodroma hornbyi	Rare/Accidental
  
 PROCELLARIIFORMES: Procellariidae
-Vanuatu Petrel	Pterodroma occulta	Rare/Accidental
  
 CICONIIFORMES: Ciconiidae
  
@@ -86,7 +82,6 @@ SULIFORMES: Sulidae
 SULIFORMES: Anhingidae
  
 SULIFORMES: Phalacrocoracidae
-Macquarie Shag	Leucocarbo purpurascens	Endemic
  
 PELECANIFORMES: Threskiornithidae
  
@@ -94,125 +89,94 @@ PELECANIFORMES: Ardeidae
  
 PELECANIFORMES: Pelecanidae
  
+OPISTHOCOMIFORMES: Opisthocomidae
+ 
+ACCIPITRIFORMES: Cathartidae
+ 
 ACCIPITRIFORMES: Pandionidae
-Eastern Osprey	Pandion cristatus	
  
 ACCIPITRIFORMES: Accipitridae
+Plain-breasted Hawk	Accipiter ventralis	
  
 STRIGIFORMES: Tytonidae
-Lesser Sooty Owl	Tyto multipunctata	Endemic
  
 STRIGIFORMES: Strigidae
  
-BUCEROTIFORMES: Upupidae
- 
-CORACIIFORMES: Coraciidae
+TROGONIFORMES: Trogonidae
  
 CORACIIFORMES: Alcedinidae
  
-CORACIIFORMES: Meropidae
+CORACIIFORMES: Momotidae
+ 
+PICIFORMES: Galbulidae
+ 
+PICIFORMES: Bucconidae
+ 
+PICIFORMES: Capitonidae
+ 
+PICIFORMES: Semnornithidae
+ 
+PICIFORMES: Ramphastidae
+Black-throated Toucanet	Aulacorhynchus atrogularis	
+Stripe-billed Aracari	Pteroglossus sanguineus	
+ 
+PICIFORMES: Picidae
+Scaly-breasted Woodpecker	Celeus grammicus	
  
 FALCONIFORMES: Falconidae
  
-PSITTACIFORMES: Strigopidae
+PSITTACIFORMES: Psittacidae
+White-capped Parrot	Pionus seniloides	
  
-PSITTACIFORMES: Cacatuidae
-Major Mitchell's Cockatoo	Lophochroa leadbeateri	Endemic
+PASSERIFORMES: Sapayoidae
  
-PSITTACIFORMES: Psittaculidae
-Lord Howe Parakeet	Cyanoramphus subflavescens	Endemic
-Macquarie Parakeet	Cyanoramphus erythrotis	Endemic
-Western Ground Parrot	Pezoporus flaviventris	Endemic
+PASSERIFORMES: Furnariidae
+Tschudi's Woodcreeper	Xiphorhynchus chunchotambo	
  
-PASSERIFORMES: Pittidae
+PASSERIFORMES: Thamnophilidae
  
-PASSERIFORMES: Menuridae
+PASSERIFORMES: Formicariidae
  
-PASSERIFORMES: Atrichornithidae
+PASSERIFORMES: Grallariidae
  
-PASSERIFORMES: Ptilonorhynchidae
+PASSERIFORMES: Conopophagidae
  
-PASSERIFORMES: Climacteridae
+PASSERIFORMES: Rhinocryptidae
  
-PASSERIFORMES: Maluridae
+PASSERIFORMES: Melanopareiidae
  
-PASSERIFORMES: Meliphagidae
-Hornbill Friarbird	Philemon yorki	Endemic
+PASSERIFORMES: Tyrannidae
+Loja Tyrannulet	Zimmerius flavidifrons	Endemic
+San Cristobal Flycatcher	Pyrocephalus dubius	Endemic
  
-PASSERIFORMES: Dasyornithidae
+PASSERIFORMES: Cotingidae
  
-PASSERIFORMES: Pardalotidae
+PASSERIFORMES: Pipridae
  
-PASSERIFORMES: Acanthizidae
+PASSERIFORMES: Tityridae
+Pacific Royal Flycatcher	Onychorhynchus occidentalis	Endemic
+Yellow-cheeked Becard	Pachyramphus xanthogenys	
  
-PASSERIFORMES: Pomatostomidae
- 
-PASSERIFORMES: Orthonychidae
- 
-PASSERIFORMES: Psophodidae
-White-bellied Whipbird	Psophodes leucogaster	Endemic
- 
-PASSERIFORMES: Cinclosomatidae
- 
-PASSERIFORMES: Machaerirhynchidae
- 
-PASSERIFORMES: Artamidae
- 
-PASSERIFORMES: Campephagidae
- 
-PASSERIFORMES: Neosittidae
- 
-PASSERIFORMES: Oreoicidae
- 
-PASSERIFORMES: Falcunculidae
- 
-PASSERIFORMES: Pachycephalidae
-Western Whistler	Pachycephala occidentalis	Endemic
-Rufous Shrikethrush	Colluricincla rufogaster	
- 
-PASSERIFORMES: Laniidae
- 
-PASSERIFORMES: Oriolidae
- 
-PASSERIFORMES: Dicruridae
- 
-PASSERIFORMES: Rhipiduridae
- 
-PASSERIFORMES: Monarchidae
+PASSERIFORMES: Vireonidae
+Tawny-crowned Greenlet	Hylophilus ochraceiceps	
  
 PASSERIFORMES: Corvidae
  
-PASSERIFORMES: Corcoracidae
- 
-PASSERIFORMES: Paradisaeidae
- 
-PASSERIFORMES: Petroicidae
- 
-PASSERIFORMES: Alaudidae
- 
-PASSERIFORMES: Pycnonotidae
+PASSERIFORMES: Bombycillidae
  
 PASSERIFORMES: Hirundinidae
  
-PASSERIFORMES: Phylloscopidae
+PASSERIFORMES: Donacobiidae
  
-PASSERIFORMES: Acrocephalidae
+PASSERIFORMES: Troglodytidae
  
-PASSERIFORMES: Locustellidae
+PASSERIFORMES: Polioptilidae
  
-PASSERIFORMES: Cisticolidae
- 
-PASSERIFORMES: Zosteropidae
- 
-PASSERIFORMES: Sturnidae
+PASSERIFORMES: Mimidae
  
 PASSERIFORMES: Turdidae
  
-PASSERIFORMES: Muscicapidae
- 
-PASSERIFORMES: Dicaeidae
- 
-PASSERIFORMES: Nectariniidae
+PASSERIFORMES: Cinclidae
  
 PASSERIFORMES: Passeridae
  
@@ -221,6 +185,20 @@ PASSERIFORMES: Estrildidae
 PASSERIFORMES: Motacillidae
  
 PASSERIFORMES: Fringillidae
-Lesser Redpoll	Acanthis cabaret	Introduced species
  
-PASSERIFORMES: Emberizidae
+PASSERIFORMES: Passerellidae
+ 
+PASSERIFORMES: Icteridae
+Northern Mountain Cacique	Cacicus leucoramphus	
+ 
+PASSERIFORMES: Parulidae
+ 
+PASSERIFORMES: Mitrospingidae
+ 
+PASSERIFORMES: Cardinalidae
+Tooth-billed Tanager	Piranga lutea	
+ 
+PASSERIFORMES: Thraupidae
+Yellow-tufted Dacnis	Dacnis egregia	
+Lemon-rumped Tanager	Ramphocelus icteronotus	
+Caqueta Seedeater	Sporophila murallae	

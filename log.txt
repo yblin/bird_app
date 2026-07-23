@@ -1,11 +1,11 @@
  
 ANSERIFORMES: Anatidae
  
+GALLIFORMES: Numididae
+ 
 GALLIFORMES: Phasianidae
  
 PHOENICOPTERIFORMES: Phoenicopteridae
- 
-PODICIPEDIFORMES: Podicipedidae
  
 CUCULIFORMES: Cuculidae
  
@@ -13,13 +13,13 @@ COLUMBIFORMES: Columbidae
  
 GRUIFORMES: Rallidae
  
-CHARADRIIFORMES: Recurvirostridae
- 
-CHARADRIIFORMES: Haematopodidae
+CHARADRIIFORMES: Burhinidae
  
 CHARADRIIFORMES: Charadriidae
  
 CHARADRIIFORMES: Scolopacidae
+ 
+CHARADRIIFORMES: Glareolidae
  
 CHARADRIIFORMES: Stercorariidae
  
@@ -27,15 +27,13 @@ CHARADRIIFORMES: Laridae
  
 PHAETHONTIFORMES: Phaethontidae
  
-SPHENISCIFORMES: Spheniscidae
- 
-PROCELLARIIFORMES: Diomedeidae
- 
 PROCELLARIIFORMES: Oceanitidae
  
 PROCELLARIIFORMES: Hydrobatidae
  
 PROCELLARIIFORMES: Procellariidae
+ 
+CICONIIFORMES: Ciconiidae
  
 SULIFORMES: Fregatidae
  
@@ -43,11 +41,9 @@ SULIFORMES: Sulidae
  
 SULIFORMES: Phalacrocoracidae
  
-PELECANIFORMES: Pelecanidae
+PELECANIFORMES: Threskiornithidae
  
 PELECANIFORMES: Ardeidae
- 
-CAPRIMULGIFORMES: Caprimulgidae
  
 APODIFORMES: Apodidae
  
@@ -59,26 +55,52 @@ ACCIPITRIFORMES: Pandionidae
  
 ACCIPITRIFORMES: Accipitridae
  
+CORACIIFORMES: Coraciidae
+ 
 CORACIIFORMES: Alcedinidae
  
 FALCONIFORMES: Falconidae
  
-PASSERIFORMES: Tyrannidae
+PSITTACIFORMES: Psittacidae
  
-PASSERIFORMES: Vireonidae
+PSITTACIFORMES: Psittaculidae
+ 
+PASSERIFORMES: Oriolidae
+ 
+PASSERIFORMES: Dicruridae
+ 
+PASSERIFORMES: Monarchidae
+ 
+PASSERIFORMES: Laniidae
+ 
+PASSERIFORMES: Cisticolidae
+ 
+PASSERIFORMES: Acrocephalidae
  
 PASSERIFORMES: Hirundinidae
  
-PASSERIFORMES: Bombycillidae
+PASSERIFORMES: Phylloscopidae
  
-PASSERIFORMES: Mimidae
+PASSERIFORMES: Sylviidae
+ 
+PASSERIFORMES: Zosteropidae
+ 
+PASSERIFORMES: Sturnidae
  
 PASSERIFORMES: Turdidae
  
-PASSERIFORMES: Icteridae
+PASSERIFORMES: Muscicapidae
  
-PASSERIFORMES: Parulidae
+PASSERIFORMES: Nectariniidae
  
-PASSERIFORMES: Cardinalidae
+PASSERIFORMES: Ploceidae
  
-PASSERIFORMES: Thraupidae
+PASSERIFORMES: Viduidae
+ 
+PASSERIFORMES: Estrildidae
+ 
+PASSERIFORMES: Passeridae
+ 
+PASSERIFORMES: Motacillidae
+ 
+PASSERIFORMES: Fringillidae

@@ -1647,7 +1647,7 @@
 --------,地刺鹩属,,Calamanthus
 --------,岩刺莺属,,Origma
 --------,黄喉丝刺莺属,,Neosericornis
---------,巴布亚丝刺莺属*,,Aethomyias
+--------,白喉丝刺莺属,,Aethomyias
 --------,丝刺莺属,,Sericornis
 ----,吸蜜鸟科,Honeyeaters,Meliphagidae
 --------,汲蜜鸟属,,Myza
@@ -1720,7 +1720,7 @@
 --------,鸣鹃鵙属,,Lalage
 --------,蓝鹃鵙属,,Cyanograucalus
 --------,姬鹃鵙属,,Celebesica
---------,灰鹃鵙属*,,Edolisoma
+--------,长嘴鹃鵙属,,Edolisoma
 ----,黄头刺莺科,Whiteheads,Mohouidae
 --------,黄头刺莺属,,Mohoua
 ----,船嘴鹟科,Boatbills,Machaerirhynchidae
@@ -2215,7 +2215,7 @@
 --------,斑旋木雀属,,Salpornis
 ----,旋木雀科,Treecreepers,Certhiidae
 --------,旋木雀属,,Certhia
-----,蚋鹩科,Gnatwrens & Gnatcatchers,Polioptilidae
+----,蚋莺科,Gnatwrens & Gnatcatchers,Polioptilidae
 --------,领蚋莺属,,Microbates
 --------,长嘴蚋莺属,,Ramphocaenus
 --------,蚋莺属,,Polioptila
@@ -2449,7 +2449,7 @@
 --------,黑雀属,,Nigrita
 --------,灰头绿背织雀属,,Delacourella
 --------,黑颊梅花雀属,,Brunhilda
---------,淡蓝梅花雀属*,,Glaucestrilda
+--------,银灰梅花雀属,,Glaucestrilda
 --------,梅花雀属,,Estrilda
 --------,蝗鹑雀属,,Paludipasser
 --------,鹑雀属,,Ortygospiza
@@ -2677,7 +2677,7 @@
 --------,灰头唐纳雀属,,Eucometis
 --------,明黄唐拉格雀属,,Heliothraupis
 --------,黑脸唐拉格雀属,,Trichothraupis
---------,白肩黑唐纳雀属*,,Loriotus
+--------,火冠黑唐纳雀属,,Loriotus
 --------,红顶雀属,,Coryphospingus
 --------,红胸雀属,,Rhodospingus
 --------,唐纳鵙属,,Lanio
@@ -2762,5 +2762,5 @@
 --------,金颈靓唐纳雀属,,Chalcothraupis
 --------,裸鼻雀属,,Thraupis
 --------,斑靓唐纳雀属,,Ixothraupis
---------,斑胸靓唐纳雀属*,,Poecilostreptus
+--------,灰黄靓唐纳雀属,,Poecilostreptus
 --------,黑头靓唐纳雀属,,Stilpnia

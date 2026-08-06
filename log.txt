@@ -1,59 +1,56 @@
- 
-TINAMIFORMES: Tinamidae
- 
-ANSERIFORMES: Anhimidae
- 
 ANSERIFORMES: Anatidae
+Green-winged Teal	Anas carolinensis	Rare/Accidental
  
-GALLIFORMES: Cracidae
+GALLIFORMES: Phasianidae
  
-GALLIFORMES: Odontophoridae
+CAPRIMULGIFORMES: Caprimulgidae
  
-PHOENICOPTERIFORMES: Phoenicopteridae
+APODIFORMES: Apodidae
  
-PODICIPEDIFORMES: Podicipedidae
+OTIDIFORMES: Otididae
  
 CUCULIFORMES: Cuculidae
  
+PTEROCLIFORMES: Pteroclidae
+ 
 COLUMBIFORMES: Columbidae
- 
-OPISTHOCOMIFORMES: Opisthocomidae
- 
-GRUIFORMES: Psophiidae
- 
-GRUIFORMES: Aramidae
- 
-GRUIFORMES: Heliornithidae
  
 GRUIFORMES: Rallidae
  
-CHARADRIIFORMES: Burhinidae
+GRUIFORMES: Gruidae
  
-CHARADRIIFORMES: Recurvirostridae
+PODICIPEDIFORMES: Podicipedidae
+ 
+CHARADRIIFORMES: Turnicidae
  
 CHARADRIIFORMES: Haematopodidae
  
-CHARADRIIFORMES: Charadriidae
+CHARADRIIFORMES: Recurvirostridae
  
-CHARADRIIFORMES: Thinocoridae
+CHARADRIIFORMES: Charadriidae
+Lesser Sand Plover	Charadrius mongolus	
+ 
+CHARADRIIFORMES: Rostratulidae
  
 CHARADRIIFORMES: Jacanidae
  
 CHARADRIIFORMES: Scolopacidae
  
-CHARADRIIFORMES: Stercorariidae
+CHARADRIIFORMES: Glareolidae
  
 CHARADRIIFORMES: Laridae
  
-EURYPYGIFORMES: Eurypygidae
+CHARADRIIFORMES: Stercorariidae
+ 
+CHARADRIIFORMES: Alcidae
  
 PHAETHONTIFORMES: Phaethontidae
  
-SPHENISCIFORMES: Spheniscidae
- 
-PROCELLARIIFORMES: Diomedeidae
+GAVIIFORMES: Gaviidae
  
 PROCELLARIIFORMES: Oceanitidae
+ 
+PROCELLARIIFORMES: Diomedeidae
  
 PROCELLARIIFORMES: Hydrobatidae
  
@@ -65,126 +62,126 @@ SULIFORMES: Fregatidae
  
 SULIFORMES: Sulidae
  
-SULIFORMES: Anhingidae
- 
 SULIFORMES: Phalacrocoracidae
  
 PELECANIFORMES: Threskiornithidae
  
-PELECANIFORMES: Pelecanidae
- 
 PELECANIFORMES: Ardeidae
  
-CAPRIMULGIFORMES: Caprimulgidae
+PELECANIFORMES: Pelecanidae
  
-STEATORNITHIFORMES: Steatornithidae
+ACCIPITRIFORMES: Pandionidae
  
-NYCTIBIIFORMES: Nyctibiidae
- 
-APODIFORMES: Apodidae
- 
-APODIFORMES: Trochilidae
+ACCIPITRIFORMES: Accipitridae
+Northern Goshawk	Accipiter gentilis	
  
 STRIGIFORMES: Tytonidae
  
 STRIGIFORMES: Strigidae
  
-CATHARTIFORMES: Cathartidae
+BUCEROTIFORMES: Upupidae
  
-ACCIPITRIFORMES: Pandionidae
- 
-ACCIPITRIFORMES: Accipitridae
- 
-TROGONIFORMES: Trogonidae
- 
-CORACIIFORMES: Momotidae
+CORACIIFORMES: Coraciidae
  
 CORACIIFORMES: Alcedinidae
  
-GALBULIFORMES: Galbulidae
- 
-GALBULIFORMES: Bucconidae
- 
-PICIFORMES: Capitonidae
- 
-PICIFORMES: Semnornithidae
- 
-PICIFORMES: Ramphastidae
+CORACIIFORMES: Meropidae
  
 PICIFORMES: Picidae
  
 FALCONIFORMES: Falconidae
  
-PSITTACIFORMES: Psittacidae
+PSITTACIFORMES: Psittaculidae
  
-PASSERIFORMES: Sapayoidae
+PASSERIFORMES: Pittidae
  
-PASSERIFORMES: Pipridae
+PASSERIFORMES: Artamidae
  
-PASSERIFORMES: Cotingidae
+PASSERIFORMES: Campephagidae
  
-PASSERIFORMES: Tityridae
+PASSERIFORMES: Laniidae
  
-PASSERIFORMES: Oxyruncidae
+PASSERIFORMES: Oriolidae
  
-PASSERIFORMES: Onychorhynchidae
+PASSERIFORMES: Dicruridae
  
-PASSERIFORMES: Tyrannidae
- 
-PASSERIFORMES: Conopophagidae
- 
-PASSERIFORMES: Thamnophilidae
- 
-PASSERIFORMES: Grallariidae
- 
-PASSERIFORMES: Rhinocryptidae
- 
-PASSERIFORMES: Formicariidae
- 
-PASSERIFORMES: Furnariidae
- 
-PASSERIFORMES: Vireonidae
+PASSERIFORMES: Monarchidae
  
 PASSERIFORMES: Corvidae
  
+PASSERIFORMES: Bombycillidae
+ 
+PASSERIFORMES: Paridae
+Japanese Tit	Parus minor	
+ 
+PASSERIFORMES: Remizidae
+ 
+PASSERIFORMES: Panuridae
+ 
 PASSERIFORMES: Alaudidae
  
-PASSERIFORMES: Donacobiidae
+PASSERIFORMES: Pycnonotidae
  
 PASSERIFORMES: Hirundinidae
  
-PASSERIFORMES: Bombycillidae
+PASSERIFORMES: Cettiidae
  
-PASSERIFORMES: Polioptilidae
+PASSERIFORMES: Aegithalidae
+ 
+PASSERIFORMES: Phylloscopidae
+ 
+PASSERIFORMES: Acrocephalidae
+ 
+PASSERIFORMES: Locustellidae
+ 
+PASSERIFORMES: Cisticolidae
+ 
+PASSERIFORMES: Sylviidae
+ 
+PASSERIFORMES: Zosteropidae
+ 
+PASSERIFORMES: Leiothrichidae
+ 
+PASSERIFORMES: Regulidae
  
 PASSERIFORMES: Troglodytidae
  
-PASSERIFORMES: Mimidae
+PASSERIFORMES: Sittidae
+ 
+PASSERIFORMES: Certhiidae
+ 
+PASSERIFORMES: Sturnidae
+ 
+PASSERIFORMES: Turdidae
+ 
+PASSERIFORMES: Muscicapidae
+Stejneger's Stonechat	Saxicola stejnegeri	
  
 PASSERIFORMES: Cinclidae
  
-PASSERIFORMES: Turdidae
+PASSERIFORMES: Passeridae
  
 PASSERIFORMES: Ploceidae
  
 PASSERIFORMES: Estrildidae
  
-PASSERIFORMES: Passeridae
+PASSERIFORMES: Viduidae
+ 
+PASSERIFORMES: Prunellidae
  
 PASSERIFORMES: Motacillidae
  
 PASSERIFORMES: Fringillidae
+Bonin Greenfinch	Chloris kittlitzi	Endemic
+Arctic Redpoll	Acanthis hornemanni	Rare/Accidental
  
-PASSERIFORMES: Rhodinocichlidae
+PASSERIFORMES: Calcariidae
+ 
+PASSERIFORMES: Emberizidae
  
 PASSERIFORMES: Passerellidae
- 
-PASSERIFORMES: Icteridae
+Sooty Fox Sparrow	Passerella unalaschcensis	Rare/Accidental
  
 PASSERIFORMES: Parulidae
- 
-PASSERIFORMES: Cardinalidae
- 
-PASSERIFORMES: Mitrospingidae
  
 PASSERIFORMES: Thraupidae

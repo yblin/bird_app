@@ -1,4 +1,4 @@
-I0806 13:22:31.066 main_window.cc:435]
+I0806 13:38:32.293 main_window.cc:435]
  
 ANSERIFORMES: Anatidae
  
@@ -192,1082 +192,563 @@ PASSERIFORMES: Motacillidae
  
 PASSERIFORMES: Fringillidae
 
-I0806 13:22:33.203 main_window.cc:435]
- 
-ANSERIFORMES: Anatidae
- 
-GALLIFORMES: Megapodiidae
- 
-GALLIFORMES: Phasianidae
- 
-CAPRIMULGIFORMES: Caprimulgidae
- 
-PODARGIFORMES: Podargidae
- 
-APODIFORMES: Hemiprocnidae
- 
-APODIFORMES: Apodidae
- 
-CUCULIFORMES: Cuculidae
- 
-COLUMBIFORMES: Columbidae
- 
-GRUIFORMES: Heliornithidae
- 
-GRUIFORMES: Rallidae
-Black-backed Swamphen	Porphyrio indicus	
- 
-PODICIPEDIFORMES: Podicipedidae
-Tricolored Grebe	Tachybaptus tricolor	
- 
-CHARADRIIFORMES: Turnicidae
- 
-CHARADRIIFORMES: Burhinidae
- 
-CHARADRIIFORMES: Recurvirostridae
- 
-CHARADRIIFORMES: Charadriidae
- 
-CHARADRIIFORMES: Rostratulidae
- 
-CHARADRIIFORMES: Jacanidae
- 
-CHARADRIIFORMES: Scolopacidae
- 
-CHARADRIIFORMES: Glareolidae
- 
-CHARADRIIFORMES: Laridae
- 
-CHARADRIIFORMES: Stercorariidae
- 
-PHAETHONTIFORMES: Phaethontidae
- 
-PROCELLARIIFORMES: Oceanitidae
- 
-PROCELLARIIFORMES: Hydrobatidae
- 
-PROCELLARIIFORMES: Procellariidae
- 
-CICONIIFORMES: Ciconiidae
- 
-SULIFORMES: Fregatidae
- 
-SULIFORMES: Sulidae
- 
-SULIFORMES: Anhingidae
- 
-SULIFORMES: Phalacrocoracidae
- 
-PELECANIFORMES: Threskiornithidae
- 
-PELECANIFORMES: Ardeidae
- 
-PELECANIFORMES: Pelecanidae
- 
-ACCIPITRIFORMES: Pandionidae
- 
-ACCIPITRIFORMES: Accipitridae
- 
-STRIGIFORMES: Tytonidae
- 
-STRIGIFORMES: Strigidae
- 
-TROGONIFORMES: Trogonidae
- 
-BUCEROTIFORMES: Bucerotidae
- 
-CORACIIFORMES: Coraciidae
- 
-CORACIIFORMES: Alcedinidae
- 
-CORACIIFORMES: Meropidae
- 
-PICIFORMES: Megalaimidae
- 
-PICIFORMES: Picidae
- 
-FALCONIFORMES: Falconidae
- 
-PSITTACIFORMES: Cacatuidae
- 
-PSITTACIFORMES: Psittaculidae
- 
-PASSERIFORMES: Eurylaimidae
- 
-PASSERIFORMES: Pittidae
- 
-PASSERIFORMES: Meliphagidae
- 
-PASSERIFORMES: Acanthizidae
- 
-PASSERIFORMES: Vangidae
- 
-PASSERIFORMES: Artamidae
- 
-PASSERIFORMES: Aegithinidae
- 
-PASSERIFORMES: Campephagidae
- 
-PASSERIFORMES: Pachycephalidae
- 
-PASSERIFORMES: Vireonidae
- 
-PASSERIFORMES: Oriolidae
- 
-PASSERIFORMES: Dicruridae
- 
-PASSERIFORMES: Rhipiduridae
- 
-PASSERIFORMES: Monarchidae
- 
-PASSERIFORMES: Platylophidae
- 
-PASSERIFORMES: Laniidae
- 
-PASSERIFORMES: Corvidae
- 
-PASSERIFORMES: Stenostiridae
- 
-PASSERIFORMES: Paridae
- 
-PASSERIFORMES: Alaudidae
- 
-PASSERIFORMES: Pycnonotidae
- 
-PASSERIFORMES: Hirundinidae
- 
-PASSERIFORMES: Pnoepygidae
- 
-PASSERIFORMES: Cettiidae
- 
-PASSERIFORMES: Aegithalidae
- 
-PASSERIFORMES: Phylloscopidae
- 
-PASSERIFORMES: Acrocephalidae
- 
-PASSERIFORMES: Locustellidae
- 
-PASSERIFORMES: Cisticolidae
- 
-PASSERIFORMES: Zosteropidae
- 
-PASSERIFORMES: Timaliidae
- 
-PASSERIFORMES: Pellorneidae
- 
-PASSERIFORMES: Alcippeidae
- 
-PASSERIFORMES: Leiothrichidae
- 
-PASSERIFORMES: Irenidae
- 
-PASSERIFORMES: Sittidae
- 
-PASSERIFORMES: Sturnidae
- 
-PASSERIFORMES: Turdidae
- 
-PASSERIFORMES: Muscicapidae
- 
-PASSERIFORMES: Chloropseidae
- 
-PASSERIFORMES: Dicaeidae
- 
-PASSERIFORMES: Nectariniidae
- 
-PASSERIFORMES: Passeridae
- 
-PASSERIFORMES: Ploceidae
- 
-PASSERIFORMES: Estrildidae
- 
-PASSERIFORMES: Motacillidae
- 
-PASSERIFORMES: Fringillidae
-
-I0806 13:22:35.154 main_window.cc:435]
- 
-ANSERIFORMES: Anatidae
- 
-GALLIFORMES: Megapodiidae
- 
-GALLIFORMES: Phasianidae
- 
-CAPRIMULGIFORMES: Caprimulgidae
- 
-PODARGIFORMES: Podargidae
- 
-APODIFORMES: Hemiprocnidae
- 
-APODIFORMES: Apodidae
- 
-CUCULIFORMES: Cuculidae
- 
-COLUMBIFORMES: Columbidae
- 
-GRUIFORMES: Heliornithidae
- 
-GRUIFORMES: Rallidae
-Black-backed Swamphen	Porphyrio indicus	
- 
-PODICIPEDIFORMES: Podicipedidae
-Tricolored Grebe	Tachybaptus tricolor	
- 
-CHARADRIIFORMES: Turnicidae
- 
-CHARADRIIFORMES: Burhinidae
- 
-CHARADRIIFORMES: Recurvirostridae
- 
-CHARADRIIFORMES: Charadriidae
- 
-CHARADRIIFORMES: Rostratulidae
- 
-CHARADRIIFORMES: Jacanidae
- 
-CHARADRIIFORMES: Scolopacidae
- 
-CHARADRIIFORMES: Glareolidae
- 
-CHARADRIIFORMES: Laridae
- 
-CHARADRIIFORMES: Stercorariidae
- 
-PHAETHONTIFORMES: Phaethontidae
- 
-PROCELLARIIFORMES: Oceanitidae
- 
-PROCELLARIIFORMES: Hydrobatidae
- 
-PROCELLARIIFORMES: Procellariidae
- 
-CICONIIFORMES: Ciconiidae
- 
-SULIFORMES: Fregatidae
- 
-SULIFORMES: Sulidae
- 
-SULIFORMES: Anhingidae
- 
-SULIFORMES: Phalacrocoracidae
- 
-PELECANIFORMES: Threskiornithidae
- 
-PELECANIFORMES: Ardeidae
- 
-PELECANIFORMES: Pelecanidae
- 
-ACCIPITRIFORMES: Pandionidae
- 
-ACCIPITRIFORMES: Accipitridae
- 
-STRIGIFORMES: Tytonidae
- 
-STRIGIFORMES: Strigidae
- 
-TROGONIFORMES: Trogonidae
- 
-BUCEROTIFORMES: Bucerotidae
- 
-CORACIIFORMES: Coraciidae
- 
-CORACIIFORMES: Alcedinidae
- 
-CORACIIFORMES: Meropidae
- 
-PICIFORMES: Megalaimidae
- 
-PICIFORMES: Picidae
- 
-FALCONIFORMES: Falconidae
- 
-PSITTACIFORMES: Cacatuidae
- 
-PSITTACIFORMES: Psittaculidae
- 
-PASSERIFORMES: Eurylaimidae
- 
-PASSERIFORMES: Pittidae
- 
-PASSERIFORMES: Meliphagidae
- 
-PASSERIFORMES: Acanthizidae
- 
-PASSERIFORMES: Vangidae
- 
-PASSERIFORMES: Artamidae
- 
-PASSERIFORMES: Aegithinidae
- 
-PASSERIFORMES: Campephagidae
- 
-PASSERIFORMES: Pachycephalidae
- 
-PASSERIFORMES: Vireonidae
- 
-PASSERIFORMES: Oriolidae
- 
-PASSERIFORMES: Dicruridae
- 
-PASSERIFORMES: Rhipiduridae
- 
-PASSERIFORMES: Monarchidae
- 
-PASSERIFORMES: Platylophidae
- 
-PASSERIFORMES: Laniidae
- 
-PASSERIFORMES: Corvidae
- 
-PASSERIFORMES: Stenostiridae
- 
-PASSERIFORMES: Paridae
- 
-PASSERIFORMES: Alaudidae
- 
-PASSERIFORMES: Pycnonotidae
- 
-PASSERIFORMES: Hirundinidae
- 
-PASSERIFORMES: Pnoepygidae
- 
-PASSERIFORMES: Cettiidae
- 
-PASSERIFORMES: Aegithalidae
- 
-PASSERIFORMES: Phylloscopidae
- 
-PASSERIFORMES: Acrocephalidae
- 
-PASSERIFORMES: Locustellidae
- 
-PASSERIFORMES: Cisticolidae
- 
-PASSERIFORMES: Zosteropidae
- 
-PASSERIFORMES: Timaliidae
- 
-PASSERIFORMES: Pellorneidae
- 
-PASSERIFORMES: Alcippeidae
- 
-PASSERIFORMES: Leiothrichidae
- 
-PASSERIFORMES: Irenidae
- 
-PASSERIFORMES: Sittidae
- 
-PASSERIFORMES: Sturnidae
- 
-PASSERIFORMES: Turdidae
- 
-PASSERIFORMES: Muscicapidae
- 
-PASSERIFORMES: Chloropseidae
- 
-PASSERIFORMES: Dicaeidae
- 
-PASSERIFORMES: Nectariniidae
- 
-PASSERIFORMES: Passeridae
- 
-PASSERIFORMES: Ploceidae
- 
-PASSERIFORMES: Estrildidae
- 
-PASSERIFORMES: Motacillidae
- 
-PASSERIFORMES: Fringillidae
-
-I0806 13:23:02.186 main_window.cc:638] F:/bird_app/export_sounds/林鸳鸯_Aix sponsa_鸣叫.mp3
-I0806 13:23:02.187 main_window.cc:638] F:/bird_app/export_sounds/针尾鸭_Anas acuta.mp3
-I0806 13:23:02.187 main_window.cc:638] F:/bird_app/export_sounds/北美斑鸭_Anas fulvigula.mp3
-I0806 13:23:02.188 main_window.cc:638] F:/bird_app/export_sounds/莱岛鸭_Anas laysanensis.mp3
-I0806 13:23:02.189 main_window.cc:638] F:/bird_app/export_sounds/绿头鸭_Anas platyrhynchos_鸣叫.mp3
-I0806 13:23:02.189 main_window.cc:638] F:/bird_app/export_sounds/北美黑鸭_Anas rubripes.mp3
-I0806 13:23:02.190 main_window.cc:638] F:/bird_app/export_sounds/斑嘴鸭_Anas zonorhyncha.mp3
-I0806 13:23:02.190 main_window.cc:638] F:/bird_app/export_sounds/白额雁_Anser albifrons_鸣叫.mp3
-I0806 13:23:02.191 main_window.cc:638] F:/bird_app/export_sounds/粉脚雁_Anser brachyrhynchus.mp3
-I0806 13:23:02.192 main_window.cc:638] F:/bird_app/export_sounds/雪雁_Anser caerulescens.mp3
-I0806 13:23:02.192 main_window.cc:638] F:/bird_app/export_sounds/帝雁_Anser canagicus.mp3
-I0806 13:23:02.192 main_window.cc:638] F:/bird_app/export_sounds/鸿雁_Anser cygnoides.mp3
-I0806 13:23:02.193 main_window.cc:638] F:/bird_app/export_sounds/豆雁_Anser fabalis.mp3
-I0806 13:23:02.193 main_window.cc:638] F:/bird_app/export_sounds/短嘴豆雁_Anser serrirostris.mp3
-I0806 13:23:02.193 main_window.cc:638] F:/bird_app/export_sounds/小潜鸭_Aythya affinis.mp3
-I0806 13:23:02.194 main_window.cc:638] F:/bird_app/export_sounds/美洲潜鸭_Aythya americana.mp3
-I0806 13:23:02.194 main_window.cc:638] F:/bird_app/export_sounds/环颈潜鸭_Aythya collaris.mp3
-I0806 13:23:02.195 main_window.cc:638] F:/bird_app/export_sounds/红头潜鸭_Aythya ferina.mp3
-I0806 13:23:02.195 main_window.cc:638] F:/bird_app/export_sounds/凤头潜鸭_Aythya fuligula.mp3
-I0806 13:23:02.195 main_window.cc:638] F:/bird_app/export_sounds/斑背潜鸭_Aythya marila.mp3
-I0806 13:23:02.196 main_window.cc:638] F:/bird_app/export_sounds/帆背潜鸭_Aythya valisineria.mp3
-I0806 13:23:02.196 main_window.cc:638] F:/bird_app/export_sounds/黑雁_Branta bernicla_鸣叫.mp3
-I0806 13:23:02.196 main_window.cc:638] F:/bird_app/export_sounds/加拿大黑雁_Branta canadensis_鸣叫.mp3
-I0806 13:23:02.197 main_window.cc:638] F:/bird_app/export_sounds/小美洲黑雁_Branta hutchinsii_鸣叫.mp3
-I0806 13:23:02.197 main_window.cc:638] F:/bird_app/export_sounds/白颊黑雁_Branta leucopsis_鸣叫.mp3
-I0806 13:23:02.198 main_window.cc:638] F:/bird_app/export_sounds/夏威夷黑雁_Branta sandvicensis.mp3
-I0806 13:23:02.198 main_window.cc:638] F:/bird_app/export_sounds/白枕鹊鸭_Bucephala albeola_鸣叫.mp3
-I0806 13:23:02.199 main_window.cc:638] F:/bird_app/export_sounds/鹊鸭_Bucephala clangula.mp3
-I0806 13:23:02.199 main_window.cc:638] F:/bird_app/export_sounds/巴氏鹊鸭_Bucephala islandica.mp3
-I0806 13:23:02.199 main_window.cc:638] F:/bird_app/export_sounds/长尾鸭_Clangula hyemalis.mp3
-I0806 13:23:02.200 main_window.cc:638] F:/bird_app/export_sounds/黑腹树鸭_Dendrocygna autumnalis_鸣叫 (fulgens).mp3
-I0806 13:23:02.200 main_window.cc:638] F:/bird_app/export_sounds/茶色树鸭_Dendrocygna bicolor.mp3
-I0806 13:23:02.201 main_window.cc:638] F:/bird_app/export_sounds/丑鸭_Histrionicus histrionicus.mp3
-I0806 13:23:02.201 main_window.cc:638] F:/bird_app/export_sounds/棕胁秋沙鸭_Lophodytes cucullatus_飞行叫声.mp3
-I0806 13:23:02.201 main_window.cc:638] F:/bird_app/export_sounds/绿眉鸭_Mareca americana.mp3
-I0806 13:23:02.202 main_window.cc:638] F:/bird_app/export_sounds/赤颈鸭_Mareca penelope.mp3
-I0806 13:23:02.202 main_window.cc:638] F:/bird_app/export_sounds/赤膀鸭_Mareca strepera.mp3
-I0806 13:23:02.203 main_window.cc:638] F:/bird_app/export_sounds/黑海番鸭_Melanitta americana.mp3
-I0806 13:23:02.203 main_window.cc:638] F:/bird_app/export_sounds/斑头海番鸭_Melanitta perspicillata.mp3
-I0806 13:23:02.203 main_window.cc:638] F:/bird_app/export_sounds/斑头秋沙鸭_Mergellus albellus.mp3
-I0806 13:23:02.204 main_window.cc:638] F:/bird_app/export_sounds/普通秋沙鸭_Mergus merganser.mp3
-I0806 13:23:02.204 main_window.cc:638] F:/bird_app/export_sounds/红胸秋沙鸭_Mergus serrator.mp3
-I0806 13:23:02.204 main_window.cc:638] F:/bird_app/export_sounds/花脸硬尾鸭_Nomonyx dominicus.mp3
-I0806 13:23:02.207 main_window.cc:638] F:/bird_app/export_sounds/棕硬尾鸭_Oxyura jamaicensis.mp3
-I0806 13:23:02.208 main_window.cc:638] F:/bird_app/export_sounds/小绒鸭_Polysticta stelleri.mp3
-I0806 13:23:02.208 main_window.cc:638] F:/bird_app/export_sounds/白眶绒鸭_Somateria fischeri.mp3
-I0806 13:23:02.209 main_window.cc:638] F:/bird_app/export_sounds/欧绒鸭_Somateria mollissima.mp3
-I0806 13:23:02.209 main_window.cc:638] F:/bird_app/export_sounds/王绒鸭_Somateria spectabilis.mp3
-I0806 13:23:02.209 main_window.cc:638] F:/bird_app/export_sounds/琵嘴鸭_Spatula clypeata.mp3
-I0806 13:23:02.210 main_window.cc:638] F:/bird_app/export_sounds/蓝翅鸭_Spatula discors.mp3
-I0806 13:23:02.210 main_window.cc:638] F:/bird_app/export_sounds/白眉鸭_Spatula querquedula.mp3
-I0806 13:23:02.211 main_window.cc:638] F:/bird_app/export_sounds/马岛塚雉_Megapodius laperouse.mp3
-I0806 13:23:02.211 main_window.cc:638] F:/bird_app/export_sounds/石鸡_Alectoris chukar_鸣唱.mp3
-I0806 13:23:02.211 main_window.cc:638] F:/bird_app/export_sounds/海南山鹧鸪_Arborophila ardens_二重唱.mp3
-I0806 13:23:02.212 main_window.cc:638] F:/bird_app/export_sounds/白眉山鹧鸪_Arborophila gingica_鸣唱.mp3
-I0806 13:23:02.213 main_window.cc:638] F:/bird_app/export_sounds/披肩榛鸡_Bonasa umbellus_求偶展示.mp3
-I0806 13:23:02.213 main_window.cc:638] F:/bird_app/export_sounds/枞树镰翅鸡_Canachites canadensis_鸣叫.mp3
-I0806 13:23:02.213 main_window.cc:638] F:/bird_app/export_sounds/小艾草松鸡_Centrocercus minimus_求偶场.mp3
-I0806 13:23:02.214 main_window.cc:638] F:/bird_app/export_sounds/艾草松鸡_Centrocercus urophasianus_求偶场.mp3
-I0806 13:23:02.214 main_window.cc:638] F:/bird_app/export_sounds/鹌鹑_Coturnix japonica_鸣唱.mp3
-I0806 13:23:02.214 main_window.cc:638] F:/bird_app/export_sounds/乌镰翅鸡_Dendragapus fuliginosus_鸣唱.mp3
-I0806 13:23:02.215 main_window.cc:638] F:/bird_app/export_sounds/黑鹧鸪_Francolinus francolinus_鸣唱 (Eastern).mp3
-I0806 13:23:02.215 main_window.cc:638] F:/bird_app/export_sounds/中华鹧鸪_Francolinus pintadeanus_鸣唱.mp3
-I0806 13:23:02.216 main_window.cc:638] F:/bird_app/export_sounds/红原鸡_Gallus gallus.mp3
-I0806 13:23:02.216 main_window.cc:638] F:/bird_app/export_sounds/柳雷鸟_Lagopus lagopus.mp3
-I0806 13:23:02.216 main_window.cc:638] F:/bird_app/export_sounds/白尾雷鸟_Lagopus leucura.mp3
-I0806 13:23:02.217 main_window.cc:638] F:/bird_app/export_sounds/岩雷鸟_Lagopus muta.mp3
-I0806 13:23:02.217 main_window.cc:638] F:/bird_app/export_sounds/黑鹇_Lophura leucomelanos.mp3
-I0806 13:23:02.217 main_window.cc:638] F:/bird_app/export_sounds/火鸡_Meleagris gallopavo.mp3
-I0806 13:23:02.218 main_window.cc:638] F:/bird_app/export_sounds/灰鹧鸪_Ortygornis pondicerianus.mp3
-I0806 13:23:02.218 main_window.cc:638] F:/bird_app/export_sounds/蓝孔雀_Pavo cristatus.mp3
-I0806 13:23:02.219 main_window.cc:638] F:/bird_app/export_sounds/灰山鹑_Perdix perdix.mp3
-I0806 13:23:02.219 main_window.cc:638] F:/bird_app/export_sounds/雉鸡_Phasianus colchicus.mp3
-I0806 13:23:02.220 main_window.cc:638] F:/bird_app/export_sounds/棕顶鹧鸪_Pternistis erckelii.mp3
-I0806 13:23:02.220 main_window.cc:638] F:/bird_app/export_sounds/草原松鸡_Tympanuchus cupido.mp3
-I0806 13:23:02.220 main_window.cc:638] F:/bird_app/export_sounds/小草原松鸡_Tympanuchus pallidicinctus.mp3
-I0806 13:23:02.221 main_window.cc:638] F:/bird_app/export_sounds/尖尾松鸡_Tympanuchus phasianellus.mp3
-I0806 13:23:02.221 main_window.cc:638] F:/bird_app/export_sounds/克氏䴙䴘_Aechmophorus clarkii_鸣叫.mp3
-I0806 13:23:02.222 main_window.cc:638] F:/bird_app/export_sounds/北美䴙䴘_Aechmophorus occidentalis_鸣叫.mp3
-I0806 13:23:02.222 main_window.cc:638] F:/bird_app/export_sounds/角䴙䴘_Podiceps auritus.mp3
-I0806 13:23:02.222 main_window.cc:638] F:/bird_app/export_sounds/赤颈䴙䴘_Podiceps grisegena.mp3
-I0806 13:23:02.223 main_window.cc:638] F:/bird_app/export_sounds/黑颈䴙䴘_Podiceps nigricollis.mp3
-I0806 13:23:02.223 main_window.cc:638] F:/bird_app/export_sounds/斑嘴巨䴙䴘_Podilymbus podiceps.mp3
-I0806 13:23:02.223 main_window.cc:638] F:/bird_app/export_sounds/侏䴙䴘_Tachybaptus dominicus.mp3
-I0806 13:23:02.224 main_window.cc:638] F:/bird_app/export_sounds/八声杜鹃_Cacomantis merulinus_鸣唱.mp3
-I0806 13:23:02.224 main_window.cc:638] F:/bird_app/export_sounds/锈胸杜鹃_Cacomantis sepulcralis_鸣唱.mp3
-I0806 13:23:02.225 main_window.cc:638] F:/bird_app/export_sounds/灌丛杜鹃_Cacomantis variolosus_鸣唱.mp3
-I0806 13:23:02.225 main_window.cc:638] F:/bird_app/export_sounds/小鸦鹃_Centropus bengalensis_鸣唱.mp3
-I0806 13:23:02.225 main_window.cc:638] F:/bird_app/export_sounds/红翅凤头鹃_Clamator coromandus_鸣唱.mp3
-I0806 13:23:02.226 main_window.cc:638] F:/bird_app/export_sounds/黄嘴美洲鹃_Coccyzus americanus_鸣唱.mp3
-I0806 13:23:02.226 main_window.cc:638] F:/bird_app/export_sounds/黑嘴美洲鹃_Coccyzus erythropthalmus_鸣唱.mp3
-I0806 13:23:02.226 main_window.cc:638] F:/bird_app/export_sounds/红树美洲鹃_Coccyzus minor_鸣唱.mp3
-I0806 13:23:02.227 main_window.cc:638] F:/bird_app/export_sounds/滑嘴犀鹃_Crotophaga ani_鸣叫.mp3
-I0806 13:23:02.227 main_window.cc:638] F:/bird_app/export_sounds/沟嘴犀鹃_Crotophaga sulcirostris_鸣叫.mp3
-I0806 13:23:02.227 main_window.cc:638] F:/bird_app/export_sounds/大杜鹃_Cuculus canorus_鸣唱.mp3
-I0806 13:23:02.228 main_window.cc:638] F:/bird_app/export_sounds/四声杜鹃_Cuculus micropterus_鸣唱.mp3
-I0806 13:23:02.228 main_window.cc:638] F:/bird_app/export_sounds/东方中杜鹃_Cuculus optatus_鸣唱.mp3
-I0806 13:23:02.229 main_window.cc:638] F:/bird_app/export_sounds/小杜鹃_Cuculus poliocephalus_鸣唱.mp3
-I0806 13:23:02.229 main_window.cc:638] F:/bird_app/export_sounds/中杜鹃_Cuculus saturatus_鸣唱.mp3
-I0806 13:23:02.229 main_window.cc:638] F:/bird_app/export_sounds/噪鹃_Eudynamys scolopaceus_鸣唱.mp3
-I0806 13:23:02.230 main_window.cc:638] F:/bird_app/export_sounds/走鹃_Geococcyx californianus.mp3
-I0806 13:23:02.231 main_window.cc:638] F:/bird_app/export_sounds/北棕腹鹰鹃_Hierococcyx hyperythrus_鸣唱.mp3
-I0806 13:23:02.231 main_window.cc:638] F:/bird_app/export_sounds/棕腹鹰鹃_Hierococcyx nisicolor_鸣唱.mp3
-I0806 13:23:02.231 main_window.cc:638] F:/bird_app/export_sounds/大鹰鹃_Hierococcyx sparverioides_鸣唱.mp3
-I0806 13:23:02.232 main_window.cc:638] F:/bird_app/export_sounds/沟嘴鹃_Scythrops novaehollandiae.mp3
-I0806 13:23:02.232 main_window.cc:638] F:/bird_app/export_sounds/叉尾乌鹃_Surniculus dicruroides_鸣叫.mp3
-I0806 13:23:02.233 main_window.cc:638] F:/bird_app/export_sounds/长尾噪鹃_Urodynamis taitensis.mp3
-I0806 13:23:02.233 main_window.cc:638] F:/bird_app/export_sounds/尼科巴鸠_Caloenas nicobarica_鸣唱.mp3
-I0806 13:23:02.233 main_window.cc:638] F:/bird_app/export_sounds/原鸽_Columba livia_鸣唱.mp3
-I0806 13:23:02.234 main_window.cc:638] F:/bird_app/export_sounds/印加地鸠_Columbina inca_鸣唱.mp3
-I0806 13:23:02.234 main_window.cc:638] F:/bird_app/export_sounds/地鸠_Columbina passerina_鸣唱.mp3
-I0806 13:23:02.235 main_window.cc:638] F:/bird_app/export_sounds/红地鸠_Columbina talpacoti_鸣唱.mp3
-I0806 13:23:02.235 main_window.cc:638] F:/bird_app/export_sounds/密克皇鸠_Ducula oceanica.mp3
-I0806 13:23:02.235 main_window.cc:638] F:/bird_app/export_sounds/斑姬地鸠_Geopelia striata.mp3
-I0806 13:23:02.236 main_window.cc:638] F:/bird_app/export_sounds/绿顶鹑鸠_Geotrygon chrysia.mp3
-I0806 13:23:02.236 main_window.cc:638] F:/bird_app/export_sounds/红鹑鸠_Geotrygon montana.mp3
-I0806 13:23:02.237 main_window.cc:638] F:/bird_app/export_sounds/白额棕翅鸠_Leptotila verreauxi.mp3
-I0806 13:23:02.237 main_window.cc:638] F:/bird_app/export_sounds/北斑尾鸽_Patagioenas fasciata.mp3
-I0806 13:23:02.237 main_window.cc:638] F:/bird_app/export_sounds/红嘴鸽_Patagioenas flavirostris.mp3
-I0806 13:23:02.238 main_window.cc:638] F:/bird_app/export_sounds/白顶鸽_Patagioenas leucocephala.mp3
-I0806 13:23:02.238 main_window.cc:638] F:/bird_app/export_sounds/帕劳果鸠_Ptilinopus pelewensis.mp3
-I0806 13:23:02.238 main_window.cc:638] F:/bird_app/export_sounds/马里岛果鸠_Ptilinopus roseicapilla.mp3
-I0806 13:23:02.239 main_window.cc:638] F:/bird_app/export_sounds/珠颈斑鸠_Spilopelia chinensis.mp3
-I0806 13:23:02.239 main_window.cc:638] F:/bird_app/export_sounds/灰斑鸠_Streptopelia decaocto.mp3
-I0806 13:23:02.240 main_window.cc:638] F:/bird_app/export_sounds/山斑鸠_Streptopelia orientalis.mp3
-I0806 13:23:02.240 main_window.cc:638] F:/bird_app/export_sounds/白翅哀鸽_Zenaida asiatica.mp3
-I0806 13:23:02.240 main_window.cc:638] F:/bird_app/export_sounds/鸣哀鸽_Zenaida aurita.mp3
-I0806 13:23:02.241 main_window.cc:638] F:/bird_app/export_sounds/哀鸽_Zenaida macroura.mp3
-I0806 13:23:02.241 main_window.cc:638] F:/bird_app/export_sounds/棕尾苦恶鸟_Amaurornis moluccana_鸣唱.mp3
-I0806 13:23:02.241 main_window.cc:638] F:/bird_app/export_sounds/北美花田鸡_Coturnicops noveboracensis_鸣唱 (Northern).mp3
-I0806 13:23:02.242 main_window.cc:638] F:/bird_app/export_sounds/长脚秧鸡_Crex crex_鸣唱.mp3
-I0806 13:23:02.242 main_window.cc:638] F:/bird_app/export_sounds/夏威夷骨顶_Fulica alai_鸣叫.mp3
-I0806 13:23:02.243 main_window.cc:638] F:/bird_app/export_sounds/美洲骨顶_Fulica americana_鸣叫.mp3
-I0806 13:23:02.243 main_window.cc:638] F:/bird_app/export_sounds/白骨顶_Fulica atra_鸣叫.mp3
-I0806 13:23:02.243 main_window.cc:638] F:/bird_app/export_sounds/董鸡_Gallicrex cinerea_鸣唱.mp3
-I0806 13:23:02.244 main_window.cc:638] F:/bird_app/export_sounds/黑水鸡_Gallinula chloropus.mp3
-I0806 13:23:02.244 main_window.cc:638] F:/bird_app/export_sounds/美洲黑水鸡_Gallinula galeata.mp3
-I0806 13:23:02.245 main_window.cc:638] F:/bird_app/export_sounds/黑田鸡_Laterallus jamaicensis.mp3
-I0806 13:23:02.245 main_window.cc:638] F:/bird_app/export_sounds/白眉田鸡_Poliolimnas cinereus.mp3
-I0806 13:23:02.245 main_window.cc:638] F:/bird_app/export_sounds/紫青水鸡_Porphyrio martinica.mp3
-I0806 13:23:02.246 main_window.cc:638] F:/bird_app/export_sounds/紫水鸡_Porphyrio porphyrio.mp3
-I0806 13:23:02.246 main_window.cc:638] F:/bird_app/export_sounds/黑脸田鸡_Porzana carolina.mp3
-I0806 13:23:02.247 main_window.cc:638] F:/bird_app/export_sounds/白喉斑秧鸡_Rallina eurizonoides_鸣唱.mp3
-I0806 13:23:02.247 main_window.cc:638] F:/bird_app/export_sounds/红腿斑秧鸡_Rallina fasciata.mp3
-I0806 13:23:02.247 main_window.cc:638] F:/bird_app/export_sounds/王秧鸡_Rallus elegans.mp3
-I0806 13:23:02.248 main_window.cc:638] F:/bird_app/export_sounds/弗吉尼亚秧鸡_Rallus limicola_雌鸟鸣唱.mp3
-I0806 13:23:02.248 main_window.cc:638] F:/bird_app/export_sounds/红树林秧鸡_Rallus longirostris_鸣叫.mp3
-I0806 13:23:02.248 main_window.cc:638] F:/bird_app/export_sounds/里氏秧鸡_Rallus obsoletus_鸣叫.mp3
-I0806 13:23:02.249 main_window.cc:638] F:/bird_app/export_sounds/黑颈长脚鹬_Himantopus mexicanus.mp3
-I0806 13:23:02.249 main_window.cc:638] F:/bird_app/export_sounds/褐胸反嘴鹬_Recurvirostra americana.mp3
-I0806 13:23:02.250 main_window.cc:638] F:/bird_app/export_sounds/剑鸻_Charadrius hiaticula.mp3
-I0806 13:23:02.250 main_window.cc:638] F:/bird_app/export_sounds/笛鸻_Charadrius melodus_鸣叫.mp3
-I0806 13:23:02.251 main_window.cc:638] F:/bird_app/export_sounds/半蹼鸻_Charadrius semipalmatus_鸣叫.mp3
-I0806 13:23:02.251 main_window.cc:638] F:/bird_app/export_sounds/双领鸻_Charadrius vociferus_鸣叫.mp3
-I0806 13:23:02.251 main_window.cc:638] F:/bird_app/export_sounds/红膝麦鸡_Erythrogonys cinctus.mp3
-I0806 13:23:02.252 main_window.cc:638] F:/bird_app/export_sounds/欧金鸻_Pluvialis apricaria.mp3
-I0806 13:23:02.252 main_window.cc:638] F:/bird_app/export_sounds/美洲金鸻_Pluvialis dominica.mp3
-I0806 13:23:02.252 main_window.cc:638] F:/bird_app/export_sounds/金斑鸻_Pluvialis fulva.mp3
-I0806 13:23:02.253 main_window.cc:638] F:/bird_app/export_sounds/灰斑鸻_Pluvialis squatarola.mp3
-I0806 13:23:02.253 main_window.cc:638] F:/bird_app/export_sounds/凤头麦鸡_Vanellus vanellus_鸣叫.mp3
-I0806 13:23:02.254 main_window.cc:638] F:/bird_app/export_sounds/美洲水雉_Jacana spinosa.mp3
-I0806 13:23:02.254 main_window.cc:638] F:/bird_app/export_sounds/斑腹矶鹬_Actitis macularius_鸣唱.mp3
-I0806 13:23:02.255 main_window.cc:638] F:/bird_app/export_sounds/翻石鹬_Arenaria interpres_鸣唱.mp3
-I0806 13:23:02.255 main_window.cc:638] F:/bird_app/export_sounds/黑翻石鹬_Arenaria melanocephala_鸣叫.mp3
-I0806 13:23:02.255 main_window.cc:638] F:/bird_app/export_sounds/高原鹬_Bartramia longicauda_鸣唱.mp3
-I0806 13:23:02.256 main_window.cc:638] F:/bird_app/export_sounds/尖尾滨鹬_Calidris acuminata.mp3
-I0806 13:23:02.256 main_window.cc:638] F:/bird_app/export_sounds/三趾滨鹬_Calidris alba_鸣叫.mp3
-I0806 13:23:02.256 main_window.cc:638] F:/bird_app/export_sounds/黑腹滨鹬_Calidris alpina_鸣叫.mp3
-I0806 13:23:02.257 main_window.cc:638] F:/bird_app/export_sounds/黑腰滨鹬_Calidris bairdii_鸣叫.mp3
-I0806 13:23:02.257 main_window.cc:638] F:/bird_app/export_sounds/红腹滨鹬_Calidris canutus_鸣唱.mp3
-I0806 13:23:02.257 main_window.cc:638] F:/bird_app/export_sounds/阔嘴鹬_Calidris falcinellus_鸣叫.mp3
-I0806 13:23:02.258 main_window.cc:638] F:/bird_app/export_sounds/弯嘴滨鹬_Calidris ferruginea_鸣叫.mp3
-I0806 13:23:02.258 main_window.cc:638] F:/bird_app/export_sounds/白腰滨鹬_Calidris fuscicollis_鸣叫.mp3
-I0806 13:23:02.258 main_window.cc:638] F:/bird_app/export_sounds/高跷鹬_Calidris himantopus_鸣叫.mp3
-I0806 13:23:02.259 main_window.cc:638] F:/bird_app/export_sounds/紫滨鹬_Calidris maritima_鸣唱.mp3
-I0806 13:23:02.259 main_window.cc:638] F:/bird_app/export_sounds/西方滨鹬_Calidris mauri_鸣唱.mp3
-I0806 13:23:02.259 main_window.cc:638] F:/bird_app/export_sounds/斑胸滨鹬_Calidris melanotos_鸣唱.mp3
-I0806 13:23:02.260 main_window.cc:638] F:/bird_app/export_sounds/小滨鹬_Calidris minuta.mp3
-I0806 13:23:02.260 main_window.cc:638] F:/bird_app/export_sounds/美洲小滨鹬_Calidris minutilla_鸣叫.mp3
-I0806 13:23:02.260 main_window.cc:638] F:/bird_app/export_sounds/岩滨鹬_Calidris ptilocnemis_鸣叫.mp3
-I0806 13:23:02.261 main_window.cc:638] F:/bird_app/export_sounds/流苏鹬_Calidris pugnax.mp3
-I0806 13:23:02.261 main_window.cc:638] F:/bird_app/export_sounds/半蹼滨鹬_Calidris pusilla_鸣唱.mp3
-I0806 13:23:02.262 main_window.cc:638] F:/bird_app/export_sounds/红颈滨鹬_Calidris ruficollis_鸣唱.mp3
-I0806 13:23:02.262 main_window.cc:638] F:/bird_app/export_sounds/长趾滨鹬_Calidris subminuta.mp3
-I0806 13:23:02.262 main_window.cc:638] F:/bird_app/export_sounds/青脚滨鹬_Calidris temminckii_鸣唱.mp3
-I0806 13:23:02.263 main_window.cc:638] F:/bird_app/export_sounds/大滨鹬_Calidris tenuirostris.mp3
-I0806 13:23:02.263 main_window.cc:638] F:/bird_app/export_sounds/短嘴鹬_Calidris virgata.mp3
-I0806 13:23:02.263 main_window.cc:638] F:/bird_app/export_sounds/美洲沙锥_Gallinago delicata_尾羽的呼呼呼声.mp3
-I0806 13:23:02.264 main_window.cc:638] F:/bird_app/export_sounds/扇尾沙锥_Gallinago gallinago_鸣叫.mp3
-I0806 13:23:02.264 main_window.cc:638] F:/bird_app/export_sounds/大沙锥_Gallinago megala.mp3
-I0806 13:23:02.264 main_window.cc:638] F:/bird_app/export_sounds/针尾沙锥_Gallinago stenura.mp3
-I0806 13:23:02.265 main_window.cc:638] F:/bird_app/export_sounds/短嘴半蹼鹬_Limnodromus griseus_鸣唱.mp3
-I0806 13:23:02.265 main_window.cc:638] F:/bird_app/export_sounds/长嘴半蹼鹬_Limnodromus scolopaceus.mp3
-I0806 13:23:02.265 main_window.cc:638] F:/bird_app/export_sounds/云斑塍鹬_Limosa fedoa.mp3
-I0806 13:23:02.266 main_window.cc:638] F:/bird_app/export_sounds/棕塍鹬_Limosa haemastica.mp3
-I0806 13:23:02.266 main_window.cc:638] F:/bird_app/export_sounds/斑尾塍鹬_Limosa lapponica.mp3
-I0806 13:23:02.267 main_window.cc:638] F:/bird_app/export_sounds/姬鹬_Lymnocryptes minimus.mp3
-I0806 13:23:02.267 main_window.cc:638] F:/bird_app/export_sounds/长嘴杓鹬_Numenius americanus.mp3
-I0806 13:23:02.267 main_window.cc:638] F:/bird_app/export_sounds/白腰杓鹬_Numenius arquata.mp3
-I0806 13:23:02.268 main_window.cc:638] F:/bird_app/export_sounds/大杓鹬_Numenius madagascariensis.mp3
-I0806 13:23:02.268 main_window.cc:638] F:/bird_app/export_sounds/小杓鹬_Numenius minutus.mp3
-I0806 13:23:02.269 main_window.cc:638] F:/bird_app/export_sounds/中杓鹬_Numenius phaeopus.mp3
-I0806 13:23:02.269 main_window.cc:638] F:/bird_app/export_sounds/太平洋杓鹬_Numenius tahitiensis.mp3
-I0806 13:23:02.270 main_window.cc:638] F:/bird_app/export_sounds/灰瓣蹼鹬_Phalaropus fulicarius.mp3
-I0806 13:23:02.270 main_window.cc:638] F:/bird_app/export_sounds/红颈瓣蹼鹬_Phalaropus lobatus.mp3
-I0806 13:23:02.270 main_window.cc:638] F:/bird_app/export_sounds/细嘴瓣蹼鹬_Phalaropus tricolor.mp3
-I0806 13:23:02.270 main_window.cc:638] F:/bird_app/export_sounds/小丘鹬_Scolopax minor.mp3
-I0806 13:23:02.271 main_window.cc:638] F:/bird_app/export_sounds/灰尾漂鹬_Tringa brevipes.mp3
-I0806 13:23:02.271 main_window.cc:638] F:/bird_app/export_sounds/鹤鹬_Tringa erythropus.mp3
-I0806 13:23:02.272 main_window.cc:638] F:/bird_app/export_sounds/小黄脚鹬_Tringa flavipes.mp3
-I0806 13:23:02.272 main_window.cc:638] F:/bird_app/export_sounds/林鹬_Tringa glareola.mp3
-I0806 13:23:02.272 main_window.cc:638] F:/bird_app/export_sounds/漂鹬_Tringa incana.mp3
-I0806 13:23:02.273 main_window.cc:638] F:/bird_app/export_sounds/大黄脚鹬_Tringa melanoleuca.mp3
-I0806 13:23:02.273 main_window.cc:638] F:/bird_app/export_sounds/青脚鹬_Tringa nebularia.mp3
-I0806 13:23:02.273 main_window.cc:638] F:/bird_app/export_sounds/白腰草鹬_Tringa ochropus.mp3
-I0806 13:23:02.274 main_window.cc:638] F:/bird_app/export_sounds/斑翅鹬_Tringa semipalmata.mp3
-I0806 13:23:02.274 main_window.cc:638] F:/bird_app/export_sounds/褐腰草鹬_Tringa solitaria.mp3
-I0806 13:23:02.275 main_window.cc:638] F:/bird_app/export_sounds/泽鹬_Tringa stagnatilis.mp3
-I0806 13:23:02.275 main_window.cc:638] F:/bird_app/export_sounds/红脚鹬_Tringa totanus.mp3
-I0806 13:23:02.275 main_window.cc:638] F:/bird_app/export_sounds/翘嘴鹬_Xenus cinereus.mp3
-I0806 13:23:02.276 main_window.cc:638] F:/bird_app/export_sounds/黄脚三趾鹑_Turnix tanki_鸣唱.mp3
-I0806 13:23:02.276 main_window.cc:638] F:/bird_app/export_sounds/普通燕鸻_Glareola maldivarum.mp3
-I0806 13:23:02.276 main_window.cc:638] F:/bird_app/export_sounds/长尾贼鸥_Stercorarius longicaudus.mp3
-I0806 13:23:02.277 main_window.cc:638] F:/bird_app/export_sounds/南极贼鸥_Stercorarius maccormicki.mp3
-I0806 13:23:02.277 main_window.cc:638] F:/bird_app/export_sounds/短尾贼鸥_Stercorarius parasiticus.mp3
-I0806 13:23:02.278 main_window.cc:638] F:/bird_app/export_sounds/中贼鸥_Stercorarius pomarinus.mp3
-I0806 13:23:02.278 main_window.cc:638] F:/bird_app/export_sounds/北贼鸥_Stercorarius skua.mp3
-I0806 13:23:02.278 main_window.cc:638] F:/bird_app/export_sounds/蓝灰燕鸥_Anous ceruleus_鸣叫.mp3
-I0806 13:23:02.279 main_window.cc:638] F:/bird_app/export_sounds/玄燕鸥_Anous minutus_鸣叫.mp3
-I0806 13:23:02.279 main_window.cc:638] F:/bird_app/export_sounds/白顶玄燕鸥_Anous stolidus_鸣叫.mp3
-I0806 13:23:02.280 main_window.cc:638] F:/bird_app/export_sounds/须浮鸥_Chlidonias hybrida.mp3
-I0806 13:23:02.280 main_window.cc:638] F:/bird_app/export_sounds/白翅浮鸥_Chlidonias leucopterus_鸣叫.mp3
-I0806 13:23:02.280 main_window.cc:638] F:/bird_app/export_sounds/黑浮鸥_Chlidonias niger_鸣叫.mp3
-I0806 13:23:02.281 main_window.cc:638] F:/bird_app/export_sounds/伯氏鸥_Chroicocephalus philadelphia_鸣叫.mp3
-I0806 13:23:02.281 main_window.cc:638] F:/bird_app/export_sounds/红嘴鸥_Chroicocephalus ridibundus_鸣叫.mp3
-I0806 13:23:02.282 main_window.cc:638] F:/bird_app/export_sounds/鸥嘴噪鸥_Gelochelidon nilotica.mp3
-I0806 13:23:02.282 main_window.cc:638] F:/bird_app/export_sounds/白燕鸥_Gygis alba.mp3
-I0806 13:23:02.282 main_window.cc:638] F:/bird_app/export_sounds/小鸥_Hydrocoloeus minutus.mp3
-I0806 13:23:02.283 main_window.cc:638] F:/bird_app/export_sounds/红嘴巨燕鸥_Hydroprogne caspia.mp3
-I0806 13:23:02.283 main_window.cc:638] F:/bird_app/export_sounds/银鸥_Larus argentatus.mp3
-I0806 13:23:02.283 main_window.cc:638] F:/bird_app/export_sounds/斑尾鸥_Larus belcheri.mp3
-I0806 13:23:02.284 main_window.cc:638] F:/bird_app/export_sounds/美洲海鸥_Larus brachyrhynchus.mp3
-I0806 13:23:02.284 main_window.cc:638] F:/bird_app/export_sounds/加州鸥_Larus californicus.mp3
-I0806 13:23:02.285 main_window.cc:638] F:/bird_app/export_sounds/黑尾鸥_Larus crassirostris.mp3
-I0806 13:23:02.285 main_window.cc:638] F:/bird_app/export_sounds/环嘴鸥_Larus delawarensis.mp3
-I0806 13:23:02.285 main_window.cc:638] F:/bird_app/export_sounds/黑背鸥_Larus dominicanus.mp3
-I0806 13:23:02.286 main_window.cc:638] F:/bird_app/export_sounds/小黑背鸥_Larus fuscus.mp3
-I0806 13:23:02.286 main_window.cc:638] F:/bird_app/export_sounds/灰翅鸥_Larus glaucescens.mp3
-I0806 13:23:02.286 main_window.cc:638] F:/bird_app/export_sounds/红嘴灰鸥_Larus heermanni.mp3
-I0806 13:23:02.287 main_window.cc:638] F:/bird_app/export_sounds/北极鸥_Larus hyperboreus.mp3
-I0806 13:23:02.287 main_window.cc:638] F:/bird_app/export_sounds/黄脚鸥_Larus livens.mp3
-I0806 13:23:02.287 main_window.cc:638] F:/bird_app/export_sounds/大黑背鸥_Larus marinus.mp3
-I0806 13:23:02.288 main_window.cc:638] F:/bird_app/export_sounds/黄腿银鸥_Larus michahellis.mp3
-I0806 13:23:02.288 main_window.cc:638] F:/bird_app/export_sounds/西美鸥_Larus occidentalis.mp3
-I0806 13:23:02.288 main_window.cc:638] F:/bird_app/export_sounds/灰背鸥_Larus schistisagus.mp3
-I0806 13:23:02.289 main_window.cc:638] F:/bird_app/export_sounds/笑鸥_Leucophaeus atricilla.mp3
-I0806 13:23:02.289 main_window.cc:638] F:/bird_app/export_sounds/弗氏鸥_Leucophaeus pipixcan.mp3
-I0806 13:23:02.289 main_window.cc:638] F:/bird_app/export_sounds/白腰燕鸥_Onychoprion aleuticus.mp3
-I0806 13:23:02.290 main_window.cc:638] F:/bird_app/export_sounds/褐翅燕鸥_Onychoprion anaethetus.mp3
-I0806 13:23:02.290 main_window.cc:638] F:/bird_app/export_sounds/乌燕鸥_Onychoprion fuscatus.mp3
-I0806 13:23:02.291 main_window.cc:638] F:/bird_app/export_sounds/巨嘴燕鸥_Phaetusa simplex.mp3
-I0806 13:23:02.291 main_window.cc:638] F:/bird_app/export_sounds/三趾鸥_Rissa tridactyla.mp3
-I0806 13:23:02.291 main_window.cc:638] F:/bird_app/export_sounds/黑剪嘴鸥_Rynchops niger.mp3
-I0806 13:23:02.292 main_window.cc:638] F:/bird_app/export_sounds/粉红燕鸥_Sterna dougallii.mp3
-I0806 13:23:02.292 main_window.cc:638] F:/bird_app/export_sounds/弗氏燕鸥_Sterna forsteri.mp3
-I0806 13:23:02.292 main_window.cc:638] F:/bird_app/export_sounds/普通燕鸥_Sterna hirundo.mp3
-I0806 13:23:02.293 main_window.cc:638] F:/bird_app/export_sounds/北极燕鸥_Sterna paradisaea.mp3
-I0806 13:23:02.293 main_window.cc:638] F:/bird_app/export_sounds/黑枕燕鸥_Sterna sumatrana.mp3
-I0806 13:23:02.293 main_window.cc:638] F:/bird_app/export_sounds/白额燕鸥_Sternula albifrons.mp3
-I0806 13:23:02.294 main_window.cc:638] F:/bird_app/export_sounds/小白额燕鸥_Sternula antillarum.mp3
-I0806 13:23:02.294 main_window.cc:638] F:/bird_app/export_sounds/大凤头燕鸥_Thalasseus bergii.mp3
-I0806 13:23:02.295 main_window.cc:638] F:/bird_app/export_sounds/美洲凤头燕鸥_Thalasseus elegans.mp3
-I0806 13:23:02.295 main_window.cc:638] F:/bird_app/export_sounds/橙嘴凤头燕鸥_Thalasseus maximus.mp3
-I0806 13:23:02.295 main_window.cc:638] F:/bird_app/export_sounds/白嘴端凤头燕鸥_Thalasseus sandvicensis.mp3
-I0806 13:23:02.296 main_window.cc:638] F:/bird_app/export_sounds/红嘴鹲_Phaethon aethereus.mp3
-I0806 13:23:02.296 main_window.cc:638] F:/bird_app/export_sounds/白尾鹲_Phaethon lepturus.mp3
-I0806 13:23:02.297 main_window.cc:638] F:/bird_app/export_sounds/红尾鹲_Phaethon rubricauda.mp3
-I0806 13:23:02.297 main_window.cc:638] F:/bird_app/export_sounds/斑腰叉尾海燕_Hydrobates castro.mp3
-I0806 13:23:02.298 main_window.cc:638] F:/bird_app/export_sounds/灰蓝叉尾海燕_Hydrobates furcatus.mp3
-I0806 13:23:02.298 main_window.cc:638] F:/bird_app/export_sounds/灰叉尾海燕_Hydrobates homochroa.mp3
-I0806 13:23:02.298 main_window.cc:638] F:/bird_app/export_sounds/淡足鹱_Ardenna carneipes_鸣叫.mp3
-I0806 13:23:02.299 main_window.cc:638] F:/bird_app/export_sounds/粉脚鹱_Ardenna creatopus_鸣叫.mp3
-I0806 13:23:02.299 main_window.cc:638] F:/bird_app/export_sounds/灰鹱_Ardenna grisea_喂食鸣叫.mp3
-I0806 13:23:02.300 main_window.cc:638] F:/bird_app/export_sounds/楔尾鹱_Ardenna pacifica_鸣叫.mp3
-I0806 13:23:02.300 main_window.cc:638] F:/bird_app/export_sounds/短尾鹱_Ardenna tenuirostris.mp3
-I0806 13:23:02.301 main_window.cc:638] F:/bird_app/export_sounds/斯氏鹱_Calonectris diomedea.mp3
-I0806 13:23:02.301 main_window.cc:638] F:/bird_app/export_sounds/暴雪鹱_Fulmarus glacialis.mp3
-I0806 13:23:02.301 main_window.cc:638] F:/bird_app/export_sounds/白颏风鹱_Procellaria aequinoctialis.mp3
-I0806 13:23:02.302 main_window.cc:638] F:/bird_app/export_sounds/灰脸圆尾鹱_Pterodroma gouldi.mp3
-I0806 13:23:02.302 main_window.cc:638] F:/bird_app/export_sounds/信使圆尾鹱_Pterodroma heraldica.mp3
-I0806 13:23:02.303 main_window.cc:638] F:/bird_app/export_sounds/白额圆尾鹱_Pterodroma hypoleuca.mp3
-I0806 13:23:02.303 main_window.cc:638] F:/bird_app/export_sounds/鳞斑圆尾鹱_Pterodroma inexpectata.mp3
-I0806 13:23:02.303 main_window.cc:638] F:/bird_app/export_sounds/黑翅圆尾鹱_Pterodroma nigripennis.mp3
-I0806 13:23:02.304 main_window.cc:638] F:/bird_app/export_sounds/暗腰圆尾鹱_Pterodroma phaeopygia.mp3
-I0806 13:23:02.304 main_window.cc:638] F:/bird_app/export_sounds/夏威夷圆尾鹱_Pterodroma sandwichensis.mp3
-I0806 13:23:02.305 main_window.cc:638] F:/bird_app/export_sounds/黑鹱_Puffinus nativitatis.mp3
-I0806 13:23:02.305 main_window.cc:638] F:/bird_app/export_sounds/夏威夷鹱_Puffinus newelli.mp3
-I0806 13:23:02.305 main_window.cc:638] F:/bird_app/export_sounds/大西洋鹱_Puffinus puffinus.mp3
-I0806 13:23:02.306 main_window.cc:638] F:/bird_app/export_sounds/黑头鹮鹳_Mycteria americana.mp3
-I0806 13:23:02.306 main_window.cc:638] F:/bird_app/export_sounds/华丽军舰鸟_Fregata magnificens_求偶展示.mp3
-I0806 13:23:02.307 main_window.cc:638] F:/bird_app/export_sounds/黑腹军舰鸟_Fregata minor_鸣唱.mp3
-I0806 13:23:02.307 main_window.cc:638] F:/bird_app/export_sounds/北鲣鸟_Morus bassanus_集群鸣叫.mp3
-I0806 13:23:02.308 main_window.cc:638] F:/bird_app/export_sounds/蓝脸鲣鸟_Sula dactylatra_鸣叫.mp3
-I0806 13:23:02.308 main_window.cc:638] F:/bird_app/export_sounds/褐鲣鸟_Sula leucogaster.mp3
-I0806 13:23:02.308 main_window.cc:638] F:/bird_app/export_sounds/蓝脚鲣鸟_Sula nebouxii.mp3
-I0806 13:23:02.309 main_window.cc:638] F:/bird_app/export_sounds/红脚鲣鸟_Sula sula_鸣叫.mp3
-I0806 13:23:02.309 main_window.cc:638] F:/bird_app/export_sounds/美洲蛇鹈_Anhinga anhinga_鸣叫.mp3
-I0806 13:23:02.310 main_window.cc:638] F:/bird_app/export_sounds/角鸬鹚_Nannopterum auritum_鸣叫.mp3
-I0806 13:23:02.310 main_window.cc:638] F:/bird_app/export_sounds/美洲鸬鹚_Nannopterum brasilianum_鸣叫.mp3
-I0806 13:23:02.310 main_window.cc:638] F:/bird_app/export_sounds/普通鸬鹚_Phalacrocorax carbo_鸣叫.mp3
-I0806 13:23:02.311 main_window.cc:638] F:/bird_app/export_sounds/小黑鸬鹚_Phalacrocorax sulcirostris.mp3
-I0806 13:23:02.311 main_window.cc:638] F:/bird_app/export_sounds/红脸鸬鹚_Urile urile_鸣叫.mp3
-I0806 13:23:02.311 main_window.cc:638] F:/bird_app/export_sounds/美洲白鹮_Eudocimus albus_鸣叫.mp3
-I0806 13:23:02.312 main_window.cc:638] F:/bird_app/export_sounds/粉红琵鹭_Platalea ajaja.mp3
-I0806 13:23:02.312 main_window.cc:638] F:/bird_app/export_sounds/白脸彩鹮_Plegadis chihi.mp3
-I0806 13:23:02.313 main_window.cc:638] F:/bird_app/export_sounds/彩鹮_Plegadis falcinellus.mp3
-I0806 13:23:02.313 main_window.cc:638] F:/bird_app/export_sounds/澳洲鹈鹕_Pelecanus conspicillatus.mp3
-I0806 13:23:02.314 main_window.cc:638] F:/bird_app/export_sounds/大白鹭_Ardea alba_鸣叫 (美洲).mp3
-I0806 13:23:02.314 main_window.cc:638] F:/bird_app/export_sounds/苍鹭_Ardea cinerea_鸣叫.mp3
-I0806 13:23:02.315 main_window.cc:638] F:/bird_app/export_sounds/大蓝鹭_Ardea herodias_求偶展示.mp3
-I0806 13:23:02.315 main_window.cc:638] F:/bird_app/export_sounds/中白鹭_Ardea intermedia_求偶展示.mp3
-I0806 13:23:02.316 main_window.cc:638] F:/bird_app/export_sounds/草鹭_Ardea purpurea_鸣叫.mp3
-I0806 13:23:02.316 main_window.cc:638] F:/bird_app/export_sounds/池鹭_Ardeola bacchus_鸣叫.mp3
-I0806 13:23:02.316 main_window.cc:638] F:/bird_app/export_sounds/美洲麻鳽_Botaurus lentiginosus_鸣唱.mp3
-I0806 13:23:02.317 main_window.cc:638] F:/bird_app/export_sounds/大麻鳽_Botaurus stellaris_鸣唱.mp3
-I0806 13:23:02.317 main_window.cc:638] F:/bird_app/export_sounds/南美绿鹭_Butorides striata.mp3
-I0806 13:23:02.318 main_window.cc:638] F:/bird_app/export_sounds/北美绿鹭_Butorides virescens.mp3
-I0806 13:23:02.318 main_window.cc:638] F:/bird_app/export_sounds/小蓝鹭_Egretta caerulea_鸣叫.mp3
-I0806 13:23:02.318 main_window.cc:638] F:/bird_app/export_sounds/白鹭_Egretta garzetta_鸣叫.mp3
-I0806 13:23:02.319 main_window.cc:638] F:/bird_app/export_sounds/西岩鹭_Egretta gularis_鸣叫.mp3
-I0806 13:23:02.319 main_window.cc:638] F:/bird_app/export_sounds/棕颈鹭_Egretta rufescens_鸣叫.mp3
-I0806 13:23:02.320 main_window.cc:638] F:/bird_app/export_sounds/岩鹭_Egretta sacra_鸣叫.mp3
-I0806 13:23:02.320 main_window.cc:638] F:/bird_app/export_sounds/雪鹭_Egretta thula.mp3
-I0806 13:23:02.320 main_window.cc:638] F:/bird_app/export_sounds/三色鹭_Egretta tricolor_鸣叫.mp3
-I0806 13:23:02.321 main_window.cc:638] F:/bird_app/export_sounds/黑冠鳽_Gorsachius melanolophus.mp3
-I0806 13:23:02.321 main_window.cc:638] F:/bird_app/export_sounds/黄冠夜鹭_Nyctanassa violacea.mp3
-I0806 13:23:02.321 main_window.cc:638] F:/bird_app/export_sounds/棕夜鹭_Nycticorax caledonicus.mp3
-I0806 13:23:02.322 main_window.cc:638] F:/bird_app/export_sounds/夜鹭_Nycticorax nycticorax.mp3
-I0806 13:23:02.322 main_window.cc:638] F:/bird_app/export_sounds/墨西哥三声夜鹰_Antrostomus arizonae_鸣唱.mp3
-I0806 13:23:02.323 main_window.cc:638] F:/bird_app/export_sounds/卡氏夜鹰_Antrostomus carolinensis_鸣唱.mp3
-I0806 13:23:02.323 main_window.cc:638] F:/bird_app/export_sounds/黄领夜鹰_Antrostomus ridgwayi_鸣唱.mp3
-I0806 13:23:02.323 main_window.cc:638] F:/bird_app/export_sounds/三声夜鹰_Antrostomus vociferus_鸣唱.mp3
-I0806 13:23:02.324 main_window.cc:638] F:/bird_app/export_sounds/林夜鹰_Caprimulgus affinis_鸣唱.mp3
-I0806 13:23:02.325 main_window.cc:638] F:/bird_app/export_sounds/欧夜鹰_Caprimulgus europaeus_鸣唱.mp3
-I0806 13:23:02.326 main_window.cc:638] F:/bird_app/export_sounds/普通夜鹰_Caprimulgus jotaka_鸣唱.mp3
-I0806 13:23:02.326 main_window.cc:638] F:/bird_app/export_sounds/小灰眉夜鹰_Chordeiles acutipennis_鸣唱.mp3
-I0806 13:23:02.327 main_window.cc:638] F:/bird_app/export_sounds/安岛夜鹰_Chordeiles gundlachii_鸣唱.mp3
-I0806 13:23:02.327 main_window.cc:638] F:/bird_app/export_sounds/美洲夜鹰_Chordeiles minor_鸣唱.mp3
-I0806 13:23:02.327 main_window.cc:638] F:/bird_app/export_sounds/帕拉夜鹰_Nyctidromus albicollis.mp3
-I0806 13:23:02.328 main_window.cc:638] F:/bird_app/export_sounds/北美小夜鹰_Phalaenoptilus nuttallii.mp3
-I0806 13:23:02.328 main_window.cc:638] F:/bird_app/export_sounds/关岛金丝燕_Aerodramus bartschi.mp3
-I0806 13:23:02.329 main_window.cc:638] F:/bird_app/export_sounds/短嘴金丝燕_Aerodramus brevirostris_飞行鸣叫.mp3
-I0806 13:23:02.329 main_window.cc:638] F:/bird_app/export_sounds/帕劳金丝燕_Aerodramus pelewensis_鸣叫.mp3
-I0806 13:23:02.329 main_window.cc:638] F:/bird_app/export_sounds/白喉雨燕_Aeronautes saxatalis_鸣叫.mp3
-I0806 13:23:02.330 main_window.cc:638] F:/bird_app/export_sounds/普通雨燕_Apus apus_鸣叫.mp3
-I0806 13:23:02.330 main_window.cc:638] F:/bird_app/export_sounds/白腰雨燕_Apus pacificus_鸣叫.mp3
-I0806 13:23:02.331 main_window.cc:638] F:/bird_app/export_sounds/烟囱雨燕_Chaetura pelagica_鸣叫.mp3
-I0806 13:23:02.331 main_window.cc:638] F:/bird_app/export_sounds/沃氏雨燕_Chaetura vauxi_鸣叫.mp3
-I0806 13:23:02.332 main_window.cc:638] F:/bird_app/export_sounds/黑雨燕_Cypseloides niger_鸣叫.mp3
-I0806 13:23:02.332 main_window.cc:638] F:/bird_app/export_sounds/白喉针尾雨燕_Hirundapus caudacutus_鸣叫.mp3
-I0806 13:23:02.332 main_window.cc:638] F:/bird_app/export_sounds/白领黑雨燕_Streptoprocne zonaris_鸣叫.mp3
-I0806 13:23:02.333 main_window.cc:638] F:/bird_app/export_sounds/西仓鸮_Tyto alba_飞行鸣叫-鸣唱.mp3
-I0806 13:23:02.333 main_window.cc:638] F:/bird_app/export_sounds/仓鸮_Tyto javanica_鸣叫(stertens).mp3
-I0806 13:23:02.334 main_window.cc:638] F:/bird_app/export_sounds/棕榈鬼鸮_Aegolius acadicus_鸣唱.mp3
-I0806 13:23:02.334 main_window.cc:638] F:/bird_app/export_sounds/鬼鸮_Aegolius funereus_鸣叫.mp3
-I0806 13:23:02.335 main_window.cc:638] F:/bird_app/export_sounds/无斑棕榈鬼鸮_Aegolius ridgwayi_鸣唱.mp3
-I0806 13:23:02.335 main_window.cc:638] F:/bird_app/export_sounds/纹鸮_Asio clamator_鸣叫.mp3
-I0806 13:23:02.335 main_window.cc:638] F:/bird_app/export_sounds/短耳鸮_Asio flammeus_鸣叫.mp3
-I0806 13:23:02.336 main_window.cc:638] F:/bird_app/export_sounds/长耳鸮_Asio otus_鸣唱.mp3
-I0806 13:23:02.336 main_window.cc:638] F:/bird_app/export_sounds/穴小鸮_Athene cunicularia_鸣唱.mp3
-I0806 13:23:02.337 main_window.cc:638] F:/bird_app/export_sounds/纵纹腹小鸮_Athene noctua_鸣叫.mp3
-I0806 13:23:02.338 main_window.cc:638] F:/bird_app/export_sounds/雕鸮_Bubo bubo_鸣唱.mp3
-I0806 13:23:02.338 main_window.cc:638] F:/bird_app/export_sounds/雪鸮_Bubo scandiacus_鸣叫.mp3
-I0806 13:23:02.339 main_window.cc:638] F:/bird_app/export_sounds/美洲雕鸮_Bubo virginianus_鸣唱.mp3
-I0806 13:23:02.339 main_window.cc:638] F:/bird_app/export_sounds/棕鸺鹠_Glaucidium brasilianum_鸣唱.mp3
-I0806 13:23:02.340 main_window.cc:638] F:/bird_app/export_sounds/山鸺鹠_Glaucidium gnoma_鸣唱.mp3
-I0806 13:23:02.340 main_window.cc:638] F:/bird_app/export_sounds/中美鸺鹠_Glaucidium griseiceps_鸣唱.mp3
-I0806 13:23:02.340 main_window.cc:638] F:/bird_app/export_sounds/科利马鸺鹠_Glaucidium palmarum_鸣唱.mp3
-I0806 13:23:02.341 main_window.cc:638] F:/bird_app/export_sounds/冠鸮_Lophostrix cristata_鸣唱.mp3
-I0806 13:23:02.341 main_window.cc:638] F:/bird_app/export_sounds/东美角鸮_Megascops asio_鸣唱.mp3
-I0806 13:23:02.342 main_window.cc:638] F:/bird_app/export_sounds/须角鸮_Megascops barbarus_鸣唱.mp3
-I0806 13:23:02.342 main_window.cc:638] F:/bird_app/export_sounds/太平洋角鸮_Megascops cooperi_鸣唱.mp3
-I0806 13:23:02.342 main_window.cc:638] F:/bird_app/export_sounds/巴尔萨斯角鸮_Megascops seductus_鸣唱.mp3
-I0806 13:23:02.343 main_window.cc:638] F:/bird_app/export_sounds/长耳须角鸮_Megascops trichopsis_鸣唱.mp3
-I0806 13:23:02.343 main_window.cc:638] F:/bird_app/export_sounds/娇鸺鹠_Micrathene whitneyi_鸣唱.mp3
-I0806 13:23:02.343 main_window.cc:638] F:/bird_app/export_sounds/北鹰鸮_Ninox japonica_鸣唱(Totogo).mp3
-I0806 13:23:02.344 main_window.cc:638] F:/bird_app/export_sounds/帕劳角鸮_Otus podarginus_二重唱.mp3
-I0806 13:23:02.345 main_window.cc:638] F:/bird_app/export_sounds/西红角鸮_Otus scops_鸣唱.mp3
-I0806 13:23:02.346 main_window.cc:638] F:/bird_app/export_sounds/黄嘴角鸮_Otus spilocephalus_鸣唱.mp3
-I0806 13:23:02.346 main_window.cc:638] F:/bird_app/export_sounds/红角鸮_Otus sunia_鸣唱(Oriental).mp3
-I0806 13:23:02.347 main_window.cc:638] F:/bird_app/export_sounds/美洲角鸮_Psiloscops flammeolus_鸣唱.mp3
-I0806 13:23:02.347 main_window.cc:638] F:/bird_app/export_sounds/眼镜鸮_Pulsatrix perspicillata_鸣唱.mp3
-I0806 13:23:02.348 main_window.cc:638] F:/bird_app/export_sounds/西灰林鸮_Strix aluco_鸣唱.mp3
-I0806 13:23:02.349 main_window.cc:638] F:/bird_app/export_sounds/茶色林鸮_Strix fulvescens_鸣唱.mp3
-I0806 13:23:02.349 main_window.cc:638] F:/bird_app/export_sounds/乌林鸮_Strix nebulosa_鸣唱.mp3
-I0806 13:23:02.349 main_window.cc:638] F:/bird_app/export_sounds/斑眉林鸮_Strix nigrolineata_鸣唱.mp3
-I0806 13:23:02.351 main_window.cc:638] F:/bird_app/export_sounds/灰林鸮_Strix nivicolum_鸣唱.mp3
-I0806 13:23:02.351 main_window.cc:638] F:/bird_app/export_sounds/斑林鸮_Strix occidentalis_鸣唱.mp3
-I0806 13:23:02.351 main_window.cc:638] F:/bird_app/export_sounds/横斑林鸮_Strix varia_二重唱.mp3
-I0806 13:23:02.352 main_window.cc:638] F:/bird_app/export_sounds/杂斑林鸮_Strix virgata_鸣唱.mp3
-I0806 13:23:02.352 main_window.cc:638] F:/bird_app/export_sounds/猛鸮_Surnia ulula_鸣叫.mp3
-I0806 13:23:02.353 main_window.cc:638] F:/bird_app/export_sounds/领鸺鹠_Taenioptynx brodiei_鸣唱.mp3
-I0806 13:23:02.353 main_window.cc:638] F:/bird_app/export_sounds/鹗_Pandion haliaetus.mp3
-I0806 13:23:02.354 main_window.cc:638] F:/bird_app/export_sounds/鹗_Pandion haliaetus_cristatus.mp3
-I0806 13:23:02.355 main_window.cc:638] F:/bird_app/export_sounds/雀鹰_Accipiter nisus_警报鸣叫.mp3
-I0806 13:23:02.355 main_window.cc:638] F:/bird_app/export_sounds/纹腹鹰_Accipiter striatus_鸣叫.mp3
-I0806 13:23:02.356 main_window.cc:638] F:/bird_app/export_sounds/金雕_Aquila chrysaetos_鸣叫.mp3
-I0806 13:23:02.356 main_window.cc:638] F:/bird_app/export_sounds/斑尾鵟_Buteo albonotatus.mp3
-I0806 13:23:02.357 main_window.cc:638] F:/bird_app/export_sounds/短尾鵟_Buteo brachyurus.mp3
-I0806 13:23:02.358 main_window.cc:638] F:/bird_app/export_sounds/欧亚鵟_Buteo buteo_飞行鸣叫.mp3
-I0806 13:23:02.358 main_window.cc:638] F:/bird_app/export_sounds/红尾鵟_Buteo jamaicensis.mp3
-I0806 13:23:02.359 main_window.cc:638] F:/bird_app/export_sounds/毛脚鵟_Buteo lagopus.mp3
-I0806 13:23:02.359 main_window.cc:638] F:/bird_app/export_sounds/赤肩鵟_Buteo lineatus.mp3
-I0806 13:23:02.359 main_window.cc:638] F:/bird_app/export_sounds/灰鵟_Buteo plagiatus.mp3
-I0806 13:23:02.360 main_window.cc:638] F:/bird_app/export_sounds/巨翅鵟_Buteo platypterus.mp3
-I0806 13:23:02.360 main_window.cc:638] F:/bird_app/export_sounds/锈色鵟_Buteo regalis.mp3
-I0806 13:23:02.361 main_window.cc:638] F:/bird_app/export_sounds/夏威夷鵟_Buteo solitarius.mp3
-I0806 13:23:02.361 main_window.cc:638] F:/bird_app/export_sounds/斯氏鵟_Buteo swainsoni.mp3
-I0806 13:23:02.361 main_window.cc:638] F:/bird_app/export_sounds/黑鸡鵟_Buteogallus anthracinus.mp3
-I0806 13:23:02.362 main_window.cc:638] F:/bird_app/export_sounds/钩嘴鸢_Chondrohierax uncinatus_鸣叫.mp3
-I0806 13:23:02.362 main_window.cc:638] F:/bird_app/export_sounds/北鹞_Circus hudsonius_鸣叫.mp3
-I0806 13:23:02.363 main_window.cc:638] F:/bird_app/export_sounds/燕尾鸢_Elanoides forficatus_鸣叫.mp3
-I0806 13:23:02.363 main_window.cc:638] F:/bird_app/export_sounds/白尾鸢_Elanus leucurus.mp3
-I0806 13:23:02.364 main_window.cc:638] F:/bird_app/export_sounds/白尾鵟_Geranoaetus albicaudatus.mp3
-I0806 13:23:02.364 main_window.cc:638] F:/bird_app/export_sounds/白尾海雕_Haliaeetus albicilla.mp3
-I0806 13:23:02.365 main_window.cc:638] F:/bird_app/export_sounds/白头海雕_Haliaeetus leucocephalus.mp3
-I0806 13:23:02.365 main_window.cc:638] F:/bird_app/export_sounds/虎头海雕_Haliaeetus pelagicus.mp3
-I0806 13:23:02.365 main_window.cc:638] F:/bird_app/export_sounds/栗鸢_Haliastur indus.mp3
-I0806 13:23:02.366 main_window.cc:638] F:/bird_app/export_sounds/靴隼雕_Hieraaetus pennatus.mp3
-I0806 13:23:02.366 main_window.cc:638] F:/bird_app/export_sounds/密西西比灰鸢_Ictinia mississippiensis.mp3
-I0806 13:23:02.366 main_window.cc:638] F:/bird_app/export_sounds/黑鸢_Milvus migrans_鸣叫.mp3
-I0806 13:23:02.367 main_window.cc:638] F:/bird_app/export_sounds/赤鸢_Milvus milvus_鸣叫.mp3
-I0806 13:23:02.368 main_window.cc:638] F:/bird_app/export_sounds/栗翅鹰_Parabuteo unicinctus.mp3
-I0806 13:23:02.368 main_window.cc:638] F:/bird_app/export_sounds/食螺鸢_Rostrhamus sociabilis.mp3
-I0806 13:23:02.368 main_window.cc:638] F:/bird_app/export_sounds/阔嘴鵟_Rupornis magnirostris.mp3
-I0806 13:23:02.369 main_window.cc:638] F:/bird_app/export_sounds/角咬鹃_Euptilotis neoxenus_鸣唱.mp3
-I0806 13:23:02.369 main_window.cc:638] F:/bird_app/export_sounds/优雅美洲咬鹃_Trogon elegans_鸣唱.mp3
-I0806 13:23:02.369 main_window.cc:638] F:/bird_app/export_sounds/棕颈犀鸟_Aceros nipalensis_鸣叫.wav
-I0806 13:23:02.370 main_window.cc:638] F:/bird_app/export_sounds/彩虹蜂虎_Merops ornatus.mp3
-I0806 13:23:02.370 main_window.cc:638] F:/bird_app/export_sounds/绿鱼狗_Chloroceryle americana.mp3
-I0806 13:23:02.371 main_window.cc:638] F:/bird_app/export_sounds/笑翠鸟_Dacelo novaeguineae.mp3
-I0806 13:23:02.371 main_window.cc:638] F:/bird_app/export_sounds/赤翡翠_Halcyon coromanda.mp3
-I0806 13:23:02.372 main_window.cc:638] F:/bird_app/export_sounds/白腹鱼狗_Megaceryle alcyon.mp3
-I0806 13:23:02.372 main_window.cc:638] F:/bird_app/export_sounds/棕腹鱼狗_Megaceryle torquata.mp3
-I0806 13:23:02.372 main_window.cc:638] F:/bird_app/export_sounds/白领翡翠_Todiramphus chloris.mp3
-I0806 13:23:02.373 main_window.cc:638] F:/bird_app/export_sounds/桂红翡翠_Todiramphus cinnamominus.mp3
-I0806 13:23:02.373 main_window.cc:638] F:/bird_app/export_sounds/北扑翅䴕_Colaptes auratus.mp3
-I0806 13:23:02.373 main_window.cc:638] F:/bird_app/export_sounds/黄扑翅䴕_Colaptes chrysoides_鸣叫.mp3
-I0806 13:23:02.375 main_window.cc:638] F:/bird_app/export_sounds/加州啄木鸟_Dryobates nuttallii_鸣叫.mp3
-I0806 13:23:02.375 main_window.cc:638] F:/bird_app/export_sounds/绒啄木鸟_Dryobates pubescens_鸣叫.mp3
-I0806 13:23:02.375 main_window.cc:638] F:/bird_app/export_sounds/纹背啄木鸟_Dryobates scalaris_鸣叫.mp3
-I0806 13:23:02.376 main_window.cc:638] F:/bird_app/export_sounds/北美黑啄木鸟_Dryocopus pileatus_鸣叫.mp3
-I0806 13:23:02.376 main_window.cc:638] F:/bird_app/export_sounds/白头啄木鸟_Leuconotopicus albolarvatus.mp3
-I0806 13:23:02.377 main_window.cc:638] F:/bird_app/export_sounds/亚利桑那啄木鸟_Leuconotopicus arizonae.mp3
-I0806 13:23:02.377 main_window.cc:638] F:/bird_app/export_sounds/红顶啄木鸟_Leuconotopicus borealis.mp3
-I0806 13:23:02.377 main_window.cc:638] F:/bird_app/export_sounds/长嘴啄木鸟_Leuconotopicus villosus.mp3
-I0806 13:23:02.378 main_window.cc:638] F:/bird_app/export_sounds/金额啄木鸟_Melanerpes aurifrons.mp3
-I0806 13:23:02.378 main_window.cc:638] F:/bird_app/export_sounds/红腹啄木鸟_Melanerpes carolinus.mp3
-I0806 13:23:02.379 main_window.cc:638] F:/bird_app/export_sounds/红头啄木鸟_Melanerpes erythrocephalus.mp3
-I0806 13:23:02.379 main_window.cc:638] F:/bird_app/export_sounds/橡树啄木鸟_Melanerpes formicivorus.mp3
-I0806 13:23:02.379 main_window.cc:638] F:/bird_app/export_sounds/刘氏啄木鸟_Melanerpes lewis.mp3
-I0806 13:23:02.380 main_window.cc:638] F:/bird_app/export_sounds/吉拉啄木鸟_Melanerpes uropygialis.mp3
-I0806 13:23:02.380 main_window.cc:638] F:/bird_app/export_sounds/黑背三趾啄木鸟_Picoides arcticus.mp3
-I0806 13:23:02.381 main_window.cc:638] F:/bird_app/export_sounds/美洲三趾啄木鸟_Picoides dorsalis.mp3
-I0806 13:23:02.381 main_window.cc:638] F:/bird_app/export_sounds/红颈吸汁啄木鸟_Sphyrapicus nuchalis.mp3
-I0806 13:23:02.381 main_window.cc:638] F:/bird_app/export_sounds/红胸吸汁啄木鸟_Sphyrapicus ruber.mp3
-I0806 13:23:02.382 main_window.cc:638] F:/bird_app/export_sounds/威氏吸汁啄木鸟_Sphyrapicus thyroideus.mp3
-I0806 13:23:02.382 main_window.cc:638] F:/bird_app/export_sounds/黄腹吸汁啄木鸟_Sphyrapicus varius.mp3
-I0806 13:23:02.383 main_window.cc:638] F:/bird_app/export_sounds/凤头巨隼_Caracara plancus_鸣叫.mp3
-I0806 13:23:02.383 main_window.cc:638] F:/bird_app/export_sounds/灰背隼_Falco columbarius_鸣叫.mp3
-I0806 13:23:02.384 main_window.cc:638] F:/bird_app/export_sounds/黄眉隼_Falco femoralis_鸣叫.mp3
-I0806 13:23:02.384 main_window.cc:638] F:/bird_app/export_sounds/游隼_Falco peregrinus.mp3
-I0806 13:23:02.385 main_window.cc:638] F:/bird_app/export_sounds/矛隼_Falco rusticolus_鸣叫.mp3
-I0806 13:23:02.385 main_window.cc:638] F:/bird_app/export_sounds/美洲隼_Falco sparverius_鸣叫.mp3
-I0806 13:23:02.386 main_window.cc:638] F:/bird_app/export_sounds/燕隼_Falco subbuteo_鸣叫.mp3
-I0806 13:23:02.386 main_window.cc:638] F:/bird_app/export_sounds/红隼_Falco tinnunculus.mp3
-I0806 13:23:02.386 main_window.cc:638] F:/bird_app/export_sounds/粉脸牡丹鹦鹉_Agapornis roseicollis_鸣叫.mp3
-I0806 13:23:02.387 main_window.cc:638] F:/bird_app/export_sounds/虎皮鹦鹉_Melopsittacus undulatus_鸣叫.mp3
-I0806 13:23:02.387 main_window.cc:638] F:/bird_app/export_sounds/红领绿鹦鹉_Psittacula krameri_鸣叫.mp3
-I0806 13:23:02.388 main_window.cc:638] F:/bird_app/export_sounds/银胸丝冠鸟_Serilophus lunatus.mp3
-I0806 13:23:02.388 main_window.cc:638] F:/bird_app/export_sounds/仙八色鸫_Pitta nympha_鸣唱.mp3
-I0806 13:23:02.389 main_window.cc:638] F:/bird_app/export_sounds/密岛摄蜜鸟_Myzomela rubratra_鸣唱.mp3
-I0806 13:23:02.389 main_window.cc:638] F:/bird_app/export_sounds/帕劳鹃鵙_Edolisoma monacha.mp3
-I0806 13:23:02.390 main_window.cc:638] F:/bird_app/export_sounds/白胸燕鵙_Artamus leucorynchus_鸣叫.mp3
-I0806 13:23:02.390 main_window.cc:638] F:/bird_app/export_sounds/黑髭莺雀_Vireo altiloquus.mp3
-I0806 13:23:02.391 main_window.cc:638] F:/bird_app/export_sounds/黑顶莺雀_Vireo atricapilla.mp3
-I0806 13:23:02.391 main_window.cc:638] F:/bird_app/export_sounds/贝氏莺雀_Vireo bellii.mp3
-I0806 13:23:02.391 main_window.cc:638] F:/bird_app/export_sounds/卡氏莺雀_Vireo cassinii.mp3
-I0806 13:23:02.392 main_window.cc:638] F:/bird_app/export_sounds/厚嘴莺雀_Vireo crassirostris.mp3
-I0806 13:23:02.392 main_window.cc:638] F:/bird_app/export_sounds/黄喉莺雀_Vireo flavifrons.mp3
-I0806 13:23:02.393 main_window.cc:638] F:/bird_app/export_sounds/黄绿莺雀_Vireo flavoviridis.mp3
-I0806 13:23:02.393 main_window.cc:638] F:/bird_app/export_sounds/歌莺雀_Vireo gilvus.mp3
-I0806 13:23:02.393 main_window.cc:638] F:/bird_app/export_sounds/白眼莺雀_Vireo griseus.mp3
-I0806 13:23:02.394 main_window.cc:638] F:/bird_app/export_sounds/赫氏莺雀_Vireo huttoni.mp3
-I0806 13:23:02.394 main_window.cc:638] F:/bird_app/export_sounds/褐顶莺雀_Vireo leucophrys_鸣唱.mp3
-I0806 13:23:02.395 main_window.cc:638] F:/bird_app/export_sounds/红眼莺雀_Vireo olivaceus.mp3
-I0806 13:23:02.395 main_window.cc:638] F:/bird_app/export_sounds/费城莺雀_Vireo philadelphicus.mp3
-I0806 13:23:02.395 main_window.cc:638] F:/bird_app/export_sounds/铅色莺雀_Vireo plumbeus.mp3
-I0806 13:23:02.396 main_window.cc:638] F:/bird_app/export_sounds/蓝头莺雀_Vireo solitarius.mp3
-I0806 13:23:02.396 main_window.cc:638] F:/bird_app/export_sounds/灰莺雀_Vireo vicinior.mp3
-I0806 13:23:02.397 main_window.cc:638] F:/bird_app/export_sounds/乌鵙鹟_Colluricincla tenebrosa.mp3
-I0806 13:23:02.397 main_window.cc:638] F:/bird_app/export_sounds/帕劳扇尾鹟_Rhipidura lepida.mp3
-I0806 13:23:02.398 main_window.cc:638] F:/bird_app/export_sounds/檀香山蚋鹟_Chasiempis ibidis.mp3
-I0806 13:23:02.398 main_window.cc:638] F:/bird_app/export_sounds/夏威夷蚋鹟_Chasiempis sandwichensis_鸣唱.mp3
-I0806 13:23:02.398 main_window.cc:638] F:/bird_app/export_sounds/考岛蚋鹟_Chasiempis sclateri.mp3
-I0806 13:23:02.399 main_window.cc:638] F:/bird_app/export_sounds/帕劳阔嘴鹟_Myiagra erythrops.mp3
-I0806 13:23:02.399 main_window.cc:638] F:/bird_app/export_sounds/灰伯劳_Lanius borealis.mp3
-I0806 13:23:02.400 main_window.cc:638] F:/bird_app/export_sounds/红尾伯劳_Lanius cristatus.mp3
-I0806 13:23:02.400 main_window.cc:638] F:/bird_app/export_sounds/呆头伯劳_Lanius ludovicianus.mp3
-I0806 13:23:02.401 main_window.cc:638] F:/bird_app/export_sounds/西丛鸦_Aphelocoma californica_鸣叫.mp3
-I0806 13:23:02.401 main_window.cc:638] F:/bird_app/export_sounds/丛鸦_Aphelocoma coerulescens_鸣叫.mp3
-I0806 13:23:02.402 main_window.cc:638] F:/bird_app/export_sounds/圣岛丛鸦_Aphelocoma insularis.mp3
-I0806 13:23:02.402 main_window.cc:638] F:/bird_app/export_sounds/墨西哥丛鸦_Aphelocoma wollweberi_鸣叫.mp3
-I0806 13:23:02.402 main_window.cc:638] F:/bird_app/export_sounds/伍氏丛鸦_Aphelocoma woodhouseii_鸣叫.mp3
-I0806 13:23:02.403 main_window.cc:638] F:/bird_app/export_sounds/寒鸦_Coloeus monedula_鸣叫.mp3
-I0806 13:23:02.403 main_window.cc:638] F:/bird_app/export_sounds/短嘴鸦_Corvus brachyrhynchos_鸣叫.mp3
-I0806 13:23:02.403 main_window.cc:638] F:/bird_app/export_sounds/渡鸦_Corvus corax_鸣叫.mp3
-I0806 13:23:02.404 main_window.cc:638] F:/bird_app/export_sounds/白颈渡鸦_Corvus cryptoleucus_鸣叫.mp3
-I0806 13:23:02.404 main_window.cc:638] F:/bird_app/export_sounds/夏威夷乌鸦_Corvus hawaiiensis_鸣叫.mp3
-I0806 13:23:02.405 main_window.cc:638] F:/bird_app/export_sounds/墨西哥乌鸦_Corvus imparatus_鸣叫.mp3
-I0806 13:23:02.405 main_window.cc:638] F:/bird_app/export_sounds/关岛乌鸦_Corvus kubaryi_鸣叫.mp3
-I0806 13:23:02.405 main_window.cc:638] F:/bird_app/export_sounds/鱼鸦_Corvus ossifragus_鸣叫.mp3
-I0806 13:23:02.406 main_window.cc:638] F:/bird_app/export_sounds/暗冠蓝鸦_Cyanocitta stelleri_鸣叫.mp3
-I0806 13:23:02.406 main_window.cc:638] F:/bird_app/export_sounds/绿蓝鸦_Cyanocorax yncas.mp3
-I0806 13:23:02.407 main_window.cc:638] F:/bird_app/export_sounds/蓝头鸦_Gymnorhinus cyanocephalus.mp3
-I0806 13:23:02.407 main_window.cc:638] F:/bird_app/export_sounds/北美星鸦_Nucifraga columbiana.mp3
-I0806 13:23:02.407 main_window.cc:638] F:/bird_app/export_sounds/灰噪鸦_Perisoreus canadensis.mp3
-I0806 13:23:02.408 main_window.cc:638] F:/bird_app/export_sounds/北美喜鹊_Pica hudsonia.mp3
-I0806 13:23:02.408 main_window.cc:638] F:/bird_app/export_sounds/美洲凤头山雀_Baeolophus bicolor_鸣唱.mp3
-I0806 13:23:02.408 main_window.cc:638] F:/bird_app/export_sounds/纯色冠山雀_Baeolophus inornatus_鸣唱.mp3
-I0806 13:23:02.409 main_window.cc:638] F:/bird_app/export_sounds/林山雀_Baeolophus ridgwayi_鸣唱.mp3
-I0806 13:23:02.409 main_window.cc:638] F:/bird_app/export_sounds/白眉冠山雀_Baeolophus wollweberi_鸣唱.mp3
-I0806 13:23:02.410 main_window.cc:638] F:/bird_app/export_sounds/黑顶山雀_Poecile atricapillus.mp3
-I0806 13:23:02.410 main_window.cc:638] F:/bird_app/export_sounds/卡罗山雀_Poecile carolinensis.mp3
-I0806 13:23:02.411 main_window.cc:638] F:/bird_app/export_sounds/西伯利亚山雀_Poecile cinctus.mp3
-I0806 13:23:02.411 main_window.cc:638] F:/bird_app/export_sounds/北美白眉山雀_Poecile gambeli.mp3
-I0806 13:23:02.411 main_window.cc:638] F:/bird_app/export_sounds/北山雀_Poecile hudsonicus.mp3
-I0806 13:23:02.412 main_window.cc:638] F:/bird_app/export_sounds/栗背山雀_Poecile rufescens.mp3
-I0806 13:23:02.412 main_window.cc:638] F:/bird_app/export_sounds/墨西哥山雀_Poecile sclateri.mp3
-I0806 13:23:02.413 main_window.cc:638] F:/bird_app/export_sounds/云雀_Alauda arvensis_鸣唱.mp3
-I0806 13:23:02.413 main_window.cc:638] F:/bird_app/export_sounds/角百灵_Eremophila alpestris_鸣唱.mp3
-I0806 13:23:02.413 main_window.cc:638] F:/bird_app/export_sounds/黑眉苇莺_Acrocephalus bistrigiceps_鸣叫.mp3
-I0806 13:23:02.414 main_window.cc:638] F:/bird_app/export_sounds/黑眉苇莺_Acrocephalus bistrigiceps_鸣唱.mp3
-I0806 13:23:02.415 main_window.cc:638] F:/bird_app/export_sounds/东方大苇莺_Acrocephalus orientalis_鸣叫.mp3
-I0806 13:23:02.415 main_window.cc:638] F:/bird_app/export_sounds/小蝗莺_Helopsaltes certhiola_鸣唱.mp3
-I0806 13:23:02.415 main_window.cc:638] F:/bird_app/export_sounds/苍眉蝗莺_Helopsaltes fasciolatus_鸣唱.mp3
-I0806 13:23:02.416 main_window.cc:638] F:/bird_app/export_sounds/北蝗莺_Helopsaltes ochotensis_鸣唱.mp3
-I0806 13:23:02.417 main_window.cc:638] F:/bird_app/export_sounds/东亚蝗莺_Helopsaltes pleskei_鸣唱.mp3
-I0806 13:23:02.417 main_window.cc:638] F:/bird_app/export_sounds/矛斑蝗莺_Locustella lanceolata_鸣唱.mp3
-I0806 13:23:02.417 main_window.cc:638] F:/bird_app/export_sounds/棕褐短翅蝗莺_Locustella luteoventris_鸣唱.mp3
-I0806 13:23:02.418 main_window.cc:638] F:/bird_app/export_sounds/高山短翅蝗莺_Locustella mandelli.mp3
-I0806 13:23:02.418 main_window.cc:638] F:/bird_app/export_sounds/烟腹毛脚燕_Delichon dasypus_鸣叫.mp3
-I0806 13:23:02.419 main_window.cc:638] F:/bird_app/export_sounds/西方毛脚燕_Delichon urbicum.mp3
-I0806 13:23:02.419 main_window.cc:638] F:/bird_app/export_sounds/家燕_Hirundo rustica.mp3
-I0806 13:23:02.419 main_window.cc:638] F:/bird_app/export_sounds/穴崖燕_Petrochelidon fulva.mp3
-I0806 13:23:02.420 main_window.cc:638] F:/bird_app/export_sounds/美洲燕_Petrochelidon pyrrhonota.mp3
-I0806 13:23:02.420 main_window.cc:638] F:/bird_app/export_sounds/紫崖燕_Progne subis.mp3
-I0806 13:23:02.421 main_window.cc:638] F:/bird_app/export_sounds/棕胸崖燕_Progne tapera.mp3
-I0806 13:23:02.421 main_window.cc:638] F:/bird_app/export_sounds/崖沙燕_Riparia riparia.mp3
-I0806 13:23:02.421 main_window.cc:638] F:/bird_app/export_sounds/中北美毛翅燕_Stelgidopteryx serripennis.mp3
-I0806 13:23:02.422 main_window.cc:638] F:/bird_app/export_sounds/双色树燕_Tachycineta bicolor.mp3
-I0806 13:23:02.422 main_window.cc:638] F:/bird_app/export_sounds/巴哈马树燕_Tachycineta cyaneoviridis.mp3
-I0806 13:23:02.422 main_window.cc:638] F:/bird_app/export_sounds/紫绿树燕_Tachycineta thalassina.mp3
-I0806 13:23:02.423 main_window.cc:638] F:/bird_app/export_sounds/短嘴长尾山雀_Psaltriparus minimus.mp3
-I0806 13:23:02.423 main_window.cc:638] F:/bird_app/export_sounds/棕脸鹟莺_Abroscopus albogularis_鸣唱.mp3
-I0806 13:23:02.424 main_window.cc:638] F:/bird_app/export_sounds/棕脸鹟莺_Abroscopus albogularis_鸣唱1.wav
-I0806 13:23:02.424 main_window.cc:638] F:/bird_app/export_sounds/黑脸鹟莺_Abroscopus schisticeps_鸣唱.wav
-I0806 13:23:02.425 main_window.cc:638] F:/bird_app/export_sounds/黄腹鹟莺_Abroscopus superciliaris_乞食.wav
-I0806 13:23:02.425 main_window.cc:638] F:/bird_app/export_sounds/黄腹鹟莺_Abroscopus superciliaris_鸣唱.wav
-I0806 13:23:02.426 main_window.cc:638] F:/bird_app/export_sounds/黄腹鹟莺_Abroscopus superciliaris_鸣唱2.wav
-I0806 13:23:02.427 main_window.cc:638] F:/bird_app/export_sounds/淡脚树莺_Hemitesia pallidipes_鸣唱.mp3
-I0806 13:23:02.427 main_window.cc:638] F:/bird_app/export_sounds/黄腹树莺_Horornis acanthizoides_鸣唱.mp3
-I0806 13:23:02.427 main_window.cc:638] F:/bird_app/export_sounds/帕劳树莺_Horornis annae.mp3
-I0806 13:23:02.428 main_window.cc:638] F:/bird_app/export_sounds/远东树莺_Horornis canturians.mp3
-I0806 13:23:02.428 main_window.cc:638] F:/bird_app/export_sounds/日本树莺_Horornis diphone.mp3
-I0806 13:23:02.428 main_window.cc:638] F:/bird_app/export_sounds/灰腹地莺_Tesia cyaniventer_鸣唱.mp3
-I0806 13:23:02.429 main_window.cc:638] F:/bird_app/export_sounds/鳞头树莺_Urosphena squameiceps.mp3
-I0806 13:23:02.429 main_window.cc:638] F:/bird_app/export_sounds/黄腹柳莺_Phylloscopus affinis_鸣唱.mp3
-I0806 13:23:02.430 main_window.cc:638] F:/bird_app/export_sounds/极北柳莺_Phylloscopus borealis_鸣叫.mp3
-I0806 13:23:02.430 main_window.cc:638] F:/bird_app/export_sounds/极北柳莺_Phylloscopus borealis_鸣唱.mp3
-I0806 13:23:02.431 main_window.cc:638] F:/bird_app/export_sounds/库页岛柳莺_Phylloscopus borealoides_鸣叫.mp3
-I0806 13:23:02.431 main_window.cc:638] F:/bird_app/export_sounds/金眶鹟莺_Phylloscopus burkii_鸣唱.mp3
-I0806 13:23:02.431 main_window.cc:638] F:/bird_app/export_sounds/栗头鹟莺_Phylloscopus castaniceps_鸣唱.mp3
-I0806 13:23:02.432 main_window.cc:638] F:/bird_app/export_sounds/冕柳莺_Phylloscopus coronatus_鸣唱.mp3
-I0806 13:23:02.432 main_window.cc:638] F:/bird_app/export_sounds/堪察加柳莺_Phylloscopus examinandus_鸣叫,鸣唱.mp3
-I0806 13:23:02.433 main_window.cc:638] F:/bird_app/export_sounds/褐柳莺_Phylloscopus fuscatus_鸣叫.mp3
-I0806 13:23:02.433 main_window.cc:638] F:/bird_app/export_sounds/华南冠纹柳莺_Phylloscopus goodsoni_鸣唱.mp3
-I0806 13:23:02.434 main_window.cc:638] F:/bird_app/export_sounds/淡眉柳莺_Phylloscopus humei_鸣叫.mp3
-I0806 13:23:02.434 main_window.cc:638] F:/bird_app/export_sounds/黄眉柳莺_Phylloscopus inornatus_鸣叫.mp3
-I0806 13:23:02.434 main_window.cc:638] F:/bird_app/export_sounds/双斑绿柳莺_Phylloscopus plumbeitarsus_鸣叫.mp3
-I0806 13:23:02.435 main_window.cc:638] F:/bird_app/export_sounds/黄腰柳莺_Phylloscopus proregulus_鸣叫.mp3
-I0806 13:23:02.435 main_window.cc:638] F:/bird_app/export_sounds/巨嘴柳莺_Phylloscopus schwarzi_鸣叫.mp3
-I0806 13:23:02.435 main_window.cc:638] F:/bird_app/export_sounds/淡脚柳莺_Phylloscopus tenellipes_鸣叫.mp3
-I0806 13:23:02.436 main_window.cc:638] F:/bird_app/export_sounds/淡脚柳莺_Phylloscopus tenellipes_鸣唱.mp3
-I0806 13:23:02.436 main_window.cc:638] F:/bird_app/export_sounds/黑喉红臀鹎_Pycnonotus cafer.mp3
-I0806 13:23:02.437 main_window.cc:638] F:/bird_app/export_sounds/红耳鹎_Pycnonotus jocosus.mp3
-I0806 13:23:02.437 main_window.cc:638] F:/bird_app/export_sounds/帕劳绣眼鸟_Megazosterops palauensis_鸣唱.mp3
-I0806 13:23:02.438 main_window.cc:638] F:/bird_app/export_sounds/马里亚纳绣眼鸟_Zosterops conspicillatus_鸣叫.mp3
-I0806 13:23:02.438 main_window.cc:638] F:/bird_app/export_sounds/暗绣眼鸟_Zosterops finschii_鸣叫.mp3
-I0806 13:23:02.439 main_window.cc:638] F:/bird_app/export_sounds/日本绣眼鸟_Zosterops japonicus_鸣叫.mp3
-I0806 13:23:02.439 main_window.cc:638] F:/bird_app/export_sounds/卡岛绣眼鸟_Zosterops semperi_鸣叫.mp3
-I0806 13:23:02.439 main_window.cc:638] F:/bird_app/export_sounds/锈脸钩嘴鹛_Erythrogenys erythrogenys_亚鸣唱(Celatus).mp3
-I0806 13:23:02.440 main_window.cc:638] F:/bird_app/export_sounds/蓝翅希鹛_Actinodura cyanouroptera_鸣唱.wav
-I0806 13:23:02.441 main_window.cc:638] F:/bird_app/export_sounds/白眶斑翅鹛_Actinodura ramsayi_鸣唱.wav
-I0806 13:23:02.441 main_window.cc:638] F:/bird_app/export_sounds/斑喉希鹛_Actinodura strigula_鸣叫.wav
-I0806 13:23:02.442 main_window.cc:638] F:/bird_app/export_sounds/斑喉希鹛_Actinodura strigula_鸣叫1.wav
-I0806 13:23:02.442 main_window.cc:638] F:/bird_app/export_sounds/斑喉希鹛_Actinodura strigula_鸣叫2.wav
-I0806 13:23:02.443 main_window.cc:638] F:/bird_app/export_sounds/斑喉希鹛_Actinodura strigula_鸣唱.wav
-I0806 13:23:02.443 main_window.cc:638] F:/bird_app/export_sounds/纹胸斑翅鹛_Actinodura waldeni_鸣唱.wav
-I0806 13:23:02.444 main_window.cc:638] F:/bird_app/export_sounds/画眉_Garrulax canorus_鸣唱.mp3
-I0806 13:23:02.444 main_window.cc:638] F:/bird_app/export_sounds/黑领噪鹛_Pterorhinus pectoralis_鸣叫.mp3
-I0806 13:23:02.445 main_window.cc:638] F:/bird_app/export_sounds/红胸䴓_Sitta canadensis_鸣唱.mp3
-I0806 13:23:02.445 main_window.cc:638] F:/bird_app/export_sounds/白胸䴓_Sitta carolinensis_鸣叫.mp3
-I0806 13:23:02.445 main_window.cc:638] F:/bird_app/export_sounds/褐头䴓_Sitta pusilla_鸣叫.mp3
-I0806 13:23:02.445 main_window.cc:638] F:/bird_app/export_sounds/小䴓_Sitta pygmaea_鸣叫.mp3
-I0806 13:23:02.446 main_window.cc:638] F:/bird_app/export_sounds/家八哥_Acridotheres tristis_鸣唱.mp3
-I0806 13:23:02.447 main_window.cc:638] F:/bird_app/export_sounds/花辉椋鸟_Aplonis opaca_鸣叫.mp3
-I0806 13:23:02.447 main_window.cc:638] F:/bird_app/export_sounds/鹩哥_Gracula religiosa_鸣唱.mp3
-I0806 13:23:02.447 main_window.cc:638] F:/bird_app/export_sounds/紫翅椋鸟_Sturnus vulgaris_鸣唱.mp3
-I0806 13:23:02.448 main_window.cc:638] F:/bird_app/export_sounds/比氏夜鸫_Catharus bicknelli_鸣唱.mp3
-I0806 13:23:02.448 main_window.cc:638] F:/bird_app/export_sounds/棕夜鸫_Catharus fuscescens_鸣唱.mp3
-I0806 13:23:02.449 main_window.cc:638] F:/bird_app/export_sounds/隐夜鸫_Catharus guttatus_鸣唱.mp3
-I0806 13:23:02.449 main_window.cc:638] F:/bird_app/export_sounds/灰颊夜鸫_Catharus minimus_鸣唱.mp3
-I0806 13:23:02.449 main_window.cc:638] F:/bird_app/export_sounds/斯氏夜鸫_Catharus ustulatus_鸣唱.mp3
-I0806 13:23:02.450 main_window.cc:638] F:/bird_app/export_sounds/棕林鸫_Hylocichla mustelina_鸣唱.mp3
-I0806 13:23:02.450 main_window.cc:638] F:/bird_app/export_sounds/杂色鸫_Ixoreus naevius_鸣唱.mp3
-I0806 13:23:02.451 main_window.cc:638] F:/bird_app/export_sounds/夏威夷孤鸫_Myadestes obscurus_鸣唱.mp3
-I0806 13:23:02.451 main_window.cc:638] F:/bird_app/export_sounds/小考岛孤鸫_Myadestes palmeri_鸣唱.mp3
-I0806 13:23:02.451 main_window.cc:638] F:/bird_app/export_sounds/坦氏孤鸫_Myadestes townsendi_鸣唱.mp3
-I0806 13:23:02.452 main_window.cc:638] F:/bird_app/export_sounds/山蓝鸲_Sialia currucoides_鸣唱.mp3
-I0806 13:23:02.452 main_window.cc:638] F:/bird_app/export_sounds/西蓝鸲_Sialia mexicana_鸣唱.mp3
-I0806 13:23:02.452 main_window.cc:638] F:/bird_app/export_sounds/东蓝鸲_Sialia sialis_鸣唱.mp3
-I0806 13:23:02.454 main_window.cc:638] F:/bird_app/export_sounds/白喉鸫_Turdus assimilis_鸣唱.mp3
-I0806 13:23:02.454 main_window.cc:638] F:/bird_app/export_sounds/褐背鸫_Turdus grayi_鸣唱.mp3
-I0806 13:23:02.454 main_window.cc:638] F:/bird_app/export_sounds/白眉歌鸫_Turdus iliacus_鸣唱.mp3
-I0806 13:23:02.455 main_window.cc:638] F:/bird_app/export_sounds/红尾斑鸫_Turdus naumanni_鸣叫.mp3
-I0806 13:23:02.455 main_window.cc:638] F:/bird_app/export_sounds/白眉鸫_Turdus obscurus_鸣叫.mp3
-I0806 13:23:02.455 main_window.cc:638] F:/bird_app/export_sounds/田鸫_Turdus pilaris_鸣叫.mp3
-I0806 13:23:02.456 main_window.cc:638] F:/bird_app/export_sounds/棕背鸲鸫_Turdus rufopalliatus_鸣唱.mp3
-I0806 13:23:02.456 main_window.cc:638] F:/bird_app/export_sounds/小虎斑地鸫_Zoothera dauma_鸣唱.mp3
-I0806 13:23:02.457 main_window.cc:638] F:/bird_app/export_sounds/红喉歌鸲_Calliope calliope_鸣唱.mp3
-I0806 13:23:02.457 main_window.cc:638] F:/bird_app/export_sounds/白腰鹊鸲_Copsychus malabaricus_鸣唱.mp3
-I0806 13:23:02.457 main_window.cc:638] F:/bird_app/export_sounds/黄眉姬鹟_Ficedula narcissina_鸣唱.mp3
-I0806 13:23:02.458 main_window.cc:638] F:/bird_app/export_sounds/红胸姬鹟_Ficedula parva_鸣叫.mp3
-I0806 13:23:02.458 main_window.cc:638] F:/bird_app/export_sounds/蓝喉歌鸲_Luscinia svecica_鸣唱.mp3
-I0806 13:23:02.459 main_window.cc:638] F:/bird_app/export_sounds/蓝矶鸫_Monticola solitarius.mp3
-I0806 13:23:02.459 main_window.cc:638] F:/bird_app/export_sounds/北灰鹟_Muscicapa dauurica_鸣唱.mp3
-I0806 13:23:02.460 main_window.cc:638] F:/bird_app/export_sounds/灰纹鹟_Muscicapa griseisticta_鸣唱.mp3
-I0806 13:23:02.460 main_window.cc:638] F:/bird_app/export_sounds/乌鹟_Muscicapa sibirica_鸣叫.mp3
-I0806 13:23:02.460 main_window.cc:638] F:/bird_app/export_sounds/穗䳭_Oenanthe oenanthe_鸣叫.mp3
-I0806 13:23:02.461 main_window.cc:638] F:/bird_app/export_sounds/黑喉石䳭_Saxicola maurus_鸣唱.mp3
-I0806 13:23:02.461 main_window.cc:638] F:/bird_app/export_sounds/红胁蓝尾鸲_Tarsiger cyanurus_鸣唱.mp3
-I0806 13:23:02.462 main_window.cc:638] F:/bird_app/export_sounds/细纹灰胸捕蛛鸟_Arachnothera affinis_鸣叫.mp3
-I0806 13:23:02.463 main_window.cc:638] F:/bird_app/export_sounds/橙巧织雀_Euplectes franciscanus_鸣唱.mp3
-I0806 13:23:02.463 main_window.cc:638] F:/bird_app/export_sounds/红梅花雀_Amandava amandava_鸣唱.mp3
-I0806 13:23:02.464 main_window.cc:638] F:/bird_app/export_sounds/蓝脸鹦雀_Erythrura trichroa_鸣叫.mp3
-I0806 13:23:02.464 main_window.cc:638] F:/bird_app/export_sounds/梅花雀_Estrilda astrild_鸣叫.mp3
-I0806 13:23:02.464 main_window.cc:638] F:/bird_app/export_sounds/橙颊梅花雀_Estrilda melpoda_鸣叫.mp3
-I0806 13:23:02.465 main_window.cc:638] F:/bird_app/export_sounds/黑腰梅花雀_Estrilda troglodytes_鸣叫.mp3
-I0806 13:23:02.465 main_window.cc:638] F:/bird_app/export_sounds/银嘴文鸟_Euodice cantans_鸣叫.mp3
-I0806 13:23:02.466 main_window.cc:638] F:/bird_app/export_sounds/淡蓝梅花雀_Glaucestrilda caerulescens_鸣叫.mp3
-I0806 13:23:02.466 main_window.cc:638] F:/bird_app/export_sounds/栗腹文鸟_Lonchura atricapilla_鸣叫.mp3
-I0806 13:23:02.466 main_window.cc:638] F:/bird_app/export_sounds/斑文鸟_Lonchura punctulata_飞行叫声.mp3
-I0806 13:23:02.467 main_window.cc:638] F:/bird_app/export_sounds/禾雀_Padda oryzivora_鸣叫.mp3
-I0806 13:23:02.467 main_window.cc:638] F:/bird_app/export_sounds/白斑翅雪雀_Montifringilla nivalis_鸣唱.mp3
-I0806 13:23:02.468 main_window.cc:638] F:/bird_app/export_sounds/麻雀_Passer montanus.mp3
-I0806 13:23:02.469 main_window.cc:638] F:/bird_app/export_sounds/红喉鹨_Anthus cervinus_鸣唱.mp3
-I0806 13:23:02.469 main_window.cc:638] F:/bird_app/export_sounds/布氏鹨_Anthus godlewskii_鸣叫.mp3
-I0806 13:23:02.469 main_window.cc:638] F:/bird_app/export_sounds/北鹨_Anthus gustavi_鸣唱.mp3
-I0806 13:23:02.470 main_window.cc:638] F:/bird_app/export_sounds/树鹨_Anthus hodgsoni_鸣叫.mp3
-I0806 13:23:02.470 main_window.cc:638] F:/bird_app/export_sounds/理氏鹨_Anthus richardi_飞行叫声.mp3
-I0806 13:23:02.471 main_window.cc:638] F:/bird_app/export_sounds/北美黄腹鹨_Anthus rubescens_鸣叫.mp3
-I0806 13:23:02.471 main_window.cc:638] F:/bird_app/export_sounds/田鹨_Anthus rufulus_飞行鸣叫.mp3
-I0806 13:23:02.471 main_window.cc:638] F:/bird_app/export_sounds/田鹨_Anthus rufulus_鸣叫.mp3
-I0806 13:23:02.472 main_window.cc:638] F:/bird_app/export_sounds/斯氏鹨_Anthus spragueii_鸣唱.mp3
-I0806 13:23:02.472 main_window.cc:638] F:/bird_app/export_sounds/白鹡鸰_Motacilla alba_鸣唱.mp3
-I0806 13:23:02.473 main_window.cc:638] F:/bird_app/export_sounds/黄鹡鸰_Motacilla tschutschensis_鸣唱.mp3
-I0806 13:23:02.473 main_window.cc:638] F:/bird_app/export_sounds/白腰朱顶雀_Acanthis flammea_鸣叫.mp3
-I0806 13:23:02.473 main_window.cc:638] F:/bird_app/export_sounds/苍头燕雀_Fringilla coelebs_鸣唱.mp3
-I0806 13:23:02.474 main_window.cc:638] F:/bird_app/export_sounds/燕雀_Fringilla montifringilla_鸣叫.mp3
-I0806 13:23:02.474 main_window.cc:638] F:/bird_app/export_sounds/卡氏朱雀_Haemorhous cassinii_鸣叫.mp3
-I0806 13:23:02.475 main_window.cc:638] F:/bird_app/export_sounds/家朱雀_Haemorhous mexicanus_鸣唱.mp3
-I0806 13:23:02.475 main_window.cc:638] F:/bird_app/export_sounds/紫朱雀_Haemorhous purpureus_鸣唱.mp3
-I0806 13:23:02.475 main_window.cc:638] F:/bird_app/export_sounds/黄昏锡嘴雀_Hesperiphona vespertina_鸣唱.mp3
-I0806 13:23:02.476 main_window.cc:638] F:/bird_app/export_sounds/灰头岭雀_Leucosticte tephrocotis_鸣唱.mp3
-I0806 13:23:02.476 main_window.cc:638] F:/bird_app/export_sounds/红交嘴雀_Loxia curvirostra_鸣叫.mp3
-I0806 13:23:02.476 main_window.cc:638] F:/bird_app/export_sounds/白翅交嘴雀_Loxia leucoptera_鸣叫.mp3
-I0806 13:23:02.477 main_window.cc:638] F:/bird_app/export_sounds/松雀_Pinicola enucleator_鸣唱.mp3
-I0806 13:23:02.477 main_window.cc:638] F:/bird_app/export_sounds/松金翅雀_Spinus pinus_鸣叫.mp3
-I0806 13:23:02.477 main_window.cc:638] F:/bird_app/export_sounds/暗背金翅雀_Spinus psaltria_鸣唱.mp3
-I0806 13:23:02.478 main_window.cc:638] F:/bird_app/export_sounds/北美金翅雀_Spinus tristis_鸣叫.mp3
+I0806 13:38:34.166 main_window.cc:599] sounds/Anseriformes/Anatidae/
+I0806 13:38:34.166 main_window.cc:599] sounds/Anseriformes/Anatidae/
+I0806 13:38:34.166 main_window.cc:599] sounds/Anseriformes/Anatidae/
+I0806 13:38:34.167 main_window.cc:599] sounds/Anseriformes/Anatidae/
+I0806 13:38:34.167 main_window.cc:599] sounds/Anseriformes/Anatidae/
+I0806 13:38:34.167 main_window.cc:599] sounds/Anseriformes/Anatidae/
+I0806 13:38:34.168 main_window.cc:599] sounds/Anseriformes/Anatidae/
+I0806 13:38:34.168 main_window.cc:599] sounds/Anseriformes/Anatidae/
+I0806 13:38:34.168 main_window.cc:599] sounds/Anseriformes/Anatidae/
+I0806 13:38:34.168 main_window.cc:599] sounds/Galliformes/Megapodiidae/
+I0806 13:38:34.168 main_window.cc:599] sounds/Galliformes/Phasianidae/
+I0806 13:38:34.168 main_window.cc:599] sounds/Galliformes/Phasianidae/
+I0806 13:38:34.169 main_window.cc:599] sounds/Galliformes/Phasianidae/
+I0806 13:38:34.169 main_window.cc:599] sounds/Galliformes/Phasianidae/
+I0806 13:38:34.169 main_window.cc:599] sounds/Galliformes/Phasianidae/
+I0806 13:38:34.169 main_window.cc:599] sounds/Galliformes/Phasianidae/
+I0806 13:38:34.169 main_window.cc:599] sounds/Podicipediformes/Podicipedidae/
+I0806 13:38:34.169 main_window.cc:599] sounds/Cuculiformes/Cuculidae/
+I0806 13:38:34.170 main_window.cc:599] sounds/Cuculiformes/Cuculidae/
+I0806 13:38:34.170 main_window.cc:599] sounds/Cuculiformes/Cuculidae/
+I0806 13:38:34.170 main_window.cc:599] sounds/Cuculiformes/Cuculidae/
+I0806 13:38:34.170 main_window.cc:599] sounds/Cuculiformes/Cuculidae/
+I0806 13:38:34.170 main_window.cc:599] sounds/Cuculiformes/Cuculidae/
+I0806 13:38:34.170 main_window.cc:599] sounds/Cuculiformes/Cuculidae/
+I0806 13:38:34.171 main_window.cc:599] sounds/Cuculiformes/Cuculidae/
+I0806 13:38:34.171 main_window.cc:599] sounds/Cuculiformes/Cuculidae/
+I0806 13:38:34.171 main_window.cc:599] sounds/Cuculiformes/Cuculidae/
+I0806 13:38:34.171 main_window.cc:599] sounds/Cuculiformes/Cuculidae/
+I0806 13:38:34.171 main_window.cc:599] sounds/Cuculiformes/Cuculidae/
+I0806 13:38:34.171 main_window.cc:599] sounds/Cuculiformes/Cuculidae/
+I0806 13:38:34.172 main_window.cc:599] sounds/Cuculiformes/Cuculidae/
+I0806 13:38:34.172 main_window.cc:599] sounds/Cuculiformes/Cuculidae/
+I0806 13:38:34.172 main_window.cc:599] sounds/Cuculiformes/Cuculidae/
+I0806 13:38:34.172 main_window.cc:599] sounds/Cuculiformes/Cuculidae/
+I0806 13:38:34.172 main_window.cc:599] sounds/Cuculiformes/Cuculidae/
+I0806 13:38:34.173 main_window.cc:599] sounds/Cuculiformes/Cuculidae/
+I0806 13:38:34.173 main_window.cc:599] sounds/Cuculiformes/Cuculidae/
+I0806 13:38:34.173 main_window.cc:599] sounds/Cuculiformes/Cuculidae/
+I0806 13:38:34.174 main_window.cc:599] sounds/Cuculiformes/Cuculidae/
+I0806 13:38:34.174 main_window.cc:599] sounds/Cuculiformes/Cuculidae/
+I0806 13:38:34.174 main_window.cc:599] sounds/Cuculiformes/Cuculidae/
+I0806 13:38:34.174 main_window.cc:599] sounds/Cuculiformes/Cuculidae/
+I0806 13:38:34.175 main_window.cc:599] sounds/Columbiformes/Columbidae/
+I0806 13:38:34.175 main_window.cc:599] sounds/Columbiformes/Columbidae/
+I0806 13:38:34.175 main_window.cc:599] sounds/Columbiformes/Columbidae/
+I0806 13:38:34.175 main_window.cc:599] sounds/Columbiformes/Columbidae/
+I0806 13:38:34.175 main_window.cc:599] sounds/Columbiformes/Columbidae/
+I0806 13:38:34.175 main_window.cc:599] sounds/Columbiformes/Columbidae/
+I0806 13:38:34.175 main_window.cc:599] sounds/Columbiformes/Columbidae/
+I0806 13:38:34.176 main_window.cc:599] sounds/Columbiformes/Columbidae/
+I0806 13:38:34.176 main_window.cc:599] sounds/Columbiformes/Columbidae/
+I0806 13:38:34.176 main_window.cc:599] sounds/Columbiformes/Columbidae/
+I0806 13:38:34.176 main_window.cc:599] sounds/Columbiformes/Columbidae/
+I0806 13:38:34.176 main_window.cc:599] sounds/Columbiformes/Columbidae/
+I0806 13:38:34.176 main_window.cc:599] sounds/Columbiformes/Columbidae/
+I0806 13:38:34.176 main_window.cc:599] sounds/Columbiformes/Columbidae/
+I0806 13:38:34.176 main_window.cc:599] sounds/Columbiformes/Columbidae/
+I0806 13:38:34.176 main_window.cc:599] sounds/Columbiformes/Columbidae/
+I0806 13:38:34.176 main_window.cc:599] sounds/Columbiformes/Columbidae/
+I0806 13:38:34.177 main_window.cc:599] sounds/Columbiformes/Columbidae/
+I0806 13:38:34.177 main_window.cc:599] sounds/Columbiformes/Columbidae/
+I0806 13:38:34.177 main_window.cc:599] sounds/Columbiformes/Columbidae/
+I0806 13:38:34.177 main_window.cc:599] sounds/Columbiformes/Columbidae/
+I0806 13:38:34.177 main_window.cc:599] sounds/Columbiformes/Columbidae/
+I0806 13:38:34.177 main_window.cc:599] sounds/Columbiformes/Columbidae/
+I0806 13:38:34.177 main_window.cc:599] sounds/Columbiformes/Columbidae/
+I0806 13:38:34.178 main_window.cc:599] sounds/Columbiformes/Columbidae/
+I0806 13:38:34.178 main_window.cc:599] sounds/Columbiformes/Columbidae/
+I0806 13:38:34.178 main_window.cc:599] sounds/Columbiformes/Columbidae/
+I0806 13:38:34.178 main_window.cc:599] sounds/Columbiformes/Columbidae/
+I0806 13:38:34.178 main_window.cc:599] sounds/Columbiformes/Columbidae/
+I0806 13:38:34.178 main_window.cc:599] sounds/Gruiformes/Heliornithidae/
+I0806 13:38:34.178 main_window.cc:599] sounds/Gruiformes/Rallidae/
+I0806 13:38:34.178 main_window.cc:599] sounds/Gruiformes/Rallidae/
+I0806 13:38:34.178 main_window.cc:599] sounds/Gruiformes/Rallidae/
+I0806 13:38:34.179 main_window.cc:599] sounds/Gruiformes/Rallidae/
+I0806 13:38:34.179 main_window.cc:599] sounds/Gruiformes/Rallidae/
+I0806 13:38:34.179 main_window.cc:599] sounds/Gruiformes/Rallidae/
+I0806 13:38:34.180 main_window.cc:599] sounds/Gruiformes/Rallidae/
+I0806 13:38:34.180 main_window.cc:599] sounds/Gruiformes/Rallidae/
+I0806 13:38:34.180 main_window.cc:599] sounds/Gruiformes/Rallidae/
+I0806 13:38:34.180 main_window.cc:599] sounds/Gruiformes/Rallidae/
+I0806 13:38:34.180 main_window.cc:599] sounds/Gruiformes/Rallidae/
+I0806 13:38:34.180 main_window.cc:599] sounds/Charadriiformes/Burhinidae/
+I0806 13:38:34.180 main_window.cc:599] sounds/Charadriiformes/Recurvirostridae/
+I0806 13:38:34.181 main_window.cc:599] sounds/Charadriiformes/Recurvirostridae/
+I0806 13:38:34.181 main_window.cc:599] sounds/Charadriiformes/Charadriidae/
+I0806 13:38:34.181 main_window.cc:599] sounds/Charadriiformes/Charadriidae/
+I0806 13:38:34.181 main_window.cc:599] sounds/Charadriiformes/Charadriidae/
+I0806 13:38:34.181 main_window.cc:599] sounds/Charadriiformes/Charadriidae/
+I0806 13:38:34.182 main_window.cc:599] sounds/Charadriiformes/Charadriidae/
+I0806 13:38:34.182 main_window.cc:599] sounds/Charadriiformes/Charadriidae/
+I0806 13:38:34.182 main_window.cc:599] sounds/Charadriiformes/Charadriidae/
+I0806 13:38:34.182 main_window.cc:599] sounds/Charadriiformes/Charadriidae/
+I0806 13:38:34.182 main_window.cc:599] sounds/Charadriiformes/Charadriidae/
+I0806 13:38:34.182 main_window.cc:599] sounds/Charadriiformes/Charadriidae/
+I0806 13:38:34.182 main_window.cc:599] sounds/Charadriiformes/Charadriidae/
+I0806 13:38:34.182 main_window.cc:599] sounds/Charadriiformes/Charadriidae/
+I0806 13:38:34.183 main_window.cc:599] sounds/Charadriiformes/Charadriidae/
+I0806 13:38:34.183 main_window.cc:599] sounds/Charadriiformes/Rostratulidae/
+I0806 13:38:34.183 main_window.cc:599] sounds/Charadriiformes/Jacanidae/
+I0806 13:38:34.183 main_window.cc:599] sounds/Charadriiformes/Jacanidae/
+I0806 13:38:34.183 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
+I0806 13:38:34.183 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
+I0806 13:38:34.183 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
+I0806 13:38:34.184 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
+I0806 13:38:34.184 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
+I0806 13:38:34.184 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
+I0806 13:38:34.185 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
+I0806 13:38:34.185 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
+I0806 13:38:34.185 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
+I0806 13:38:34.185 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
+I0806 13:38:34.185 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
+I0806 13:38:34.186 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
+I0806 13:38:34.186 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
+I0806 13:38:34.186 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
+I0806 13:38:34.187 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
+I0806 13:38:34.187 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
+I0806 13:38:34.187 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
+I0806 13:38:34.187 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
+I0806 13:38:34.188 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
+I0806 13:38:34.188 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
+I0806 13:38:34.188 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
+I0806 13:38:34.189 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
+I0806 13:38:34.189 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
+I0806 13:38:34.189 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
+I0806 13:38:34.190 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
+I0806 13:38:34.190 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
+I0806 13:38:34.190 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
+I0806 13:38:34.191 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
+I0806 13:38:34.191 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
+I0806 13:38:34.191 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
+I0806 13:38:34.192 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
+I0806 13:38:34.192 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
+I0806 13:38:34.192 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
+I0806 13:38:34.193 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
+I0806 13:38:34.193 main_window.cc:599] sounds/Charadriiformes/Turnicidae/
+I0806 13:38:34.193 main_window.cc:599] sounds/Charadriiformes/Turnicidae/
+I0806 13:38:34.193 main_window.cc:599] sounds/Charadriiformes/Glareolidae/
+I0806 13:38:34.193 main_window.cc:599] sounds/Charadriiformes/Glareolidae/
+I0806 13:38:34.193 main_window.cc:599] sounds/Charadriiformes/Stercorariidae/
+I0806 13:38:34.194 main_window.cc:599] sounds/Charadriiformes/Stercorariidae/
+I0806 13:38:34.194 main_window.cc:599] sounds/Charadriiformes/Stercorariidae/
+I0806 13:38:34.194 main_window.cc:599] sounds/Charadriiformes/Laridae/
+I0806 13:38:34.195 main_window.cc:599] sounds/Charadriiformes/Laridae/
+I0806 13:38:34.195 main_window.cc:599] sounds/Charadriiformes/Laridae/
+I0806 13:38:34.195 main_window.cc:599] sounds/Charadriiformes/Laridae/
+I0806 13:38:34.196 main_window.cc:599] sounds/Charadriiformes/Laridae/
+I0806 13:38:34.196 main_window.cc:599] sounds/Charadriiformes/Laridae/
+I0806 13:38:34.196 main_window.cc:599] sounds/Charadriiformes/Laridae/
+I0806 13:38:34.197 main_window.cc:599] sounds/Charadriiformes/Laridae/
+I0806 13:38:34.197 main_window.cc:599] sounds/Charadriiformes/Laridae/
+I0806 13:38:34.198 main_window.cc:599] sounds/Charadriiformes/Laridae/
+I0806 13:38:34.198 main_window.cc:599] sounds/Charadriiformes/Laridae/
+I0806 13:38:34.199 main_window.cc:599] sounds/Charadriiformes/Laridae/
+I0806 13:38:34.199 main_window.cc:599] sounds/Charadriiformes/Laridae/
+I0806 13:38:34.199 main_window.cc:599] sounds/Charadriiformes/Laridae/
+I0806 13:38:34.200 main_window.cc:599] sounds/Charadriiformes/Laridae/
+I0806 13:38:34.200 main_window.cc:599] sounds/Charadriiformes/Laridae/
+I0806 13:38:34.201 main_window.cc:599] sounds/Charadriiformes/Laridae/
+I0806 13:38:34.201 main_window.cc:599] sounds/Phaethontiformes/Phaethontidae/
+I0806 13:38:34.201 main_window.cc:599] sounds/Phaethontiformes/Phaethontidae/
+I0806 13:38:34.202 main_window.cc:599] sounds/Procellariiformes/Oceanitidae/
+I0806 13:38:34.202 main_window.cc:599] sounds/Procellariiformes/Hydrobatidae/
+I0806 13:38:34.202 main_window.cc:599] sounds/Procellariiformes/Procellariidae/
+I0806 13:38:34.202 main_window.cc:599] sounds/Procellariiformes/Procellariidae/
+I0806 13:38:34.202 main_window.cc:599] sounds/Procellariiformes/Procellariidae/
+I0806 13:38:34.202 main_window.cc:599] sounds/Procellariiformes/Procellariidae/
+I0806 13:38:34.202 main_window.cc:599] sounds/Procellariiformes/Procellariidae/
+I0806 13:38:34.203 main_window.cc:599] sounds/Procellariiformes/Procellariidae/
+I0806 13:38:34.203 main_window.cc:599] sounds/Procellariiformes/Procellariidae/
+I0806 13:38:34.203 main_window.cc:599] sounds/Ciconiiformes/Ciconiidae/
+I0806 13:38:34.203 main_window.cc:599] sounds/Ciconiiformes/Ciconiidae/
+I0806 13:38:34.203 main_window.cc:599] sounds/Ciconiiformes/Ciconiidae/
+I0806 13:38:34.203 main_window.cc:599] sounds/Ciconiiformes/Ciconiidae/
+I0806 13:38:34.203 main_window.cc:599] sounds/Suliformes/Fregatidae/
+I0806 13:38:34.203 main_window.cc:599] sounds/Suliformes/Fregatidae/
+I0806 13:38:34.203 main_window.cc:599] sounds/Suliformes/Fregatidae/
+I0806 13:38:34.204 main_window.cc:599] sounds/Suliformes/Sulidae/
+I0806 13:38:34.204 main_window.cc:599] sounds/Suliformes/Sulidae/
+I0806 13:38:34.204 main_window.cc:599] sounds/Suliformes/Sulidae/
+I0806 13:38:34.204 main_window.cc:599] sounds/Suliformes/Sulidae/
+I0806 13:38:34.205 main_window.cc:599] sounds/Suliformes/Anhingidae/
+I0806 13:38:34.205 main_window.cc:599] sounds/Suliformes/Phalacrocoracidae/
+I0806 13:38:34.205 main_window.cc:599] sounds/Suliformes/Phalacrocoracidae/
+I0806 13:38:34.205 main_window.cc:599] sounds/Suliformes/Phalacrocoracidae/
+I0806 13:38:34.205 main_window.cc:599] sounds/Pelecaniformes/Threskiornithidae/
+I0806 13:38:34.206 main_window.cc:599] sounds/Pelecaniformes/Threskiornithidae/
+I0806 13:38:34.206 main_window.cc:599] sounds/Pelecaniformes/Threskiornithidae/
+I0806 13:38:34.206 main_window.cc:599] sounds/Pelecaniformes/Threskiornithidae/
+I0806 13:38:34.206 main_window.cc:599] sounds/Pelecaniformes/Pelecanidae/
+I0806 13:38:34.206 main_window.cc:599] sounds/Pelecaniformes/Pelecanidae/
+I0806 13:38:34.206 main_window.cc:599] sounds/Pelecaniformes/Pelecanidae/
+I0806 13:38:34.206 main_window.cc:599] sounds/Pelecaniformes/Ardeidae/
+I0806 13:38:34.206 main_window.cc:599] sounds/Pelecaniformes/Ardeidae/
+I0806 13:38:34.207 main_window.cc:599] sounds/Pelecaniformes/Ardeidae/
+I0806 13:38:34.207 main_window.cc:599] sounds/Pelecaniformes/Ardeidae/
+I0806 13:38:34.207 main_window.cc:599] sounds/Pelecaniformes/Ardeidae/
+I0806 13:38:34.207 main_window.cc:599] sounds/Pelecaniformes/Ardeidae/
+I0806 13:38:34.207 main_window.cc:599] sounds/Pelecaniformes/Ardeidae/
+I0806 13:38:34.208 main_window.cc:599] sounds/Pelecaniformes/Ardeidae/
+I0806 13:38:34.208 main_window.cc:599] sounds/Pelecaniformes/Ardeidae/
+I0806 13:38:34.208 main_window.cc:599] sounds/Pelecaniformes/Ardeidae/
+I0806 13:38:34.208 main_window.cc:599] sounds/Pelecaniformes/Ardeidae/
+I0806 13:38:34.208 main_window.cc:599] sounds/Pelecaniformes/Ardeidae/
+I0806 13:38:34.209 main_window.cc:599] sounds/Pelecaniformes/Ardeidae/
+I0806 13:38:34.209 main_window.cc:599] sounds/Pelecaniformes/Ardeidae/
+I0806 13:38:34.209 main_window.cc:599] sounds/Pelecaniformes/Ardeidae/
+I0806 13:38:34.209 main_window.cc:599] sounds/Pelecaniformes/Ardeidae/
+I0806 13:38:34.210 main_window.cc:599] sounds/Pelecaniformes/Ardeidae/
+I0806 13:38:34.210 main_window.cc:599] sounds/Pelecaniformes/Ardeidae/
+I0806 13:38:34.210 main_window.cc:599] sounds/Pelecaniformes/Ardeidae/
+I0806 13:38:34.210 main_window.cc:599] sounds/Pelecaniformes/Ardeidae/
+I0806 13:38:34.211 main_window.cc:599] sounds/Caprimulgiformes/Caprimulgidae/
+I0806 13:38:34.211 main_window.cc:599] sounds/Caprimulgiformes/Caprimulgidae/
+I0806 13:38:34.211 main_window.cc:599] sounds/Caprimulgiformes/Caprimulgidae/
+I0806 13:38:34.211 main_window.cc:599] sounds/Caprimulgiformes/Caprimulgidae/
+I0806 13:38:34.212 main_window.cc:599] sounds/Podargiformes/Podargidae/
+I0806 13:38:34.212 main_window.cc:599] sounds/Podargiformes/Podargidae/
+I0806 13:38:34.212 main_window.cc:599] sounds/Podargiformes/Podargidae/
+I0806 13:38:34.212 main_window.cc:599] sounds/Apodiformes/Hemiprocnidae/
+I0806 13:38:34.212 main_window.cc:599] sounds/Apodiformes/Apodidae/
+I0806 13:38:34.212 main_window.cc:599] sounds/Apodiformes/Apodidae/
+I0806 13:38:34.212 main_window.cc:599] sounds/Apodiformes/Apodidae/
+I0806 13:38:34.212 main_window.cc:599] sounds/Apodiformes/Apodidae/
+I0806 13:38:34.212 main_window.cc:599] sounds/Apodiformes/Apodidae/
+I0806 13:38:34.212 main_window.cc:599] sounds/Apodiformes/Apodidae/
+I0806 13:38:34.213 main_window.cc:599] sounds/Apodiformes/Apodidae/
+I0806 13:38:34.213 main_window.cc:599] sounds/Apodiformes/Apodidae/
+I0806 13:38:34.213 main_window.cc:599] sounds/Apodiformes/Apodidae/
+I0806 13:38:34.213 main_window.cc:599] sounds/Apodiformes/Apodidae/
+I0806 13:38:34.213 main_window.cc:599] sounds/Apodiformes/Apodidae/
+I0806 13:38:34.213 main_window.cc:599] sounds/Apodiformes/Apodidae/
+I0806 13:38:34.213 main_window.cc:599] sounds/Apodiformes/Apodidae/
+I0806 13:38:34.214 main_window.cc:599] sounds/Strigiformes/Tytonidae/
+I0806 13:38:34.214 main_window.cc:599] sounds/Strigiformes/Tytonidae/
+I0806 13:38:34.214 main_window.cc:599] sounds/Strigiformes/Strigidae/
+I0806 13:38:34.214 main_window.cc:599] sounds/Strigiformes/Strigidae/
+I0806 13:38:34.214 main_window.cc:599] sounds/Strigiformes/Strigidae/
+I0806 13:38:34.214 main_window.cc:599] sounds/Strigiformes/Strigidae/
+I0806 13:38:34.214 main_window.cc:599] sounds/Strigiformes/Strigidae/
+I0806 13:38:34.214 main_window.cc:599] sounds/Strigiformes/Strigidae/
+I0806 13:38:34.215 main_window.cc:599] sounds/Strigiformes/Strigidae/
+I0806 13:38:34.215 main_window.cc:599] sounds/Strigiformes/Strigidae/
+I0806 13:38:34.215 main_window.cc:599] sounds/Strigiformes/Strigidae/
+I0806 13:38:34.215 main_window.cc:599] sounds/Strigiformes/Strigidae/
+I0806 13:38:34.215 main_window.cc:599] sounds/Accipitriformes/Pandionidae/
+I0806 13:38:34.216 main_window.cc:599] sounds/Accipitriformes/Accipitridae/
+I0806 13:38:34.216 main_window.cc:599] sounds/Accipitriformes/Accipitridae/
+I0806 13:38:34.216 main_window.cc:599] sounds/Accipitriformes/Accipitridae/
+I0806 13:38:34.216 main_window.cc:599] sounds/Accipitriformes/Accipitridae/
+I0806 13:38:34.216 main_window.cc:599] sounds/Accipitriformes/Accipitridae/
+I0806 13:38:34.216 main_window.cc:599] sounds/Accipitriformes/Accipitridae/
+I0806 13:38:34.216 main_window.cc:599] sounds/Accipitriformes/Accipitridae/
+I0806 13:38:34.216 main_window.cc:599] sounds/Accipitriformes/Accipitridae/
+I0806 13:38:34.217 main_window.cc:599] sounds/Accipitriformes/Accipitridae/
+I0806 13:38:34.217 main_window.cc:599] sounds/Accipitriformes/Accipitridae/
+I0806 13:38:34.217 main_window.cc:599] sounds/Accipitriformes/Accipitridae/
+I0806 13:38:34.217 main_window.cc:599] sounds/Accipitriformes/Accipitridae/
+I0806 13:38:34.217 main_window.cc:599] sounds/Accipitriformes/Accipitridae/
+I0806 13:38:34.217 main_window.cc:599] sounds/Accipitriformes/Accipitridae/
+I0806 13:38:34.217 main_window.cc:599] sounds/Accipitriformes/Accipitridae/
+I0806 13:38:34.217 main_window.cc:599] sounds/Accipitriformes/Accipitridae/
+I0806 13:38:34.218 main_window.cc:599] sounds/Accipitriformes/Accipitridae/
+I0806 13:38:34.218 main_window.cc:599] sounds/Accipitriformes/Accipitridae/
+I0806 13:38:34.218 main_window.cc:599] sounds/Accipitriformes/Accipitridae/
+I0806 13:38:34.218 main_window.cc:599] sounds/Accipitriformes/Accipitridae/
+I0806 13:38:34.218 main_window.cc:599] sounds/Accipitriformes/Accipitridae/
+I0806 13:38:34.218 main_window.cc:599] sounds/Trogoniformes/Trogonidae/
+I0806 13:38:34.218 main_window.cc:599] sounds/Trogoniformes/Trogonidae/
+I0806 13:38:34.218 main_window.cc:599] sounds/Bucerotiformes/Bucerotidae/
+I0806 13:38:34.218 main_window.cc:599] sounds/Bucerotiformes/Bucerotidae/
+I0806 13:38:34.218 main_window.cc:599] sounds/Bucerotiformes/Bucerotidae/
+I0806 13:38:34.219 main_window.cc:599] sounds/Coraciiformes/Coraciidae/
+I0806 13:38:34.219 main_window.cc:599] sounds/Coraciiformes/Meropidae/
+I0806 13:38:34.219 main_window.cc:599] sounds/Coraciiformes/Meropidae/
+I0806 13:38:34.219 main_window.cc:599] sounds/Coraciiformes/Meropidae/
+I0806 13:38:34.219 main_window.cc:599] sounds/Coraciiformes/Alcedinidae/
+I0806 13:38:34.219 main_window.cc:599] sounds/Coraciiformes/Alcedinidae/
+I0806 13:38:34.219 main_window.cc:599] sounds/Coraciiformes/Alcedinidae/
+I0806 13:38:34.219 main_window.cc:599] sounds/Coraciiformes/Alcedinidae/
+I0806 13:38:34.219 main_window.cc:599] sounds/Coraciiformes/Alcedinidae/
+I0806 13:38:34.219 main_window.cc:599] sounds/Coraciiformes/Alcedinidae/
+I0806 13:38:34.219 main_window.cc:599] sounds/Coraciiformes/Alcedinidae/
+I0806 13:38:34.219 main_window.cc:599] sounds/Coraciiformes/Alcedinidae/
+I0806 13:38:34.219 main_window.cc:599] sounds/Coraciiformes/Alcedinidae/
+I0806 13:38:34.220 main_window.cc:599] sounds/Coraciiformes/Alcedinidae/
+I0806 13:38:34.220 main_window.cc:599] sounds/Coraciiformes/Alcedinidae/
+I0806 13:38:34.220 main_window.cc:599] sounds/Coraciiformes/Alcedinidae/
+I0806 13:38:34.220 main_window.cc:599] sounds/Coraciiformes/Alcedinidae/
+I0806 13:38:34.220 main_window.cc:599] sounds/Coraciiformes/Alcedinidae/
+I0806 13:38:34.220 main_window.cc:599] sounds/Piciformes/Megalaimidae/
+I0806 13:38:34.220 main_window.cc:599] sounds/Piciformes/Megalaimidae/
+I0806 13:38:34.220 main_window.cc:599] sounds/Piciformes/Megalaimidae/
+I0806 13:38:34.220 main_window.cc:599] sounds/Piciformes/Megalaimidae/
+I0806 13:38:34.220 main_window.cc:599] sounds/Piciformes/Megalaimidae/
+I0806 13:38:34.220 main_window.cc:599] sounds/Piciformes/Megalaimidae/
+I0806 13:38:34.220 main_window.cc:599] sounds/Piciformes/Megalaimidae/
+I0806 13:38:34.220 main_window.cc:599] sounds/Piciformes/Picidae/
+I0806 13:38:34.220 main_window.cc:599] sounds/Piciformes/Picidae/
+I0806 13:38:34.221 main_window.cc:599] sounds/Piciformes/Picidae/
+I0806 13:38:34.221 main_window.cc:599] sounds/Piciformes/Picidae/
+I0806 13:38:34.221 main_window.cc:599] sounds/Piciformes/Picidae/
+I0806 13:38:34.221 main_window.cc:599] sounds/Piciformes/Picidae/
+I0806 13:38:34.221 main_window.cc:599] sounds/Piciformes/Picidae/
+I0806 13:38:34.221 main_window.cc:599] sounds/Piciformes/Picidae/
+I0806 13:38:34.221 main_window.cc:599] sounds/Piciformes/Picidae/
+I0806 13:38:34.221 main_window.cc:599] sounds/Piciformes/Picidae/
+I0806 13:38:34.221 main_window.cc:599] sounds/Piciformes/Picidae/
+I0806 13:38:34.221 main_window.cc:599] sounds/Piciformes/Picidae/
+I0806 13:38:34.221 main_window.cc:599] sounds/Piciformes/Picidae/
+I0806 13:38:34.221 main_window.cc:599] sounds/Piciformes/Picidae/
+I0806 13:38:34.221 main_window.cc:599] sounds/Piciformes/Picidae/
+I0806 13:38:34.222 main_window.cc:599] sounds/Piciformes/Picidae/
+I0806 13:38:34.222 main_window.cc:599] sounds/Falconiformes/Falconidae/
+I0806 13:38:34.222 main_window.cc:599] sounds/Falconiformes/Falconidae/
+I0806 13:38:34.222 main_window.cc:599] sounds/Falconiformes/Falconidae/
+I0806 13:38:34.222 main_window.cc:599] sounds/Falconiformes/Falconidae/
+I0806 13:38:34.222 main_window.cc:599] sounds/Falconiformes/Falconidae/
+I0806 13:38:34.222 main_window.cc:599] sounds/Falconiformes/Falconidae/
+I0806 13:38:34.223 main_window.cc:599] sounds/Psittaciformes/Cacatuidae/
+I0806 13:38:34.223 main_window.cc:599] sounds/Psittaciformes/Cacatuidae/
+I0806 13:38:34.223 main_window.cc:599] sounds/Psittaciformes/Cacatuidae/
+I0806 13:38:34.223 main_window.cc:599] sounds/Psittaciformes/Psittaculidae/
+I0806 13:38:34.223 main_window.cc:599] sounds/Psittaciformes/Psittaculidae/
+I0806 13:38:34.223 main_window.cc:599] sounds/Psittaciformes/Psittaculidae/
+I0806 13:38:34.223 main_window.cc:599] sounds/Psittaciformes/Psittaculidae/
+I0806 13:38:34.223 main_window.cc:599] sounds/Psittaciformes/Psittaculidae/
+I0806 13:38:34.223 main_window.cc:599] sounds/Psittaciformes/Psittaculidae/
+I0806 13:38:34.223 main_window.cc:599] sounds/Psittaciformes/Psittaculidae/
+I0806 13:38:34.223 main_window.cc:599] sounds/Psittaciformes/Psittaculidae/
+I0806 13:38:34.223 main_window.cc:599] sounds/Psittaciformes/Psittaculidae/
+I0806 13:38:34.223 main_window.cc:599] sounds/Psittaciformes/Psittaculidae/
+I0806 13:38:34.223 main_window.cc:599] sounds/Psittaciformes/Psittaculidae/
+I0806 13:38:34.223 main_window.cc:599] sounds/Psittaciformes/Psittaculidae/
+I0806 13:38:34.223 main_window.cc:599] sounds/Passeriformes/Eurylaimidae/
+I0806 13:38:34.224 main_window.cc:599] sounds/Passeriformes/Pittidae/
+I0806 13:38:34.224 main_window.cc:599] sounds/Passeriformes/Pittidae/
+I0806 13:38:34.224 main_window.cc:599] sounds/Passeriformes/Pittidae/
+I0806 13:38:34.224 main_window.cc:599] sounds/Passeriformes/Acanthizidae/
+I0806 13:38:34.224 main_window.cc:599] sounds/Passeriformes/Meliphagidae/
+I0806 13:38:34.224 main_window.cc:599] sounds/Passeriformes/Campephagidae/
+I0806 13:38:34.224 main_window.cc:599] sounds/Passeriformes/Campephagidae/
+I0806 13:38:34.224 main_window.cc:599] sounds/Passeriformes/Campephagidae/
+I0806 13:38:34.224 main_window.cc:599] sounds/Passeriformes/Campephagidae/
+I0806 13:38:34.224 main_window.cc:599] sounds/Passeriformes/Campephagidae/
+I0806 13:38:34.224 main_window.cc:599] sounds/Passeriformes/Campephagidae/
+I0806 13:38:34.225 main_window.cc:599] sounds/Passeriformes/Campephagidae/
+I0806 13:38:34.225 main_window.cc:599] sounds/Passeriformes/Campephagidae/
+I0806 13:38:34.225 main_window.cc:599] sounds/Passeriformes/Campephagidae/
+I0806 13:38:34.225 main_window.cc:599] sounds/Passeriformes/Campephagidae/
+I0806 13:38:34.225 main_window.cc:599] sounds/Passeriformes/Campephagidae/
+I0806 13:38:34.225 main_window.cc:599] sounds/Passeriformes/Artamidae/
+I0806 13:38:34.225 main_window.cc:599] sounds/Passeriformes/Aegithinidae/
+I0806 13:38:34.225 main_window.cc:599] sounds/Passeriformes/Vangidae/
+I0806 13:38:34.225 main_window.cc:599] sounds/Passeriformes/Vangidae/
+I0806 13:38:34.225 main_window.cc:599] sounds/Passeriformes/Vangidae/
+I0806 13:38:34.225 main_window.cc:599] sounds/Passeriformes/Vireonidae/
+I0806 13:38:34.225 main_window.cc:599] sounds/Passeriformes/Vireonidae/
+I0806 13:38:34.225 main_window.cc:599] sounds/Passeriformes/Oriolidae/
+I0806 13:38:34.225 main_window.cc:599] sounds/Passeriformes/Oriolidae/
+I0806 13:38:34.225 main_window.cc:599] sounds/Passeriformes/Oriolidae/
+I0806 13:38:34.225 main_window.cc:599] sounds/Passeriformes/Pachycephalidae/
+I0806 13:38:34.225 main_window.cc:599] sounds/Passeriformes/Pachycephalidae/
+I0806 13:38:34.226 main_window.cc:599] sounds/Passeriformes/Rhipiduridae/
+I0806 13:38:34.226 main_window.cc:599] sounds/Passeriformes/Rhipiduridae/
+I0806 13:38:34.226 main_window.cc:599] sounds/Passeriformes/Rhipiduridae/
+I0806 13:38:34.226 main_window.cc:599] sounds/Passeriformes/Dicruridae/
+I0806 13:38:34.226 main_window.cc:599] sounds/Passeriformes/Dicruridae/
+I0806 13:38:34.226 main_window.cc:599] sounds/Passeriformes/Dicruridae/
+I0806 13:38:34.226 main_window.cc:599] sounds/Passeriformes/Dicruridae/
+I0806 13:38:34.226 main_window.cc:599] sounds/Passeriformes/Dicruridae/
+I0806 13:38:34.226 main_window.cc:599] sounds/Passeriformes/Dicruridae/
+I0806 13:38:34.226 main_window.cc:599] sounds/Passeriformes/Dicruridae/
+I0806 13:38:34.226 main_window.cc:599] sounds/Passeriformes/Monarchidae/
+I0806 13:38:34.226 main_window.cc:599] sounds/Passeriformes/Monarchidae/
+I0806 13:38:34.226 main_window.cc:599] sounds/Passeriformes/Monarchidae/
+I0806 13:38:34.226 main_window.cc:599] sounds/Passeriformes/Platylophidae/
+I0806 13:38:34.226 main_window.cc:599] sounds/Passeriformes/Laniidae/
+I0806 13:38:34.226 main_window.cc:599] sounds/Passeriformes/Laniidae/
+I0806 13:38:34.226 main_window.cc:599] sounds/Passeriformes/Laniidae/
+I0806 13:38:34.227 main_window.cc:599] sounds/Passeriformes/Corvidae/
+I0806 13:38:34.227 main_window.cc:599] sounds/Passeriformes/Corvidae/
+I0806 13:38:34.227 main_window.cc:599] sounds/Passeriformes/Corvidae/
+I0806 13:38:34.227 main_window.cc:599] sounds/Passeriformes/Corvidae/
+I0806 13:38:34.227 main_window.cc:599] sounds/Passeriformes/Corvidae/
+I0806 13:38:34.227 main_window.cc:599] sounds/Passeriformes/Corvidae/
+I0806 13:38:34.227 main_window.cc:599] sounds/Passeriformes/Corvidae/
+I0806 13:38:34.227 main_window.cc:599] sounds/Passeriformes/Stenostiridae/
+I0806 13:38:34.227 main_window.cc:599] sounds/Passeriformes/Paridae/
+I0806 13:38:34.227 main_window.cc:599] sounds/Passeriformes/Alaudidae/
+I0806 13:38:34.227 main_window.cc:599] sounds/Passeriformes/Cisticolidae/
+I0806 13:38:34.227 main_window.cc:599] sounds/Passeriformes/Cisticolidae/
+I0806 13:38:34.227 main_window.cc:599] sounds/Passeriformes/Cisticolidae/
+I0806 13:38:34.227 main_window.cc:599] sounds/Passeriformes/Cisticolidae/
+I0806 13:38:34.227 main_window.cc:599] sounds/Passeriformes/Cisticolidae/
+I0806 13:38:34.227 main_window.cc:599] sounds/Passeriformes/Cisticolidae/
+I0806 13:38:34.227 main_window.cc:599] sounds/Passeriformes/Cisticolidae/
+I0806 13:38:34.227 main_window.cc:599] sounds/Passeriformes/Cisticolidae/
+I0806 13:38:34.227 main_window.cc:599] sounds/Passeriformes/Cisticolidae/
+I0806 13:38:34.227 main_window.cc:599] sounds/Passeriformes/Cisticolidae/
+I0806 13:38:34.227 main_window.cc:599] sounds/Passeriformes/Acrocephalidae/
+I0806 13:38:34.228 main_window.cc:599] sounds/Passeriformes/Acrocephalidae/
+I0806 13:38:34.229 main_window.cc:599] sounds/Passeriformes/Acrocephalidae/
+I0806 13:38:34.229 main_window.cc:599] sounds/Passeriformes/Locustellidae/
+I0806 13:38:34.229 main_window.cc:599] sounds/Passeriformes/Locustellidae/
+I0806 13:38:34.230 main_window.cc:599] sounds/Passeriformes/Locustellidae/
+I0806 13:38:34.230 main_window.cc:599] sounds/Passeriformes/Locustellidae/
+I0806 13:38:34.230 main_window.cc:599] sounds/Passeriformes/Pnoepygidae/
+I0806 13:38:34.230 main_window.cc:599] sounds/Passeriformes/Hirundinidae/
+I0806 13:38:34.230 main_window.cc:599] sounds/Passeriformes/Hirundinidae/
+I0806 13:38:34.230 main_window.cc:599] sounds/Passeriformes/Hirundinidae/
+I0806 13:38:34.230 main_window.cc:599] sounds/Passeriformes/Hirundinidae/
+I0806 13:38:34.230 main_window.cc:599] sounds/Passeriformes/Aegithalidae/
+I0806 13:38:34.230 main_window.cc:599] sounds/Passeriformes/Cettiidae/
+I0806 13:38:34.230 main_window.cc:599] sounds/Passeriformes/Cettiidae/
+I0806 13:38:34.230 main_window.cc:599] sounds/Passeriformes/Cettiidae/
+I0806 13:38:34.232 main_window.cc:599] sounds/Passeriformes/Cettiidae/
+I0806 13:38:34.232 main_window.cc:599] sounds/Passeriformes/Phylloscopidae/
+I0806 13:38:34.232 main_window.cc:599] sounds/Passeriformes/Phylloscopidae/
+I0806 13:38:34.233 main_window.cc:599] sounds/Passeriformes/Phylloscopidae/
+I0806 13:38:34.233 main_window.cc:599] sounds/Passeriformes/Phylloscopidae/
+I0806 13:38:34.233 main_window.cc:599] sounds/Passeriformes/Phylloscopidae/
+I0806 13:38:34.234 main_window.cc:599] sounds/Passeriformes/Phylloscopidae/
+I0806 13:38:34.234 main_window.cc:599] sounds/Passeriformes/Pycnonotidae/
+I0806 13:38:34.234 main_window.cc:599] sounds/Passeriformes/Pycnonotidae/
+I0806 13:38:34.234 main_window.cc:599] sounds/Passeriformes/Pycnonotidae/
+I0806 13:38:34.234 main_window.cc:599] sounds/Passeriformes/Pycnonotidae/
+I0806 13:38:34.234 main_window.cc:599] sounds/Passeriformes/Pycnonotidae/
+I0806 13:38:34.234 main_window.cc:599] sounds/Passeriformes/Pycnonotidae/
+I0806 13:38:34.234 main_window.cc:599] sounds/Passeriformes/Pycnonotidae/
+I0806 13:38:34.234 main_window.cc:599] sounds/Passeriformes/Pycnonotidae/
+I0806 13:38:34.234 main_window.cc:599] sounds/Passeriformes/Pycnonotidae/
+I0806 13:38:34.235 main_window.cc:599] sounds/Passeriformes/Pycnonotidae/
+I0806 13:38:34.235 main_window.cc:599] sounds/Passeriformes/Pycnonotidae/
+I0806 13:38:34.235 main_window.cc:599] sounds/Passeriformes/Pycnonotidae/
+I0806 13:38:34.235 main_window.cc:599] sounds/Passeriformes/Pycnonotidae/
+I0806 13:38:34.235 main_window.cc:599] sounds/Passeriformes/Pycnonotidae/
+I0806 13:38:34.235 main_window.cc:599] sounds/Passeriformes/Zosteropidae/
+I0806 13:38:34.235 main_window.cc:599] sounds/Passeriformes/Zosteropidae/
+I0806 13:38:34.235 main_window.cc:599] sounds/Passeriformes/Zosteropidae/
+I0806 13:38:34.235 main_window.cc:599] sounds/Passeriformes/Zosteropidae/
+I0806 13:38:34.235 main_window.cc:599] sounds/Passeriformes/Zosteropidae/
+I0806 13:38:34.236 main_window.cc:599] sounds/Passeriformes/Timaliidae/
+I0806 13:38:34.236 main_window.cc:599] sounds/Passeriformes/Timaliidae/
+I0806 13:38:34.236 main_window.cc:599] sounds/Passeriformes/Timaliidae/
+I0806 13:38:34.236 main_window.cc:599] sounds/Passeriformes/Timaliidae/
+I0806 13:38:34.236 main_window.cc:599] sounds/Passeriformes/Timaliidae/
+I0806 13:38:34.236 main_window.cc:599] sounds/Passeriformes/Timaliidae/
+I0806 13:38:34.236 main_window.cc:599] sounds/Passeriformes/Timaliidae/
+I0806 13:38:34.236 main_window.cc:599] sounds/Passeriformes/Timaliidae/
+I0806 13:38:34.236 main_window.cc:599] sounds/Passeriformes/Timaliidae/
+I0806 13:38:34.236 main_window.cc:599] sounds/Passeriformes/Timaliidae/
+I0806 13:38:34.236 main_window.cc:599] sounds/Passeriformes/Pellorneidae/
+I0806 13:38:34.236 main_window.cc:599] sounds/Passeriformes/Pellorneidae/
+I0806 13:38:34.236 main_window.cc:599] sounds/Passeriformes/Pellorneidae/
+I0806 13:38:34.236 main_window.cc:599] sounds/Passeriformes/Pellorneidae/
+I0806 13:38:34.236 main_window.cc:599] sounds/Passeriformes/Pellorneidae/
+I0806 13:38:34.236 main_window.cc:599] sounds/Passeriformes/Pellorneidae/
+I0806 13:38:34.236 main_window.cc:599] sounds/Passeriformes/Pellorneidae/
+I0806 13:38:34.236 main_window.cc:599] sounds/Passeriformes/Leiothrichidae/
+I0806 13:38:34.236 main_window.cc:599] sounds/Passeriformes/Leiothrichidae/
+I0806 13:38:34.236 main_window.cc:599] sounds/Passeriformes/Leiothrichidae/
+I0806 13:38:34.237 main_window.cc:599] sounds/Passeriformes/Sittidae/
+I0806 13:38:34.237 main_window.cc:599] sounds/Passeriformes/Sittidae/
+I0806 13:38:34.237 main_window.cc:599] sounds/Passeriformes/Sturnidae/
+I0806 13:38:34.237 main_window.cc:599] sounds/Passeriformes/Sturnidae/
+I0806 13:38:34.237 main_window.cc:599] sounds/Passeriformes/Sturnidae/
+I0806 13:38:34.237 main_window.cc:599] sounds/Passeriformes/Sturnidae/
+I0806 13:38:34.237 main_window.cc:599] sounds/Passeriformes/Sturnidae/
+I0806 13:38:34.237 main_window.cc:599] sounds/Passeriformes/Sturnidae/
+I0806 13:38:34.237 main_window.cc:599] sounds/Passeriformes/Sturnidae/
+I0806 13:38:34.238 main_window.cc:599] sounds/Passeriformes/Sturnidae/
+I0806 13:38:34.238 main_window.cc:599] sounds/Passeriformes/Sturnidae/
+I0806 13:38:34.238 main_window.cc:599] sounds/Passeriformes/Sturnidae/
+I0806 13:38:34.238 main_window.cc:599] sounds/Passeriformes/Sturnidae/
+I0806 13:38:34.238 main_window.cc:599] sounds/Passeriformes/Turdidae/
+I0806 13:38:34.238 main_window.cc:599] sounds/Passeriformes/Turdidae/
+I0806 13:38:34.238 main_window.cc:599] sounds/Passeriformes/Turdidae/
+I0806 13:38:34.238 main_window.cc:599] sounds/Passeriformes/Turdidae/
+I0806 13:38:34.239 main_window.cc:599] sounds/Passeriformes/Turdidae/
+I0806 13:38:34.239 main_window.cc:599] sounds/Passeriformes/Turdidae/
+I0806 13:38:34.239 main_window.cc:599] sounds/Passeriformes/Turdidae/
+I0806 13:38:34.239 main_window.cc:599] sounds/Passeriformes/Turdidae/
+I0806 13:38:34.239 main_window.cc:599] sounds/Passeriformes/Muscicapidae/
+I0806 13:38:34.239 main_window.cc:599] sounds/Passeriformes/Muscicapidae/
+I0806 13:38:34.240 main_window.cc:599] sounds/Passeriformes/Muscicapidae/
+I0806 13:38:34.240 main_window.cc:599] sounds/Passeriformes/Muscicapidae/
+I0806 13:38:34.240 main_window.cc:599] sounds/Passeriformes/Muscicapidae/
+I0806 13:38:34.240 main_window.cc:599] sounds/Passeriformes/Muscicapidae/
+I0806 13:38:34.240 main_window.cc:599] sounds/Passeriformes/Muscicapidae/
+I0806 13:38:34.241 main_window.cc:599] sounds/Passeriformes/Muscicapidae/
+I0806 13:38:34.241 main_window.cc:599] sounds/Passeriformes/Muscicapidae/
+I0806 13:38:34.241 main_window.cc:599] sounds/Passeriformes/Muscicapidae/
+I0806 13:38:34.241 main_window.cc:599] sounds/Passeriformes/Muscicapidae/
+I0806 13:38:34.241 main_window.cc:599] sounds/Passeriformes/Muscicapidae/
+I0806 13:38:34.241 main_window.cc:599] sounds/Passeriformes/Muscicapidae/
+I0806 13:38:34.241 main_window.cc:599] sounds/Passeriformes/Muscicapidae/
+I0806 13:38:34.241 main_window.cc:599] sounds/Passeriformes/Muscicapidae/
+I0806 13:38:34.241 main_window.cc:599] sounds/Passeriformes/Muscicapidae/
+I0806 13:38:34.241 main_window.cc:599] sounds/Passeriformes/Muscicapidae/
+I0806 13:38:34.241 main_window.cc:599] sounds/Passeriformes/Muscicapidae/
+I0806 13:38:34.241 main_window.cc:599] sounds/Passeriformes/Muscicapidae/
+I0806 13:38:34.242 main_window.cc:599] sounds/Passeriformes/Muscicapidae/
+I0806 13:38:34.242 main_window.cc:599] sounds/Passeriformes/Muscicapidae/
+I0806 13:38:34.242 main_window.cc:599] sounds/Passeriformes/Muscicapidae/
+I0806 13:38:34.242 main_window.cc:599] sounds/Passeriformes/Muscicapidae/
+I0806 13:38:34.242 main_window.cc:599] sounds/Passeriformes/Muscicapidae/
+I0806 13:38:34.242 main_window.cc:599] sounds/Passeriformes/Muscicapidae/
+I0806 13:38:34.242 main_window.cc:599] sounds/Passeriformes/Muscicapidae/
+I0806 13:38:34.242 main_window.cc:599] sounds/Passeriformes/Muscicapidae/
+I0806 13:38:34.242 main_window.cc:599] sounds/Passeriformes/Muscicapidae/
+I0806 13:38:34.242 main_window.cc:599] sounds/Passeriformes/Muscicapidae/
+I0806 13:38:34.242 main_window.cc:599] sounds/Passeriformes/Muscicapidae/
+I0806 13:38:34.242 main_window.cc:599] sounds/Passeriformes/Dicaeidae/
+I0806 13:38:34.242 main_window.cc:599] sounds/Passeriformes/Dicaeidae/
+I0806 13:38:34.242 main_window.cc:599] sounds/Passeriformes/Dicaeidae/
+I0806 13:38:34.242 main_window.cc:599] sounds/Passeriformes/Dicaeidae/
+I0806 13:38:34.242 main_window.cc:599] sounds/Passeriformes/Dicaeidae/
+I0806 13:38:34.242 main_window.cc:599] sounds/Passeriformes/Dicaeidae/
+I0806 13:38:34.242 main_window.cc:599] sounds/Passeriformes/Dicaeidae/
+I0806 13:38:34.242 main_window.cc:599] sounds/Passeriformes/Dicaeidae/
+I0806 13:38:34.243 main_window.cc:599] sounds/Passeriformes/Nectariniidae/
+I0806 13:38:34.243 main_window.cc:599] sounds/Passeriformes/Nectariniidae/
+I0806 13:38:34.244 main_window.cc:599] sounds/Passeriformes/Nectariniidae/
+I0806 13:38:34.244 main_window.cc:599] sounds/Passeriformes/Nectariniidae/
+I0806 13:38:34.244 main_window.cc:599] sounds/Passeriformes/Nectariniidae/
+I0806 13:38:34.244 main_window.cc:599] sounds/Passeriformes/Nectariniidae/
+I0806 13:38:34.244 main_window.cc:599] sounds/Passeriformes/Nectariniidae/
+I0806 13:38:34.244 main_window.cc:599] sounds/Passeriformes/Nectariniidae/
+I0806 13:38:34.244 main_window.cc:599] sounds/Passeriformes/Nectariniidae/
+I0806 13:38:34.244 main_window.cc:599] sounds/Passeriformes/Nectariniidae/
+I0806 13:38:34.244 main_window.cc:599] sounds/Passeriformes/Nectariniidae/
+I0806 13:38:34.244 main_window.cc:599] sounds/Passeriformes/Nectariniidae/
+I0806 13:38:34.244 main_window.cc:599] sounds/Passeriformes/Chloropseidae/
+I0806 13:38:34.244 main_window.cc:599] sounds/Passeriformes/Chloropseidae/
+I0806 13:38:34.244 main_window.cc:599] sounds/Passeriformes/Irenidae/
+I0806 13:38:34.244 main_window.cc:599] sounds/Passeriformes/Ploceidae/
+I0806 13:38:34.244 main_window.cc:599] sounds/Passeriformes/Ploceidae/
+I0806 13:38:34.244 main_window.cc:599] sounds/Passeriformes/Ploceidae/
+I0806 13:38:34.244 main_window.cc:599] sounds/Passeriformes/Estrildidae/
+I0806 13:38:34.244 main_window.cc:599] sounds/Passeriformes/Estrildidae/
+I0806 13:38:34.245 main_window.cc:599] sounds/Passeriformes/Estrildidae/
+I0806 13:38:34.245 main_window.cc:599] sounds/Passeriformes/Estrildidae/
+I0806 13:38:34.245 main_window.cc:599] sounds/Passeriformes/Estrildidae/
+I0806 13:38:34.245 main_window.cc:599] sounds/Passeriformes/Estrildidae/
+I0806 13:38:34.245 main_window.cc:599] sounds/Passeriformes/Estrildidae/
+I0806 13:38:34.245 main_window.cc:599] sounds/Passeriformes/Estrildidae/
+I0806 13:38:34.245 main_window.cc:599] sounds/Passeriformes/Estrildidae/
+I0806 13:38:34.246 main_window.cc:599] sounds/Passeriformes/Estrildidae/
+I0806 13:38:34.246 main_window.cc:599] sounds/Passeriformes/Estrildidae/
+I0806 13:38:34.246 main_window.cc:599] sounds/Passeriformes/Estrildidae/
+I0806 13:38:34.246 main_window.cc:599] sounds/Passeriformes/Passeridae/
+I0806 13:38:34.246 main_window.cc:599] sounds/Passeriformes/Motacillidae/
+I0806 13:38:34.247 main_window.cc:599] sounds/Passeriformes/Motacillidae/
+I0806 13:38:34.247 main_window.cc:599] sounds/Passeriformes/Motacillidae/
+I0806 13:38:34.247 main_window.cc:599] sounds/Passeriformes/Motacillidae/
+I0806 13:38:34.247 main_window.cc:599] sounds/Passeriformes/Motacillidae/
+I0806 13:38:34.247 main_window.cc:599] sounds/Passeriformes/Motacillidae/
+I0806 13:38:34.248 main_window.cc:599] sounds/Passeriformes/Fringillidae/

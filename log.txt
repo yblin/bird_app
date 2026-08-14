@@ -1,38 +1,63 @@
-I0806 13:38:32.293 main_window.cc:435]
+I0814 10:51:08.397 main_window.cc:435]
+ 
+STRUTHIONIFORMES: Struthionidae
  
 ANSERIFORMES: Anatidae
+Green-winged Teal	Anas carolinensis	
  
-GALLIFORMES: Megapodiidae
+GALLIFORMES: Numididae
+ 
+GALLIFORMES: Odontophoridae
  
 GALLIFORMES: Phasianidae
+Rubeho Forest Partridge	Xenoperdix obscuratus	
  
 CAPRIMULGIFORMES: Caprimulgidae
  
-PODARGIFORMES: Podargidae
- 
-APODIFORMES: Hemiprocnidae
- 
 APODIFORMES: Apodidae
+Fernando Po Swift	Apus sladeniae	
+ 
+MUSOPHAGIFORMES: Musophagidae
+ 
+OTIDIFORMES: Otididae
  
 CUCULIFORMES: Cuculidae
+ 
+MESITORNITHIFORMES: Mesitornithidae
+ 
+PTEROCLIFORMES: Pteroclidae
  
 COLUMBIFORMES: Columbidae
  
 GRUIFORMES: Heliornithidae
  
+GRUIFORMES: Sarothruridae
+ 
 GRUIFORMES: Rallidae
-Black-backed Swamphen	Porphyrio indicus	
+African Swamphen	Porphyrio madagascariensis	
+ 
+GRUIFORMES: Gruidae
  
 PODICIPEDIFORMES: Podicipedidae
-Tricolored Grebe	Tachybaptus tricolor	
+ 
+PHOENICOPTERIFORMES: Phoenicopteridae
  
 CHARADRIIFORMES: Turnicidae
  
 CHARADRIIFORMES: Burhinidae
  
+CHARADRIIFORMES: Chionidae
+ 
+CHARADRIIFORMES: Haematopodidae
+ 
+CHARADRIIFORMES: Ibidorhynchidae
+ 
 CHARADRIIFORMES: Recurvirostridae
  
 CHARADRIIFORMES: Charadriidae
+Lesser Sand Plover	Charadrius mongolus	
+ 
+CHARADRIIFORMES: Pluvianidae
  
 CHARADRIIFORMES: Rostratulidae
  
@@ -40,19 +65,30 @@ CHARADRIIFORMES: Jacanidae
  
 CHARADRIIFORMES: Scolopacidae
  
+CHARADRIIFORMES: Dromadidae
+ 
 CHARADRIIFORMES: Glareolidae
  
 CHARADRIIFORMES: Laridae
  
 CHARADRIIFORMES: Stercorariidae
  
+CHARADRIIFORMES: Alcidae
+ 
 PHAETHONTIFORMES: Phaethontidae
  
+GAVIIFORMES: Gaviidae
+ 
+SPHENISCIFORMES: Spheniscidae
+ 
 PROCELLARIIFORMES: Oceanitidae
+ 
+PROCELLARIIFORMES: Diomedeidae
  
 PROCELLARIIFORMES: Hydrobatidae
  
 PROCELLARIIFORMES: Procellariidae
+Balearic Shearwater	Puffinus mauretanicus	
  
 CICONIIFORMES: Ciconiidae
  
@@ -63,124 +99,228 @@ SULIFORMES: Sulidae
 SULIFORMES: Anhingidae
  
 SULIFORMES: Phalacrocoracidae
+White-breasted Cormorant	Phalacrocorax lucidus	
  
 PELECANIFORMES: Threskiornithidae
  
 PELECANIFORMES: Ardeidae
+Dimorphic Egret	Egretta dimorpha	
+ 
+PELECANIFORMES: Scopidae
+ 
+PELECANIFORMES: Balaenicipitidae
  
 PELECANIFORMES: Pelecanidae
+ 
+ACCIPITRIFORMES: Sagittariidae
  
 ACCIPITRIFORMES: Pandionidae
  
 ACCIPITRIFORMES: Accipitridae
+Red-chested Goshawk	Accipiter toussenelii	
+Northern Goshawk	Accipiter gentilis	
+Yellow-billed Kite	Milvus aegyptius	
+Cape Verde Buzzard	Buteo bannermani	
  
 STRIGIFORMES: Tytonidae
  
 STRIGIFORMES: Strigidae
+Torotoroka Scops Owl	Otus madagascariensis	
+Annobon Scops Owl	Otus feae	
+Maghreb Owl	Strix mauritanica	
+ 
+COLIIFORMES: Coliidae
+ 
+LEPTOSOMIFORMES: Leptosomidae
  
 TROGONIFORMES: Trogonidae
+ 
+BUCEROTIFORMES: Upupidae
+African Hoopoe	Upupa africana	
+ 
+BUCEROTIFORMES: Phoeniculidae
+Grant's Wood Hoopoe	Phoeniculus granti	
+ 
+BUCEROTIFORMES: Bucorvidae
  
 BUCEROTIFORMES: Bucerotidae
  
 CORACIIFORMES: Coraciidae
  
+CORACIIFORMES: Brachypteraciidae
+ 
 CORACIIFORMES: Alcedinidae
  
 CORACIIFORMES: Meropidae
  
-PICIFORMES: Megalaimidae
+PICIFORMES: Lybiidae
+White-chested Tinkerbird	Pogoniulus makawai	
+Yellow-billed Barbet	Trachyphonus purpuratus	
+Usambiro Barbet	Trachyphonus usambiro	
+ 
+PICIFORMES: Indicatoridae
  
 PICIFORMES: Picidae
+Little Spotted Woodpecker	Campethera cailliautii	
  
 FALCONIFORMES: Falconidae
  
 PSITTACIFORMES: Cacatuidae
  
+PSITTACIFORMES: Psittacidae
+ 
 PSITTACIFORMES: Psittaculidae
+ 
+PASSERIFORMES: Philepittidae
  
 PASSERIFORMES: Eurylaimidae
  
+PASSERIFORMES: Calyptomenidae
+ 
 PASSERIFORMES: Pittidae
  
-PASSERIFORMES: Meliphagidae
+PASSERIFORMES: Platysteiridae
+Reichenow's Batis	Batis reichenowi	
  
-PASSERIFORMES: Acanthizidae
+PASSERIFORMES: Malaconotidae
  
 PASSERIFORMES: Vangidae
  
-PASSERIFORMES: Artamidae
- 
-PASSERIFORMES: Aegithinidae
- 
 PASSERIFORMES: Campephagidae
  
-PASSERIFORMES: Pachycephalidae
+PASSERIFORMES: Laniidae
  
 PASSERIFORMES: Vireonidae
  
 PASSERIFORMES: Oriolidae
  
 PASSERIFORMES: Dicruridae
- 
-PASSERIFORMES: Rhipiduridae
+Fanti Drongo	Dicrurus atactus	
+Glossy-backed Drongo	Dicrurus divaricatus	
+Western Square-tailed Drongo	Dicrurus occidentalis	
  
 PASSERIFORMES: Monarchidae
- 
-PASSERIFORMES: Platylophidae
- 
-PASSERIFORMES: Laniidae
+Annobon Paradise Flycatcher	Terpsiphone smithii	
  
 PASSERIFORMES: Corvidae
+Hooded Crow	Corvus cornix	
+ 
+PASSERIFORMES: Picathartidae
+ 
+PASSERIFORMES: Chaetopidae
+ 
+PASSERIFORMES: Bombycillidae
+ 
+PASSERIFORMES: Hypocoliidae
  
 PASSERIFORMES: Stenostiridae
  
 PASSERIFORMES: Paridae
+Cinnamon-breasted Tit	Melaniparus pallidiventris	
+ 
+PASSERIFORMES: Remizidae
+ 
+PASSERIFORMES: Nicatoridae
+ 
+PASSERIFORMES: Panuridae
  
 PASSERIFORMES: Alaudidae
+Benguela Long-billed Lark	Certhilauda benguelensis	
+Agulhas Long-billed Lark	Certhilauda brevirostris	
+Foxy Lark	Calendulauda alopex	
+Barlow's Lark	Calendulauda barlowi	
+Sharpe's Lark	Mirafra sharpii	
+Ash's Lark	Mirafra ashi	
+Maghreb Lark	Galerida macrorhyncha	
+Athi Short-toed Lark	Alaudala athensis	
  
 PASSERIFORMES: Pycnonotidae
+Kakamega Greenbul	Arizelocichla kakamegae	
+Placid Greenbul	Phyllastrephus placidus	
+Sharpe's Greenbul	Phyllastrephus alfredi	
+Dodson's Bulbul	Pycnonotus dodsoni	
+Somali Bulbul	Pycnonotus somaliensis	
+Dark-capped Bulbul	Pycnonotus tricolor	
  
 PASSERIFORMES: Hirundinidae
+West African Swallow	Cecropis domicella	
  
-PASSERIFORMES: Pnoepygidae
+PASSERIFORMES: Macrosphenidae
  
 PASSERIFORMES: Cettiidae
+ 
+PASSERIFORMES: Scotocercidae
+ 
+PASSERIFORMES: Erythrocercidae
+ 
+PASSERIFORMES: Hyliidae
  
 PASSERIFORMES: Aegithalidae
  
 PASSERIFORMES: Phylloscopidae
  
 PASSERIFORMES: Acrocephalidae
+Anjouan Brush Warbler	Nesillas longicaudata	
  
 PASSERIFORMES: Locustellidae
  
+PASSERIFORMES: Bernieridae
+ 
 PASSERIFORMES: Cisticolidae
+Black-faced Prinia	Prinia melanops	
+Brown-tailed Apalis	Apalis flavocincta	
+Grey-backed Camaroptera	Camaroptera brevicaudata	
+Rubeho Warbler	Scepomycter rubehoensis	
+Salvadori's Eremomela	Eremomela salvadorii	
+ 
+PASSERIFORMES: Sylviidae
  
 PASSERIFORMES: Zosteropidae
- 
-PASSERIFORMES: Timaliidae
+Anjouan White-eye	Zosterops anjuanensis	
+Aldabra White-eye	Zosterops aldabrensis	
+Moheli White-eye	Zosterops comorensis	
  
 PASSERIFORMES: Pellorneidae
  
-PASSERIFORMES: Alcippeidae
- 
 PASSERIFORMES: Leiothrichidae
  
-PASSERIFORMES: Irenidae
+PASSERIFORMES: Modulatricidae
+ 
+PASSERIFORMES: Promeropidae
+ 
+PASSERIFORMES: Regulidae
+ 
+PASSERIFORMES: Hyliotidae
+ 
+PASSERIFORMES: Troglodytidae
  
 PASSERIFORMES: Sittidae
  
+PASSERIFORMES: Tichodromidae
+ 
+PASSERIFORMES: Certhiidae
+ 
 PASSERIFORMES: Sturnidae
+Miombo Blue-eared Starling	Lamprotornis elisabeth	
+ 
+PASSERIFORMES: Buphagidae
  
 PASSERIFORMES: Turdidae
  
 PASSERIFORMES: Muscicapidae
+Mediterranean Flycatcher	Muscicapa tyrrhenica	
+Itombwe Flycatcher	Muscicapa itombwensis	
+Madagascar Stonechat	Saxicola sibilla	
+White-crowned Cliff Chat	Thamnolaea coronata	
+Ruaha Chat	Myrmecocichla collaris	
+Maghreb Wheatear	Oenanthe halophila	
+Basalt Wheatear	Oenanthe warriae	Rare/Accidental
  
-PASSERIFORMES: Chloropseidae
- 
-PASSERIFORMES: Dicaeidae
+PASSERIFORMES: Cinclidae
  
 PASSERIFORMES: Nectariniidae
+Whyte's Double-collared Sunbird	Cinnyris whytei	
+Hofmann's Sunbird	Cinnyris hofmanni	
  
 PASSERIFORMES: Passeridae
  
@@ -188,567 +328,20 @@ PASSERIFORMES: Ploceidae
  
 PASSERIFORMES: Estrildidae
  
+PASSERIFORMES: Viduidae
+ 
+PASSERIFORMES: Prunellidae
+ 
 PASSERIFORMES: Motacillidae
  
 PASSERIFORMES: Fringillidae
+African Crimson-winged Finch	Rhodopechys alienus	
+Lesser Redpoll	Acanthis cabaret	
+ 
+PASSERIFORMES: Calcariidae
+ 
+PASSERIFORMES: Emberizidae
+Vincent's Bunting	Emberiza vincenti	
+ 
+PASSERIFORMES: Parulidae
 
-I0806 13:38:34.166 main_window.cc:599] sounds/Anseriformes/Anatidae/
-I0806 13:38:34.166 main_window.cc:599] sounds/Anseriformes/Anatidae/
-I0806 13:38:34.166 main_window.cc:599] sounds/Anseriformes/Anatidae/
-I0806 13:38:34.167 main_window.cc:599] sounds/Anseriformes/Anatidae/
-I0806 13:38:34.167 main_window.cc:599] sounds/Anseriformes/Anatidae/
-I0806 13:38:34.167 main_window.cc:599] sounds/Anseriformes/Anatidae/
-I0806 13:38:34.168 main_window.cc:599] sounds/Anseriformes/Anatidae/
-I0806 13:38:34.168 main_window.cc:599] sounds/Anseriformes/Anatidae/
-I0806 13:38:34.168 main_window.cc:599] sounds/Anseriformes/Anatidae/
-I0806 13:38:34.168 main_window.cc:599] sounds/Galliformes/Megapodiidae/
-I0806 13:38:34.168 main_window.cc:599] sounds/Galliformes/Phasianidae/
-I0806 13:38:34.168 main_window.cc:599] sounds/Galliformes/Phasianidae/
-I0806 13:38:34.169 main_window.cc:599] sounds/Galliformes/Phasianidae/
-I0806 13:38:34.169 main_window.cc:599] sounds/Galliformes/Phasianidae/
-I0806 13:38:34.169 main_window.cc:599] sounds/Galliformes/Phasianidae/
-I0806 13:38:34.169 main_window.cc:599] sounds/Galliformes/Phasianidae/
-I0806 13:38:34.169 main_window.cc:599] sounds/Podicipediformes/Podicipedidae/
-I0806 13:38:34.169 main_window.cc:599] sounds/Cuculiformes/Cuculidae/
-I0806 13:38:34.170 main_window.cc:599] sounds/Cuculiformes/Cuculidae/
-I0806 13:38:34.170 main_window.cc:599] sounds/Cuculiformes/Cuculidae/
-I0806 13:38:34.170 main_window.cc:599] sounds/Cuculiformes/Cuculidae/
-I0806 13:38:34.170 main_window.cc:599] sounds/Cuculiformes/Cuculidae/
-I0806 13:38:34.170 main_window.cc:599] sounds/Cuculiformes/Cuculidae/
-I0806 13:38:34.170 main_window.cc:599] sounds/Cuculiformes/Cuculidae/
-I0806 13:38:34.171 main_window.cc:599] sounds/Cuculiformes/Cuculidae/
-I0806 13:38:34.171 main_window.cc:599] sounds/Cuculiformes/Cuculidae/
-I0806 13:38:34.171 main_window.cc:599] sounds/Cuculiformes/Cuculidae/
-I0806 13:38:34.171 main_window.cc:599] sounds/Cuculiformes/Cuculidae/
-I0806 13:38:34.171 main_window.cc:599] sounds/Cuculiformes/Cuculidae/
-I0806 13:38:34.171 main_window.cc:599] sounds/Cuculiformes/Cuculidae/
-I0806 13:38:34.172 main_window.cc:599] sounds/Cuculiformes/Cuculidae/
-I0806 13:38:34.172 main_window.cc:599] sounds/Cuculiformes/Cuculidae/
-I0806 13:38:34.172 main_window.cc:599] sounds/Cuculiformes/Cuculidae/
-I0806 13:38:34.172 main_window.cc:599] sounds/Cuculiformes/Cuculidae/
-I0806 13:38:34.172 main_window.cc:599] sounds/Cuculiformes/Cuculidae/
-I0806 13:38:34.173 main_window.cc:599] sounds/Cuculiformes/Cuculidae/
-I0806 13:38:34.173 main_window.cc:599] sounds/Cuculiformes/Cuculidae/
-I0806 13:38:34.173 main_window.cc:599] sounds/Cuculiformes/Cuculidae/
-I0806 13:38:34.174 main_window.cc:599] sounds/Cuculiformes/Cuculidae/
-I0806 13:38:34.174 main_window.cc:599] sounds/Cuculiformes/Cuculidae/
-I0806 13:38:34.174 main_window.cc:599] sounds/Cuculiformes/Cuculidae/
-I0806 13:38:34.174 main_window.cc:599] sounds/Cuculiformes/Cuculidae/
-I0806 13:38:34.175 main_window.cc:599] sounds/Columbiformes/Columbidae/
-I0806 13:38:34.175 main_window.cc:599] sounds/Columbiformes/Columbidae/
-I0806 13:38:34.175 main_window.cc:599] sounds/Columbiformes/Columbidae/
-I0806 13:38:34.175 main_window.cc:599] sounds/Columbiformes/Columbidae/
-I0806 13:38:34.175 main_window.cc:599] sounds/Columbiformes/Columbidae/
-I0806 13:38:34.175 main_window.cc:599] sounds/Columbiformes/Columbidae/
-I0806 13:38:34.175 main_window.cc:599] sounds/Columbiformes/Columbidae/
-I0806 13:38:34.176 main_window.cc:599] sounds/Columbiformes/Columbidae/
-I0806 13:38:34.176 main_window.cc:599] sounds/Columbiformes/Columbidae/
-I0806 13:38:34.176 main_window.cc:599] sounds/Columbiformes/Columbidae/
-I0806 13:38:34.176 main_window.cc:599] sounds/Columbiformes/Columbidae/
-I0806 13:38:34.176 main_window.cc:599] sounds/Columbiformes/Columbidae/
-I0806 13:38:34.176 main_window.cc:599] sounds/Columbiformes/Columbidae/
-I0806 13:38:34.176 main_window.cc:599] sounds/Columbiformes/Columbidae/
-I0806 13:38:34.176 main_window.cc:599] sounds/Columbiformes/Columbidae/
-I0806 13:38:34.176 main_window.cc:599] sounds/Columbiformes/Columbidae/
-I0806 13:38:34.176 main_window.cc:599] sounds/Columbiformes/Columbidae/
-I0806 13:38:34.177 main_window.cc:599] sounds/Columbiformes/Columbidae/
-I0806 13:38:34.177 main_window.cc:599] sounds/Columbiformes/Columbidae/
-I0806 13:38:34.177 main_window.cc:599] sounds/Columbiformes/Columbidae/
-I0806 13:38:34.177 main_window.cc:599] sounds/Columbiformes/Columbidae/
-I0806 13:38:34.177 main_window.cc:599] sounds/Columbiformes/Columbidae/
-I0806 13:38:34.177 main_window.cc:599] sounds/Columbiformes/Columbidae/
-I0806 13:38:34.177 main_window.cc:599] sounds/Columbiformes/Columbidae/
-I0806 13:38:34.178 main_window.cc:599] sounds/Columbiformes/Columbidae/
-I0806 13:38:34.178 main_window.cc:599] sounds/Columbiformes/Columbidae/
-I0806 13:38:34.178 main_window.cc:599] sounds/Columbiformes/Columbidae/
-I0806 13:38:34.178 main_window.cc:599] sounds/Columbiformes/Columbidae/
-I0806 13:38:34.178 main_window.cc:599] sounds/Columbiformes/Columbidae/
-I0806 13:38:34.178 main_window.cc:599] sounds/Gruiformes/Heliornithidae/
-I0806 13:38:34.178 main_window.cc:599] sounds/Gruiformes/Rallidae/
-I0806 13:38:34.178 main_window.cc:599] sounds/Gruiformes/Rallidae/
-I0806 13:38:34.178 main_window.cc:599] sounds/Gruiformes/Rallidae/
-I0806 13:38:34.179 main_window.cc:599] sounds/Gruiformes/Rallidae/
-I0806 13:38:34.179 main_window.cc:599] sounds/Gruiformes/Rallidae/
-I0806 13:38:34.179 main_window.cc:599] sounds/Gruiformes/Rallidae/
-I0806 13:38:34.180 main_window.cc:599] sounds/Gruiformes/Rallidae/
-I0806 13:38:34.180 main_window.cc:599] sounds/Gruiformes/Rallidae/
-I0806 13:38:34.180 main_window.cc:599] sounds/Gruiformes/Rallidae/
-I0806 13:38:34.180 main_window.cc:599] sounds/Gruiformes/Rallidae/
-I0806 13:38:34.180 main_window.cc:599] sounds/Gruiformes/Rallidae/
-I0806 13:38:34.180 main_window.cc:599] sounds/Charadriiformes/Burhinidae/
-I0806 13:38:34.180 main_window.cc:599] sounds/Charadriiformes/Recurvirostridae/
-I0806 13:38:34.181 main_window.cc:599] sounds/Charadriiformes/Recurvirostridae/
-I0806 13:38:34.181 main_window.cc:599] sounds/Charadriiformes/Charadriidae/
-I0806 13:38:34.181 main_window.cc:599] sounds/Charadriiformes/Charadriidae/
-I0806 13:38:34.181 main_window.cc:599] sounds/Charadriiformes/Charadriidae/
-I0806 13:38:34.181 main_window.cc:599] sounds/Charadriiformes/Charadriidae/
-I0806 13:38:34.182 main_window.cc:599] sounds/Charadriiformes/Charadriidae/
-I0806 13:38:34.182 main_window.cc:599] sounds/Charadriiformes/Charadriidae/
-I0806 13:38:34.182 main_window.cc:599] sounds/Charadriiformes/Charadriidae/
-I0806 13:38:34.182 main_window.cc:599] sounds/Charadriiformes/Charadriidae/
-I0806 13:38:34.182 main_window.cc:599] sounds/Charadriiformes/Charadriidae/
-I0806 13:38:34.182 main_window.cc:599] sounds/Charadriiformes/Charadriidae/
-I0806 13:38:34.182 main_window.cc:599] sounds/Charadriiformes/Charadriidae/
-I0806 13:38:34.182 main_window.cc:599] sounds/Charadriiformes/Charadriidae/
-I0806 13:38:34.183 main_window.cc:599] sounds/Charadriiformes/Charadriidae/
-I0806 13:38:34.183 main_window.cc:599] sounds/Charadriiformes/Rostratulidae/
-I0806 13:38:34.183 main_window.cc:599] sounds/Charadriiformes/Jacanidae/
-I0806 13:38:34.183 main_window.cc:599] sounds/Charadriiformes/Jacanidae/
-I0806 13:38:34.183 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
-I0806 13:38:34.183 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
-I0806 13:38:34.183 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
-I0806 13:38:34.184 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
-I0806 13:38:34.184 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
-I0806 13:38:34.184 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
-I0806 13:38:34.185 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
-I0806 13:38:34.185 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
-I0806 13:38:34.185 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
-I0806 13:38:34.185 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
-I0806 13:38:34.185 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
-I0806 13:38:34.186 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
-I0806 13:38:34.186 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
-I0806 13:38:34.186 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
-I0806 13:38:34.187 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
-I0806 13:38:34.187 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
-I0806 13:38:34.187 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
-I0806 13:38:34.187 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
-I0806 13:38:34.188 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
-I0806 13:38:34.188 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
-I0806 13:38:34.188 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
-I0806 13:38:34.189 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
-I0806 13:38:34.189 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
-I0806 13:38:34.189 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
-I0806 13:38:34.190 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
-I0806 13:38:34.190 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
-I0806 13:38:34.190 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
-I0806 13:38:34.191 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
-I0806 13:38:34.191 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
-I0806 13:38:34.191 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
-I0806 13:38:34.192 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
-I0806 13:38:34.192 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
-I0806 13:38:34.192 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
-I0806 13:38:34.193 main_window.cc:599] sounds/Charadriiformes/Scolopacidae/
-I0806 13:38:34.193 main_window.cc:599] sounds/Charadriiformes/Turnicidae/
-I0806 13:38:34.193 main_window.cc:599] sounds/Charadriiformes/Turnicidae/
-I0806 13:38:34.193 main_window.cc:599] sounds/Charadriiformes/Glareolidae/
-I0806 13:38:34.193 main_window.cc:599] sounds/Charadriiformes/Glareolidae/
-I0806 13:38:34.193 main_window.cc:599] sounds/Charadriiformes/Stercorariidae/
-I0806 13:38:34.194 main_window.cc:599] sounds/Charadriiformes/Stercorariidae/
-I0806 13:38:34.194 main_window.cc:599] sounds/Charadriiformes/Stercorariidae/
-I0806 13:38:34.194 main_window.cc:599] sounds/Charadriiformes/Laridae/
-I0806 13:38:34.195 main_window.cc:599] sounds/Charadriiformes/Laridae/
-I0806 13:38:34.195 main_window.cc:599] sounds/Charadriiformes/Laridae/
-I0806 13:38:34.195 main_window.cc:599] sounds/Charadriiformes/Laridae/
-I0806 13:38:34.196 main_window.cc:599] sounds/Charadriiformes/Laridae/
-I0806 13:38:34.196 main_window.cc:599] sounds/Charadriiformes/Laridae/
-I0806 13:38:34.196 main_window.cc:599] sounds/Charadriiformes/Laridae/
-I0806 13:38:34.197 main_window.cc:599] sounds/Charadriiformes/Laridae/
-I0806 13:38:34.197 main_window.cc:599] sounds/Charadriiformes/Laridae/
-I0806 13:38:34.198 main_window.cc:599] sounds/Charadriiformes/Laridae/
-I0806 13:38:34.198 main_window.cc:599] sounds/Charadriiformes/Laridae/
-I0806 13:38:34.199 main_window.cc:599] sounds/Charadriiformes/Laridae/
-I0806 13:38:34.199 main_window.cc:599] sounds/Charadriiformes/Laridae/
-I0806 13:38:34.199 main_window.cc:599] sounds/Charadriiformes/Laridae/
-I0806 13:38:34.200 main_window.cc:599] sounds/Charadriiformes/Laridae/
-I0806 13:38:34.200 main_window.cc:599] sounds/Charadriiformes/Laridae/
-I0806 13:38:34.201 main_window.cc:599] sounds/Charadriiformes/Laridae/
-I0806 13:38:34.201 main_window.cc:599] sounds/Phaethontiformes/Phaethontidae/
-I0806 13:38:34.201 main_window.cc:599] sounds/Phaethontiformes/Phaethontidae/
-I0806 13:38:34.202 main_window.cc:599] sounds/Procellariiformes/Oceanitidae/
-I0806 13:38:34.202 main_window.cc:599] sounds/Procellariiformes/Hydrobatidae/
-I0806 13:38:34.202 main_window.cc:599] sounds/Procellariiformes/Procellariidae/
-I0806 13:38:34.202 main_window.cc:599] sounds/Procellariiformes/Procellariidae/
-I0806 13:38:34.202 main_window.cc:599] sounds/Procellariiformes/Procellariidae/
-I0806 13:38:34.202 main_window.cc:599] sounds/Procellariiformes/Procellariidae/
-I0806 13:38:34.202 main_window.cc:599] sounds/Procellariiformes/Procellariidae/
-I0806 13:38:34.203 main_window.cc:599] sounds/Procellariiformes/Procellariidae/
-I0806 13:38:34.203 main_window.cc:599] sounds/Procellariiformes/Procellariidae/
-I0806 13:38:34.203 main_window.cc:599] sounds/Ciconiiformes/Ciconiidae/
-I0806 13:38:34.203 main_window.cc:599] sounds/Ciconiiformes/Ciconiidae/
-I0806 13:38:34.203 main_window.cc:599] sounds/Ciconiiformes/Ciconiidae/
-I0806 13:38:34.203 main_window.cc:599] sounds/Ciconiiformes/Ciconiidae/
-I0806 13:38:34.203 main_window.cc:599] sounds/Suliformes/Fregatidae/
-I0806 13:38:34.203 main_window.cc:599] sounds/Suliformes/Fregatidae/
-I0806 13:38:34.203 main_window.cc:599] sounds/Suliformes/Fregatidae/
-I0806 13:38:34.204 main_window.cc:599] sounds/Suliformes/Sulidae/
-I0806 13:38:34.204 main_window.cc:599] sounds/Suliformes/Sulidae/
-I0806 13:38:34.204 main_window.cc:599] sounds/Suliformes/Sulidae/
-I0806 13:38:34.204 main_window.cc:599] sounds/Suliformes/Sulidae/
-I0806 13:38:34.205 main_window.cc:599] sounds/Suliformes/Anhingidae/
-I0806 13:38:34.205 main_window.cc:599] sounds/Suliformes/Phalacrocoracidae/
-I0806 13:38:34.205 main_window.cc:599] sounds/Suliformes/Phalacrocoracidae/
-I0806 13:38:34.205 main_window.cc:599] sounds/Suliformes/Phalacrocoracidae/
-I0806 13:38:34.205 main_window.cc:599] sounds/Pelecaniformes/Threskiornithidae/
-I0806 13:38:34.206 main_window.cc:599] sounds/Pelecaniformes/Threskiornithidae/
-I0806 13:38:34.206 main_window.cc:599] sounds/Pelecaniformes/Threskiornithidae/
-I0806 13:38:34.206 main_window.cc:599] sounds/Pelecaniformes/Threskiornithidae/
-I0806 13:38:34.206 main_window.cc:599] sounds/Pelecaniformes/Pelecanidae/
-I0806 13:38:34.206 main_window.cc:599] sounds/Pelecaniformes/Pelecanidae/
-I0806 13:38:34.206 main_window.cc:599] sounds/Pelecaniformes/Pelecanidae/
-I0806 13:38:34.206 main_window.cc:599] sounds/Pelecaniformes/Ardeidae/
-I0806 13:38:34.206 main_window.cc:599] sounds/Pelecaniformes/Ardeidae/
-I0806 13:38:34.207 main_window.cc:599] sounds/Pelecaniformes/Ardeidae/
-I0806 13:38:34.207 main_window.cc:599] sounds/Pelecaniformes/Ardeidae/
-I0806 13:38:34.207 main_window.cc:599] sounds/Pelecaniformes/Ardeidae/
-I0806 13:38:34.207 main_window.cc:599] sounds/Pelecaniformes/Ardeidae/
-I0806 13:38:34.207 main_window.cc:599] sounds/Pelecaniformes/Ardeidae/
-I0806 13:38:34.208 main_window.cc:599] sounds/Pelecaniformes/Ardeidae/
-I0806 13:38:34.208 main_window.cc:599] sounds/Pelecaniformes/Ardeidae/
-I0806 13:38:34.208 main_window.cc:599] sounds/Pelecaniformes/Ardeidae/
-I0806 13:38:34.208 main_window.cc:599] sounds/Pelecaniformes/Ardeidae/
-I0806 13:38:34.208 main_window.cc:599] sounds/Pelecaniformes/Ardeidae/
-I0806 13:38:34.209 main_window.cc:599] sounds/Pelecaniformes/Ardeidae/
-I0806 13:38:34.209 main_window.cc:599] sounds/Pelecaniformes/Ardeidae/
-I0806 13:38:34.209 main_window.cc:599] sounds/Pelecaniformes/Ardeidae/
-I0806 13:38:34.209 main_window.cc:599] sounds/Pelecaniformes/Ardeidae/
-I0806 13:38:34.210 main_window.cc:599] sounds/Pelecaniformes/Ardeidae/
-I0806 13:38:34.210 main_window.cc:599] sounds/Pelecaniformes/Ardeidae/
-I0806 13:38:34.210 main_window.cc:599] sounds/Pelecaniformes/Ardeidae/
-I0806 13:38:34.210 main_window.cc:599] sounds/Pelecaniformes/Ardeidae/
-I0806 13:38:34.211 main_window.cc:599] sounds/Caprimulgiformes/Caprimulgidae/
-I0806 13:38:34.211 main_window.cc:599] sounds/Caprimulgiformes/Caprimulgidae/
-I0806 13:38:34.211 main_window.cc:599] sounds/Caprimulgiformes/Caprimulgidae/
-I0806 13:38:34.211 main_window.cc:599] sounds/Caprimulgiformes/Caprimulgidae/
-I0806 13:38:34.212 main_window.cc:599] sounds/Podargiformes/Podargidae/
-I0806 13:38:34.212 main_window.cc:599] sounds/Podargiformes/Podargidae/
-I0806 13:38:34.212 main_window.cc:599] sounds/Podargiformes/Podargidae/
-I0806 13:38:34.212 main_window.cc:599] sounds/Apodiformes/Hemiprocnidae/
-I0806 13:38:34.212 main_window.cc:599] sounds/Apodiformes/Apodidae/
-I0806 13:38:34.212 main_window.cc:599] sounds/Apodiformes/Apodidae/
-I0806 13:38:34.212 main_window.cc:599] sounds/Apodiformes/Apodidae/
-I0806 13:38:34.212 main_window.cc:599] sounds/Apodiformes/Apodidae/
-I0806 13:38:34.212 main_window.cc:599] sounds/Apodiformes/Apodidae/
-I0806 13:38:34.212 main_window.cc:599] sounds/Apodiformes/Apodidae/
-I0806 13:38:34.213 main_window.cc:599] sounds/Apodiformes/Apodidae/
-I0806 13:38:34.213 main_window.cc:599] sounds/Apodiformes/Apodidae/
-I0806 13:38:34.213 main_window.cc:599] sounds/Apodiformes/Apodidae/
-I0806 13:38:34.213 main_window.cc:599] sounds/Apodiformes/Apodidae/
-I0806 13:38:34.213 main_window.cc:599] sounds/Apodiformes/Apodidae/
-I0806 13:38:34.213 main_window.cc:599] sounds/Apodiformes/Apodidae/
-I0806 13:38:34.213 main_window.cc:599] sounds/Apodiformes/Apodidae/
-I0806 13:38:34.214 main_window.cc:599] sounds/Strigiformes/Tytonidae/
-I0806 13:38:34.214 main_window.cc:599] sounds/Strigiformes/Tytonidae/
-I0806 13:38:34.214 main_window.cc:599] sounds/Strigiformes/Strigidae/
-I0806 13:38:34.214 main_window.cc:599] sounds/Strigiformes/Strigidae/
-I0806 13:38:34.214 main_window.cc:599] sounds/Strigiformes/Strigidae/
-I0806 13:38:34.214 main_window.cc:599] sounds/Strigiformes/Strigidae/
-I0806 13:38:34.214 main_window.cc:599] sounds/Strigiformes/Strigidae/
-I0806 13:38:34.214 main_window.cc:599] sounds/Strigiformes/Strigidae/
-I0806 13:38:34.215 main_window.cc:599] sounds/Strigiformes/Strigidae/
-I0806 13:38:34.215 main_window.cc:599] sounds/Strigiformes/Strigidae/
-I0806 13:38:34.215 main_window.cc:599] sounds/Strigiformes/Strigidae/
-I0806 13:38:34.215 main_window.cc:599] sounds/Strigiformes/Strigidae/
-I0806 13:38:34.215 main_window.cc:599] sounds/Accipitriformes/Pandionidae/
-I0806 13:38:34.216 main_window.cc:599] sounds/Accipitriformes/Accipitridae/
-I0806 13:38:34.216 main_window.cc:599] sounds/Accipitriformes/Accipitridae/
-I0806 13:38:34.216 main_window.cc:599] sounds/Accipitriformes/Accipitridae/
-I0806 13:38:34.216 main_window.cc:599] sounds/Accipitriformes/Accipitridae/
-I0806 13:38:34.216 main_window.cc:599] sounds/Accipitriformes/Accipitridae/
-I0806 13:38:34.216 main_window.cc:599] sounds/Accipitriformes/Accipitridae/
-I0806 13:38:34.216 main_window.cc:599] sounds/Accipitriformes/Accipitridae/
-I0806 13:38:34.216 main_window.cc:599] sounds/Accipitriformes/Accipitridae/
-I0806 13:38:34.217 main_window.cc:599] sounds/Accipitriformes/Accipitridae/
-I0806 13:38:34.217 main_window.cc:599] sounds/Accipitriformes/Accipitridae/
-I0806 13:38:34.217 main_window.cc:599] sounds/Accipitriformes/Accipitridae/
-I0806 13:38:34.217 main_window.cc:599] sounds/Accipitriformes/Accipitridae/
-I0806 13:38:34.217 main_window.cc:599] sounds/Accipitriformes/Accipitridae/
-I0806 13:38:34.217 main_window.cc:599] sounds/Accipitriformes/Accipitridae/
-I0806 13:38:34.217 main_window.cc:599] sounds/Accipitriformes/Accipitridae/
-I0806 13:38:34.217 main_window.cc:599] sounds/Accipitriformes/Accipitridae/
-I0806 13:38:34.218 main_window.cc:599] sounds/Accipitriformes/Accipitridae/
-I0806 13:38:34.218 main_window.cc:599] sounds/Accipitriformes/Accipitridae/
-I0806 13:38:34.218 main_window.cc:599] sounds/Accipitriformes/Accipitridae/
-I0806 13:38:34.218 main_window.cc:599] sounds/Accipitriformes/Accipitridae/
-I0806 13:38:34.218 main_window.cc:599] sounds/Accipitriformes/Accipitridae/
-I0806 13:38:34.218 main_window.cc:599] sounds/Trogoniformes/Trogonidae/
-I0806 13:38:34.218 main_window.cc:599] sounds/Trogoniformes/Trogonidae/
-I0806 13:38:34.218 main_window.cc:599] sounds/Bucerotiformes/Bucerotidae/
-I0806 13:38:34.218 main_window.cc:599] sounds/Bucerotiformes/Bucerotidae/
-I0806 13:38:34.218 main_window.cc:599] sounds/Bucerotiformes/Bucerotidae/
-I0806 13:38:34.219 main_window.cc:599] sounds/Coraciiformes/Coraciidae/
-I0806 13:38:34.219 main_window.cc:599] sounds/Coraciiformes/Meropidae/
-I0806 13:38:34.219 main_window.cc:599] sounds/Coraciiformes/Meropidae/
-I0806 13:38:34.219 main_window.cc:599] sounds/Coraciiformes/Meropidae/
-I0806 13:38:34.219 main_window.cc:599] sounds/Coraciiformes/Alcedinidae/
-I0806 13:38:34.219 main_window.cc:599] sounds/Coraciiformes/Alcedinidae/
-I0806 13:38:34.219 main_window.cc:599] sounds/Coraciiformes/Alcedinidae/
-I0806 13:38:34.219 main_window.cc:599] sounds/Coraciiformes/Alcedinidae/
-I0806 13:38:34.219 main_window.cc:599] sounds/Coraciiformes/Alcedinidae/
-I0806 13:38:34.219 main_window.cc:599] sounds/Coraciiformes/Alcedinidae/
-I0806 13:38:34.219 main_window.cc:599] sounds/Coraciiformes/Alcedinidae/
-I0806 13:38:34.219 main_window.cc:599] sounds/Coraciiformes/Alcedinidae/
-I0806 13:38:34.219 main_window.cc:599] sounds/Coraciiformes/Alcedinidae/
-I0806 13:38:34.220 main_window.cc:599] sounds/Coraciiformes/Alcedinidae/
-I0806 13:38:34.220 main_window.cc:599] sounds/Coraciiformes/Alcedinidae/
-I0806 13:38:34.220 main_window.cc:599] sounds/Coraciiformes/Alcedinidae/
-I0806 13:38:34.220 main_window.cc:599] sounds/Coraciiformes/Alcedinidae/
-I0806 13:38:34.220 main_window.cc:599] sounds/Coraciiformes/Alcedinidae/
-I0806 13:38:34.220 main_window.cc:599] sounds/Piciformes/Megalaimidae/
-I0806 13:38:34.220 main_window.cc:599] sounds/Piciformes/Megalaimidae/
-I0806 13:38:34.220 main_window.cc:599] sounds/Piciformes/Megalaimidae/
-I0806 13:38:34.220 main_window.cc:599] sounds/Piciformes/Megalaimidae/
-I0806 13:38:34.220 main_window.cc:599] sounds/Piciformes/Megalaimidae/
-I0806 13:38:34.220 main_window.cc:599] sounds/Piciformes/Megalaimidae/
-I0806 13:38:34.220 main_window.cc:599] sounds/Piciformes/Megalaimidae/
-I0806 13:38:34.220 main_window.cc:599] sounds/Piciformes/Picidae/
-I0806 13:38:34.220 main_window.cc:599] sounds/Piciformes/Picidae/
-I0806 13:38:34.221 main_window.cc:599] sounds/Piciformes/Picidae/
-I0806 13:38:34.221 main_window.cc:599] sounds/Piciformes/Picidae/
-I0806 13:38:34.221 main_window.cc:599] sounds/Piciformes/Picidae/
-I0806 13:38:34.221 main_window.cc:599] sounds/Piciformes/Picidae/
-I0806 13:38:34.221 main_window.cc:599] sounds/Piciformes/Picidae/
-I0806 13:38:34.221 main_window.cc:599] sounds/Piciformes/Picidae/
-I0806 13:38:34.221 main_window.cc:599] sounds/Piciformes/Picidae/
-I0806 13:38:34.221 main_window.cc:599] sounds/Piciformes/Picidae/
-I0806 13:38:34.221 main_window.cc:599] sounds/Piciformes/Picidae/
-I0806 13:38:34.221 main_window.cc:599] sounds/Piciformes/Picidae/
-I0806 13:38:34.221 main_window.cc:599] sounds/Piciformes/Picidae/
-I0806 13:38:34.221 main_window.cc:599] sounds/Piciformes/Picidae/
-I0806 13:38:34.221 main_window.cc:599] sounds/Piciformes/Picidae/
-I0806 13:38:34.222 main_window.cc:599] sounds/Piciformes/Picidae/
-I0806 13:38:34.222 main_window.cc:599] sounds/Falconiformes/Falconidae/
-I0806 13:38:34.222 main_window.cc:599] sounds/Falconiformes/Falconidae/
-I0806 13:38:34.222 main_window.cc:599] sounds/Falconiformes/Falconidae/
-I0806 13:38:34.222 main_window.cc:599] sounds/Falconiformes/Falconidae/
-I0806 13:38:34.222 main_window.cc:599] sounds/Falconiformes/Falconidae/
-I0806 13:38:34.222 main_window.cc:599] sounds/Falconiformes/Falconidae/
-I0806 13:38:34.223 main_window.cc:599] sounds/Psittaciformes/Cacatuidae/
-I0806 13:38:34.223 main_window.cc:599] sounds/Psittaciformes/Cacatuidae/
-I0806 13:38:34.223 main_window.cc:599] sounds/Psittaciformes/Cacatuidae/
-I0806 13:38:34.223 main_window.cc:599] sounds/Psittaciformes/Psittaculidae/
-I0806 13:38:34.223 main_window.cc:599] sounds/Psittaciformes/Psittaculidae/
-I0806 13:38:34.223 main_window.cc:599] sounds/Psittaciformes/Psittaculidae/
-I0806 13:38:34.223 main_window.cc:599] sounds/Psittaciformes/Psittaculidae/
-I0806 13:38:34.223 main_window.cc:599] sounds/Psittaciformes/Psittaculidae/
-I0806 13:38:34.223 main_window.cc:599] sounds/Psittaciformes/Psittaculidae/
-I0806 13:38:34.223 main_window.cc:599] sounds/Psittaciformes/Psittaculidae/
-I0806 13:38:34.223 main_window.cc:599] sounds/Psittaciformes/Psittaculidae/
-I0806 13:38:34.223 main_window.cc:599] sounds/Psittaciformes/Psittaculidae/
-I0806 13:38:34.223 main_window.cc:599] sounds/Psittaciformes/Psittaculidae/
-I0806 13:38:34.223 main_window.cc:599] sounds/Psittaciformes/Psittaculidae/
-I0806 13:38:34.223 main_window.cc:599] sounds/Psittaciformes/Psittaculidae/
-I0806 13:38:34.223 main_window.cc:599] sounds/Passeriformes/Eurylaimidae/
-I0806 13:38:34.224 main_window.cc:599] sounds/Passeriformes/Pittidae/
-I0806 13:38:34.224 main_window.cc:599] sounds/Passeriformes/Pittidae/
-I0806 13:38:34.224 main_window.cc:599] sounds/Passeriformes/Pittidae/
-I0806 13:38:34.224 main_window.cc:599] sounds/Passeriformes/Acanthizidae/
-I0806 13:38:34.224 main_window.cc:599] sounds/Passeriformes/Meliphagidae/
-I0806 13:38:34.224 main_window.cc:599] sounds/Passeriformes/Campephagidae/
-I0806 13:38:34.224 main_window.cc:599] sounds/Passeriformes/Campephagidae/
-I0806 13:38:34.224 main_window.cc:599] sounds/Passeriformes/Campephagidae/
-I0806 13:38:34.224 main_window.cc:599] sounds/Passeriformes/Campephagidae/
-I0806 13:38:34.224 main_window.cc:599] sounds/Passeriformes/Campephagidae/
-I0806 13:38:34.224 main_window.cc:599] sounds/Passeriformes/Campephagidae/
-I0806 13:38:34.225 main_window.cc:599] sounds/Passeriformes/Campephagidae/
-I0806 13:38:34.225 main_window.cc:599] sounds/Passeriformes/Campephagidae/
-I0806 13:38:34.225 main_window.cc:599] sounds/Passeriformes/Campephagidae/
-I0806 13:38:34.225 main_window.cc:599] sounds/Passeriformes/Campephagidae/
-I0806 13:38:34.225 main_window.cc:599] sounds/Passeriformes/Campephagidae/
-I0806 13:38:34.225 main_window.cc:599] sounds/Passeriformes/Artamidae/
-I0806 13:38:34.225 main_window.cc:599] sounds/Passeriformes/Aegithinidae/
-I0806 13:38:34.225 main_window.cc:599] sounds/Passeriformes/Vangidae/
-I0806 13:38:34.225 main_window.cc:599] sounds/Passeriformes/Vangidae/
-I0806 13:38:34.225 main_window.cc:599] sounds/Passeriformes/Vangidae/
-I0806 13:38:34.225 main_window.cc:599] sounds/Passeriformes/Vireonidae/
-I0806 13:38:34.225 main_window.cc:599] sounds/Passeriformes/Vireonidae/
-I0806 13:38:34.225 main_window.cc:599] sounds/Passeriformes/Oriolidae/
-I0806 13:38:34.225 main_window.cc:599] sounds/Passeriformes/Oriolidae/
-I0806 13:38:34.225 main_window.cc:599] sounds/Passeriformes/Oriolidae/
-I0806 13:38:34.225 main_window.cc:599] sounds/Passeriformes/Pachycephalidae/
-I0806 13:38:34.225 main_window.cc:599] sounds/Passeriformes/Pachycephalidae/
-I0806 13:38:34.226 main_window.cc:599] sounds/Passeriformes/Rhipiduridae/
-I0806 13:38:34.226 main_window.cc:599] sounds/Passeriformes/Rhipiduridae/
-I0806 13:38:34.226 main_window.cc:599] sounds/Passeriformes/Rhipiduridae/
-I0806 13:38:34.226 main_window.cc:599] sounds/Passeriformes/Dicruridae/
-I0806 13:38:34.226 main_window.cc:599] sounds/Passeriformes/Dicruridae/
-I0806 13:38:34.226 main_window.cc:599] sounds/Passeriformes/Dicruridae/
-I0806 13:38:34.226 main_window.cc:599] sounds/Passeriformes/Dicruridae/
-I0806 13:38:34.226 main_window.cc:599] sounds/Passeriformes/Dicruridae/
-I0806 13:38:34.226 main_window.cc:599] sounds/Passeriformes/Dicruridae/
-I0806 13:38:34.226 main_window.cc:599] sounds/Passeriformes/Dicruridae/
-I0806 13:38:34.226 main_window.cc:599] sounds/Passeriformes/Monarchidae/
-I0806 13:38:34.226 main_window.cc:599] sounds/Passeriformes/Monarchidae/
-I0806 13:38:34.226 main_window.cc:599] sounds/Passeriformes/Monarchidae/
-I0806 13:38:34.226 main_window.cc:599] sounds/Passeriformes/Platylophidae/
-I0806 13:38:34.226 main_window.cc:599] sounds/Passeriformes/Laniidae/
-I0806 13:38:34.226 main_window.cc:599] sounds/Passeriformes/Laniidae/
-I0806 13:38:34.226 main_window.cc:599] sounds/Passeriformes/Laniidae/
-I0806 13:38:34.227 main_window.cc:599] sounds/Passeriformes/Corvidae/
-I0806 13:38:34.227 main_window.cc:599] sounds/Passeriformes/Corvidae/
-I0806 13:38:34.227 main_window.cc:599] sounds/Passeriformes/Corvidae/
-I0806 13:38:34.227 main_window.cc:599] sounds/Passeriformes/Corvidae/
-I0806 13:38:34.227 main_window.cc:599] sounds/Passeriformes/Corvidae/
-I0806 13:38:34.227 main_window.cc:599] sounds/Passeriformes/Corvidae/
-I0806 13:38:34.227 main_window.cc:599] sounds/Passeriformes/Corvidae/
-I0806 13:38:34.227 main_window.cc:599] sounds/Passeriformes/Stenostiridae/
-I0806 13:38:34.227 main_window.cc:599] sounds/Passeriformes/Paridae/
-I0806 13:38:34.227 main_window.cc:599] sounds/Passeriformes/Alaudidae/
-I0806 13:38:34.227 main_window.cc:599] sounds/Passeriformes/Cisticolidae/
-I0806 13:38:34.227 main_window.cc:599] sounds/Passeriformes/Cisticolidae/
-I0806 13:38:34.227 main_window.cc:599] sounds/Passeriformes/Cisticolidae/
-I0806 13:38:34.227 main_window.cc:599] sounds/Passeriformes/Cisticolidae/
-I0806 13:38:34.227 main_window.cc:599] sounds/Passeriformes/Cisticolidae/
-I0806 13:38:34.227 main_window.cc:599] sounds/Passeriformes/Cisticolidae/
-I0806 13:38:34.227 main_window.cc:599] sounds/Passeriformes/Cisticolidae/
-I0806 13:38:34.227 main_window.cc:599] sounds/Passeriformes/Cisticolidae/
-I0806 13:38:34.227 main_window.cc:599] sounds/Passeriformes/Cisticolidae/
-I0806 13:38:34.227 main_window.cc:599] sounds/Passeriformes/Cisticolidae/
-I0806 13:38:34.227 main_window.cc:599] sounds/Passeriformes/Acrocephalidae/
-I0806 13:38:34.228 main_window.cc:599] sounds/Passeriformes/Acrocephalidae/
-I0806 13:38:34.229 main_window.cc:599] sounds/Passeriformes/Acrocephalidae/
-I0806 13:38:34.229 main_window.cc:599] sounds/Passeriformes/Locustellidae/
-I0806 13:38:34.229 main_window.cc:599] sounds/Passeriformes/Locustellidae/
-I0806 13:38:34.230 main_window.cc:599] sounds/Passeriformes/Locustellidae/
-I0806 13:38:34.230 main_window.cc:599] sounds/Passeriformes/Locustellidae/
-I0806 13:38:34.230 main_window.cc:599] sounds/Passeriformes/Pnoepygidae/
-I0806 13:38:34.230 main_window.cc:599] sounds/Passeriformes/Hirundinidae/
-I0806 13:38:34.230 main_window.cc:599] sounds/Passeriformes/Hirundinidae/
-I0806 13:38:34.230 main_window.cc:599] sounds/Passeriformes/Hirundinidae/
-I0806 13:38:34.230 main_window.cc:599] sounds/Passeriformes/Hirundinidae/
-I0806 13:38:34.230 main_window.cc:599] sounds/Passeriformes/Aegithalidae/
-I0806 13:38:34.230 main_window.cc:599] sounds/Passeriformes/Cettiidae/
-I0806 13:38:34.230 main_window.cc:599] sounds/Passeriformes/Cettiidae/
-I0806 13:38:34.230 main_window.cc:599] sounds/Passeriformes/Cettiidae/
-I0806 13:38:34.232 main_window.cc:599] sounds/Passeriformes/Cettiidae/
-I0806 13:38:34.232 main_window.cc:599] sounds/Passeriformes/Phylloscopidae/
-I0806 13:38:34.232 main_window.cc:599] sounds/Passeriformes/Phylloscopidae/
-I0806 13:38:34.233 main_window.cc:599] sounds/Passeriformes/Phylloscopidae/
-I0806 13:38:34.233 main_window.cc:599] sounds/Passeriformes/Phylloscopidae/
-I0806 13:38:34.233 main_window.cc:599] sounds/Passeriformes/Phylloscopidae/
-I0806 13:38:34.234 main_window.cc:599] sounds/Passeriformes/Phylloscopidae/
-I0806 13:38:34.234 main_window.cc:599] sounds/Passeriformes/Pycnonotidae/
-I0806 13:38:34.234 main_window.cc:599] sounds/Passeriformes/Pycnonotidae/
-I0806 13:38:34.234 main_window.cc:599] sounds/Passeriformes/Pycnonotidae/
-I0806 13:38:34.234 main_window.cc:599] sounds/Passeriformes/Pycnonotidae/
-I0806 13:38:34.234 main_window.cc:599] sounds/Passeriformes/Pycnonotidae/
-I0806 13:38:34.234 main_window.cc:599] sounds/Passeriformes/Pycnonotidae/
-I0806 13:38:34.234 main_window.cc:599] sounds/Passeriformes/Pycnonotidae/
-I0806 13:38:34.234 main_window.cc:599] sounds/Passeriformes/Pycnonotidae/
-I0806 13:38:34.234 main_window.cc:599] sounds/Passeriformes/Pycnonotidae/
-I0806 13:38:34.235 main_window.cc:599] sounds/Passeriformes/Pycnonotidae/
-I0806 13:38:34.235 main_window.cc:599] sounds/Passeriformes/Pycnonotidae/
-I0806 13:38:34.235 main_window.cc:599] sounds/Passeriformes/Pycnonotidae/
-I0806 13:38:34.235 main_window.cc:599] sounds/Passeriformes/Pycnonotidae/
-I0806 13:38:34.235 main_window.cc:599] sounds/Passeriformes/Pycnonotidae/
-I0806 13:38:34.235 main_window.cc:599] sounds/Passeriformes/Zosteropidae/
-I0806 13:38:34.235 main_window.cc:599] sounds/Passeriformes/Zosteropidae/
-I0806 13:38:34.235 main_window.cc:599] sounds/Passeriformes/Zosteropidae/
-I0806 13:38:34.235 main_window.cc:599] sounds/Passeriformes/Zosteropidae/
-I0806 13:38:34.235 main_window.cc:599] sounds/Passeriformes/Zosteropidae/
-I0806 13:38:34.236 main_window.cc:599] sounds/Passeriformes/Timaliidae/
-I0806 13:38:34.236 main_window.cc:599] sounds/Passeriformes/Timaliidae/
-I0806 13:38:34.236 main_window.cc:599] sounds/Passeriformes/Timaliidae/
-I0806 13:38:34.236 main_window.cc:599] sounds/Passeriformes/Timaliidae/
-I0806 13:38:34.236 main_window.cc:599] sounds/Passeriformes/Timaliidae/
-I0806 13:38:34.236 main_window.cc:599] sounds/Passeriformes/Timaliidae/
-I0806 13:38:34.236 main_window.cc:599] sounds/Passeriformes/Timaliidae/
-I0806 13:38:34.236 main_window.cc:599] sounds/Passeriformes/Timaliidae/
-I0806 13:38:34.236 main_window.cc:599] sounds/Passeriformes/Timaliidae/
-I0806 13:38:34.236 main_window.cc:599] sounds/Passeriformes/Timaliidae/
-I0806 13:38:34.236 main_window.cc:599] sounds/Passeriformes/Pellorneidae/
-I0806 13:38:34.236 main_window.cc:599] sounds/Passeriformes/Pellorneidae/
-I0806 13:38:34.236 main_window.cc:599] sounds/Passeriformes/Pellorneidae/
-I0806 13:38:34.236 main_window.cc:599] sounds/Passeriformes/Pellorneidae/
-I0806 13:38:34.236 main_window.cc:599] sounds/Passeriformes/Pellorneidae/
-I0806 13:38:34.236 main_window.cc:599] sounds/Passeriformes/Pellorneidae/
-I0806 13:38:34.236 main_window.cc:599] sounds/Passeriformes/Pellorneidae/
-I0806 13:38:34.236 main_window.cc:599] sounds/Passeriformes/Leiothrichidae/
-I0806 13:38:34.236 main_window.cc:599] sounds/Passeriformes/Leiothrichidae/
-I0806 13:38:34.236 main_window.cc:599] sounds/Passeriformes/Leiothrichidae/
-I0806 13:38:34.237 main_window.cc:599] sounds/Passeriformes/Sittidae/
-I0806 13:38:34.237 main_window.cc:599] sounds/Passeriformes/Sittidae/
-I0806 13:38:34.237 main_window.cc:599] sounds/Passeriformes/Sturnidae/
-I0806 13:38:34.237 main_window.cc:599] sounds/Passeriformes/Sturnidae/
-I0806 13:38:34.237 main_window.cc:599] sounds/Passeriformes/Sturnidae/
-I0806 13:38:34.237 main_window.cc:599] sounds/Passeriformes/Sturnidae/
-I0806 13:38:34.237 main_window.cc:599] sounds/Passeriformes/Sturnidae/
-I0806 13:38:34.237 main_window.cc:599] sounds/Passeriformes/Sturnidae/
-I0806 13:38:34.237 main_window.cc:599] sounds/Passeriformes/Sturnidae/
-I0806 13:38:34.238 main_window.cc:599] sounds/Passeriformes/Sturnidae/
-I0806 13:38:34.238 main_window.cc:599] sounds/Passeriformes/Sturnidae/
-I0806 13:38:34.238 main_window.cc:599] sounds/Passeriformes/Sturnidae/
-I0806 13:38:34.238 main_window.cc:599] sounds/Passeriformes/Sturnidae/
-I0806 13:38:34.238 main_window.cc:599] sounds/Passeriformes/Turdidae/
-I0806 13:38:34.238 main_window.cc:599] sounds/Passeriformes/Turdidae/
-I0806 13:38:34.238 main_window.cc:599] sounds/Passeriformes/Turdidae/
-I0806 13:38:34.238 main_window.cc:599] sounds/Passeriformes/Turdidae/
-I0806 13:38:34.239 main_window.cc:599] sounds/Passeriformes/Turdidae/
-I0806 13:38:34.239 main_window.cc:599] sounds/Passeriformes/Turdidae/
-I0806 13:38:34.239 main_window.cc:599] sounds/Passeriformes/Turdidae/
-I0806 13:38:34.239 main_window.cc:599] sounds/Passeriformes/Turdidae/
-I0806 13:38:34.239 main_window.cc:599] sounds/Passeriformes/Muscicapidae/
-I0806 13:38:34.239 main_window.cc:599] sounds/Passeriformes/Muscicapidae/
-I0806 13:38:34.240 main_window.cc:599] sounds/Passeriformes/Muscicapidae/
-I0806 13:38:34.240 main_window.cc:599] sounds/Passeriformes/Muscicapidae/
-I0806 13:38:34.240 main_window.cc:599] sounds/Passeriformes/Muscicapidae/
-I0806 13:38:34.240 main_window.cc:599] sounds/Passeriformes/Muscicapidae/
-I0806 13:38:34.240 main_window.cc:599] sounds/Passeriformes/Muscicapidae/
-I0806 13:38:34.241 main_window.cc:599] sounds/Passeriformes/Muscicapidae/
-I0806 13:38:34.241 main_window.cc:599] sounds/Passeriformes/Muscicapidae/
-I0806 13:38:34.241 main_window.cc:599] sounds/Passeriformes/Muscicapidae/
-I0806 13:38:34.241 main_window.cc:599] sounds/Passeriformes/Muscicapidae/
-I0806 13:38:34.241 main_window.cc:599] sounds/Passeriformes/Muscicapidae/
-I0806 13:38:34.241 main_window.cc:599] sounds/Passeriformes/Muscicapidae/
-I0806 13:38:34.241 main_window.cc:599] sounds/Passeriformes/Muscicapidae/
-I0806 13:38:34.241 main_window.cc:599] sounds/Passeriformes/Muscicapidae/
-I0806 13:38:34.241 main_window.cc:599] sounds/Passeriformes/Muscicapidae/
-I0806 13:38:34.241 main_window.cc:599] sounds/Passeriformes/Muscicapidae/
-I0806 13:38:34.241 main_window.cc:599] sounds/Passeriformes/Muscicapidae/
-I0806 13:38:34.241 main_window.cc:599] sounds/Passeriformes/Muscicapidae/
-I0806 13:38:34.242 main_window.cc:599] sounds/Passeriformes/Muscicapidae/
-I0806 13:38:34.242 main_window.cc:599] sounds/Passeriformes/Muscicapidae/
-I0806 13:38:34.242 main_window.cc:599] sounds/Passeriformes/Muscicapidae/
-I0806 13:38:34.242 main_window.cc:599] sounds/Passeriformes/Muscicapidae/
-I0806 13:38:34.242 main_window.cc:599] sounds/Passeriformes/Muscicapidae/
-I0806 13:38:34.242 main_window.cc:599] sounds/Passeriformes/Muscicapidae/
-I0806 13:38:34.242 main_window.cc:599] sounds/Passeriformes/Muscicapidae/
-I0806 13:38:34.242 main_window.cc:599] sounds/Passeriformes/Muscicapidae/
-I0806 13:38:34.242 main_window.cc:599] sounds/Passeriformes/Muscicapidae/
-I0806 13:38:34.242 main_window.cc:599] sounds/Passeriformes/Muscicapidae/
-I0806 13:38:34.242 main_window.cc:599] sounds/Passeriformes/Muscicapidae/
-I0806 13:38:34.242 main_window.cc:599] sounds/Passeriformes/Dicaeidae/
-I0806 13:38:34.242 main_window.cc:599] sounds/Passeriformes/Dicaeidae/
-I0806 13:38:34.242 main_window.cc:599] sounds/Passeriformes/Dicaeidae/
-I0806 13:38:34.242 main_window.cc:599] sounds/Passeriformes/Dicaeidae/
-I0806 13:38:34.242 main_window.cc:599] sounds/Passeriformes/Dicaeidae/
-I0806 13:38:34.242 main_window.cc:599] sounds/Passeriformes/Dicaeidae/
-I0806 13:38:34.242 main_window.cc:599] sounds/Passeriformes/Dicaeidae/
-I0806 13:38:34.242 main_window.cc:599] sounds/Passeriformes/Dicaeidae/
-I0806 13:38:34.243 main_window.cc:599] sounds/Passeriformes/Nectariniidae/
-I0806 13:38:34.243 main_window.cc:599] sounds/Passeriformes/Nectariniidae/
-I0806 13:38:34.244 main_window.cc:599] sounds/Passeriformes/Nectariniidae/
-I0806 13:38:34.244 main_window.cc:599] sounds/Passeriformes/Nectariniidae/
-I0806 13:38:34.244 main_window.cc:599] sounds/Passeriformes/Nectariniidae/
-I0806 13:38:34.244 main_window.cc:599] sounds/Passeriformes/Nectariniidae/
-I0806 13:38:34.244 main_window.cc:599] sounds/Passeriformes/Nectariniidae/
-I0806 13:38:34.244 main_window.cc:599] sounds/Passeriformes/Nectariniidae/
-I0806 13:38:34.244 main_window.cc:599] sounds/Passeriformes/Nectariniidae/
-I0806 13:38:34.244 main_window.cc:599] sounds/Passeriformes/Nectariniidae/
-I0806 13:38:34.244 main_window.cc:599] sounds/Passeriformes/Nectariniidae/
-I0806 13:38:34.244 main_window.cc:599] sounds/Passeriformes/Nectariniidae/
-I0806 13:38:34.244 main_window.cc:599] sounds/Passeriformes/Chloropseidae/
-I0806 13:38:34.244 main_window.cc:599] sounds/Passeriformes/Chloropseidae/
-I0806 13:38:34.244 main_window.cc:599] sounds/Passeriformes/Irenidae/
-I0806 13:38:34.244 main_window.cc:599] sounds/Passeriformes/Ploceidae/
-I0806 13:38:34.244 main_window.cc:599] sounds/Passeriformes/Ploceidae/
-I0806 13:38:34.244 main_window.cc:599] sounds/Passeriformes/Ploceidae/
-I0806 13:38:34.244 main_window.cc:599] sounds/Passeriformes/Estrildidae/
-I0806 13:38:34.244 main_window.cc:599] sounds/Passeriformes/Estrildidae/
-I0806 13:38:34.245 main_window.cc:599] sounds/Passeriformes/Estrildidae/
-I0806 13:38:34.245 main_window.cc:599] sounds/Passeriformes/Estrildidae/
-I0806 13:38:34.245 main_window.cc:599] sounds/Passeriformes/Estrildidae/
-I0806 13:38:34.245 main_window.cc:599] sounds/Passeriformes/Estrildidae/
-I0806 13:38:34.245 main_window.cc:599] sounds/Passeriformes/Estrildidae/
-I0806 13:38:34.245 main_window.cc:599] sounds/Passeriformes/Estrildidae/
-I0806 13:38:34.245 main_window.cc:599] sounds/Passeriformes/Estrildidae/
-I0806 13:38:34.246 main_window.cc:599] sounds/Passeriformes/Estrildidae/
-I0806 13:38:34.246 main_window.cc:599] sounds/Passeriformes/Estrildidae/
-I0806 13:38:34.246 main_window.cc:599] sounds/Passeriformes/Estrildidae/
-I0806 13:38:34.246 main_window.cc:599] sounds/Passeriformes/Passeridae/
-I0806 13:38:34.246 main_window.cc:599] sounds/Passeriformes/Motacillidae/
-I0806 13:38:34.247 main_window.cc:599] sounds/Passeriformes/Motacillidae/
-I0806 13:38:34.247 main_window.cc:599] sounds/Passeriformes/Motacillidae/
-I0806 13:38:34.247 main_window.cc:599] sounds/Passeriformes/Motacillidae/
-I0806 13:38:34.247 main_window.cc:599] sounds/Passeriformes/Motacillidae/
-I0806 13:38:34.247 main_window.cc:599] sounds/Passeriformes/Motacillidae/
-I0806 13:38:34.248 main_window.cc:599] sounds/Passeriformes/Fringillidae/

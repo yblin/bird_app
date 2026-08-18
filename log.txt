@@ -2683,3 +2683,1920 @@ I0817 15:43:50.951 taxonomic_tree.h:641] Not found bird:
 I0817 15:43:50.951 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Motacillidae
 I0817 15:43:50.951 taxonomic_tree.h:641] Not found bird:  
 I0817 15:43:50.951 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Fringillidae
+I0817 17:32:28.542 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.542 taxonomic_tree.h:641] Not found bird: STRUTHIONIFORMES: Struthionidae
+I0817 17:32:28.543 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.543 taxonomic_tree.h:641] Not found bird: ANSERIFORMES: Anatidae
+I0817 17:32:28.546 taxonomic_tree.h:641] Not found bird: Green-winged Teal	Anas carolinensis	
+I0817 17:32:28.546 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.546 taxonomic_tree.h:641] Not found bird: GALLIFORMES: Numididae
+I0817 17:32:28.547 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.547 taxonomic_tree.h:641] Not found bird: GALLIFORMES: Odontophoridae
+I0817 17:32:28.547 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.547 taxonomic_tree.h:641] Not found bird: GALLIFORMES: Phasianidae
+I0817 17:32:28.547 taxonomic_tree.h:641] Not found bird: Rubeho Forest Partridge	Xenoperdix obscuratus	
+I0817 17:32:28.548 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.548 taxonomic_tree.h:641] Not found bird: CAPRIMULGIFORMES: Caprimulgidae
+I0817 17:32:28.549 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.549 taxonomic_tree.h:641] Not found bird: APODIFORMES: Apodidae
+I0817 17:32:28.549 taxonomic_tree.h:641] Not found bird: Fernando Po Swift	Apus sladeniae	
+I0817 17:32:28.549 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.549 taxonomic_tree.h:641] Not found bird: MUSOPHAGIFORMES: Musophagidae
+I0817 17:32:28.549 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.549 taxonomic_tree.h:641] Not found bird: OTIDIFORMES: Otididae
+I0817 17:32:28.550 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.550 taxonomic_tree.h:641] Not found bird: CUCULIFORMES: Cuculidae
+I0817 17:32:28.550 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.550 taxonomic_tree.h:641] Not found bird: MESITORNITHIFORMES: Mesitornithidae
+I0817 17:32:28.550 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.550 taxonomic_tree.h:641] Not found bird: PTEROCLIFORMES: Pteroclidae
+I0817 17:32:28.550 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.550 taxonomic_tree.h:641] Not found bird: COLUMBIFORMES: Columbidae
+I0817 17:32:28.551 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.551 taxonomic_tree.h:641] Not found bird: GRUIFORMES: Heliornithidae
+I0817 17:32:28.551 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.551 taxonomic_tree.h:641] Not found bird: GRUIFORMES: Sarothruridae
+I0817 17:32:28.551 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.551 taxonomic_tree.h:641] Not found bird: GRUIFORMES: Rallidae
+I0817 17:32:28.551 taxonomic_tree.h:641] Not found bird: African Swamphen	Porphyrio madagascariensis	
+I0817 17:32:28.551 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.551 taxonomic_tree.h:641] Not found bird: GRUIFORMES: Gruidae
+I0817 17:32:28.551 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.551 taxonomic_tree.h:641] Not found bird: PODICIPEDIFORMES: Podicipedidae
+I0817 17:32:28.551 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.551 taxonomic_tree.h:641] Not found bird: PHOENICOPTERIFORMES: Phoenicopteridae
+I0817 17:32:28.551 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.551 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Turnicidae
+I0817 17:32:28.551 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.551 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Burhinidae
+I0817 17:32:28.552 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.552 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Chionidae
+I0817 17:32:28.552 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.552 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Haematopodidae
+I0817 17:32:28.552 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.552 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Ibidorhynchidae
+I0817 17:32:28.552 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.552 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Recurvirostridae
+I0817 17:32:28.552 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.552 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Charadriidae
+I0817 17:32:28.552 taxonomic_tree.h:641] Not found bird: Lesser Sand Plover	Charadrius mongolus	
+I0817 17:32:28.552 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.552 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Pluvianidae
+I0817 17:32:28.552 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.552 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Rostratulidae
+I0817 17:32:28.552 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.552 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Jacanidae
+I0817 17:32:28.552 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.552 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Scolopacidae
+I0817 17:32:28.552 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.552 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Dromadidae
+I0817 17:32:28.552 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.552 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Glareolidae
+I0817 17:32:28.552 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.552 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Laridae
+I0817 17:32:28.552 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.553 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Stercorariidae
+I0817 17:32:28.553 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.553 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Alcidae
+I0817 17:32:28.553 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.553 taxonomic_tree.h:641] Not found bird: PHAETHONTIFORMES: Phaethontidae
+I0817 17:32:28.553 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.553 taxonomic_tree.h:641] Not found bird: GAVIIFORMES: Gaviidae
+I0817 17:32:28.553 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.553 taxonomic_tree.h:641] Not found bird: SPHENISCIFORMES: Spheniscidae
+I0817 17:32:28.553 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.553 taxonomic_tree.h:641] Not found bird: PROCELLARIIFORMES: Oceanitidae
+I0817 17:32:28.553 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.553 taxonomic_tree.h:641] Not found bird: PROCELLARIIFORMES: Diomedeidae
+I0817 17:32:28.553 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.553 taxonomic_tree.h:641] Not found bird: PROCELLARIIFORMES: Hydrobatidae
+I0817 17:32:28.553 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.553 taxonomic_tree.h:641] Not found bird: PROCELLARIIFORMES: Procellariidae
+I0817 17:32:28.553 taxonomic_tree.h:641] Not found bird: Balearic Shearwater	Puffinus mauretanicus	
+I0817 17:32:28.553 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.553 taxonomic_tree.h:641] Not found bird: CICONIIFORMES: Ciconiidae
+I0817 17:32:28.553 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.553 taxonomic_tree.h:641] Not found bird: SULIFORMES: Fregatidae
+I0817 17:32:28.553 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.553 taxonomic_tree.h:641] Not found bird: SULIFORMES: Sulidae
+I0817 17:32:28.553 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.553 taxonomic_tree.h:641] Not found bird: SULIFORMES: Anhingidae
+I0817 17:32:28.553 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.553 taxonomic_tree.h:641] Not found bird: SULIFORMES: Phalacrocoracidae
+I0817 17:32:28.553 taxonomic_tree.h:641] Not found bird: White-breasted Cormorant	Phalacrocorax lucidus	
+I0817 17:32:28.553 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.553 taxonomic_tree.h:641] Not found bird: PELECANIFORMES: Threskiornithidae
+I0817 17:32:28.553 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.553 taxonomic_tree.h:641] Not found bird: PELECANIFORMES: Ardeidae
+I0817 17:32:28.554 taxonomic_tree.h:641] Not found bird: Dimorphic Egret	Egretta dimorpha	
+I0817 17:32:28.554 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.554 taxonomic_tree.h:641] Not found bird: PELECANIFORMES: Scopidae
+I0817 17:32:28.554 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.554 taxonomic_tree.h:641] Not found bird: PELECANIFORMES: Balaenicipitidae
+I0817 17:32:28.554 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.554 taxonomic_tree.h:641] Not found bird: PELECANIFORMES: Pelecanidae
+I0817 17:32:28.554 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.554 taxonomic_tree.h:641] Not found bird: ACCIPITRIFORMES: Sagittariidae
+I0817 17:32:28.554 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.554 taxonomic_tree.h:641] Not found bird: ACCIPITRIFORMES: Pandionidae
+I0817 17:32:28.554 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.554 taxonomic_tree.h:641] Not found bird: ACCIPITRIFORMES: Accipitridae
+I0817 17:32:28.554 taxonomic_tree.h:641] Not found bird: Red-chested Goshawk	Accipiter toussenelii	
+I0817 17:32:28.554 taxonomic_tree.h:641] Not found bird: Northern Goshawk	Accipiter gentilis	
+I0817 17:32:28.554 taxonomic_tree.h:641] Not found bird: Yellow-billed Kite	Milvus aegyptius	
+I0817 17:32:28.554 taxonomic_tree.h:641] Not found bird: Cape Verde Buzzard	Buteo bannermani	
+I0817 17:32:28.554 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.554 taxonomic_tree.h:641] Not found bird: STRIGIFORMES: Tytonidae
+I0817 17:32:28.554 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.554 taxonomic_tree.h:641] Not found bird: STRIGIFORMES: Strigidae
+I0817 17:32:28.554 taxonomic_tree.h:641] Not found bird: Torotoroka Scops Owl	Otus madagascariensis	
+I0817 17:32:28.554 taxonomic_tree.h:641] Not found bird: Annobon Scops Owl	Otus feae	
+I0817 17:32:28.554 taxonomic_tree.h:641] Not found bird: Maghreb Owl	Strix mauritanica	
+I0817 17:32:28.554 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.554 taxonomic_tree.h:641] Not found bird: COLIIFORMES: Coliidae
+I0817 17:32:28.554 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.554 taxonomic_tree.h:641] Not found bird: LEPTOSOMIFORMES: Leptosomidae
+I0817 17:32:28.554 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.554 taxonomic_tree.h:641] Not found bird: TROGONIFORMES: Trogonidae
+I0817 17:32:28.554 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.554 taxonomic_tree.h:641] Not found bird: BUCEROTIFORMES: Upupidae
+I0817 17:32:28.554 taxonomic_tree.h:641] Not found bird: African Hoopoe	Upupa africana	
+I0817 17:32:28.554 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.554 taxonomic_tree.h:641] Not found bird: BUCEROTIFORMES: Phoeniculidae
+I0817 17:32:28.554 taxonomic_tree.h:641] Not found bird: Grant's Wood Hoopoe	Phoeniculus granti	
+I0817 17:32:28.554 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.554 taxonomic_tree.h:641] Not found bird: BUCEROTIFORMES: Bucorvidae
+I0817 17:32:28.554 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.554 taxonomic_tree.h:641] Not found bird: BUCEROTIFORMES: Bucerotidae
+I0817 17:32:28.555 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.555 taxonomic_tree.h:641] Not found bird: CORACIIFORMES: Coraciidae
+I0817 17:32:28.555 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.555 taxonomic_tree.h:641] Not found bird: CORACIIFORMES: Brachypteraciidae
+I0817 17:32:28.555 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.555 taxonomic_tree.h:641] Not found bird: CORACIIFORMES: Alcedinidae
+I0817 17:32:28.555 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.555 taxonomic_tree.h:641] Not found bird: CORACIIFORMES: Meropidae
+I0817 17:32:28.555 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.555 taxonomic_tree.h:641] Not found bird: PICIFORMES: Lybiidae
+I0817 17:32:28.555 taxonomic_tree.h:641] Not found bird: White-chested Tinkerbird	Pogoniulus makawai	
+I0817 17:32:28.555 taxonomic_tree.h:641] Not found bird: Yellow-billed Barbet	Trachyphonus purpuratus	
+I0817 17:32:28.555 taxonomic_tree.h:641] Not found bird: Usambiro Barbet	Trachyphonus usambiro	
+I0817 17:32:28.555 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.555 taxonomic_tree.h:641] Not found bird: PICIFORMES: Indicatoridae
+I0817 17:32:28.555 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.555 taxonomic_tree.h:641] Not found bird: PICIFORMES: Picidae
+I0817 17:32:28.555 taxonomic_tree.h:641] Not found bird: Little Spotted Woodpecker	Campethera cailliautii	
+I0817 17:32:28.555 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.555 taxonomic_tree.h:641] Not found bird: FALCONIFORMES: Falconidae
+I0817 17:32:28.555 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.555 taxonomic_tree.h:641] Not found bird: PSITTACIFORMES: Cacatuidae
+I0817 17:32:28.555 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.555 taxonomic_tree.h:641] Not found bird: PSITTACIFORMES: Psittacidae
+I0817 17:32:28.555 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.555 taxonomic_tree.h:641] Not found bird: PSITTACIFORMES: Psittaculidae
+I0817 17:32:28.555 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.555 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Philepittidae
+I0817 17:32:28.556 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.556 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Eurylaimidae
+I0817 17:32:28.556 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.556 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Calyptomenidae
+I0817 17:32:28.556 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.556 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Pittidae
+I0817 17:32:28.556 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.556 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Platysteiridae
+I0817 17:32:28.556 taxonomic_tree.h:641] Not found bird: Reichenow's Batis	Batis reichenowi	
+I0817 17:32:28.556 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.556 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Malaconotidae
+I0817 17:32:28.556 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.556 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Vangidae
+I0817 17:32:28.556 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.556 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Campephagidae
+I0817 17:32:28.556 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.556 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Laniidae
+I0817 17:32:28.556 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.556 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Vireonidae
+I0817 17:32:28.556 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.556 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Oriolidae
+I0817 17:32:28.556 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.556 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Dicruridae
+I0817 17:32:28.556 taxonomic_tree.h:641] Not found bird: Fanti Drongo	Dicrurus atactus	
+I0817 17:32:28.556 taxonomic_tree.h:641] Not found bird: Glossy-backed Drongo	Dicrurus divaricatus	
+I0817 17:32:28.556 taxonomic_tree.h:641] Not found bird: Western Square-tailed Drongo	Dicrurus occidentalis	
+I0817 17:32:28.556 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.556 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Monarchidae
+I0817 17:32:28.556 taxonomic_tree.h:641] Not found bird: Annobon Paradise Flycatcher	Terpsiphone smithii	
+I0817 17:32:28.556 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.556 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Corvidae
+I0817 17:32:28.556 taxonomic_tree.h:641] Not found bird: Hooded Crow	Corvus cornix	
+I0817 17:32:28.556 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.556 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Picathartidae
+I0817 17:32:28.556 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.556 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Chaetopidae
+I0817 17:32:28.556 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.556 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Bombycillidae
+I0817 17:32:28.556 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.556 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Hypocoliidae
+I0817 17:32:28.557 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.557 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Stenostiridae
+I0817 17:32:28.557 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.557 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Paridae
+I0817 17:32:28.557 taxonomic_tree.h:641] Not found bird: Cinnamon-breasted Tit	Melaniparus pallidiventris	
+I0817 17:32:28.557 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.557 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Remizidae
+I0817 17:32:28.557 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.557 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Nicatoridae
+I0817 17:32:28.557 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.557 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Panuridae
+I0817 17:32:28.557 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.557 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Alaudidae
+I0817 17:32:28.557 taxonomic_tree.h:641] Not found bird: Benguela Long-billed Lark	Certhilauda benguelensis	
+I0817 17:32:28.557 taxonomic_tree.h:641] Not found bird: Agulhas Long-billed Lark	Certhilauda brevirostris	
+I0817 17:32:28.557 taxonomic_tree.h:641] Not found bird: Foxy Lark	Calendulauda alopex	
+I0817 17:32:28.557 taxonomic_tree.h:641] Not found bird: Barlow's Lark	Calendulauda barlowi	
+I0817 17:32:28.557 taxonomic_tree.h:641] Not found bird: Sharpe's Lark	Mirafra sharpii	
+I0817 17:32:28.557 taxonomic_tree.h:641] Not found bird: Ash's Lark	Mirafra ashi	
+I0817 17:32:28.557 taxonomic_tree.h:641] Not found bird: Maghreb Lark	Galerida macrorhyncha	
+I0817 17:32:28.557 taxonomic_tree.h:641] Not found bird: Athi Short-toed Lark	Alaudala athensis	
+I0817 17:32:28.557 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.557 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Pycnonotidae
+I0817 17:32:28.557 taxonomic_tree.h:641] Not found bird: Kakamega Greenbul	Arizelocichla kakamegae	
+I0817 17:32:28.557 taxonomic_tree.h:641] Not found bird: Placid Greenbul	Phyllastrephus placidus	
+I0817 17:32:28.557 taxonomic_tree.h:641] Not found bird: Sharpe's Greenbul	Phyllastrephus alfredi	
+I0817 17:32:28.557 taxonomic_tree.h:641] Not found bird: Dodson's Bulbul	Pycnonotus dodsoni	
+I0817 17:32:28.557 taxonomic_tree.h:641] Not found bird: Somali Bulbul	Pycnonotus somaliensis	
+I0817 17:32:28.557 taxonomic_tree.h:641] Not found bird: Dark-capped Bulbul	Pycnonotus tricolor	
+I0817 17:32:28.557 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.557 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Hirundinidae
+I0817 17:32:28.557 taxonomic_tree.h:641] Not found bird: West African Swallow	Cecropis domicella	
+I0817 17:32:28.557 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.557 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Macrosphenidae
+I0817 17:32:28.557 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.557 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Cettiidae
+I0817 17:32:28.557 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.557 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Scotocercidae
+I0817 17:32:28.557 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.557 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Erythrocercidae
+I0817 17:32:28.557 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.557 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Hyliidae
+I0817 17:32:28.557 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.557 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Aegithalidae
+I0817 17:32:28.557 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.557 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Phylloscopidae
+I0817 17:32:28.558 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.558 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Acrocephalidae
+I0817 17:32:28.558 taxonomic_tree.h:641] Not found bird: Anjouan Brush Warbler	Nesillas longicaudata	
+I0817 17:32:28.558 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.558 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Locustellidae
+I0817 17:32:28.558 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.558 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Bernieridae
+I0817 17:32:28.558 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.558 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Cisticolidae
+I0817 17:32:28.558 taxonomic_tree.h:641] Not found bird: Black-faced Prinia	Prinia melanops	
+I0817 17:32:28.558 taxonomic_tree.h:641] Not found bird: Brown-tailed Apalis	Apalis flavocincta	
+I0817 17:32:28.558 taxonomic_tree.h:641] Not found bird: Grey-backed Camaroptera	Camaroptera brevicaudata	
+I0817 17:32:28.558 taxonomic_tree.h:641] Not found bird: Rubeho Warbler	Scepomycter rubehoensis	
+I0817 17:32:28.558 taxonomic_tree.h:641] Not found bird: Salvadori's Eremomela	Eremomela salvadorii	
+I0817 17:32:28.558 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.558 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Sylviidae
+I0817 17:32:28.558 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.558 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Zosteropidae
+I0817 17:32:28.558 taxonomic_tree.h:641] Not found bird: Anjouan White-eye	Zosterops anjuanensis	
+I0817 17:32:28.558 taxonomic_tree.h:641] Not found bird: Aldabra White-eye	Zosterops aldabrensis	
+I0817 17:32:28.558 taxonomic_tree.h:641] Not found bird: Moheli White-eye	Zosterops comorensis	
+I0817 17:32:28.558 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.558 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Pellorneidae
+I0817 17:32:28.558 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.558 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Leiothrichidae
+I0817 17:32:28.558 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.558 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Modulatricidae
+I0817 17:32:28.558 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.558 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Promeropidae
+I0817 17:32:28.558 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.558 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Regulidae
+I0817 17:32:28.558 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.558 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Hyliotidae
+I0817 17:32:28.558 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.558 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Troglodytidae
+I0817 17:32:28.558 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.558 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Sittidae
+I0817 17:32:28.559 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.559 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Tichodromidae
+I0817 17:32:28.559 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.559 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Certhiidae
+I0817 17:32:28.559 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.559 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Sturnidae
+I0817 17:32:28.559 taxonomic_tree.h:641] Not found bird: Miombo Blue-eared Starling	Lamprotornis elisabeth	
+I0817 17:32:28.559 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.559 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Buphagidae
+I0817 17:32:28.559 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.559 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Turdidae
+I0817 17:32:28.559 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.559 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Muscicapidae
+I0817 17:32:28.559 taxonomic_tree.h:641] Not found bird: Mediterranean Flycatcher	Muscicapa tyrrhenica	
+I0817 17:32:28.559 taxonomic_tree.h:641] Not found bird: Itombwe Flycatcher	Muscicapa itombwensis	
+I0817 17:32:28.559 taxonomic_tree.h:641] Not found bird: Madagascar Stonechat	Saxicola sibilla	
+I0817 17:32:28.559 taxonomic_tree.h:641] Not found bird: White-crowned Cliff Chat	Thamnolaea coronata	
+I0817 17:32:28.559 taxonomic_tree.h:641] Not found bird: Ruaha Chat	Myrmecocichla collaris	
+I0817 17:32:28.559 taxonomic_tree.h:641] Not found bird: Maghreb Wheatear	Oenanthe halophila	
+I0817 17:32:28.559 taxonomic_tree.h:641] Not found bird: Basalt Wheatear	Oenanthe warriae	Rare/Accidental
+I0817 17:32:28.559 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.559 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Cinclidae
+I0817 17:32:28.559 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.559 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Nectariniidae
+I0817 17:32:28.559 taxonomic_tree.h:641] Not found bird: Whyte's Double-collared Sunbird	Cinnyris whytei	
+I0817 17:32:28.559 taxonomic_tree.h:641] Not found bird: Hofmann's Sunbird	Cinnyris hofmanni	
+I0817 17:32:28.559 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.559 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Passeridae
+I0817 17:32:28.559 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.559 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Ploceidae
+I0817 17:32:28.559 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.559 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Estrildidae
+I0817 17:32:28.559 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.559 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Viduidae
+I0817 17:32:28.559 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.559 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Prunellidae
+I0817 17:32:28.559 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.559 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Motacillidae
+I0817 17:32:28.559 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.559 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Fringillidae
+I0817 17:32:28.559 taxonomic_tree.h:641] Not found bird: African Crimson-winged Finch	Rhodopechys alienus	
+I0817 17:32:28.559 taxonomic_tree.h:641] Not found bird: Lesser Redpoll	Acanthis cabaret	
+I0817 17:32:28.559 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.559 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Calcariidae
+I0817 17:32:28.559 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.559 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Emberizidae
+I0817 17:32:28.559 taxonomic_tree.h:641] Not found bird: Vincent's Bunting	Emberiza vincenti	
+I0817 17:32:28.559 taxonomic_tree.h:641] Not found bird:  
+I0817 17:32:28.559 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Parulidae
+I0818 09:26:42.017 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.017 taxonomic_tree.h:641] Not found bird: ANSERIFORMES: Anatidae
+I0818 09:26:42.017 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.017 taxonomic_tree.h:641] Not found bird: GALLIFORMES: Megapodiidae
+I0818 09:26:42.017 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.017 taxonomic_tree.h:641] Not found bird: GALLIFORMES: Phasianidae
+I0818 09:26:42.017 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.017 taxonomic_tree.h:641] Not found bird: CAPRIMULGIFORMES: Caprimulgidae
+I0818 09:26:42.017 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.017 taxonomic_tree.h:641] Not found bird: PODARGIFORMES: Podargidae
+I0818 09:26:42.017 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.017 taxonomic_tree.h:641] Not found bird: APODIFORMES: Hemiprocnidae
+I0818 09:26:42.017 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.017 taxonomic_tree.h:641] Not found bird: APODIFORMES: Apodidae
+I0818 09:26:42.017 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.017 taxonomic_tree.h:641] Not found bird: CUCULIFORMES: Cuculidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: COLUMBIFORMES: Columbidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: GRUIFORMES: Heliornithidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: GRUIFORMES: Rallidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: Black-backed Swamphen	Porphyrio indicus	
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: PODICIPEDIFORMES: Podicipedidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: Tricolored Grebe	Tachybaptus tricolor	
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Turnicidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Burhinidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Recurvirostridae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Charadriidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Rostratulidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Jacanidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Scolopacidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Glareolidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Laridae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Stercorariidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: PHAETHONTIFORMES: Phaethontidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: PROCELLARIIFORMES: Oceanitidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: PROCELLARIIFORMES: Hydrobatidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: PROCELLARIIFORMES: Procellariidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: CICONIIFORMES: Ciconiidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: SULIFORMES: Fregatidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: SULIFORMES: Sulidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: SULIFORMES: Anhingidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: SULIFORMES: Phalacrocoracidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: PELECANIFORMES: Threskiornithidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: PELECANIFORMES: Ardeidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: PELECANIFORMES: Pelecanidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: ACCIPITRIFORMES: Pandionidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: ACCIPITRIFORMES: Accipitridae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: STRIGIFORMES: Tytonidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: STRIGIFORMES: Strigidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: TROGONIFORMES: Trogonidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: BUCEROTIFORMES: Bucerotidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: CORACIIFORMES: Coraciidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: CORACIIFORMES: Alcedinidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: CORACIIFORMES: Meropidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: PICIFORMES: Megalaimidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: PICIFORMES: Picidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: FALCONIFORMES: Falconidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: PSITTACIFORMES: Cacatuidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: PSITTACIFORMES: Psittaculidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Eurylaimidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Pittidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Meliphagidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Acanthizidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Vangidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Artamidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Aegithinidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Campephagidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Pachycephalidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Vireonidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Oriolidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Dicruridae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Rhipiduridae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Monarchidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Platylophidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Laniidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Corvidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Stenostiridae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Paridae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Alaudidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Pycnonotidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Hirundinidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Pnoepygidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Cettiidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Aegithalidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Phylloscopidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Acrocephalidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Locustellidae
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.019 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Cisticolidae
+I0818 09:26:42.021 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.021 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Zosteropidae
+I0818 09:26:42.021 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.021 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Timaliidae
+I0818 09:26:42.021 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.021 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Pellorneidae
+I0818 09:26:42.021 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.021 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Alcippeidae
+I0818 09:26:42.021 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.021 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Leiothrichidae
+I0818 09:26:42.021 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.021 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Irenidae
+I0818 09:26:42.021 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.021 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Sittidae
+I0818 09:26:42.021 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.021 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Sturnidae
+I0818 09:26:42.021 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.021 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Turdidae
+I0818 09:26:42.021 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.021 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Muscicapidae
+I0818 09:26:42.021 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.021 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Chloropseidae
+I0818 09:26:42.021 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.021 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Dicaeidae
+I0818 09:26:42.021 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.021 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Nectariniidae
+I0818 09:26:42.021 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.021 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Passeridae
+I0818 09:26:42.021 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.021 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Ploceidae
+I0818 09:26:42.021 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.021 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Estrildidae
+I0818 09:26:42.021 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.021 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Motacillidae
+I0818 09:26:42.021 taxonomic_tree.h:641] Not found bird:  
+I0818 09:26:42.021 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Fringillidae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: STRUTHIONIFORMES: Struthionidae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: ANSERIFORMES: Anatidae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: Green-winged Teal	Anas carolinensis	
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: GALLIFORMES: Numididae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: GALLIFORMES: Odontophoridae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: GALLIFORMES: Phasianidae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: Rubeho Forest Partridge	Xenoperdix obscuratus	
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: CAPRIMULGIFORMES: Caprimulgidae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: APODIFORMES: Apodidae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: Fernando Po Swift	Apus sladeniae	
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: MUSOPHAGIFORMES: Musophagidae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: OTIDIFORMES: Otididae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: CUCULIFORMES: Cuculidae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: MESITORNITHIFORMES: Mesitornithidae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: PTEROCLIFORMES: Pteroclidae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: COLUMBIFORMES: Columbidae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: GRUIFORMES: Heliornithidae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: GRUIFORMES: Sarothruridae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: GRUIFORMES: Rallidae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: African Swamphen	Porphyrio madagascariensis	
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: GRUIFORMES: Gruidae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: PODICIPEDIFORMES: Podicipedidae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: PHOENICOPTERIFORMES: Phoenicopteridae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Turnicidae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Burhinidae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Chionidae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Haematopodidae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Ibidorhynchidae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Recurvirostridae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Charadriidae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: Lesser Sand Plover	Charadrius mongolus	
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Pluvianidae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Rostratulidae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Jacanidae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Scolopacidae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Dromadidae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Glareolidae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Laridae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Stercorariidae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Alcidae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: PHAETHONTIFORMES: Phaethontidae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: GAVIIFORMES: Gaviidae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: SPHENISCIFORMES: Spheniscidae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: PROCELLARIIFORMES: Oceanitidae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: PROCELLARIIFORMES: Diomedeidae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: PROCELLARIIFORMES: Hydrobatidae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: PROCELLARIIFORMES: Procellariidae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: Balearic Shearwater	Puffinus mauretanicus	
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: CICONIIFORMES: Ciconiidae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: SULIFORMES: Fregatidae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: SULIFORMES: Sulidae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: SULIFORMES: Anhingidae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: SULIFORMES: Phalacrocoracidae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: White-breasted Cormorant	Phalacrocorax lucidus	
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: PELECANIFORMES: Threskiornithidae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: PELECANIFORMES: Ardeidae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: Dimorphic Egret	Egretta dimorpha	
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: PELECANIFORMES: Scopidae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: PELECANIFORMES: Balaenicipitidae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: PELECANIFORMES: Pelecanidae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: ACCIPITRIFORMES: Sagittariidae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: ACCIPITRIFORMES: Pandionidae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: ACCIPITRIFORMES: Accipitridae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: Red-chested Goshawk	Accipiter toussenelii	
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: Northern Goshawk	Accipiter gentilis	
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: Yellow-billed Kite	Milvus aegyptius	
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: Cape Verde Buzzard	Buteo bannermani	
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: STRIGIFORMES: Tytonidae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: STRIGIFORMES: Strigidae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: Torotoroka Scops Owl	Otus madagascariensis	
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: Annobon Scops Owl	Otus feae	
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: Maghreb Owl	Strix mauritanica	
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: COLIIFORMES: Coliidae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: LEPTOSOMIFORMES: Leptosomidae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: TROGONIFORMES: Trogonidae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: BUCEROTIFORMES: Upupidae
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird: African Hoopoe	Upupa africana	
+I0818 10:01:00.320 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: BUCEROTIFORMES: Phoeniculidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: Grant's Wood Hoopoe	Phoeniculus granti	
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: BUCEROTIFORMES: Bucorvidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: BUCEROTIFORMES: Bucerotidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: CORACIIFORMES: Coraciidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: CORACIIFORMES: Brachypteraciidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: CORACIIFORMES: Alcedinidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: CORACIIFORMES: Meropidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PICIFORMES: Lybiidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: White-chested Tinkerbird	Pogoniulus makawai	
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: Yellow-billed Barbet	Trachyphonus purpuratus	
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: Usambiro Barbet	Trachyphonus usambiro	
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PICIFORMES: Indicatoridae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PICIFORMES: Picidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: Little Spotted Woodpecker	Campethera cailliautii	
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: FALCONIFORMES: Falconidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PSITTACIFORMES: Cacatuidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PSITTACIFORMES: Psittacidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PSITTACIFORMES: Psittaculidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Philepittidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Eurylaimidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Calyptomenidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Pittidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Platysteiridae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: Reichenow's Batis	Batis reichenowi	
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Malaconotidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Vangidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Campephagidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Laniidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Vireonidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Oriolidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Dicruridae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: Fanti Drongo	Dicrurus atactus	
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: Glossy-backed Drongo	Dicrurus divaricatus	
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: Western Square-tailed Drongo	Dicrurus occidentalis	
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Monarchidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: Annobon Paradise Flycatcher	Terpsiphone smithii	
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Corvidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: Hooded Crow	Corvus cornix	
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Picathartidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Chaetopidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Bombycillidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Hypocoliidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Stenostiridae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Paridae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: Cinnamon-breasted Tit	Melaniparus pallidiventris	
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Remizidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Nicatoridae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Panuridae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Alaudidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: Benguela Long-billed Lark	Certhilauda benguelensis	
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: Agulhas Long-billed Lark	Certhilauda brevirostris	
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: Foxy Lark	Calendulauda alopex	
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: Barlow's Lark	Calendulauda barlowi	
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: Sharpe's Lark	Mirafra sharpii	
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: Ash's Lark	Mirafra ashi	
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: Maghreb Lark	Galerida macrorhyncha	
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: Athi Short-toed Lark	Alaudala athensis	
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Pycnonotidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: Kakamega Greenbul	Arizelocichla kakamegae	
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: Placid Greenbul	Phyllastrephus placidus	
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: Sharpe's Greenbul	Phyllastrephus alfredi	
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: Dodson's Bulbul	Pycnonotus dodsoni	
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: Somali Bulbul	Pycnonotus somaliensis	
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: Dark-capped Bulbul	Pycnonotus tricolor	
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Hirundinidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: West African Swallow	Cecropis domicella	
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Macrosphenidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Cettiidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Scotocercidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Erythrocercidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Hyliidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Aegithalidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Phylloscopidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Acrocephalidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: Anjouan Brush Warbler	Nesillas longicaudata	
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Locustellidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Bernieridae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Cisticolidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: Black-faced Prinia	Prinia melanops	
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: Brown-tailed Apalis	Apalis flavocincta	
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: Grey-backed Camaroptera	Camaroptera brevicaudata	
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: Rubeho Warbler	Scepomycter rubehoensis	
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: Salvadori's Eremomela	Eremomela salvadorii	
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Sylviidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Zosteropidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: Anjouan White-eye	Zosterops anjuanensis	
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: Aldabra White-eye	Zosterops aldabrensis	
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: Moheli White-eye	Zosterops comorensis	
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Pellorneidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Leiothrichidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Modulatricidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Promeropidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Regulidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Hyliotidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Troglodytidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Sittidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Tichodromidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Certhiidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Sturnidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: Miombo Blue-eared Starling	Lamprotornis elisabeth	
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Buphagidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Turdidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Muscicapidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: Mediterranean Flycatcher	Muscicapa tyrrhenica	
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: Itombwe Flycatcher	Muscicapa itombwensis	
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: Madagascar Stonechat	Saxicola sibilla	
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: White-crowned Cliff Chat	Thamnolaea coronata	
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: Ruaha Chat	Myrmecocichla collaris	
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: Maghreb Wheatear	Oenanthe halophila	
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: Basalt Wheatear	Oenanthe warriae	Rare/Accidental
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Cinclidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Nectariniidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: Whyte's Double-collared Sunbird	Cinnyris whytei	
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: Hofmann's Sunbird	Cinnyris hofmanni	
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Passeridae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Ploceidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Estrildidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Viduidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Prunellidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Motacillidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Fringillidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: African Crimson-winged Finch	Rhodopechys alienus	
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: Lesser Redpoll	Acanthis cabaret	
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Calcariidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Emberizidae
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: Vincent's Bunting	Emberiza vincenti	
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird:  
+I0818 10:01:00.323 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Parulidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: STRUTHIONIFORMES: Struthionidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: ANSERIFORMES: Anatidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: Green-winged Teal	Anas carolinensis	
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: GALLIFORMES: Numididae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: GALLIFORMES: Odontophoridae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: GALLIFORMES: Phasianidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: Rubeho Forest Partridge	Xenoperdix obscuratus	
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: CAPRIMULGIFORMES: Caprimulgidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: APODIFORMES: Apodidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: Fernando Po Swift	Apus sladeniae	
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: MUSOPHAGIFORMES: Musophagidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: OTIDIFORMES: Otididae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: CUCULIFORMES: Cuculidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: MESITORNITHIFORMES: Mesitornithidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: PTEROCLIFORMES: Pteroclidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: COLUMBIFORMES: Columbidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: GRUIFORMES: Heliornithidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: GRUIFORMES: Sarothruridae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: GRUIFORMES: Rallidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: African Swamphen	Porphyrio madagascariensis	
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: GRUIFORMES: Gruidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: PODICIPEDIFORMES: Podicipedidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: PHOENICOPTERIFORMES: Phoenicopteridae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Turnicidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Burhinidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Chionidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Haematopodidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Ibidorhynchidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Recurvirostridae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Charadriidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: Lesser Sand Plover	Charadrius mongolus	
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Pluvianidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Rostratulidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Jacanidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Scolopacidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Dromadidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Glareolidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Laridae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Stercorariidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Alcidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: PHAETHONTIFORMES: Phaethontidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: GAVIIFORMES: Gaviidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: SPHENISCIFORMES: Spheniscidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: PROCELLARIIFORMES: Oceanitidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: PROCELLARIIFORMES: Diomedeidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: PROCELLARIIFORMES: Hydrobatidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: PROCELLARIIFORMES: Procellariidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: Balearic Shearwater	Puffinus mauretanicus	
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: CICONIIFORMES: Ciconiidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: SULIFORMES: Fregatidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: SULIFORMES: Sulidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: SULIFORMES: Anhingidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: SULIFORMES: Phalacrocoracidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: White-breasted Cormorant	Phalacrocorax lucidus	
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: PELECANIFORMES: Threskiornithidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: PELECANIFORMES: Ardeidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: Dimorphic Egret	Egretta dimorpha	
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: PELECANIFORMES: Scopidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: PELECANIFORMES: Balaenicipitidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: PELECANIFORMES: Pelecanidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: ACCIPITRIFORMES: Sagittariidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: ACCIPITRIFORMES: Pandionidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: ACCIPITRIFORMES: Accipitridae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: Red-chested Goshawk	Accipiter toussenelii	
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: Northern Goshawk	Accipiter gentilis	
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: Yellow-billed Kite	Milvus aegyptius	
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: Cape Verde Buzzard	Buteo bannermani	
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: STRIGIFORMES: Tytonidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: STRIGIFORMES: Strigidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: Torotoroka Scops Owl	Otus madagascariensis	
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: Annobon Scops Owl	Otus feae	
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: Maghreb Owl	Strix mauritanica	
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: COLIIFORMES: Coliidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: LEPTOSOMIFORMES: Leptosomidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: TROGONIFORMES: Trogonidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: BUCEROTIFORMES: Upupidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: African Hoopoe	Upupa africana	
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: BUCEROTIFORMES: Phoeniculidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: Grant's Wood Hoopoe	Phoeniculus granti	
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: BUCEROTIFORMES: Bucorvidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: BUCEROTIFORMES: Bucerotidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: CORACIIFORMES: Coraciidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: CORACIIFORMES: Brachypteraciidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: CORACIIFORMES: Alcedinidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: CORACIIFORMES: Meropidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: PICIFORMES: Lybiidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: White-chested Tinkerbird	Pogoniulus makawai	
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: Yellow-billed Barbet	Trachyphonus purpuratus	
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: Usambiro Barbet	Trachyphonus usambiro	
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: PICIFORMES: Indicatoridae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: PICIFORMES: Picidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: Little Spotted Woodpecker	Campethera cailliautii	
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: FALCONIFORMES: Falconidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: PSITTACIFORMES: Cacatuidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: PSITTACIFORMES: Psittacidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: PSITTACIFORMES: Psittaculidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Philepittidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Eurylaimidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Calyptomenidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Pittidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Platysteiridae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: Reichenow's Batis	Batis reichenowi	
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Malaconotidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Vangidae
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.753 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Campephagidae
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Laniidae
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Vireonidae
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Oriolidae
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Dicruridae
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: Fanti Drongo	Dicrurus atactus	
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: Glossy-backed Drongo	Dicrurus divaricatus	
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: Western Square-tailed Drongo	Dicrurus occidentalis	
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Monarchidae
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: Annobon Paradise Flycatcher	Terpsiphone smithii	
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Corvidae
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: Hooded Crow	Corvus cornix	
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Picathartidae
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Chaetopidae
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Bombycillidae
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Hypocoliidae
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Stenostiridae
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Paridae
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: Cinnamon-breasted Tit	Melaniparus pallidiventris	
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Remizidae
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Nicatoridae
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Panuridae
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Alaudidae
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: Benguela Long-billed Lark	Certhilauda benguelensis	
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: Agulhas Long-billed Lark	Certhilauda brevirostris	
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: Foxy Lark	Calendulauda alopex	
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: Barlow's Lark	Calendulauda barlowi	
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: Sharpe's Lark	Mirafra sharpii	
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: Ash's Lark	Mirafra ashi	
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: Maghreb Lark	Galerida macrorhyncha	
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: Athi Short-toed Lark	Alaudala athensis	
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Pycnonotidae
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: Kakamega Greenbul	Arizelocichla kakamegae	
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: Placid Greenbul	Phyllastrephus placidus	
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: Sharpe's Greenbul	Phyllastrephus alfredi	
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: Dodson's Bulbul	Pycnonotus dodsoni	
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: Somali Bulbul	Pycnonotus somaliensis	
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: Dark-capped Bulbul	Pycnonotus tricolor	
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Hirundinidae
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: West African Swallow	Cecropis domicella	
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Macrosphenidae
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Cettiidae
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Scotocercidae
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Erythrocercidae
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Hyliidae
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Aegithalidae
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Phylloscopidae
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Acrocephalidae
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: Anjouan Brush Warbler	Nesillas longicaudata	
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Locustellidae
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Bernieridae
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Cisticolidae
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: Black-faced Prinia	Prinia melanops	
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: Brown-tailed Apalis	Apalis flavocincta	
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: Grey-backed Camaroptera	Camaroptera brevicaudata	
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: Rubeho Warbler	Scepomycter rubehoensis	
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: Salvadori's Eremomela	Eremomela salvadorii	
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Sylviidae
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Zosteropidae
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: Anjouan White-eye	Zosterops anjuanensis	
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: Aldabra White-eye	Zosterops aldabrensis	
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: Moheli White-eye	Zosterops comorensis	
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Pellorneidae
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Leiothrichidae
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Modulatricidae
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Promeropidae
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Regulidae
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Hyliotidae
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Troglodytidae
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Sittidae
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Tichodromidae
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Certhiidae
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Sturnidae
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: Miombo Blue-eared Starling	Lamprotornis elisabeth	
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Buphagidae
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Turdidae
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Muscicapidae
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: Mediterranean Flycatcher	Muscicapa tyrrhenica	
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: Itombwe Flycatcher	Muscicapa itombwensis	
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: Madagascar Stonechat	Saxicola sibilla	
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: White-crowned Cliff Chat	Thamnolaea coronata	
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: Ruaha Chat	Myrmecocichla collaris	
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: Maghreb Wheatear	Oenanthe halophila	
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: Basalt Wheatear	Oenanthe warriae	Rare/Accidental
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Cinclidae
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Nectariniidae
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: Whyte's Double-collared Sunbird	Cinnyris whytei	
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: Hofmann's Sunbird	Cinnyris hofmanni	
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Passeridae
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Ploceidae
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Estrildidae
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Viduidae
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Prunellidae
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Motacillidae
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Fringillidae
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: African Crimson-winged Finch	Rhodopechys alienus	
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: Lesser Redpoll	Acanthis cabaret	
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Calcariidae
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Emberizidae
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: Vincent's Bunting	Emberiza vincenti	
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird:  
+I0818 10:09:31.758 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Parulidae
+I0818 10:12:06.710 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.710 taxonomic_tree.h:641] Not found bird: STRUTHIONIFORMES: Struthionidae
+I0818 10:12:06.710 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.710 taxonomic_tree.h:641] Not found bird: ANSERIFORMES: Anatidae
+I0818 10:12:06.710 taxonomic_tree.h:641] Not found bird: Green-winged Teal	Anas carolinensis	
+I0818 10:12:06.710 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.710 taxonomic_tree.h:641] Not found bird: GALLIFORMES: Numididae
+I0818 10:12:06.710 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.710 taxonomic_tree.h:641] Not found bird: GALLIFORMES: Odontophoridae
+I0818 10:12:06.710 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.710 taxonomic_tree.h:641] Not found bird: GALLIFORMES: Phasianidae
+I0818 10:12:06.710 taxonomic_tree.h:641] Not found bird: Rubeho Forest Partridge	Xenoperdix obscuratus	
+I0818 10:12:06.710 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.710 taxonomic_tree.h:641] Not found bird: CAPRIMULGIFORMES: Caprimulgidae
+I0818 10:12:06.710 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.710 taxonomic_tree.h:641] Not found bird: APODIFORMES: Apodidae
+I0818 10:12:06.710 taxonomic_tree.h:641] Not found bird: Fernando Po Swift	Apus sladeniae	
+I0818 10:12:06.710 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.710 taxonomic_tree.h:641] Not found bird: MUSOPHAGIFORMES: Musophagidae
+I0818 10:12:06.710 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.710 taxonomic_tree.h:641] Not found bird: OTIDIFORMES: Otididae
+I0818 10:12:06.710 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.710 taxonomic_tree.h:641] Not found bird: CUCULIFORMES: Cuculidae
+I0818 10:12:06.710 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.710 taxonomic_tree.h:641] Not found bird: MESITORNITHIFORMES: Mesitornithidae
+I0818 10:12:06.710 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.710 taxonomic_tree.h:641] Not found bird: PTEROCLIFORMES: Pteroclidae
+I0818 10:12:06.710 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.710 taxonomic_tree.h:641] Not found bird: COLUMBIFORMES: Columbidae
+I0818 10:12:06.710 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.710 taxonomic_tree.h:641] Not found bird: GRUIFORMES: Heliornithidae
+I0818 10:12:06.710 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.710 taxonomic_tree.h:641] Not found bird: GRUIFORMES: Sarothruridae
+I0818 10:12:06.710 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.710 taxonomic_tree.h:641] Not found bird: GRUIFORMES: Rallidae
+I0818 10:12:06.710 taxonomic_tree.h:641] Not found bird: African Swamphen	Porphyrio madagascariensis	
+I0818 10:12:06.710 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.710 taxonomic_tree.h:641] Not found bird: GRUIFORMES: Gruidae
+I0818 10:12:06.710 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.710 taxonomic_tree.h:641] Not found bird: PODICIPEDIFORMES: Podicipedidae
+I0818 10:12:06.710 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.710 taxonomic_tree.h:641] Not found bird: PHOENICOPTERIFORMES: Phoenicopteridae
+I0818 10:12:06.710 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.710 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Turnicidae
+I0818 10:12:06.710 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.710 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Burhinidae
+I0818 10:12:06.710 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.710 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Chionidae
+I0818 10:12:06.710 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.710 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Haematopodidae
+I0818 10:12:06.710 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.710 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Ibidorhynchidae
+I0818 10:12:06.710 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.710 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Recurvirostridae
+I0818 10:12:06.710 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.710 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Charadriidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: Lesser Sand Plover	Charadrius mongolus	
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Pluvianidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Rostratulidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Jacanidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Scolopacidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Dromadidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Glareolidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Laridae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Stercorariidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Alcidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PHAETHONTIFORMES: Phaethontidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: GAVIIFORMES: Gaviidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: SPHENISCIFORMES: Spheniscidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PROCELLARIIFORMES: Oceanitidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PROCELLARIIFORMES: Diomedeidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PROCELLARIIFORMES: Hydrobatidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PROCELLARIIFORMES: Procellariidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: Balearic Shearwater	Puffinus mauretanicus	
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: CICONIIFORMES: Ciconiidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: SULIFORMES: Fregatidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: SULIFORMES: Sulidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: SULIFORMES: Anhingidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: SULIFORMES: Phalacrocoracidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: White-breasted Cormorant	Phalacrocorax lucidus	
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PELECANIFORMES: Threskiornithidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PELECANIFORMES: Ardeidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: Dimorphic Egret	Egretta dimorpha	
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PELECANIFORMES: Scopidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PELECANIFORMES: Balaenicipitidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PELECANIFORMES: Pelecanidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: ACCIPITRIFORMES: Sagittariidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: ACCIPITRIFORMES: Pandionidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: ACCIPITRIFORMES: Accipitridae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: Red-chested Goshawk	Accipiter toussenelii	
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: Northern Goshawk	Accipiter gentilis	
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: Yellow-billed Kite	Milvus aegyptius	
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: Cape Verde Buzzard	Buteo bannermani	
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: STRIGIFORMES: Tytonidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: STRIGIFORMES: Strigidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: Torotoroka Scops Owl	Otus madagascariensis	
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: Annobon Scops Owl	Otus feae	
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: Maghreb Owl	Strix mauritanica	
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: COLIIFORMES: Coliidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: LEPTOSOMIFORMES: Leptosomidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: TROGONIFORMES: Trogonidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: BUCEROTIFORMES: Upupidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: African Hoopoe	Upupa africana	
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: BUCEROTIFORMES: Phoeniculidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: Grant's Wood Hoopoe	Phoeniculus granti	
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: BUCEROTIFORMES: Bucorvidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: BUCEROTIFORMES: Bucerotidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: CORACIIFORMES: Coraciidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: CORACIIFORMES: Brachypteraciidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: CORACIIFORMES: Alcedinidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: CORACIIFORMES: Meropidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PICIFORMES: Lybiidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: White-chested Tinkerbird	Pogoniulus makawai	
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: Yellow-billed Barbet	Trachyphonus purpuratus	
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: Usambiro Barbet	Trachyphonus usambiro	
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PICIFORMES: Indicatoridae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PICIFORMES: Picidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: Little Spotted Woodpecker	Campethera cailliautii	
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: FALCONIFORMES: Falconidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PSITTACIFORMES: Cacatuidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PSITTACIFORMES: Psittacidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PSITTACIFORMES: Psittaculidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Philepittidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Eurylaimidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Calyptomenidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Pittidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Platysteiridae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: Reichenow's Batis	Batis reichenowi	
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Malaconotidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Vangidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Campephagidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Laniidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Vireonidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Oriolidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Dicruridae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: Fanti Drongo	Dicrurus atactus	
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: Glossy-backed Drongo	Dicrurus divaricatus	
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: Western Square-tailed Drongo	Dicrurus occidentalis	
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Monarchidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: Annobon Paradise Flycatcher	Terpsiphone smithii	
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Corvidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: Hooded Crow	Corvus cornix	
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Picathartidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Chaetopidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Bombycillidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Hypocoliidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Stenostiridae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Paridae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: Cinnamon-breasted Tit	Melaniparus pallidiventris	
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Remizidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Nicatoridae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Panuridae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Alaudidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: Benguela Long-billed Lark	Certhilauda benguelensis	
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: Agulhas Long-billed Lark	Certhilauda brevirostris	
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: Foxy Lark	Calendulauda alopex	
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: Barlow's Lark	Calendulauda barlowi	
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: Sharpe's Lark	Mirafra sharpii	
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: Ash's Lark	Mirafra ashi	
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: Maghreb Lark	Galerida macrorhyncha	
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: Athi Short-toed Lark	Alaudala athensis	
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Pycnonotidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: Kakamega Greenbul	Arizelocichla kakamegae	
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: Placid Greenbul	Phyllastrephus placidus	
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: Sharpe's Greenbul	Phyllastrephus alfredi	
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: Dodson's Bulbul	Pycnonotus dodsoni	
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: Somali Bulbul	Pycnonotus somaliensis	
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: Dark-capped Bulbul	Pycnonotus tricolor	
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Hirundinidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: West African Swallow	Cecropis domicella	
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Macrosphenidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Cettiidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Scotocercidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Erythrocercidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Hyliidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Aegithalidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Phylloscopidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Acrocephalidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: Anjouan Brush Warbler	Nesillas longicaudata	
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Locustellidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Bernieridae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Cisticolidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: Black-faced Prinia	Prinia melanops	
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: Brown-tailed Apalis	Apalis flavocincta	
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: Grey-backed Camaroptera	Camaroptera brevicaudata	
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: Rubeho Warbler	Scepomycter rubehoensis	
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: Salvadori's Eremomela	Eremomela salvadorii	
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Sylviidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Zosteropidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: Anjouan White-eye	Zosterops anjuanensis	
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: Aldabra White-eye	Zosterops aldabrensis	
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: Moheli White-eye	Zosterops comorensis	
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Pellorneidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Leiothrichidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Modulatricidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Promeropidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Regulidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Hyliotidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Troglodytidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Sittidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Tichodromidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Certhiidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Sturnidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: Miombo Blue-eared Starling	Lamprotornis elisabeth	
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Buphagidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Turdidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Muscicapidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: Mediterranean Flycatcher	Muscicapa tyrrhenica	
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: Itombwe Flycatcher	Muscicapa itombwensis	
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: Madagascar Stonechat	Saxicola sibilla	
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: White-crowned Cliff Chat	Thamnolaea coronata	
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: Ruaha Chat	Myrmecocichla collaris	
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: Maghreb Wheatear	Oenanthe halophila	
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: Basalt Wheatear	Oenanthe warriae	Rare/Accidental
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Cinclidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Nectariniidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: Whyte's Double-collared Sunbird	Cinnyris whytei	
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: Hofmann's Sunbird	Cinnyris hofmanni	
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Passeridae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Ploceidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Estrildidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Viduidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Prunellidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Motacillidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Fringillidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: African Crimson-winged Finch	Rhodopechys alienus	
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: Lesser Redpoll	Acanthis cabaret	
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Calcariidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Emberizidae
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: Vincent's Bunting	Emberiza vincenti	
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird:  
+I0818 10:12:06.716 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Parulidae
+I0818 10:41:24.226 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.226 taxonomic_tree.h:641] Not found bird: STRUTHIONIFORMES: Struthionidae
+I0818 10:41:24.226 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.226 taxonomic_tree.h:641] Not found bird: ANSERIFORMES: Anatidae
+I0818 10:41:24.226 taxonomic_tree.h:641] Not found bird: Green-winged Teal	Anas carolinensis	
+I0818 10:41:24.226 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.226 taxonomic_tree.h:641] Not found bird: GALLIFORMES: Numididae
+I0818 10:41:24.226 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.226 taxonomic_tree.h:641] Not found bird: GALLIFORMES: Odontophoridae
+I0818 10:41:24.226 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.226 taxonomic_tree.h:641] Not found bird: GALLIFORMES: Phasianidae
+I0818 10:41:24.226 taxonomic_tree.h:641] Not found bird: Rubeho Forest Partridge	Xenoperdix obscuratus	
+I0818 10:41:24.226 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.226 taxonomic_tree.h:641] Not found bird: CAPRIMULGIFORMES: Caprimulgidae
+I0818 10:41:24.226 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.226 taxonomic_tree.h:641] Not found bird: APODIFORMES: Apodidae
+I0818 10:41:24.226 taxonomic_tree.h:641] Not found bird: Fernando Po Swift	Apus sladeniae	
+I0818 10:41:24.226 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.226 taxonomic_tree.h:641] Not found bird: MUSOPHAGIFORMES: Musophagidae
+I0818 10:41:24.226 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.226 taxonomic_tree.h:641] Not found bird: OTIDIFORMES: Otididae
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird: CUCULIFORMES: Cuculidae
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird: MESITORNITHIFORMES: Mesitornithidae
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird: PTEROCLIFORMES: Pteroclidae
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird: COLUMBIFORMES: Columbidae
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird: GRUIFORMES: Heliornithidae
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird: GRUIFORMES: Sarothruridae
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird: GRUIFORMES: Rallidae
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird: African Swamphen	Porphyrio madagascariensis	
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird: GRUIFORMES: Gruidae
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird: PODICIPEDIFORMES: Podicipedidae
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird: PHOENICOPTERIFORMES: Phoenicopteridae
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Turnicidae
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Burhinidae
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Chionidae
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Haematopodidae
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Ibidorhynchidae
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Recurvirostridae
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Charadriidae
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird: Lesser Sand Plover	Charadrius mongolus	
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Pluvianidae
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Rostratulidae
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Jacanidae
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Scolopacidae
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Dromadidae
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Glareolidae
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Laridae
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Stercorariidae
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird: CHARADRIIFORMES: Alcidae
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird: PHAETHONTIFORMES: Phaethontidae
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird: GAVIIFORMES: Gaviidae
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird: SPHENISCIFORMES: Spheniscidae
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird: PROCELLARIIFORMES: Oceanitidae
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.227 taxonomic_tree.h:641] Not found bird: PROCELLARIIFORMES: Diomedeidae
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird: PROCELLARIIFORMES: Hydrobatidae
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird: PROCELLARIIFORMES: Procellariidae
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird: Balearic Shearwater	Puffinus mauretanicus	
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird: CICONIIFORMES: Ciconiidae
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird: SULIFORMES: Fregatidae
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird: SULIFORMES: Sulidae
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird: SULIFORMES: Anhingidae
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird: SULIFORMES: Phalacrocoracidae
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird: White-breasted Cormorant	Phalacrocorax lucidus	
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird: PELECANIFORMES: Threskiornithidae
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird: PELECANIFORMES: Ardeidae
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird: Dimorphic Egret	Egretta dimorpha	
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird: PELECANIFORMES: Scopidae
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird: PELECANIFORMES: Balaenicipitidae
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird: PELECANIFORMES: Pelecanidae
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird: ACCIPITRIFORMES: Sagittariidae
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird: ACCIPITRIFORMES: Pandionidae
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird: ACCIPITRIFORMES: Accipitridae
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird: Red-chested Goshawk	Accipiter toussenelii	
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird: Northern Goshawk	Accipiter gentilis	
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird: Yellow-billed Kite	Milvus aegyptius	
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird: Cape Verde Buzzard	Buteo bannermani	
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird: STRIGIFORMES: Tytonidae
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird: STRIGIFORMES: Strigidae
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird: Torotoroka Scops Owl	Otus madagascariensis	
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird: Annobon Scops Owl	Otus feae	
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird: Maghreb Owl	Strix mauritanica	
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird: COLIIFORMES: Coliidae
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird: LEPTOSOMIFORMES: Leptosomidae
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird: TROGONIFORMES: Trogonidae
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird: BUCEROTIFORMES: Upupidae
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird: African Hoopoe	Upupa africana	
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird: BUCEROTIFORMES: Phoeniculidae
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird: Grant's Wood Hoopoe	Phoeniculus granti	
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird: BUCEROTIFORMES: Bucorvidae
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird: BUCEROTIFORMES: Bucerotidae
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird: CORACIIFORMES: Coraciidae
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird: CORACIIFORMES: Brachypteraciidae
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird: CORACIIFORMES: Alcedinidae
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird: CORACIIFORMES: Meropidae
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.228 taxonomic_tree.h:641] Not found bird: PICIFORMES: Lybiidae
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird: White-chested Tinkerbird	Pogoniulus makawai	
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird: Yellow-billed Barbet	Trachyphonus purpuratus	
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird: Usambiro Barbet	Trachyphonus usambiro	
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird: PICIFORMES: Indicatoridae
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird: PICIFORMES: Picidae
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird: Little Spotted Woodpecker	Campethera cailliautii	
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird: FALCONIFORMES: Falconidae
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird: PSITTACIFORMES: Cacatuidae
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird: PSITTACIFORMES: Psittacidae
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird: PSITTACIFORMES: Psittaculidae
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Philepittidae
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Eurylaimidae
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Calyptomenidae
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Pittidae
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Platysteiridae
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird: Reichenow's Batis	Batis reichenowi	
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Malaconotidae
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Vangidae
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Campephagidae
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Laniidae
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Vireonidae
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Oriolidae
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Dicruridae
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird: Fanti Drongo	Dicrurus atactus	
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird: Glossy-backed Drongo	Dicrurus divaricatus	
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird: Western Square-tailed Drongo	Dicrurus occidentalis	
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Monarchidae
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird: Annobon Paradise Flycatcher	Terpsiphone smithii	
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Corvidae
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird: Hooded Crow	Corvus cornix	
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Picathartidae
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Chaetopidae
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Bombycillidae
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Hypocoliidae
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Stenostiridae
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Paridae
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird: Cinnamon-breasted Tit	Melaniparus pallidiventris	
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Remizidae
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Nicatoridae
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Panuridae
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Alaudidae
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird: Benguela Long-billed Lark	Certhilauda benguelensis	
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird: Agulhas Long-billed Lark	Certhilauda brevirostris	
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird: Foxy Lark	Calendulauda alopex	
+I0818 10:41:24.229 taxonomic_tree.h:641] Not found bird: Barlow's Lark	Calendulauda barlowi	
+I0818 10:41:24.230 taxonomic_tree.h:641] Not found bird: Sharpe's Lark	Mirafra sharpii	
+I0818 10:41:24.230 taxonomic_tree.h:641] Not found bird: Ash's Lark	Mirafra ashi	
+I0818 10:41:24.230 taxonomic_tree.h:641] Not found bird: Maghreb Lark	Galerida macrorhyncha	
+I0818 10:41:24.230 taxonomic_tree.h:641] Not found bird: Athi Short-toed Lark	Alaudala athensis	
+I0818 10:41:24.230 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.230 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Pycnonotidae
+I0818 10:41:24.230 taxonomic_tree.h:641] Not found bird: Kakamega Greenbul	Arizelocichla kakamegae	
+I0818 10:41:24.230 taxonomic_tree.h:641] Not found bird: Placid Greenbul	Phyllastrephus placidus	
+I0818 10:41:24.230 taxonomic_tree.h:641] Not found bird: Sharpe's Greenbul	Phyllastrephus alfredi	
+I0818 10:41:24.230 taxonomic_tree.h:641] Not found bird: Dodson's Bulbul	Pycnonotus dodsoni	
+I0818 10:41:24.230 taxonomic_tree.h:641] Not found bird: Somali Bulbul	Pycnonotus somaliensis	
+I0818 10:41:24.230 taxonomic_tree.h:641] Not found bird: Dark-capped Bulbul	Pycnonotus tricolor	
+I0818 10:41:24.230 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.230 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Hirundinidae
+I0818 10:41:24.230 taxonomic_tree.h:641] Not found bird: West African Swallow	Cecropis domicella	
+I0818 10:41:24.230 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.230 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Macrosphenidae
+I0818 10:41:24.230 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.230 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Cettiidae
+I0818 10:41:24.230 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.230 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Scotocercidae
+I0818 10:41:24.230 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.230 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Erythrocercidae
+I0818 10:41:24.230 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.230 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Hyliidae
+I0818 10:41:24.230 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.230 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Aegithalidae
+I0818 10:41:24.230 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.230 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Phylloscopidae
+I0818 10:41:24.230 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.230 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Acrocephalidae
+I0818 10:41:24.230 taxonomic_tree.h:641] Not found bird: Anjouan Brush Warbler	Nesillas longicaudata	
+I0818 10:41:24.230 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.230 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Locustellidae
+I0818 10:41:24.230 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.230 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Bernieridae
+I0818 10:41:24.230 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.230 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Cisticolidae
+I0818 10:41:24.230 taxonomic_tree.h:641] Not found bird: Black-faced Prinia	Prinia melanops	
+I0818 10:41:24.230 taxonomic_tree.h:641] Not found bird: Brown-tailed Apalis	Apalis flavocincta	
+I0818 10:41:24.230 taxonomic_tree.h:641] Not found bird: Grey-backed Camaroptera	Camaroptera brevicaudata	
+I0818 10:41:24.230 taxonomic_tree.h:641] Not found bird: Rubeho Warbler	Scepomycter rubehoensis	
+I0818 10:41:24.230 taxonomic_tree.h:641] Not found bird: Salvadori's Eremomela	Eremomela salvadorii	
+I0818 10:41:24.230 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.230 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Sylviidae
+I0818 10:41:24.230 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.230 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Zosteropidae
+I0818 10:41:24.230 taxonomic_tree.h:641] Not found bird: Anjouan White-eye	Zosterops anjuanensis	
+I0818 10:41:24.230 taxonomic_tree.h:641] Not found bird: Aldabra White-eye	Zosterops aldabrensis	
+I0818 10:41:24.230 taxonomic_tree.h:641] Not found bird: Moheli White-eye	Zosterops comorensis	
+I0818 10:41:24.230 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.230 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Pellorneidae
+I0818 10:41:24.230 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.231 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Leiothrichidae
+I0818 10:41:24.231 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.231 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Modulatricidae
+I0818 10:41:24.231 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.231 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Promeropidae
+I0818 10:41:24.231 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.231 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Regulidae
+I0818 10:41:24.231 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.231 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Hyliotidae
+I0818 10:41:24.231 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.231 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Troglodytidae
+I0818 10:41:24.231 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.231 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Sittidae
+I0818 10:41:24.231 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.231 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Tichodromidae
+I0818 10:41:24.231 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.231 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Certhiidae
+I0818 10:41:24.231 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.231 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Sturnidae
+I0818 10:41:24.231 taxonomic_tree.h:641] Not found bird: Miombo Blue-eared Starling	Lamprotornis elisabeth	
+I0818 10:41:24.231 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.231 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Buphagidae
+I0818 10:41:24.231 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.231 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Turdidae
+I0818 10:41:24.231 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.231 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Muscicapidae
+I0818 10:41:24.231 taxonomic_tree.h:641] Not found bird: Mediterranean Flycatcher	Muscicapa tyrrhenica	
+I0818 10:41:24.231 taxonomic_tree.h:641] Not found bird: Itombwe Flycatcher	Muscicapa itombwensis	
+I0818 10:41:24.231 taxonomic_tree.h:641] Not found bird: Madagascar Stonechat	Saxicola sibilla	
+I0818 10:41:24.231 taxonomic_tree.h:641] Not found bird: White-crowned Cliff Chat	Thamnolaea coronata	
+I0818 10:41:24.231 taxonomic_tree.h:641] Not found bird: Ruaha Chat	Myrmecocichla collaris	
+I0818 10:41:24.231 taxonomic_tree.h:641] Not found bird: Maghreb Wheatear	Oenanthe halophila	
+I0818 10:41:24.231 taxonomic_tree.h:641] Not found bird: Basalt Wheatear	Oenanthe warriae	Rare/Accidental
+I0818 10:41:24.231 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.231 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Cinclidae
+I0818 10:41:24.231 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.231 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Nectariniidae
+I0818 10:41:24.231 taxonomic_tree.h:641] Not found bird: Whyte's Double-collared Sunbird	Cinnyris whytei	
+I0818 10:41:24.231 taxonomic_tree.h:641] Not found bird: Hofmann's Sunbird	Cinnyris hofmanni	
+I0818 10:41:24.231 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.231 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Passeridae
+I0818 10:41:24.231 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.231 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Ploceidae
+I0818 10:41:24.231 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.231 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Estrildidae
+I0818 10:41:24.231 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.231 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Viduidae
+I0818 10:41:24.231 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.231 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Prunellidae
+I0818 10:41:24.231 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.231 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Motacillidae
+I0818 10:41:24.231 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.231 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Fringillidae
+I0818 10:41:24.231 taxonomic_tree.h:641] Not found bird: African Crimson-winged Finch	Rhodopechys alienus	
+I0818 10:41:24.231 taxonomic_tree.h:641] Not found bird: Lesser Redpoll	Acanthis cabaret	
+I0818 10:41:24.231 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.231 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Calcariidae
+I0818 10:41:24.231 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.231 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Emberizidae
+I0818 10:41:24.232 taxonomic_tree.h:641] Not found bird: Vincent's Bunting	Emberiza vincenti	
+I0818 10:41:24.232 taxonomic_tree.h:641] Not found bird:  
+I0818 10:41:24.232 taxonomic_tree.h:641] Not found bird: PASSERIFORMES: Parulidae

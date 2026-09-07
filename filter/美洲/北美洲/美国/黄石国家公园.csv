@@ -4,10 +4,20 @@ ANSERIFORMES: Anatidae
 
 Ruddy Duck	Oxyura jamaicensis	
 Tundra Swan	Cygnus columbianus	
+Whooper Swan	Cygnus cygnus	
+Trumpeter Swan	Cygnus buccinator	
+Brant Goose	Branta bernicla	
 Canada Goose	Branta canadensis	
+Cackling Goose	Branta hutchinsii	
+Ross's Goose	Anser rossii	
 Snow Goose	Anser caerulescens	
+Greater White-fronted Goose	Anser albifrons	
 Wood Duck	Aix sponsa	
+Long-tailed Duck	Clangula hyemalis	Vulnerable
 Harlequin Duck	Histrionicus histrionicus	
+Black Scoter	Melanitta americana	Near-threatened
+Surf Scoter	Melanitta perspicillata	
+White-winged Scoter	Melanitta deglandi	
 Bufflehead	Bucephala albeola	
 Barrow's Goldeneye	Bucephala islandica	
 Common Goldeneye	Bucephala clangula	
@@ -16,55 +26,63 @@ Red-breasted Merganser	Mergus serrator
 Common Merganser	Mergus merganser	
 Canvasback	Aythya valisineria	
 Ring-necked Duck	Aythya collaris	
+Redhead	Aythya americana	
 Lesser Scaup	Aythya affinis	
-Blue-winged Teal	Spatula discors	Rare/Accidental
+Greater Scaup	Aythya marila	
+Blue-winged Teal	Spatula discors	
 Cinnamon Teal	Spatula cyanoptera	
 Northern Shoveler	Spatula clypeata	
 Gadwall	Mareca strepera	
+Eurasian Wigeon	Mareca penelope	
 American Wigeon	Mareca americana	
 Mallard	Anas platyrhynchos	
+American Black Duck	Anas rubripes	
 Northern Pintail	Anas acuta	
 Green-winged Teal	Anas crecca	
  
-GALLIFORMES: Odontophoridae
-
-Mountain Quail	Oreortyx pictus	
-California Quail	Callipepla californica	
- 
 GALLIFORMES: Phasianidae
 
-Wild Turkey	Meleagris gallopavo	Introduced species
+Wild Turkey	Meleagris gallopavo	
+Ruffed Grouse	Bonasa umbellus	
 Sage Grouse	Centrocercus urophasianus	Vulnerable
-Sooty Grouse	Dendragapus fuliginosus	
-White-tailed Ptarmigan	Lagopus leucura	Introduced species
+Dusky Grouse	Dendragapus obscurus	
+Sharp-tailed Grouse	Tympanuchus phasianellus	
+White-tailed Ptarmigan	Lagopus leucura	
+Grey Partridge	Perdix perdix	
+Common Pheasant	Phasianus colchicus	Introduced species
+Chukar Partridge	Alectoris chukar	
  
 PODICIPEDIFORMES: Podicipedidae
 
 Pied-billed Grebe	Podilymbus podiceps	
 Horned Grebe	Podiceps auritus	Vulnerable
+Red-necked Grebe	Podiceps grisegena	
 Black-necked Grebe	Podiceps nigricollis	
 Western Grebe	Aechmophorus occidentalis	
 Clark's Grebe	Aechmophorus clarkii	
  
 CUCULIFORMES: Cuculidae
 
-Greater Roadrunner	Geococcyx californianus	
+Black-billed Cuckoo	Coccyzus erythropthalmus	Rare/Accidental
  
 COLUMBIFORMES: Columbidae
 
+White-winged Dove	Zenaida asiatica	
 Mourning Dove	Zenaida macroura	
 Band-tailed Pigeon	Patagioenas fasciata	
 Eurasian Collared Dove	Streptopelia decaocto	Introduced species
-Rock Dove	Columba livia	Rare/Accidental
+Rock Dove	Columba livia	
  
 GRUIFORMES: Gruidae
 
 Sandhill Crane	Antigone canadensis	
+Whooping Crane	Grus americana	Rare/Accidental Endangered
  
 GRUIFORMES: Rallidae
 
 Virginia Rail	Rallus limicola	
 Sora	Porzana carolina	
+Common Gallinule	Gallinula galeata	
 American Coot	Fulica americana	
 Yellow Rail	Coturnicops noveboracensis	
  
@@ -75,31 +93,80 @@ Black-necked Stilt	Himantopus mexicanus
  
 CHARADRIIFORMES: Charadriidae
 
+Grey Plover	Pluvialis squatarola	Vulnerable
 Killdeer	Charadrius vociferus	Near-threatened
+Semipalmated Plover	Charadrius semipalmatus	
+Mountain Plover	Anarhynchus montanus	Near-threatened
+Snowy Plover	Anarhynchus nivosus	Near-threatened
  
 CHARADRIIFORMES: Scolopacidae
 
+Upland Sandpiper	Bartramia longicauda	
+Long-billed Curlew	Numenius americanus	
+Marbled Godwit	Limosa fedoa	Vulnerable
+Hudsonian Godwit	Limosa haemastica	Vulnerable
+Long-billed Dowitcher	Limnodromus scolopaceus	Near-threatened
+Short-billed Dowitcher	Limnodromus griseus	Vulnerable
 Wilson's Snipe	Gallinago delicata	
 Spotted Sandpiper	Actitis macularius	
 Wilson's Phalarope	Phalaropus tricolor	
 Red Phalarope	Phalaropus fulicarius	
 Red-necked Phalarope	Phalaropus lobatus	
 Solitary Sandpiper	Tringa solitaria	
+Wandering Tattler	Tringa incana	
+Lesser Yellowlegs	Tringa flavipes	Vulnerable
 Willet	Tringa semipalmata	
 Greater Yellowlegs	Tringa melanoleuca	Near-threatened
+Ruddy Turnstone	Arenaria interpres	Near-threatened
+Red Knot	Calidris canutus	Near-threatened
+Stilt Sandpiper	Calidris himantopus	Near-threatened
+Sanderling	Calidris alba	
+Dunlin	Calidris alpina	Near-threatened
+Baird's Sandpiper	Calidris bairdii	
+Pectoral Sandpiper	Calidris melanotos	
+Semipalmated Sandpiper	Calidris pusilla	Near-threatened
+Western Sandpiper	Calidris mauri	
 Least Sandpiper	Calidris minutilla	Near-threatened
+White-rumped Sandpiper	Calidris fuscicollis	Vulnerable
+ 
+CHARADRIIFORMES: Stercorariidae
+
+Parasitic Jaeger	Stercorarius parasiticus	
+ 
+CHARADRIIFORMES: Alcidae
+
+Ancient Murrelet	Synthliboramphus antiquus	
+Long-billed Murrelet	Brachyramphus perdix	Near-threatened
  
 CHARADRIIFORMES: Laridae
 
+Least Tern	Sternula antillarum	
 Caspian Tern	Hydroprogne caspia	
+Black Tern	Chlidonias niger	
+Forster's Tern	Sterna forsteri	
+Arctic Tern	Sterna paradisaea	
+Common Tern	Sterna hirundo	
+Black-legged Kittiwake	Rissa tridactyla	Vulnerable
+Sabine's Gull	Xema sabini	
+Bonaparte's Gull	Chroicocephalus philadelphia	
+Laughing Gull	Leucophaeus atricilla	
+Franklin's Gull	Leucophaeus pipixcan	Rare/Accidental
 Ring-billed Gull	Larus delawarensis	
+Short-billed Gull	Larus brachyrhynchus	
 American Herring Gull	Larus smithsonianus	
+Lesser Black-backed Gull	Larus fuscus	
 California Gull	Larus californicus	
+Iceland Gull	Larus glaucoides	
  
 GAVIIFORMES: Gaviidae
 
+Red-throated Loon	Gavia stellata	
 Common Loon	Gavia immer	
-Pacific Loon	Gavia pacifica	
+Pacific Loon	Gavia pacifica	Rare/Accidental
+ 
+CICONIIFORMES: Ciconiidae
+
+Wood Stork	Mycteria americana	
  
 SULIFORMES: Phalacrocoracidae
 
@@ -107,20 +174,22 @@ Double-crested Cormorant	Nannopterum auritum
  
 PELECANIFORMES: Threskiornithidae
 
+Glossy Ibis	Plegadis falcinellus	
 White-faced Ibis	Plegadis chihi	
  
 PELECANIFORMES: Pelecanidae
 
 American White Pelican	Pelecanus erythrorhynchos	
-Brown Pelican	Pelecanus occidentalis	
  
 PELECANIFORMES: Ardeidae
 
 American Bittern	Botaurus lentiginosus	
+Tricolored Heron	Egretta tricolor	
 Snowy Egret	Egretta thula	
 Black-crowned Night Heron	Nycticorax nycticorax	
 Green Heron	Butorides virescens	
 Great Egret	Ardea alba	
+Western Cattle Egret	Ardea ibis	
 Great Blue Heron	Ardea herodias	
  
 CAPRIMULGIFORMES: Caprimulgidae
@@ -130,41 +199,38 @@ Common Nighthawk	Chordeiles minor
  
 APODIFORMES: Apodidae
 
-American Black Swift	Cypseloides niger	Vulnerable
 Vaux's Swift	Chaetura vauxi	
 White-throated Swift	Aeronautes saxatalis	
  
 APODIFORMES: Trochilidae
 
-Black-chinned Hummingbird	Archilochus alexandri	
-Anna's Hummingbird	Calypte anna	
-Costa's Hummingbird	Calypte costae	
+Black-chinned Hummingbird	Archilochus alexandri	Rare/Accidental
 Calliope Hummingbird	Selasphorus calliope	
 Rufous Hummingbird	Selasphorus rufus	Near-threatened
-Allen's Hummingbird	Selasphorus sasin	
 Broad-tailed Hummingbird	Selasphorus platycercus	
  
 STRIGIFORMES: Tytonidae
 
-American Barn Owl	Tyto furcata	
+American Barn Owl	Tyto furcata	Rare/Accidental
  
 STRIGIFORMES: Strigidae
 
+Boreal Owl	Aegolius funereus	
 Northern Saw-whet Owl	Aegolius acadicus	
-Burrowing Owl	Athene cunicularia	
+Burrowing Owl	Athene cunicularia	Rare/Accidental
+Northern Hawk-Owl	Surnia ulula	
 Northern Pygmy Owl	Glaucidium gnoma	
 Short-eared Owl	Asio flammeus	
-Long-eared Owl	Asio otus	
+Long-eared Owl	Asio otus	Rare/Accidental
+Snowy Owl	Bubo scandiacus	Rare/Accidental Vulnerable
 Great Horned Owl	Bubo virginianus	
-Flammulated Owl	Psiloscops flammeolus	
-Western Screech Owl	Megascops kennicottii	
-Spotted Owl	Strix occidentalis	Rare/Accidental Near-threatened
-Barred Owl	Strix varia	
+Flammulated Owl	Psiloscops flammeolus	Rare/Accidental
+Western Screech Owl	Megascops kennicottii	Rare/Accidental
+Eastern Screech Owl	Megascops asio	Rare/Accidental
 Great Grey Owl	Strix nebulosa	
  
 CATHARTIFORMES: Cathartidae
 
-California Condor	Gymnogyps californianus	Introduced species Critically endangered
 Turkey Vulture	Cathartes aura	
  
 ACCIPITRIFORMES: Pandionidae
@@ -173,13 +239,13 @@ Osprey	Pandion haliaetus
  
 ACCIPITRIFORMES: Accipitridae
 
-White-tailed Kite	Elanus leucurus	
 Golden Eagle	Aquila chrysaetos	
 Sharp-shinned Hawk	Accipiter striatus	
 Cooper's Hawk	Astur cooperii	
 American Goshawk	Astur atricapillus	
 Northern Harrier	Circus hudsonius	
 Bald Eagle	Haliaeetus leucocephalus	
+Broad-winged Hawk	Buteo platypterus	
 Red-shouldered Hawk	Buteo lineatus	
 Swainson's Hawk	Buteo swainsoni	
 Red-tailed Hawk	Buteo jamaicensis	
@@ -192,48 +258,52 @@ Belted Kingfisher	Megaceryle alcyon
  
 PICIFORMES: Picidae
 
-Pileated Woodpecker	Dryocopus pileatus	
+Pileated Woodpecker	Dryocopus pileatus	Rare/Accidental
 Northern Flicker	Colaptes auratus	
 Williamson's Sapsucker	Sphyrapicus thyroideus	
 Yellow-bellied Sapsucker	Sphyrapicus varius	
 Red-naped Sapsucker	Sphyrapicus nuchalis	
-Red-breasted Sapsucker	Sphyrapicus ruber	
 Lewis's Woodpecker	Melanerpes lewis	
-Acorn Woodpecker	Melanerpes formicivorus	
+Red-headed Woodpecker	Melanerpes erythrocephalus	
+Red-bellied Woodpecker	Melanerpes carolinus	
 Black-backed Woodpecker	Picoides arcticus	
+American Three-toed Woodpecker	Picoides dorsalis	
 Downy Woodpecker	Dryobates pubescens	
-Nuttall's Woodpecker	Dryobates nuttallii	
 Hairy Woodpecker	Leuconotopicus villosus	
 White-headed Woodpecker	Leuconotopicus albolarvatus	
  
 FALCONIFORMES: Falconidae
 
+Crested Caracara	Caracara plancus	
 American Kestrel	Falco sparverius	
 Merlin	Falco columbarius	
 Prairie Falcon	Falco mexicanus	
 Peregrine Falcon	Falco peregrinus	
+Gyrfalcon	Falco rusticolus	Rare/Accidental
  
 PASSERIFORMES: Tyrannidae
 
 Ash-throated Flycatcher	Myiarchus cinerascens	
 Eastern Kingbird	Tyrannus tyrannus	
+Scissor-tailed Flycatcher	Tyrannus forficatus	
 Western Kingbird	Tyrannus verticalis	
-Vermilion Flycatcher	Pyrocephalus rubinus	
 Say's Phoebe	Sayornis saya	
-Black Phoebe	Sayornis nigricans	
 Willow Flycatcher	Empidonax traillii	
 Western Flycatcher	Empidonax difficilis	
 Hammond's Flycatcher	Empidonax hammondii	
 American Dusky Flycatcher	Empidonax oberholseri	
-American Grey Flycatcher	Empidonax wrightii	
+Least Flycatcher	Empidonax minimus	
+American Grey Flycatcher	Empidonax wrightii	Rare/Accidental
 Olive-sided Flycatcher	Contopus cooperi	
 Western Wood Pewee	Contopus sordidulus	
  
 PASSERIFORMES: Vireonidae
 
+Philadelphia Vireo	Vireo philadelphicus	
 Warbling Vireo	Vireo gilvus	
 Red-eyed Vireo	Vireo olivaceus	
-Hutton's Vireo	Vireo huttoni	
+Yellow-throated Vireo	Vireo flavifrons	
+Blue-headed Vireo	Vireo solitarius	
 Cassin's Vireo	Vireo cassinii	
 Plumbeous Vireo	Vireo plumbeus	
  
@@ -244,22 +314,19 @@ Northern Shrike	Lanius borealis
  
 PASSERIFORMES: Corvidae
 
+Canada Jay	Perisoreus canadensis	
 Pinyon Jay	Gymnorhinus cyanocephalus	Vulnerable
+Blue Jay	Cyanocitta cristata	
 Steller's Jay	Cyanocitta stelleri	
-California Scrub Jay	Aphelocoma californica	
-Woodhouse's Scrub Jay	Aphelocoma woodhouseii	
 Black-billed Magpie	Pica hudsonia	
-Yellow-billed Magpie	Pica nuttallii	Endemic (country/region) Vulnerable
 Clark's Nutcracker	Nucifraga columbiana	
 Northern Raven	Corvus corax	
 American Crow	Corvus brachyrhynchos	
  
 PASSERIFORMES: Paridae
 
-Oak Titmouse	Baeolophus inornatus	
-Juniper Titmouse	Baeolophus ridgwayi	
-Chestnut-backed Chickadee	Poecile rufescens	
 Mountain Chickadee	Poecile gambeli	
+Black-capped Chickadee	Poecile atricapillus	
  
 PASSERIFORMES: Alaudidae
 
@@ -270,17 +337,10 @@ PASSERIFORMES: Hirundinidae
 Sand Martin	Riparia riparia	
 Tree Swallow	Tachycineta bicolor	
 Violet-green Swallow	Tachycineta thalassina	
+Purple Martin	Progne subis	
 Northern Rough-winged Swallow	Stelgidopteryx serripennis	
 Barn Swallow	Hirundo rustica	
 American Cliff Swallow	Petrochelidon pyrrhonota	
- 
-PASSERIFORMES: Aegithalidae
-
-American Bushtit	Psaltriparus minimus	
- 
-PASSERIFORMES: Paradoxornithidae
-
-Wrentit	Chamaea fasciata	
  
 PASSERIFORMES: Bombycillidae
 
@@ -315,20 +375,21 @@ PASSERIFORMES: Troglodytidae
 Rock Wren	Salpinctes obsoletus	
 Canyon Wren	Catherpes mexicanus	
 Bewick's Wren	Thryomanes bewickii	
-Marsh Wren	Cistothorus palustris	
+Sedge Wren	Cistothorus stellaris	
+Marsh Wren	Cistothorus palustris	Rare/Accidental
 Northern House Wren	Troglodytes aedon	
 Pacific Wren	Troglodytes pacificus	
  
 PASSERIFORMES: Mimidae
 
-Grey Catbird	Dumetella carolinensis	
-California Thrasher	Toxostoma redivivum	
+Grey Catbird	Dumetella carolinensis	Rare/Accidental
+Brown Thrasher	Toxostoma rufum	
 Sage Thrasher	Oreoscoptes montanus	
 Northern Mockingbird	Mimus polyglottos	
  
 PASSERIFORMES: Sturnidae
 
-Common Starling	Sturnus vulgaris	Introduced species
+Common Starling	Sturnus vulgaris	
  
 PASSERIFORMES: Cinclidae
 
@@ -341,58 +402,67 @@ Mountain Bluebird	Sialia currucoides
 Townsend's Solitaire	Myadestes townsendi	
 Varied Thrush	Ixoreus naevius	
 Swainson's Thrush	Catharus ustulatus	
+Veery	Catharus fuscescens	
 Hermit Thrush	Catharus guttatus	
 American Robin	Turdus migratorius	
  
 PASSERIFORMES: Passeridae
 
-House Sparrow	Passer domesticus	Introduced species
+House Sparrow	Passer domesticus	
  
 PASSERIFORMES: Motacillidae
 
+Sprague's Pipit	Anthus spragueii	Vulnerable
 American Pipit	Anthus rubescens	
  
 PASSERIFORMES: Fringillidae
 
 Evening Grosbeak	Hesperiphona vespertina	Vulnerable
 Pine Grosbeak	Pinicola enucleator	
-Grey-crowned Rosy Finch	Leucosticte tephrocotis	
+Grey-crowned Rosy Finch	Leucosticte tephrocotis	Rare/Accidental
+Black Rosy Finch	Leucosticte atrata	Endangered
 House Finch	Haemorhous mexicanus	
 Purple Finch	Haemorhous purpureus	
 Cassin's Finch	Haemorhous cassinii	
+Redpoll	Acanthis flammea	
+Two-barred Crossbill	Loxia leucoptera	
 Red Crossbill	Loxia curvirostra	
 Pine Siskin	Spinus pinus	
 Lesser Goldfinch	Spinus psaltria	
-Lawrence's Goldfinch	Spinus lawrencei	
 American Goldfinch	Spinus tristis	
  
 PASSERIFORMES: Calcariidae
 
+Thick-billed Longspur	Rhynchophanes mccownii	
+Snow Bunting	Plectrophenax nivalis	
+Lapland Longspur	Calcarius lapponicus	
 Chestnut-collared Longspur	Calcarius ornatus	Vulnerable
  
 PASSERIFORMES: Passerellidae
 
 Black-throated Sparrow	Amphispiza bilineata	
+Lark Bunting	Calamospiza melanocorys	
 Lark Sparrow	Chondestes grammacus	
 Chipping Sparrow	Spizella passerina	
 Clay-colored Sparrow	Spizella pallida	
 Black-chinned Sparrow	Spizella atrogularis	
+Field Sparrow	Spizella pusilla	
 Brewer's Sparrow	Spizella breweri	
 Grasshopper Sparrow	Ammodramus savannarum	
+American Tree Sparrow	Spizelloides arborea	
 Fox Sparrow	Passerella iliaca	
 Dark-eyed Junco	Junco hyemalis	
 White-throated Sparrow	Zonotrichia albicollis	
 Harris's Sparrow	Zonotrichia querula	Near-threatened
-Golden-crowned Sparrow	Zonotrichia atricapilla	
 White-crowned Sparrow	Zonotrichia leucophrys	
 Vesper Sparrow	Pooecetes gramineus	
-Bell's Sparrow	Artemisiospiza belli	
+Sagebrush Sparrow	Artemisiospiza nevadensis	
+LeConte's Sparrow	Ammospiza leconteii	
 Savannah Sparrow	Passerculus sandwichensis	
+Baird's Sparrow	Centronyx bairdii	
 Song Sparrow	Melospiza melodia	
 Swamp Sparrow	Melospiza georgiana	
 Lincoln's Sparrow	Melospiza lincolnii	
-Rufous-crowned Sparrow	Aimophila ruficeps	
-California Towhee	Melozone crissalis	
 Green-tailed Towhee	Pipilo chlorurus	
 Spotted Towhee	Pipilo maculatus	
  
@@ -402,19 +472,20 @@ Yellow-breasted Chat	Icteria virens
 Yellow-headed Blackbird	Xanthocephalus xanthocephalus	
 Bobolink	Dolichonyx oryzivorus	Near-threatened
 Western Meadowlark	Sturnella neglecta	
-Hooded Oriole	Icterus cucullatus	
 Bullock's Oriole	Icterus bullockiorum	
-Scott's Oriole	Icterus parisorum	
+Baltimore Oriole	Icterus galbula	
 Red-winged Blackbird	Agelaius phoeniceus	
-Tricolored Blackbird	Agelaius tricolor	Endangered
 Brown-headed Cowbird	Molothrus ater	
 Brewer's Blackbird	Euphagus cyanocephalus	Near-threatened
-Great-tailed Grackle	Quiscalus mexicanus	
+Rusty Blackbird	Euphagus carolinus	Vulnerable
+Common Grackle	Quiscalus quiscula	Near-threatened
  
 PASSERIFORMES: Parulidae
 
 Ovenbird	Seiurus aurocapilla	
+Northern Waterthrush	Parkesia noveboracensis	
 Black-and-white Warbler	Mniotilta varia	
+Prothonotary Warbler	Protonotaria citrea	
 Tennessee Warbler	Leiothlypis peregrina	
 Orange-crowned Warbler	Leiothlypis celata	
 Nashville Warbler	Leiothlypis ruficapilla	
@@ -423,18 +494,19 @@ MacGillivray's Warbler	Geothlypis tolmiei
 Common Yellowthroat	Geothlypis trichas	
 American Redstart	Setophaga ruticilla	
 Hooded Warbler	Setophaga citrina	
-Cerulean Warbler	Setophaga cerulea	Rare/Accidental Near-threatened
-Northern Parula	Setophaga americana	
-Magnolia Warbler	Setophaga magnolia	
+Blackburnian Warbler	Setophaga fusca	
 Blackpoll Warbler	Setophaga striata	Near-threatened
+Bay-breasted Warbler	Setophaga castanea	
+Chestnut-sided Warbler	Setophaga pensylvanica	
 American Yellow Warbler	Setophaga aestiva	
+Cape May Warbler	Setophaga tigrina	
 Palm Warbler	Setophaga palmarum	
 Yellow-rumped Warbler	Setophaga coronata	
+Yellow-throated Warbler	Setophaga dominica	
+Prairie Warbler	Setophaga discolor	
 Black-throated Grey Warbler	Setophaga nigrescens	
-Hermit Warbler	Setophaga occidentalis	
 Townsend's Warbler	Setophaga townsendi	
 Wilson's Warbler	Cardellina pusilla	
-Painted Whitestart	Myioborus pictus	
  
 PASSERIFORMES: Cardinalidae
 
@@ -442,6 +514,5 @@ Rose-breasted Grosbeak	Pheucticus ludovicianus
 Black-headed Grosbeak	Pheucticus melanocephalus	
 Indigo Bunting	Passerina cyanea	
 Lazuli Bunting	Passerina amoena	
-Blue Grosbeak	Passerina caerulea	
-Summer Tanager	Piranga rubra	
+Scarlet Tanager	Piranga olivacea	
 Western Tanager	Piranga ludoviciana	

@@ -202,7 +202,7 @@ Mareca marecula,0,
 Mareca penelope,1,单型种(全);----------------------------------------------------;2018-11-6 泉州南安江崎村;2023-1-11 阿联酋迪拜;
 Mareca sibilatrix,0,
 Mareca strepera,1,2个亚种(全，仅剩指名亚种);----------------------------------------------------;2021-2-9 厦门东埭桥水库;2021-5-15 宁夏石嘴山星海湖;2022-6-18 多伦多Thompson公园;2023-7-7 新疆奎屯;
-Anas acuta,1,单型种(全);----------------------------------------------------;2019-2-26 泉州湾;2019-12-21 深圳湾;2022-9-26 多伦多Thompson公园;2023-7-7 新疆奎屯;
+Anas acuta,5,单型种(全);----------------------------------------------------;2019-2-26 泉州湾;2019-12-21 深圳湾;2022-9-26 多伦多Thompson公园;2023-7-7 新疆奎屯;
 Anas albogularis,0,
 Anas andium,0,
 Anas aucklandica,0,
@@ -679,7 +679,7 @@ Ceuthmochares aereus,0,
 Ceuthmochares australis,0,
 Taccocua leschenaultii,0,
 Zanclostomus javanicus,0,
-Phaenicophaeus curvirostris,0,
+Phaenicophaeus curvirostris,2,
 Phaenicophaeus diardi,0,
 Phaenicophaeus oeneicaudus,0,
 Phaenicophaeus pyrrhocephalus,0,
@@ -8865,7 +8865,7 @@ Myadestes woahensis,0,
 Zoothera andromedae,0,
 Zoothera atrigena,0,
 Zoothera aurea,1,2个亚种;----------------------------------------------------;2019-12-20 广州中山大学南校区(aurea);2021-1-21 厦门十里蓝山(aurea);
-Zoothera dauma,6,来凤山森林公园3%;姜家寨1%;
+Zoothera dauma,2,来凤山森林公园3%;姜家寨1%;
 Zoothera dixoni,1,单型种(全);----------------------------------------------------;2024-3-3 四川唐家河;
 Zoothera everetti,2,Kinabalu Park--HQ area 10%;Kinabalu Park--Power Station Road 17%;Kinabalu Park--Summit trail 4%;
 Zoothera griseiceps,0,
@@ -8917,7 +8917,7 @@ Geokichla dumasi,0,
 Geokichla erythronota,0,
 Geokichla gurneyi,0,
 Geokichla guttata,0,
-Geokichla interpres,2,
+Geokichla interpres,0,
 Geokichla joiceyi,0,
 Geokichla leucolaema,0,
 Geokichla mendeni,0,
@@ -9955,7 +9955,7 @@ Motacilla aguimp,0,
 Motacilla alba,5,9个亚种;----------------------------------------------------;2017-12 厦门湿地公园;2020-7-25 布达拉宫广场;2021-5-14 宁夏银川水洞沟;2021-10-29 杏林湾(ocularis，眼纹灰背);2022-1-18 海南儋州(leucopsis，东亚，白脸);2023-1-9 阿联酋迪拜(alba，白脸灰背);2023-7-5 兰州黄河沿岸(baicalensis，白脸灰背);2023-7-6 乌鲁木齐植物园(personata，黑脸灰背);2024-3-1 四川德阳旌河(alboides，西南，黑脸黑背);2025-7-17 昆明滇池草海湿地(alboides，西南，黑脸黑背);
 Motacilla bocagii,0,
 Motacilla capensis,0,
-Motacilla cinerea,5,3个亚种;----------------------------------------------------;2018-2 莆田东圳水渠(cinerea);2021-5-14 宁夏银川水洞沟(cinerea);2022-1-18 海南白沙门公园(cinerea);
+Motacilla cinerea,1,3个亚种;----------------------------------------------------;2018-2 莆田东圳水渠(cinerea);2021-5-14 宁夏银川水洞沟(cinerea);2022-1-18 海南白沙门公园(cinerea);
 Motacilla citreola,1,2个亚种(全);----------------------------------------------------;2020-7-31 西藏珠峰保护区(calcarata);2021-5-16 宁夏石嘴山市沙湖(calcarata);2023-7-7 新疆奎屯(calcarata);2026-1-3 厦门田头村(citreola);
 Motacilla clara,0,
 Motacilla flava,1,10个亚种;----------------------------------------------------;2023-7-9 新疆贾登峪(feldegg);
@@ -9982,18 +9982,18 @@ Anthus brachyurus,0,
 Anthus brevirostris,0,
 Anthus caffer,0,
 Anthus campestris,1,单型种(全);----------------------------------------------------;2023-1-17 阿联酋阿布扎比;
-Anthus cervinus,5,单型种(全);----------------------------------------------------;2021-3-13 厦门后溪村;
+Anthus cervinus,1,单型种(全);----------------------------------------------------;2021-3-13 厦门后溪村;
 Anthus chacoensis,0,
 Anthus chii,0,
 Anthus cinnamomeus,0,
 Anthus correndera,0,
 Anthus crenatus,0,
 Anthus furcatus,0,
-Anthus godlewskii,6,
+Anthus godlewskii,2,
 Anthus gustavi,1,3个亚种;----------------------------------------------------;2019-4-21 泉州淗江(menzbieri);
 Anthus gutturalis,0,
 Anthus hellmayri,0,
-Anthus hodgsoni,5,2个亚种(全);----------------------------------------------------;2018-1 厦门集美大学(yunnanensis);2020-8-2 西藏吉隆镇扎村山路(hodgsoni);2021-4-24 杭州植物园(yunnanensis);
+Anthus hodgsoni,1,2个亚种(全);----------------------------------------------------;2018-1 厦门集美大学(yunnanensis);2020-8-2 西藏吉隆镇扎村山路(hodgsoni);2021-4-24 杭州植物园(yunnanensis);
 Anthus hoeschi,0,
 Anthus japonicus,1,单型种（全）;----------------------------------------------------;2019-11-30 泉州德化县雷锋镇(japonicus);2020-11-7 厦门田头村(japonicus);
 Anthus leucophrys,0,

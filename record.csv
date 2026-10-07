@@ -66,7 +66,7 @@ Dendrocygna arborea,0,
 Dendrocygna arcuata,1,3个亚种;----------------------------------------------------;2019-8-19 新加坡裕廊飞禽公园(arcuata);
 Dendrocygna autumnalis,1,2个亚种;----------------------------------------------------;2019-8-19 新加坡裕廊飞禽公园;
 Dendrocygna bicolor,0,
-Dendrocygna eytoni,0,
+Dendrocygna eytoni,4,
 Dendrocygna guttata,0,
 Dendrocygna javanica,3,单型种(全);----------------------------------------------------;2019-8-19 新加坡裕廊飞禽公园;
 Dendrocygna viduata,1,单型种(全);----------------------------------------------------;2019-8-19 新加坡裕廊飞禽公园;2023-1-11 阿联酋迪拜;
@@ -86,7 +86,7 @@ Plectropterus gambensis,0,
 Malacorhynchus membranaceus,0,
 Coscoroba coscoroba,0,
 Cereopsis novaehollandiae,1,2个亚种;----------------------------------------------------;2018-5-26 北京动物园;
-Cygnus atratus,1,单型种(全);----------------------------------------------------;2019-1-14 新西兰奥克兰Western Springs Park;
+Cygnus atratus,5,单型种(全);----------------------------------------------------;2019-1-14 新西兰奥克兰Western Springs Park;
 Cygnus buccinator,1,单型种(全);----------------------------------------------------;2022-6-9 多伦多Thompson公园;
 Cygnus columbianus,1,2个亚种(全);----------------------------------------------------;2020-1-31 闽江口湿地公园(bewickii);2022-10-22 多伦多Thompson公园(columbianus);
 Cygnus cygnus,3,单型种(全);----------------------------------------------------;2023-7-9 新疆贾登峪;
@@ -171,7 +171,7 @@ Aythya australis,0,
 Aythya baeri,3,单型种(全);----------------------------------------------------;2024-3-1 四川德阳旌河;
 Aythya collaris,1,单型种(全);----------------------------------------------------;2022-9-11 多伦多Thompson公园;
 Aythya ferina,1,单型种(全);----------------------------------------------------;2020-12-14 厦门园博园;2023-7-8 新疆乌伦古湖;2024-3-1 四川德阳旌河;
-Aythya fuligula,1,单型种(全);----------------------------------------------------;2019-2-26 泉州湾;2019-12-21 深圳湾;2024-3-1 四川德阳旌河;
+Aythya fuligula,5,单型种(全);----------------------------------------------------;2019-2-26 泉州湾;2019-12-21 深圳湾;2024-3-1 四川德阳旌河;
 Aythya innotata,0,
 Aythya marila,1,2个亚种;----------------------------------------------------;2020-12-14 厦门园博园(nearctica);2022-6-25 多伦多Thompson公园(nearctica);
 Aythya novaeseelandiae,1,单型种(全);----------------------------------------------------;2019-1-13 新西兰基督城植物园;
@@ -199,7 +199,7 @@ Spatula versicolor,0,
 Mareca americana,1,单型种(全);----------------------------------------------------;2022-6-18 多伦多Thompson公园;
 Mareca falcata,1,单型种(全);----------------------------------------------------;2021-1-18 厦门东埭桥水库;
 Mareca marecula,0,
-Mareca penelope,1,单型种(全);----------------------------------------------------;2018-11-6 泉州南安江崎村;2023-1-11 阿联酋迪拜;
+Mareca penelope,5,单型种(全);----------------------------------------------------;2018-11-6 泉州南安江崎村;2023-1-11 阿联酋迪拜;
 Mareca sibilatrix,0,
 Mareca strepera,1,2个亚种(全，仅剩指名亚种);----------------------------------------------------;2021-2-9 厦门东埭桥水库;2021-5-15 宁夏石嘴山星海湖;2022-6-18 多伦多Thompson公园;2023-7-7 新疆奎屯;
 Anas acuta,5,单型种(全);----------------------------------------------------;2019-2-26 泉州湾;2019-12-21 深圳湾;2022-9-26 多伦多Thompson公园;2023-7-7 新疆奎屯;
@@ -218,13 +218,13 @@ Anas erythrorhyncha,0,
 Anas flavirostris,0,
 Anas fulvigula,0,
 Anas georgica,0,
-Anas gibberifrons,2,Muara Angke NR 45%;
+Anas gibberifrons,1,单型种(全);----------------------------------------------------;2026-10-7 印尼雅加达Taman Wisata Alam Angke公园;
 Anas gracilis,1,2个亚种(全，仅剩指名亚种);----------------------------------------------------;2019-1-14 新西兰奥克兰动物园;
 Anas laysanensis,0,
 Anas luzonica,0,
 Anas melleri,1,单型种(全);----------------------------------------------------;2019-8-19 新加坡裕廊飞禽公园;
 Anas nesiotis,0,
-Anas platyrhynchos,1,2个亚种;----------------------------------------------------;2017-12-4 乌鲁木齐新疆大学(platyrhynchos);2020-10-31 陕西西安湖(platyrhynchos);2021-5-15 宁夏石嘴山星海湖(platyrhynchos);2022-6-9 多伦多Thompson公园(platyrhynchos);2023-1-11 阿联酋迪拜;2024-3-1 四川德阳旌河(platyrhynchos);
+Anas platyrhynchos,5,2个亚种;----------------------------------------------------;2017-12-4 乌鲁木齐新疆大学(platyrhynchos);2020-10-31 陕西西安湖(platyrhynchos);2021-5-15 宁夏石嘴山星海湖(platyrhynchos);2022-6-9 多伦多Thompson公园(platyrhynchos);2023-1-11 阿联酋迪拜;2024-3-1 四川德阳旌河(platyrhynchos);
 Anas poecilorhyncha,2,香额湖 72%;大盈江 56%;
 Anas rubripes,1,单型种(全);----------------------------------------------------;2022-7-23 多伦多Thompson公园;
 Anas sparsa,0,
@@ -368,7 +368,7 @@ Arborophila gingica,1,2个亚种;-----------------------------------------------
 Arborophila hyperythra,0,Kinabalu Park--HQ area 35%;Kinabalu Park--Power Station Road 24%;Kinabalu Park--Summit trail 9%;Kinabalu Park--Laban Rata 4%;
 Arborophila javanica,0,
 Arborophila mandellii,0,
-Arborophila orientalis,2,Ijen--Erek Erek Jungle Park 53%;
+Arborophila orientalis,1,单型种(全);----------------------------------------------------;2026-10-3 印尼伊真火山;
 Arborophila rolli,0,
 Arborophila rubrirostris,0,
 Arborophila rufipectus,0,
@@ -445,7 +445,7 @@ Rheinardia nigrescens,0,
 Rheinardia ocellata,0,
 Afropavo congensis,0,
 Pavo cristatus,1,单型种(全);----------------------------------------------------;2017-12-23 厦门中山动物园;
-Pavo muticus,3,3个亚种;----------------------------------------------------;2024-3-26 广州动物园;
+Pavo muticus,1,3个亚种;----------------------------------------------------;2026-10-4 印尼外南梦巴鲁兰国家公园(muticus);
 Tropicoperdix charltonii,0,
 Tropicoperdix chloropus,0,
 Tropicoperdix graydoni,0,Sepilok--Rainforest Discovery Center 5%;Menanggol River 21%;
@@ -464,10 +464,10 @@ Polyplectron schleiermacheri,0,
 Bambusicola fytchii,1,2个亚种;----------------------------------------------------;2019-8-19 新加坡裕廊飞禽公园;
 Bambusicola sonorivox,0,
 Bambusicola thoracicus,1,单型种(全);----------------------------------------------------;2018-5-18 厦门天竺山森林公园;
-Gallus gallus,1,5个亚种;----------------------------------------------------;2019-8-18 新加坡巴西立公园(spadiceus);
+Gallus gallus,1,5个亚种;----------------------------------------------------;2019-8-18 新加坡巴西立公园(spadiceus);2026-10-3 印尼伊真火山(bankiva);
 Gallus lafayettii,1,单型种(全);----------------------------------------------------;2019-8-19 新加坡裕廊飞禽公园;
 Gallus sonneratii,1,单型种(全);----------------------------------------------------;2018-10-7 台北动物园;
-Gallus varius,2,Baluran NP 69%;forest south of Kisol 34%;Kisol 32%;
+Gallus varius,1,单型种(全);----------------------------------------------------;2026-10-4 印尼外南梦巴鲁兰国家公园;
 Peliperdix lathami,0,
 Campocolinus albogularis,0,
 Campocolinus coqui,0,
@@ -559,7 +559,7 @@ Poliocephalus poliocephalus,0,
 Poliocephalus rufopectus,1,单型种(全);----------------------------------------------------;2019-1-15 新西兰北岛霍比屯;
 Podiceps andinus,0,
 Podiceps auritus,3,2个亚种;----------------------------------------------------;2022-7-16 多伦多Rouge beach公园(cornutus);
-Podiceps cristatus,1,3个亚种;----------------------------------------------------;2019-1-28 新西兰南岛Omarama(australis);2020-1-4 厦门翔安东埭桥水库(cristatus);2020-7-28 西藏羊卓雍措湖(cristatus);2020-10-31 陕西西安湖(cristatus);2023-7-6 新疆玛纳斯湿地公园(cristatus);2024-3-1 四川德阳旌河(cristatus);
+Podiceps cristatus,5,3个亚种;----------------------------------------------------;2019-1-28 新西兰南岛Omarama(australis);2020-1-4 厦门翔安东埭桥水库(cristatus);2020-7-28 西藏羊卓雍措湖(cristatus);2020-10-31 陕西西安湖(cristatus);2023-7-6 新疆玛纳斯湿地公园(cristatus);2024-3-1 四川德阳旌河(cristatus);
 Podiceps gallardoi,0,
 Podiceps grisegena,3,2个亚种;----------------------------------------------------;2022-6-18 多伦多Thompson公园(holbollii);
 Podiceps major,0,
@@ -592,7 +592,7 @@ Tauraco schalowi,0,
 Tauraco schuettii,0,
 Tauraco violaceus,1,单型种(全);----------------------------------------------------;2018-10-7 台北动物园;2019-8-19 新加坡裕廊飞禽公园;
 Otis tarda,1,2个亚种;----------------------------------------------------;2018-5-26 北京动物园(dybowskii);
-Ardeotis arabs,4,
+Ardeotis arabs,0,
 Ardeotis australis,0,
 Ardeotis kori,0,
 Ardeotis nigriceps,0,
@@ -667,7 +667,7 @@ Centropus nigrorufus,0,
 Centropus phasianinus,0,
 Centropus rectunguis,0,
 Centropus senegalensis,0,
-Centropus sinensis,1,6个亚种;----------------------------------------------------;2017-12 莆田东圳水渠(sinensis，褐背);2022-1-18 海南南渡江(intermedius，褐背);
+Centropus sinensis,1,6个亚种;----------------------------------------------------;2017-12 莆田东圳水渠(sinensis，褐背);2022-1-18 海南南渡江(intermedius，褐背);2026-10-5 印尼爪哇Alas purwo国家公园(bubutus);
 Centropus steerii,0,
 Centropus superciliosus,0,
 Centropus toulou,0,
@@ -741,17 +741,17 @@ Cacomantis aeruginosus,0,
 Cacomantis blandus,0,
 Cacomantis castaneiventris,0,Malagufuk village 2%;
 Cacomantis flabelliformis,0,
-Cacomantis merulinus,1,4个亚种;----------------------------------------------------;2019-5-22 厦门集美大学(querulus);2019-8-18 新加坡巴西立公园(threnodes);
+Cacomantis merulinus,1,4个亚种;----------------------------------------------------;2019-5-22 厦门集美大学(querulus);2019-8-18 新加坡巴西立公园(threnodes);2026-10-7 印尼雅加达Taman Wisata Alam Angke公园(lanceolatus);
 Cacomantis passerinus,0,
-Cacomantis sepulcralis,2,
-Cacomantis sonneratii,2,版纳植物园5%;
+Cacomantis sepulcralis,17,2个亚种;----------------------------------------------------;2026-10-4 印尼伊真火山(sepulcralis);
+Cacomantis sonneratii,17,4个亚种;----------------------------------------------------;2026-10-5 印尼爪哇Alas purwo国家公园(musicus);
 Cacomantis variolosus,2,Malagufuk village 11%;
 Cacomantis virescens,0,
 Cercococcyx mechowi,0,
 Cercococcyx montanus,0,
 Cercococcyx olivinus,0,
 Surniculus dicruroides,0,
-Surniculus lugubris,1,3个亚种;----------------------------------------------------;2024-5-30 厦门天竺山(barussarum);
+Surniculus lugubris,1,3个亚种;----------------------------------------------------;2024-5-30 厦门天竺山(barussarum);2026-10-5 印尼爪哇Alas purwo国家公园(lugubris);
 Surniculus musschenbroeki,0,
 Surniculus velutinus,0,
 Hierococcyx bocki,0,
@@ -766,7 +766,7 @@ Cuculus canorus,3,4个亚种;---------------------------------------------------
 Cuculus clamosus,0,
 Cuculus crassirostris,0,
 Cuculus gularis,0,
-Cuculus lepidus,2,Muara Angke NR 1%;
+Cuculus lepidus,17,单型种(全);----------------------------------------------------;2026-10-3 印尼伊真火山;
 Cuculus micropterus,1,2个亚种;----------------------------------------------------;2021-4-23 杭州西湖(micropterus);2024-4-29 泉州围头湾(micropterus);2024-6-1 江西婺源湖田(micropterus);
 Cuculus optatus,3,单型种(全);----------------------------------------------------;2023-7-10 新疆冲乎尔村;
 Cuculus poliocephalus,1,单型种(全);----------------------------------------------------;2021-5-23 厦门小坪山;
@@ -854,14 +854,14 @@ Turacoena sulaensis,0,
 Macropygia amboinensis,0,
 Macropygia cinnamomea,0,
 Macropygia doreya,0,Saporkren (village area) 14%;Malagufuk village 13%;
-Macropygia emiliana,3,2个亚种;----------------------------------------------------;2019-5-7 香港公园尤德观鸟园;
+Macropygia emiliana,1,2个亚种;----------------------------------------------------;2026-10-5 印尼爪哇Alas purwo国家公园(emiliana);
 Macropygia macassariensis,0,
 Macropygia mackinlayi,0,
 Macropygia magna,0,
 Macropygia modiglianii,0,
 Macropygia nigrirostris,0,Malagufuk village 3%;
 Macropygia phasianella,0,
-Macropygia ruficeps,2,
+Macropygia ruficeps,0,8个亚种;----------------------------------------------------;
 Macropygia rufipennis,0,
 Macropygia tenuirostris,0,
 Macropygia timorlaoensis,0,
@@ -884,13 +884,13 @@ Patagioenas plumbea,0,
 Patagioenas speciosa,0,
 Patagioenas squamosa,0,
 Patagioenas subvinacea,0,3-19 La Paz Waterfall Gardens 6.96%;3-24 Curi-Cancha Refugio de Vida Silvestre 21.85%;3-24 Reserva Bosque Nuboso Monteverde 14.79%;3-28 Savegre Hotel 23.88%;
-Spilopelia chinensis,1,5个亚种;----------------------------------------------------;2017-12 厦门前埔(chinensis，东亚至东南亚);2019-1-14 新西兰奥克兰(tigrina，东亚至东南亚);2019-8-17 新加坡;2022-1-18 海南白沙门公园(hainana);2023-7-5 兰州黄河沿岸(chinensis，东亚至东南亚);2024-3-1 四川德阳旌河(chinensis，东亚至东南亚);2025-7-15 昆明西山(tigrina);
+Spilopelia chinensis,1,5个亚种;----------------------------------------------------;2017-12 厦门前埔(chinensis，东亚至东南亚);2019-1-14 新西兰奥克兰(tigrina，东亚至东南亚);2019-8-17 新加坡;2022-1-18 海南白沙门公园(hainana);2023-7-5 兰州黄河沿岸(chinensis，东亚至东南亚);2024-3-1 四川德阳旌河(chinensis，东亚至东南亚);2025-7-15 昆明西山(tigrina，东亚至东南亚);2026-10-2 印尼日惹(tigrina，东亚至东南亚);
 Spilopelia senegalensis,1,5个亚种;----------------------------------------------------;2023-1-9 阿联酋迪拜(cambayensis);
 Nesoenas mayeri,0,
 Nesoenas picturatus,1,5个亚种;----------------------------------------------------;2019-8-19 新加坡裕廊飞禽公园(picturatus);
 Nesoenas rodericanus,0,
 Aplopelia larvata,1,7个亚种;----------------------------------------------------;2019-8-19 新加坡裕廊飞禽公园;
-Streptopelia bitorquata,2,Muara Angke NR 39%;
+Streptopelia bitorquata,1,单型种(全);----------------------------------------------------;2026-10-4 印尼外南梦巴鲁兰国家公园;
 Streptopelia capicola,0,
 Streptopelia decaocto,1,单型种(全);----------------------------------------------------;2020-12-14 厦门员筜湖;2021-5-16 宁夏石嘴山市沙湖;2022-12-24 古巴哈瓦那;2023-1-9 阿联酋迪拜;2023-7-7 新疆奎屯;
 Streptopelia decipiens,0,
@@ -939,7 +939,7 @@ Columba trocaz,0,
 Columba unicincta,0,
 Columba versicolor,0,
 Columba vitiensis,0,
-Chalcophaps indica,1,6个亚种;----------------------------------------------------;2020-1-13 厦门天竺山(indica);
+Chalcophaps indica,1,6个亚种;----------------------------------------------------;2020-1-13 厦门天竺山(indica);2026-10-5 印尼爪哇Alas purwo国家公园(indica);
 Chalcophaps longirostris,0,
 Chalcophaps stephani,0,Malagufuk village 5%;
 Oena capensis,1,2个亚种;----------------------------------------------------;2023-1-14 阿联酋富查伊拉(capensis);
@@ -1011,7 +1011,7 @@ Geopelia cuneata,1,单型种(全);----------------------------------------------
 Geopelia humeralis,1,4个亚种;----------------------------------------------------;2019-8-19 新加坡裕廊飞禽公园;
 Geopelia maugeus,2,forest south of Kisol 12%;Kisol 8%;
 Geopelia placida,0,
-Geopelia striata,1,单型种(全);----------------------------------------------------;2018-10-1 台湾高雄卫武营都会公园;2019-8-17 新加坡;
+Geopelia striata,1,单型种(全);----------------------------------------------------;2018-10-1 台湾高雄卫武营都会公园;2019-8-17 新加坡;2026-10-1 印尼婆罗浮屠;
 Petrophassa albipennis,0,
 Petrophassa rufipennis,0,
 Ocyphaps lophotes,1,2个亚种;----------------------------------------------------;2019-1-14 新西兰奥克兰动物园;2019-8-19 新加坡裕廊飞禽公园;
@@ -1038,7 +1038,7 @@ Gymnophaps albertisii,0,
 Gymnophaps mada,0,
 Gymnophaps solomonensis,0,
 Gymnophaps stalkeri,0,
-Ducula aenea,3,12个亚种;----------------------------------------------------;2019-5-7 香港公园尤德观鸟园;2019-8-19 新加坡裕廊飞禽公园(paulina，栗枕);
+Ducula aenea,1,12个亚种;----------------------------------------------------;2019-8-19 新加坡裕廊飞禽公园(paulina，栗枕);2026-10-4 印尼外南梦巴鲁兰国家公园(polia);
 Ducula aurorae,0,
 Ducula badia,17,4个亚种;----------------------------------------------------;2022-1-20 海南尖峰岭(griseicapilla);
 Ducula bakeri,0,
@@ -1055,7 +1055,7 @@ Ducula forsteni,0,
 Ducula galeata,0,
 Ducula geelvinkiana,0,
 Ducula goliath,0,
-Ducula lacernulata,2,Ijen--main road 57%;forest south of Kisol 14%;Kisol 4%;
+Ducula lacernulata,1,4个亚种;----------------------------------------------------;2026-10-4 印尼伊真火山(williami);
 Ducula latrans,0,斐济恩加梅阿岛（Taveuni）91%;
 Ducula luctuosa,1,单型种(全);----------------------------------------------------;2019-8-19 新加坡裕廊飞禽公园;
 Ducula melanochroa,0,
@@ -1127,7 +1127,7 @@ Ptilinopus perlatus,0,Saporkren (village area) 10%;Malagufuk village 18%;
 Ptilinopus perousii,0,斐济恩加梅阿岛（Taveuni）37%;
 Ptilinopus ponapensis,0,
 Ptilinopus porphyraceus,0,斐济恩加梅阿岛（Taveuni）3%;
-Ptilinopus porphyreus,2,Ijen--main road 46%;
+Ptilinopus porphyreus,17,单型种(全);----------------------------------------------------;2026-10-3 印尼伊真火山;
 Ptilinopus pulchellus,0,Malagufuk village 24%;
 Ptilinopus purpuratus,0,
 Ptilinopus rarotongensis,0,
@@ -1267,7 +1267,7 @@ Fulica alai,0,
 Fulica americana,1,2个亚种;----------------------------------------------------;2022-7-29 多伦多Colonel Samuel Smith公园(americana);2022-12-24 古巴哈瓦那(americana);
 Fulica ardesiaca,0,
 Fulica armillata,0,
-Fulica atra,1,4个亚种;----------------------------------------------------;2018-2 厦门翔安东埭桥水库(atra);2019-1-14 新西兰奥克兰West Spring公园(australis);2020-7-24 西藏拉萨(atra);2023-7-7 新疆奎屯(atra);2024-3-1 四川德阳旌河(atra);
+Fulica atra,5,4个亚种;----------------------------------------------------;2018-2 厦门翔安东埭桥水库(atra);2019-1-14 新西兰奥克兰West Spring公园(australis);2020-7-24 西藏拉萨(atra);2023-7-7 新疆奎屯(atra);2024-3-1 四川德阳旌河(atra);
 Fulica cornuta,0,
 Fulica cristata,0,
 Fulica gigantea,0,
@@ -1318,7 +1318,7 @@ Zapornia astrictocarpus,0,
 Zapornia atra,0,
 Zapornia bicolor,0,苏典 18%;
 Zapornia flavirostra,1,单型种(全);----------------------------------------------------;2022-7-3 多伦多动物园;
-Zapornia fusca,1,4个亚种;----------------------------------------------------;2026-2-3 泉州九十九溪(erythrothorax);;
+Zapornia fusca,1,4个亚种;----------------------------------------------------;2026-2-3 泉州九十九溪(erythrothorax);
 Zapornia monasa,0,
 Zapornia nigra,0,
 Zapornia olivieri,0,
@@ -1347,7 +1347,7 @@ Recurvirostra americana,0,
 Recurvirostra andina,0,
 Recurvirostra avosetta,1,单型种(全);----------------------------------------------------;2018-11 泉州南安江崎村;2021-5-17 内蒙古阿拉善月亮湖;2023-7-7 新疆奎屯;
 Recurvirostra novaehollandiae,0,
-Himantopus himantopus,5,单型种(全);----------------------------------------------------;2018-4 泉州南安江崎村;2021-5-16 宁夏石嘴山市沙湖;2023-7-7 新疆奎屯;
+Himantopus himantopus,1,单型种(全);----------------------------------------------------;2018-4 泉州南安江崎村;2021-5-16 宁夏石嘴山市沙湖;2023-7-7 新疆奎屯;
 Himantopus leucocephalus,1,单型种(全);----------------------------------------------------;2019-1 新西兰南北岛;
 Himantopus mexicanus,1,3个亚种;----------------------------------------------------;2022-12-27 古巴萨帕塔(mexicanus);
 Himantopus novaezelandiae,0,
@@ -1399,7 +1399,7 @@ Vanellus macropterus,0,
 Vanellus malabaricus,0,
 Vanellus melanocephalus,0,
 Vanellus melanopterus,0,
-Vanellus miles,1,2个亚种(全);----------------------------------------------------;2019-1 新西兰南北岛(novaehollandiae);2019-8-19 新加坡裕廊飞禽公园(miles);
+Vanellus miles,5,2个亚种(全);----------------------------------------------------;2019-1 新西兰南北岛(novaehollandiae);2019-8-19 新加坡裕廊飞禽公园(miles);
 Vanellus resplendens,0,
 Vanellus senegallus,0,
 Vanellus spinosus,0,
@@ -1428,7 +1428,7 @@ Anarhynchus obscurus,0,
 Anarhynchus pallidus,0,
 Anarhynchus pecuarius,0,
 Anarhynchus peronii,0,
-Anarhynchus ruficapillus,0,
+Anarhynchus ruficapillus,4,
 Anarhynchus sanctaehelenae,0,
 Anarhynchus thoracicus,0,
 Anarhynchus veredus,2,
@@ -1473,7 +1473,7 @@ Scolopax minor,1,单型种(全);------------------------------------------------
 Scolopax mira,0,
 Scolopax rochussenii,0,
 Scolopax rosenbergii,0,
-Scolopax rusticola,3,单型种(全);----------------------------------------------------;2026-1-24 厦门人民会堂;
+Scolopax rusticola,1,单型种(全);----------------------------------------------------;2026-1-24 厦门人民会堂;
 Scolopax saturata,0,
 Coenocorypha aucklandica,0,
 Coenocorypha barrierensis,0,
@@ -1499,12 +1499,12 @@ Gallinago stenura,1,单型种(全);---------------------------------------------
 Gallinago stricklandii,0,
 Gallinago undulata,0,
 Xenus cinereus,1,单型种(全);----------------------------------------------------;2018-4-17 泉州南安江崎村;2023-7-7 新疆奎屯;
-Actitis hypoleucos,1,单型种(全);----------------------------------------------------;2018-4-17 泉州南安江崎村;2019-8-18 新加坡巴西立公园;2021-5-16 宁夏石嘴山市沙湖;2022-1-18 海南南渡江;2023-1-9 阿联酋迪拜;2023-7-7 新疆奎屯;2025-2-2 帕劳Malakal岛;
+Actitis hypoleucos,1,单型种(全);----------------------------------------------------;2018-4-17 泉州南安江崎村;2019-8-18 新加坡巴西立公园;2021-5-16 宁夏石嘴山市沙湖;2022-1-18 海南南渡江;2023-1-9 阿联酋迪拜;2023-7-7 新疆奎屯;2025-2-2 帕劳Malakal岛;2026-10-7 印尼雅加达Taman Wisata Alam Angke公园;
 Actitis macularius,1,单型种(全);----------------------------------------------------;2022-6-18 多伦多Thompson公园;2022-12-25 古巴哈瓦那;
 Phalaropus fulicarius,2,
 Phalaropus lobatus,1,单型种(全);----------------------------------------------------;2021-5-4 泉州淗江;2023-7-8 新疆乌伦古湖;
 Phalaropus tricolor,0,
-Tringa brevipes,1,单型种(全);----------------------------------------------------;2018-10-6 台湾野柳地质公园;2019-9-7 厦门翔安东埭桥水库;
+Tringa brevipes,1,单型种(全);----------------------------------------------------;2018-10-6 台湾野柳地质公园;2019-9-7 厦门翔安东埭桥水库;2026-10-6 印尼外南梦solong酒店;
 Tringa erythropus,1,单型种(全);----------------------------------------------------;2018-4-17 泉州南安江崎村;
 Tringa flavipes,1,单型种(全);----------------------------------------------------;2022-7-9 多伦多Thompson公园;2022-12-27 古巴萨帕塔;
 Tringa glareola,1,单型种(全);----------------------------------------------------;2018-4-17 泉州南安江崎村;2022-1-18 海南儋州;
@@ -1534,8 +1534,8 @@ Calidris fuscicollis,1,单型种(全);------------------------------------------
 Calidris himantopus,0,
 Calidris maritima,1,单型种(全);----------------------------------------------------;2022-11-25 多伦多Colonel Samuel Smith公园;
 Calidris mauri,0,3-25 Tarcoles--Tour en Bote 11.63%;
-Calidris melanotos,5,单型种(全);----------------------------------------------------;2022-8-1 多伦多Thompson Park;
-Calidris minuta,5,单型种(全);----------------------------------------------------;2023-1-17 阿联酋阿布扎比;2024-4-14 石狮湿地公园;
+Calidris melanotos,1,单型种(全);----------------------------------------------------;2022-8-1 多伦多Thompson Park;
+Calidris minuta,1,单型种(全);----------------------------------------------------;2023-1-17 阿联酋阿布扎比;2024-4-14 石狮湿地公园;
 Calidris minutilla,1,单型种(全);----------------------------------------------------;2022-7-9 多伦多Thompson公园;2022-12-27 古巴萨帕塔;
 Calidris ptilocnemis,0,
 Calidris pugnax,1,单型种(全);----------------------------------------------------;2023-1-17 阿联酋阿布扎比;2023-9-13 泉州九十九溪;
@@ -1559,7 +1559,7 @@ Turnix novaecaledoniae,0,
 Turnix ocellatus,0,
 Turnix olivii,0,
 Turnix pyrrhothorax,0,
-Turnix suscitator,3,16个亚种;----------------------------------------------------;2022-1-18 海南儋州(blakistoni);
+Turnix suscitator,3,16个亚种;----------------------------------------------------;2022-1-18 海南儋州(blakistoni);2026-10-4 印尼外南梦solong酒店(powelli);
 Turnix sylvaticus,2,
 Turnix tanki,2,
 Turnix varius,0,
@@ -1674,7 +1674,7 @@ Rissa tridactyla,2,
 Xema sabini,0,
 Pagophila eburnea,0,
 Saundersilarus saundersi,1,单型种(全);----------------------------------------------------;2018-11 泉州南安江崎村;
-Chroicocephalus brunnicephalus,1,单型种(全);----------------------------------------------------;2020-7-25 西藏拉萨河;
+Chroicocephalus brunnicephalus,5,单型种(全);----------------------------------------------------;2020-7-25 西藏拉萨河;
 Chroicocephalus bulleri,1,单型种(全);----------------------------------------------------;2019-1 新西兰南北岛;
 Chroicocephalus cirrocephalus,0,
 Chroicocephalus genei,1,单型种(全);----------------------------------------------------;2019-2-26 泉州围头湾;2023-1-11 阿联酋迪拜;
@@ -1836,7 +1836,7 @@ Puffinus boydi,0,
 Puffinus bryani,0,
 Puffinus elegans,0,
 Puffinus gavia,0,奥克兰Hauraki Gulf Pelagic 83%;
-Puffinus heinrothi,4,
+Puffinus heinrothi,0,
 Puffinus huttoni,1,单型种(全);----------------------------------------------------;2019-2-1 新西兰凯库拉;
 Puffinus lherminieri,0,
 Puffinus myrtae,0,
@@ -1854,7 +1854,7 @@ Pelecanoides urinatrix,0,奥克兰Hauraki Gulf Pelagic 58%;
 Halobaena caerulea,0,
 Pachyptila belcheri,0,
 Pachyptila crassirostris,0,
-Pachyptila desolata,4,
+Pachyptila desolata,0,
 Pachyptila macgillivrayi,0,
 Pachyptila salvini,0,
 Pachyptila turtur,0,奥克兰Hauraki Gulf Pelagic 77%;
@@ -1899,9 +1899,9 @@ Anastomus lamelligerus,0,
 Anastomus oscitans,2,版纳植物园18%;
 Leptoptilos crumenifer,1,单型种(全);----------------------------------------------------;2018-5-26 北京动物园;2019-8-19 新加坡裕廊飞禽公园;
 Leptoptilos dubius,0,
-Leptoptilos javanicus,1,单型种(全);----------------------------------------------------;2019-8-19 新加坡裕廊飞禽公园;
+Leptoptilos javanicus,1,单型种(全);----------------------------------------------------;2019-8-19 新加坡裕廊飞禽公园;2026-10-5 印尼爪哇Alas purwo国家公园;
 Mycteria americana,1,单型种(全);----------------------------------------------------;2022-12-26 古巴萨帕塔;
-Mycteria cinerea,3,单型种(全);----------------------------------------------------;2019-8-17 新加坡河川动物园;;Muara Angke NR 19%;
+Mycteria cinerea,1,单型种(全);----------------------------------------------------;2026-10-7 印尼雅加达Taman Wisata Alam Angke公园;
 Mycteria ibis,1,单型种(全);----------------------------------------------------;2017-12-23 厦门中山动物园;
 Mycteria leucocephala,0,
 Jabiru mycteria,0,
@@ -1932,13 +1932,13 @@ Sula nebouxii,0,
 Sula sula,2,
 Sula variegata,0,
 Anhinga anhinga,0,3-20 Estacion Biologica La Selva 5.31%;3-25 Tarcoles--Tour en Bote 74.46%;
-Anhinga melanogaster,2,Muara Angke NR 83%;
+Anhinga melanogaster,1,单型种(全);----------------------------------------------------;2026-10-7 印尼雅加达Taman Wisata Alam Angke公园;
 Anhinga novaehollandiae,0,
 Anhinga rufa,0,
 Microcarbo africanus,0,
 Microcarbo coronatus,0,
 Microcarbo melanoleucos,1,3个亚种;----------------------------------------------------;2019-1-15 新西兰Rotorua湖(brevirostris);
-Microcarbo niger,2,香额湖 33%;
+Microcarbo niger,0,
 Microcarbo pygmaeus,0,
 Poikilocarbo gaimardi,0,
 Gulosus aristotelis,0,
@@ -1967,7 +1967,7 @@ Phalacrocorax fuscicollis,0,
 Phalacrocorax neglectus,0,
 Phalacrocorax nigrogularis,1,单型种(全);----------------------------------------------------;2023-1-13 阿联酋乌姆盖万;
 Phalacrocorax punctatus,1,2个亚种;----------------------------------------------------;2019-1-25 新西兰Waipapa(punctatus);
-Phalacrocorax sulcirostris,1,单型种(全);----------------------------------------------------;2019-1-14 新西兰奥克兰Western Springs Park;;Muara Angke NR 39%;
+Phalacrocorax sulcirostris,1,单型种(全);----------------------------------------------------;2019-1-14 新西兰奥克兰Western Springs Park;
 Phalacrocorax varius,0,
 Eudocimus albus,1,2个亚种;----------------------------------------------------;2019-8-19 新加坡裕廊飞禽公园;2022-12-27 古巴萨帕塔(albus);
 Eudocimus ruber,1,单型种(全);----------------------------------------------------;2018-1-6 澳门石排湾动物园;2019-8-19 新加坡裕廊飞禽公园;
@@ -2010,7 +2010,7 @@ Scopus umbretta,1,2个亚种;---------------------------------------------------
 Pelecanus conspicillatus,1,单型种(全);----------------------------------------------------;2019-8-19 新加坡裕廊飞禽公园;
 Pelecanus crispus,3,单型种(全);----------------------------------------------------;2017-12-23 厦门中山动物园;2019-8-19 新加坡裕廊飞禽公园;
 Pelecanus erythrorhynchos,1,单型种(全);----------------------------------------------------;2019-8-19 新加坡裕廊飞禽公园;2022-12-26 古巴萨帕塔;
-Pelecanus occidentalis,5,2个亚种;----------------------------------------------------;2022-12-24 古巴哈瓦那(carolinensis);
+Pelecanus occidentalis,1,2个亚种;----------------------------------------------------;2022-12-24 古巴哈瓦那(carolinensis);
 Pelecanus onocrotalus,3,单型种(全);----------------------------------------------------;2018-1-7 珠海长隆海洋王国;
 Pelecanus philippensis,3,单型种(全);----------------------------------------------------;2019-8-19 新加坡裕廊飞禽公园;
 Pelecanus rufescens,1,单型种(全);----------------------------------------------------;2018-1-7 珠海长隆海洋王国;2019-8-19 新加坡裕廊飞禽公园;
@@ -2045,10 +2045,10 @@ Syrigma sibilatrix,0,
 Egretta ardesiaca,0,
 Egretta caerulea,1,单型种(全);----------------------------------------------------;2022-12-27 古巴萨帕塔;
 Egretta eulophotes,1,单型种(全);----------------------------------------------------;2019-4-14 厦门东埭桥水库;
-Egretta garzetta,1,2个亚种;----------------------------------------------------;2017-12 厦门集美大学(garzetta，广布);2022-1-18 海南南渡江(garzetta，广布);2023-1-11 阿联酋迪拜(garzetta，广布);
+Egretta garzetta,1,3个亚种;----------------------------------------------------;2017-12 厦门集美大学(garzetta，广布);2022-1-18 海南南渡江(garzetta，广布);2023-1-11 阿联酋迪拜(garzetta，广布);2026-10-1 印尼雅加达sheraton酒店(immaculata);
 Egretta gularis,1,2个亚种;----------------------------------------------------;2022-1-10 阿联酋迪拜(schistacea);
 Egretta novaehollandiae,1,单型种(全);----------------------------------------------------;2019-1 新西兰南北岛;
-Egretta picata,2,Muara Angke NR 2%;
+Egretta picata,6,Muara Angke NR 2%;
 Egretta rufescens,1,2个亚种;----------------------------------------------------;2022-12-27 古巴萨帕塔(rufescens);
 Egretta sacra,1,2个亚种;----------------------------------------------------;2019-1-18 新西兰南岛Picton(sacra);2019-2-26 泉州湾(sacra);2025-2-1 帕劳Ngermeaus岛(sacra);
 Egretta thula,1,2个亚种;----------------------------------------------------;2022-12-27 古巴萨帕塔(thula);
@@ -2062,7 +2062,7 @@ Nycticorax mauritianus,0,
 Nycticorax megacephalus,0,
 Nycticorax nycticorax,1,4个亚种;----------------------------------------------------;2017-12 厦门湿地公园(nycticorax，欧亚);2020-7-26 拉萨拉鲁湿地公园(nycticorax，欧亚);2022-1-19 海南儋州(nycticorax，欧亚);2022-6-11 多伦多High park(hoactli);
 Nycticorax olsoni,0,
-Butorides atricapilla,1,20个亚种;----------------------------------------------------;2019-2-19 厦门天竺山森林公园(actophila);2019-8-18 新加坡(javanica);
+Butorides atricapilla,1,20个亚种;----------------------------------------------------;2019-2-19 厦门天竺山森林公园(actophila);2019-8-18 新加坡(javanica);2026-10-7 印尼雅加达Taman Wisata Alam Angke公园(javanica);
 Butorides striata,0,
 Butorides sundevalli,0,
 Butorides virescens,1,4个亚种;----------------------------------------------------;2022-8-17 多伦多Thompson公园(virescens);2022-12-27 古巴萨帕塔(virescens);
@@ -2072,12 +2072,12 @@ Ardeola grayii,0,
 Ardeola idae,0,
 Ardeola ralloides,0,
 Ardeola rufiventris,0,
-Ardeola speciosa,2,Muara Angke NR 89%;
-Ardea alba,1,4个亚种;----------------------------------------------------;2017-12 厦门湿地公园(modesta，东洋界至澳洲界);2021-5-16 宁夏石嘴山市沙湖;2022-1-19 海南儋州(modesta，东洋界至澳洲界);2022-6-22 多伦多High Park(egretta，美洲);2022-12-27 古巴萨帕塔(egretta，美洲);2023-1-11 阿联酋迪拜(alba，古北界);2023-7-6 新疆玛纳斯湿地公园(alba，古北界);
+Ardeola speciosa,1,2个亚种;----------------------------------------------------;2026-10-1 印尼雅加达sheraton酒店(speciosa);
+Ardea alba,1,4个亚种;----------------------------------------------------;2017-12 厦门湿地公园(modesta，东洋界至澳洲界);2021-5-16 宁夏石嘴山市沙湖;2022-1-19 海南儋州(modesta，东洋界至澳洲界);2022-6-22 多伦多High Park(egretta，美洲);2022-12-27 古巴萨帕塔(egretta，美洲);2023-1-11 阿联酋迪拜(alba，古北界);2023-7-6 新疆玛纳斯湿地公园(alba，古北界);2026-10-5 印尼爪哇Alas purwo国家公园;(modesta，东洋界至澳洲界);
 Ardea brachyrhyncha,0,
-Ardea cinerea,1,4个亚种;----------------------------------------------------;2016-5-2 马来西亚亚庇(jouyi，广布);2017-12 厦门湿地公园(jouyi，广布);2021-5-16 宁夏石嘴山市沙湖;2022-1-19 海南儋州(jouyi，广布);2022-1-10 阿联酋迪拜(cinerea，广布) ;2023-1-24 阿曼马斯科特(cinerea，广布);
+Ardea cinerea,5,4个亚种;----------------------------------------------------;2016-5-2 马来西亚亚庇(jouyi，广布);2017-12 厦门湿地公园(jouyi，广布);2021-5-16 宁夏石嘴山市沙湖;2022-1-19 海南儋州(jouyi，广布);2022-1-10 阿联酋迪拜(cinerea，广布) ;2023-1-24 阿曼马斯科特(cinerea，广布);2026-10-7 印尼雅加达Taman Wisata Alam Angke公园(cinerea，广布);
 Ardea cocoi,0,
-Ardea coromanda,1,单型种(全);----------------------------------------------------;2017-12 厦门翔安七星礁;2022-1-18 海南儋州;
+Ardea coromanda,1,单型种(全);----------------------------------------------------;2017-12 厦门翔安七星礁;2022-1-18 海南儋州;2026-10-1 印尼日惹;
 Ardea goliath,0,
 Ardea herodias,1,5个亚种;----------------------------------------------------;2022-7-9 多伦多Thompson公园(herodias);2022-12-27 古巴萨帕塔(wardi);
 Ardea humbloti,0,
@@ -2087,7 +2087,7 @@ Ardea intermedia,1,单型种(全);----------------------------------------------
 Ardea melanocephala,0,
 Ardea pacifica,0,
 Ardea plumifera,0,
-Ardea purpurea,1,4个亚种;----------------------------------------------------;2018-11-9 厦门翔安东埭桥水库(manilensis);2019-8-17 新加坡动物园旁水库(manilensis);2021-5-16 宁夏石嘴山市沙湖(manilensis);2023-1-11 阿联酋迪拜(purpurea);
+Ardea purpurea,1,4个亚种;----------------------------------------------------;2018-11-9 厦门翔安东埭桥水库(manilensis);2019-8-17 新加坡动物园旁水库(manilensis);2021-5-16 宁夏石嘴山市沙湖(manilensis);2023-1-11 阿联酋迪拜(purpurea);2026-10-7 印尼雅加达Taman Wisata Alam Angke公园(manilensis);
 Ardea sumatrana,2,
 Eurostopodus archboldi,0,
 Eurostopodus argus,0,
@@ -2149,7 +2149,7 @@ Chordeiles pusillus,0,
 Chordeiles rupestris,0,
 Veles binotatus,0,
 Caprimulgus aegyptius,0,
-Caprimulgus affinis,1,6个亚种;----------------------------------------------------;2024-3-25 广州番禺区(amoyensis);2025-4-8 厦门翔安香山(amoyensis);
+Caprimulgus affinis,1,6个亚种;----------------------------------------------------;2024-3-25 广州番禺区(amoyensis);2025-4-8 厦门翔安香山(amoyensis);2026-10-4 印尼外南梦solong酒店(affinis);
 Caprimulgus andamanicus,0,
 Caprimulgus asiaticus,2,
 Caprimulgus atripennis,0,
@@ -2168,7 +2168,7 @@ Caprimulgus indicus,0,
 Caprimulgus inornatus,0,
 Caprimulgus jotaka,1,2个亚种;----------------------------------------------------;2023-10-9 福州于山(jotaka);
 Caprimulgus longipennis,0,
-Caprimulgus macrurus,2,Muara Angke NR 1%;
+Caprimulgus macrurus,1,6个亚种;------------------------------------------------------;2026-10-7 印尼雅加达Taman Wisata Alam Angke;公园(macrurus，爪哇和巴厘岛);
 Caprimulgus madagascariensis,0,
 Caprimulgus mahrattensis,0,
 Caprimulgus manillensis,0,
@@ -2202,10 +2202,10 @@ Podargus strigoides,1,3个亚种;-----------------------------------------------
 Batrachostomus affinis,0,
 Batrachostomus auritus,0,
 Batrachostomus chaseni,0,
-Batrachostomus cornutus,4,
+Batrachostomus cornutus,0,
 Batrachostomus harterti,0,
 Batrachostomus hodgsoni,0,
-Batrachostomus javensis,2,
+Batrachostomus javensis,0,
 Batrachostomus mixtus,0,
 Batrachostomus moniliger,0,
 Batrachostomus poliolophus,0,
@@ -2218,12 +2218,12 @@ Aegotheles crinifrons,0,
 Aegotheles cristatus,0,
 Aegotheles insignis,0,
 Aegotheles savesi,0,
-Aegotheles tatei,0,
+Aegotheles tatei,4,
 Aegotheles terborghi,0,
 Aegotheles wallacii,0,Malagufuk village 5%;
 Hemiprocne comata,0,
 Hemiprocne coronata,2,版纳植物园1%;
-Hemiprocne longipennis,2,
+Hemiprocne longipennis,1,4个亚种;----------------------------------------------------;2026-10-5 印尼外南梦solong酒店(longipennis);
 Hemiprocne mystacea,2,Saporkren (village area) 10%;Malagufuk village 20%;
 Streptoprocne biscutata,0,
 Streptoprocne phelpsi,0,
@@ -2298,7 +2298,7 @@ Collocalia affinis,2,
 Collocalia dodgei,2,Kinabalu Park--HQ area 0.5%;Kinabalu Park--Power Station Road 0.1%;Kinabalu Park--Summit trail 0.9%;
 Collocalia esculenta,2,Saporkren (village area) 17%;Malagufuk village 37%;
 Collocalia isonota,0,
-Collocalia linchi,2,Muara Angke NR 75%;
+Collocalia linchi,1,3个亚种;----------------------------------------------------;2026-10-1 印度尼西亚雅加达机场(linchi);
 Collocalia marginata,0,
 Collocalia natalis,0,圣诞岛：47%;
 Collocalia neglecta,0,
@@ -2838,7 +2838,7 @@ Otus pembaensis,0,
 Otus podarginus,17,单型种(全);----------------------------------------------------;2025-1-31 帕劳Long Island公园;
 Otus rufescens,0,
 Otus rutilus,0,
-Otus sagittatus,0,
+Otus sagittatus,4,
 Otus sauzieri,0,
 Otus scops,0,
 Otus semitorques,0,
@@ -2950,7 +2950,7 @@ Pandion haliaetus,1,4个亚种;-------------------------------------------------
 Gampsonyx swainsonii,0,
 Chelictinia riocourii,0,
 Elanus axillaris,0,
-Elanus caeruleus,1,3个亚种;----------------------------------------------------;2018-2 厦门翔安东埭桥水库(vociferus);2022-1-18 海南儋州(vociferus);2025-7-17 昆明滇池草海湿地(vociferus);
+Elanus caeruleus,1,3个亚种;----------------------------------------------------;2018-2 厦门翔安东埭桥水库(vociferus);2022-1-18 海南儋州(vociferus);2025-7-17 昆明滇池草海湿地(vociferus);2026-10-4 印尼外南梦巴鲁兰国家公园(hypoleucus);
 Elanus leucurus,0,3-18 Hotel Bougainvillea 13.08%;3-19 La Paz Waterfall Gardens 3.04%;3-25 Tarcoles--Tour en Bote 7.45%;
 Elanus scriptus,0,
 Polyboroides radiatus,0,
@@ -2990,7 +2990,7 @@ Gyps himalayensis,1,单型种(全);---------------------------------------------
 Gyps indicus,0,
 Gyps rueppelli,0,
 Gyps tenuirostris,0,
-Spilornis cheela,1,21个亚种;----------------------------------------------------;2019-2-19 厦门天竺山森林公园(ricketti);2022-1-19 海南尖峰岭(rutherfordi);
+Spilornis cheela,1,21个亚种;----------------------------------------------------;2019-2-19 厦门天竺山森林公园(ricketti);2022-1-19 海南尖峰岭(rutherfordi);2026-10-5 印尼爪哇Alas purwo国家公园(bido);
 Spilornis elgini,0,
 Spilornis holospilus,0,
 Spilornis kinabaluensis,0,Kinabalu Park--HQ area 8%;Kinabalu Park--Power Station Road 7%;Kinabalu Park--Summit trail 3%;
@@ -3002,12 +3002,12 @@ Circaetus beaudouini,0,
 Circaetus cinerascens,0,
 Circaetus cinereus,0,
 Circaetus fasciolatus,0,
-Circaetus gallicus,4,
+Circaetus gallicus,0,
 Circaetus pectoralis,0,
 Circaetus spectabilis,0,
 Stephanoaetus coronatus,0,
 Nisaetus alboniger,0,
-Nisaetus bartelsi,2,Ijen--main road 10%;
+Nisaetus bartelsi,1,单型种(全);----------------------------------------------------;2026-10-3 印尼伊真火山;
 Nisaetus cirrhatus,2,
 Nisaetus floris,2,forest south of Kisol 26%;Kisol 36%;
 Nisaetus kelaarti,0,
@@ -3132,7 +3132,7 @@ Haliaeetus leucoryphus,0,
 Haliaeetus pelagicus,1,单型种(全);----------------------------------------------------;2023-5-21 多伦多动物园;
 Icthyophaga humilis,0,
 Icthyophaga ichthyaetus,2,
-Icthyophaga leucogaster,3,单型种(全);----------------------------------------------------;2019-8-17 新加坡鱼尾狮公园;
+Icthyophaga leucogaster,3,单型种(全);----------------------------------------------------;2019-8-17 新加坡鱼尾狮公园;2026-10-5 印尼爪哇Alas purwo国家公园;
 Icthyophaga sanfordi,0,
 Icthyophaga vocifer,0,
 Icthyophaga vociferoides,0,
@@ -3305,7 +3305,7 @@ Anorrhinus tickelli,0,
 Ocyceros birostris,0,
 Ocyceros gingalensis,0,
 Ocyceros griseus,0,
-Anthracoceros albirostris,1,2个亚种;------------------------------------------------------;2019-8-18 新加坡巴西立公园(albirostris);
+Anthracoceros albirostris,1,2个亚种(全);------------------------------------------------------;2019-8-18 新加坡巴西立公园(albirostris);2026-10-4 印尼外南梦巴鲁兰国家公园(convexus);
 Anthracoceros coronatus,0,
 Anthracoceros malayanus,1,单型种(全);----------------------------------------------------;2019-8-19 新加坡裕廊飞禽公园;
 Anthracoceros marchei,0,
@@ -3358,7 +3358,7 @@ Merops cyanophrys,1,2个亚种;-------------------------------------------------
 Merops gularis,0,
 Merops hirundineus,0,
 Merops lafresnayii,0,
-Merops leschenaulti,2,Ijen--main road 1%;
+Merops leschenaulti,1,3个亚种;------------------------------------------------------;2026-10-4 印尼外南梦巴鲁兰国家公园(quinticolor，爪哇和巴厘岛);
 Merops malimbicus,0,
 Merops mentalis,0,
 Merops muelleri,0,
@@ -3401,7 +3401,7 @@ Corythornis leucogaster,0,
 Corythornis madagascariensis,0,
 Corythornis vintsioides,0,
 Alcedo atthis,1,7个亚种;------------------------------------------------------;2017-12 厦门湿地公园(bengalensis);2022-1-19 海南儋州(bengalensis);2023-1-13 阿联酋乌姆盖万(ispida);2025-7-30 大理古城南水库(bengalensis);
-Alcedo coerulescens,2,Muara Angke NR 50%;
+Alcedo coerulescens,1,单型种(全);----------------------------------------------------;2026-10-7 印尼雅加达Taman Wisata Alam Angke公园;
 Alcedo euryzona,0,利曼山Javan Blue Kingfisher Site 81%;
 Alcedo hercules,1,单型种(全);----------------------------------------------------;2022-1-1 三明明溪;
 Alcedo meninting,0,Muara Angke NR 10%;
@@ -3448,7 +3448,7 @@ Halcyon albiventris,0,
 Halcyon badia,0,
 Halcyon chelicuti,0,
 Halcyon coromanda,2,
-Halcyon cyanoventris,0,
+Halcyon cyanoventris,1,单型种(全);----------------------------------------------------;2026-10-4 印尼伊真火山山脚;
 Halcyon gularis,0,
 Halcyon leucocephala,0,
 Halcyon malimbica,0,
@@ -3485,7 +3485,7 @@ Syma torotoro,0,Malagufuk village 38%;
 Todiramphus albicilla,0,
 Todiramphus albonotatus,0,
 Todiramphus australasia,0,
-Todiramphus chloris,1,14个亚种;----------------------------------------------------;2019-8-17 新加坡(humii);2025-1-31 帕劳Ngermeaus岛(teraokai，帕劳);
+Todiramphus chloris,1,14个亚种;----------------------------------------------------;2019-8-17 新加坡(humii);2025-1-31 帕劳Ngermeaus岛(teraokai，帕劳);2026-10-4 印尼外南梦巴鲁兰国家公园(palmeri);
 Todiramphus cinnamominus,0,美国圣地亚戈动物园;美国休斯顿动物园;美国圣安东尼奥动物园;
 Todiramphus colonus,0,
 Todiramphus diops,0,
@@ -3569,10 +3569,10 @@ Notharchus tectus,0,3-20 Estacion Biologica La Selva 7.38%;
 Caloramphus fuliginosus,0,
 Caloramphus hayii,0,
 Psilopogon annamensis,0,
-Psilopogon armillaris,2,Ijen--main road 48%;
+Psilopogon armillaris,1,2个亚种;----------------------------------------------------;2026-10-3 印尼伊真火山(armillaris，爪哇);
 Psilopogon asiaticus,3,2个亚种;----------------------------------------------------;2020-11-22 北京动物园(davisoni，蓝顶冠);;香额湖 36%;长地方水库 44%;大盈江 14%;
 Psilopogon auricularis,0,
-Psilopogon australis,2,
+Psilopogon australis,1,单型种(全);----------------------------------------------------;2026-10-5 印尼爪哇Alas purwo国家公园;
 Psilopogon chersonesus,0,
 Psilopogon chrysopogon,0,
 Psilopogon corvinus,0,
@@ -3586,7 +3586,7 @@ Psilopogon franklinii,2,苏典 45%;长地方水库 66%;
 Psilopogon haemacephalus,2,香额湖 14%;
 Psilopogon henricii,0,
 Psilopogon incognitus,2,奥拉尔山Phnom Aural(76%);
-Psilopogon javensis,2,Ijen--main road 25%;
+Psilopogon javensis,1,单型种(全);----------------------------------------------------;2026-10-5 印尼爪哇Alas purwo国家公园;
 Psilopogon lagrandieri,0,
 Psilopogon lineatus,3,2个亚种;----------------------------------------------------;2019-8-19 新加坡裕廊飞禽公园(hodgsoni);
 Psilopogon malabaricus,0,
@@ -3764,7 +3764,7 @@ Picus awokera,0,
 Picus canus,3,10个亚种;----------------------------------------------------;2023-7-8 新疆福海县(canus，灰头);2024-3-2 四川唐家河(kogo，黑枕);
 Picus chlorolophus,2,
 Picus erythropygius,2,
-Picus puniceus,2,
+Picus puniceus,0,3个亚种;----------------------------------------------------;
 Picus rabieri,0,
 Picus sharpei,0,
 Picus squamatus,1,2个亚种;----------------------------------------------------;2020-8-2 西藏吉隆镇扎村山路(squamatus);
@@ -3774,7 +3774,7 @@ Picus viridis,0,
 Picus vittatus,1,单型种(全);----------------------------------------------------;2019-8-21 新加坡巴西立公园;
 Picus xanthopygaeus,0,
 Chrysophlegma flavinucha,3,8个亚种;----------------------------------------------------;2022-1-19 海南尖峰岭(styani);
-Chrysophlegma mentale,2,
+Chrysophlegma mentale,1,6个亚种;----------------------------------------------------;2016-10-3 印尼伊真火山(mentale，爪哇) ;
 Chrysophlegma miniaceum,0,
 Pardipicus caroli,0,
 Pardipicus nivosus,0,
@@ -4271,7 +4271,7 @@ Tanygnathus gramineus,0,
 Tanygnathus lucionensis,0,
 Tanygnathus megalorynchos,0,
 Tanygnathus sumatranus,0,
-Psittacula alexandri,3,8个亚种;----------------------------------------------------;2019-8-21 新加坡巴西立公园(引进种);;Muara Angke NR 27%;
+Psittacula alexandri,1,8个亚种;----------------------------------------------------;2019-8-21 新加坡巴西立公园(引进种);2026-10-6 印尼雅加达独立清真寺(alexandri);
 Psittacula bensoni,0,
 Psittacula calthrapae,0,
 Psittacula caniceps,0,
@@ -4283,7 +4283,7 @@ Psittacula eupatria,3,5个亚种;-----------------------------------------------
 Psittacula exsul,0,
 Psittacula finschii,2,
 Psittacula himalayana,0,
-Psittacula krameri,1,4个亚种;----------------------------------------------------;2019-5-7 香港塱原(引进种);
+Psittacula krameri,5,4个亚种;----------------------------------------------------;2019-5-7 香港塱原(引进种);
 Psittacula longicauda,0,
 Psittacula roseata,2,
 Psittacula wardi,0,
@@ -4466,7 +4466,7 @@ Hydrornis baudii,0,Danum Valley--Borneo Rainforest Lodge 23%;
 Hydrornis caeruleus,0,
 Hydrornis cyaneus,0,奥拉尔山Phnom Aural(60%);
 Hydrornis elliotii,0,
-Hydrornis guajanus,0,
+Hydrornis guajanus,1,单型种(全);----------------------------------------------------;2026-10-3 印尼伊真火山;
 Hydrornis gurneyi,0,
 Hydrornis irena,0,
 Hydrornis nipalensis,0,版纳植物园2%;
@@ -5917,7 +5917,7 @@ Gerygone mouki,0,
 Gerygone olivacea,0,
 Gerygone palpebrosa,0,
 Gerygone ruficollis,0,
-Gerygone sulphurea,2,Muara Angke NR 60%;
+Gerygone sulphurea,1,5个亚种;----------------------------------------------------;2026-10-1 印尼雅加达sheraton酒店(sulphurea);
 Gerygone tenebrosa,0,
 Acanthornis magna,0,
 Aphelocephala leucopsis,0,
@@ -6188,7 +6188,7 @@ Pericrocotus ethologus,2,长地方水库 22%;大理苍山--清碧溪12%;紫溪�
 Pericrocotus flammeus,1,19个亚种;----------------------------------------------------;2018-3 厦门天竺山森林公园(fohkiensis);2022-1-20 海南尖峰岭(fraterculus);
 Pericrocotus igneus,0,
 Pericrocotus lansbergei,2,Golo Lusang 55%;Kisol 36%;forest south of Kisol 19%;
-Pericrocotus miniatus,2,Ijen--main road 52%;
+Pericrocotus miniatus,1,单型种(全);----------------------------------------------------;2026-10-2 印尼爪哇伊真火山;
 Pericrocotus roseus,2,来凤山森林公园3%;版纳植物园5%;
 Pericrocotus solaris,1,8个亚种;----------------------------------------------------;2019-4-27 厦门同安杉际内(griseogularis);2022-1-20 海南尖峰岭(griseogularis);2023-12-8 江西永修云居山;
 Pericrocotus tegimae,1,单型种(全);----------------------------------------------------;2021-1-29 厦门狐尾山;
@@ -6208,7 +6208,7 @@ Coracina guillemardi,0,
 Coracina javensis,1,8个亚种;----------------------------------------------------;2022-5-1 莆田天马山(rexpineti);
 Coracina kochii,0,
 Coracina larutensis,0,
-Coracina larvata,0,
+Coracina larvata,1,3个亚种;----------------------------------------------------;2026-10-3 印尼伊真火山(larvata，爪哇);
 Coracina leucopygia,0,
 Coracina lineata,0,
 Coracina longicauda,0,
@@ -6235,7 +6235,7 @@ Malindangia mcgregori,0,
 Lalage atrovirens,0,Malagufuk village 7%;
 Lalage aurea,0,
 Lalage conjuncta,0,
-Lalage fimbriata,2,
+Lalage fimbriata,0,
 Lalage leucomela,0,
 Lalage leucoptera,0,
 Lalage leucopyga,0,
@@ -6249,7 +6249,7 @@ Lalage newtoni,0,
 Lalage nigra,2,Muara Angke NR 22%;
 Lalage polioptera,2,
 Lalage sharpei,0,
-Lalage sueurii,2,
+Lalage sueurii,1,单型种(全);----------------------------------------------------;2026-10-2 印尼爪哇伊真火山山脚;
 Lalage tricolor,0,
 Lalage typica,0,
 Cyanograucalus azureus,0,
@@ -6294,7 +6294,7 @@ Artamus cinereus,0,
 Artamus cyanopterus,0,
 Artamus fuscus,1,单型种(全);----------------------------------------------------;2019-10-4 广西北海冠头岭;2022-1-19 海南尖峰岭;
 Artamus insignis,0,
-Artamus leucorynchus,2,Saporkren (village area) 14%;Muara Angke NR 48%;Malagufuk village 1%;
+Artamus leucorynchus,1,9个亚种;----------------------------------------------------;2026-10-5 印尼外南梦solong酒店(amydrus);
 Artamus maximus,0,
 Artamus mentalis,0,斐济Kadavu Island - Papageno Resort 2%;斐济恩加梅阿岛（Taveuni）27%;
 Artamus minor,0,
@@ -6318,7 +6318,7 @@ Rhagologus leucostigma,0,
 Pityriasis gymnocephala,2,Sepilok--Rainforest Discovery Center 11%;
 Aegithina lafresnayei,2,版纳植物园22%;
 Aegithina nigrolutea,0,
-Aegithina tiphia,1,11个亚种;----------------------------------------------------;2019-8-21 新加坡巴西立公园(horizoptera);
+Aegithina tiphia,1,11个亚种;----------------------------------------------------;2019-8-21 新加坡巴西立公园(horizoptera);2026-10-5 印尼爪哇Alas purwo国家公园(scapularis，爪哇和巴厘岛);
 Aegithina viridissima,0,
 Nilaus afer,0,
 Bocagia minuta,0,
@@ -6414,7 +6414,7 @@ Prionops rufiventris,0,
 Prionops scopifrons,0,
 Megabyas flammulatus,0,
 Bias musicus,0,
-Hemipus hirundinaceus,2,
+Hemipus hirundinaceus,1,单型种(全);----------------------------------------------------;2026-10-5 印尼爪哇Alas purwo国家公园;
 Hemipus picatus,2,长地方水库 55%;
 Tephrodornis affinis,0,
 Tephrodornis pondicerianus,2,
@@ -6460,9 +6460,9 @@ Falcunculus whitei,0,
 Oreocharis arfaki,0,
 Paramythia montium,0,
 Paramythia olivacea,0,
-Pteruthius aenobarbus,2,
+Pteruthius aenobarbus,0,
 Pteruthius aeralatus,1,8个亚种;----------------------------------------------------;2022-1-2 三明峨眉峰(ricketti);2025-7-14 昆明西山(ricketti);
-Pteruthius flaviscapis,2,Ijen--main road 21%;
+Pteruthius flaviscapis,0,Ijen--main road 21%;
 Pteruthius intermedius,0,
 Pteruthius melanotis,0,苏典 45%;长地方水库 55%;
 Pteruthius rufiventer,0,
@@ -6580,9 +6580,9 @@ Pachycephala arctitorquis,0,
 Pachycephala aurea,0,
 Pachycephala balim,0,
 Pachycephala caledonica,0,
-Pachycephala calliope,2,Kisol 48%;forest south of Kisol 42%;
+Pachycephala calliope,1,5个亚种;----------------------------------------------------;2026-10-3 印尼伊真火山(javana，爪哇和巴厘岛);
 Pachycephala chlorura,0,
-Pachycephala cinerea,2,
+Pachycephala cinerea,0,
 Pachycephala citreogaster,0,
 Pachycephala collaris,0,
 Pachycephala feminina,0,
@@ -6646,12 +6646,12 @@ Rhipidura dedemi,0,
 Rhipidura diluta,2,Kisol 16%;forest south of Kisol 6%;
 Rhipidura drownei,0,
 Rhipidura dryas,0,
-Rhipidura euryura,0,
+Rhipidura euryura,1,单型种(全);----------------------------------------------------;2026-10-3 印尼伊真火山;
 Rhipidura fuliginosa,1,4个亚种;----------------------------------------------------;2019-1-15 新西兰北岛霍比屯(placabilis);2019-1 新西兰南岛(fuliginosa);
 Rhipidura fuscorufa,0,
 Rhipidura habibiei,0,
 Rhipidura hyperythra,0,
-Rhipidura javanica,1,2个亚种;----------------------------------------------------;2019-8-18 新加坡巴西立公园(longicauda);
+Rhipidura javanica,5,2个亚种(全);----------------------------------------------------;2019-8-18 新加坡巴西立公园(longicauda);2026-10-1 印尼雅加达sheraton酒店(javanica);
 Rhipidura kubaryi,0,
 Rhipidura layardi,0,斐济恩加梅阿岛（Taveuni）82%;
 Rhipidura lepida,1,单型种(全);----------------------------------------------------;2025-1-31 帕劳Ngermeaus岛;
@@ -6702,11 +6702,11 @@ Dicrurus caerulescens,0,
 Dicrurus densus,2,forest south of Kisol 44%;Kisol 36%;
 Dicrurus forficatus,0,
 Dicrurus fuscipennis,0,
-Dicrurus hottentottus,1,12个亚种;----------------------------------------------------;2018-4 厦门大学高尔夫球场(brevirostris);
+Dicrurus hottentottus,1,12个亚种;----------------------------------------------------;2018-4 厦门大学高尔夫球场(brevirostris);2026-10-5 印尼爪哇Alas purwo国家公园(jentincki);
 Dicrurus leucophaeus,1,15个亚种;----------------------------------------------------;2018-11 厦门天竺山森林公园(leucogenis);2022-1-24 海南三亚临春岭森林公园(innexus);
 Dicrurus lophorinus,0,
 Dicrurus ludwigii,0,
-Dicrurus macrocercus,1,7个亚种;----------------------------------------------------;2018-2 厦门翔安东埭桥水库(cathoecus);2018-10-1 台湾高雄卫武营都会公园(harterti);2022-1-18 海南儋州(cathoecus);2025-7-30 大理古城南水库(cathoecus);
+Dicrurus macrocercus,1,7个亚种;----------------------------------------------------;2018-2 厦门翔安东埭桥水库(cathoecus);2018-10-1 台湾高雄卫武营都会公园(harterti);2022-1-18 海南儋州(cathoecus);2025-7-30 大理古城南水库(cathoecus);2026-10-4 印尼外南梦巴鲁兰国家公园(javanus，爪哇和巴厘岛);
 Dicrurus megarhynchus,0,
 Dicrurus menagei,0,
 Dicrurus modestus,0,
@@ -6725,7 +6725,7 @@ Hypothymis coelestis,0,
 Hypothymis helenae,0,
 Hypothymis puella,0,
 Terpsiphone affinis,2,版纳植物园4%;
-Terpsiphone atrocaudata,5,3个亚种;----------------------------------------------------;2020-4-25 厦门天竺山公园(atrocaudata，北方);
+Terpsiphone atrocaudata,1,3个亚种;----------------------------------------------------;2020-4-25 厦门天竺山公园(atrocaudata，北方);
 Terpsiphone atrochalybeia,0,
 Terpsiphone batesi,0,
 Terpsiphone bedfordi,0,
@@ -6896,7 +6896,7 @@ Lanius minor,0,
 Lanius newtoni,0,
 Lanius nubicus,0,
 Lanius phoenicuroides,1,单型种(全);----------------------------------------------------;2023-7-6 新疆玛纳斯湿地公园;
-Lanius schach,1,9个亚种;----------------------------------------------------;2017-12 厦门湿地公园(schach，灰头);2020-8-1 西藏聂拉木县(tricolor，黑头);2022-1-18 海南南渡江(schach，灰头);2024-3-1 四川德阳旌河(schach，灰头);2025-7-17 昆明滇池草海湿地(tricolor，黑头);
+Lanius schach,1,9个亚种;----------------------------------------------------;2017-12 厦门湿地公园(schach，灰头);2020-8-1 西藏聂拉木县(tricolor，黑头);2022-1-18 海南南渡江(schach，灰头);2024-3-1 四川德阳旌河(schach，灰头);2025-7-17 昆明滇池草海湿地(tricolor，黑头);2026-10-3 印尼爪哇伊真火山(bentet);
 Lanius senator,0,
 Lanius somalicus,0,
 Lanius souzae,0,
@@ -6910,7 +6910,7 @@ Eurocephalus ruppelli,0,
 Pyrrhocorax graculus,1,3个亚种;----------------------------------------------------;2020-7-30 西藏日喀则(forsythi);
 Pyrrhocorax pyrrhocorax,1,8个亚种;----------------------------------------------------;2020-7-29 西藏羊卓雍措(himalayanus);2021-5-14 宁夏银川水洞沟(himalayanus);
 Crypsirina cucullata,0,
-Crypsirina temia,3,单型种(全);----------------------------------------------------;2019-5-7 香港公园尤德观鸟园;
+Crypsirina temia,1,单型种(全);----------------------------------------------------;2026-10-7 印尼雅加达Taman Wisata Alam Angke公园;
 Temnurus temnurus,0,
 Platysmurus aterrimus,0,Menanggol River 9%;
 Platysmurus leucopterus,0,
@@ -7007,7 +7007,7 @@ Corvus coronoides,0,
 Corvus crassirostris,0,
 Corvus cryptoleucus,0,
 Corvus edithae,0,
-Corvus enca,0,Muara Angke NR 3%;
+Corvus enca,1,2个亚种;----------------------------------------------------;2026-10-5 印尼爪哇Alas purwo国家公园(enca);
 Corvus florensis,2,forest south of Kisol 74%;Kisol 60%;
 Corvus frugilegus,3,2个亚种(全);----------------------------------------------------;2023-7-9 新疆贾登峪(frugilegus);2023-12-9 江西永修九合乡(pastinator);
 Corvus fuscicapillus,0,
@@ -7150,7 +7150,7 @@ Cyanistes caeruleus,0,
 Cyanistes cyanus,1,8个亚种;----------------------------------------------------;2023-7-6 乌鲁木齐植物园(tianschanicus);
 Cyanistes teneriffae,0,
 Pseudopodoces humilis,1,单型种(全);----------------------------------------------------;2020-7-27 西藏羊卓雍措山路;
-Parus cinereus,1,20个亚种;----------------------------------------------------;2018-2 福州牛岗山公园(commixtus，灰背);2019-10-12 黑龙江省植物园(minor，绿背);2020-7-29 西藏江孜宗山公园(tibetanus，绿背);2020-11-2 西安祥裕森林公园;2022-1-21 海南西岛(hainanus);2023-12-7 江西永修(commixtus，灰背);
+Parus cinereus,1,20个亚种;----------------------------------------------------;2018-2 福州牛岗山公园(commixtus，灰背);2019-10-12 黑龙江省植物园(minor，绿背);2020-7-29 西藏江孜宗山公园(tibetanus，绿背);2020-11-2 西安祥裕森林公园;2022-1-21 海南西岛(hainanus);2023-12-7 江西永修(commixtus，灰背);2026-10-4 印尼外南梦巴鲁兰国家公园(cinereus);
 Parus major,1,16个亚种;----------------------------------------------------;2023-7-6 乌鲁木齐植物园(kapustini);2026-2-11 内蒙古哈达图苏木(kapustini);
 Parus monticolus,1,4个亚种;----------------------------------------------------;2020-11-2 西安祥裕森林公园(yunnanensis);2024-3-4 成都熊猫繁殖基地(yunnanensis);2025-7-15 昆明西山(yunnanensis);
 Machlolophus aplonotus,0,
@@ -7398,7 +7398,7 @@ Orthotomus ruficeps,1,9个亚种;-----------------------------------------------
 Orthotomus samarensis,0,
 Orthotomus sepium,2,Muara Angke NR 20%;
 Orthotomus sericeus,0,
-Orthotomus sutorius,1,9个亚种;----------------------------------------------------;2018-2 莆田东圳水渠(longicauda);2019-8-17 新加坡鱼尾狮公园(maculicollis);
+Orthotomus sutorius,1,9个亚种;----------------------------------------------------;2018-2 莆田东圳水渠(longicauda);2019-8-17 新加坡鱼尾狮公园(maculicollis);2026-10-4 印尼外南梦巴鲁兰国家公园(edela，爪哇);
 Prinia atrogularis,0,
 Prinia bairdii,0,
 Prinia buchanani,0,
@@ -7413,7 +7413,7 @@ Prinia fluviatilis,0,
 Prinia gracilis,0,
 Prinia hodgsonii,2,大盈江 20%;
 Prinia hypoxantha,0,
-Prinia inornata,1,10个亚种;----------------------------------------------------;2018-2 厦门翔安东埭桥水库(extensicauda);2025-7-17 昆明滇池草海湿地(extensicauda);
+Prinia inornata,1,10个亚种;----------------------------------------------------;2018-2 厦门翔安东埭桥水库(extensicauda);2025-7-17 昆明滇池草海湿地(extensicauda);2026-10-2 爪哇中爪哇省(blythi，爪哇);
 Prinia khasiana,0,
 Prinia lepida,1,4个亚种;----------------------------------------------------;2023-1-9 阿联酋迪拜(carpenteri);
 Prinia maculosa,0,
@@ -7467,7 +7467,7 @@ Cisticola guinea,0,
 Cisticola haematocephalus,0,
 Cisticola haesitatus,0,
 Cisticola hunteri,0,
-Cisticola juncidis,1,17个亚种;----------------------------------------------------;2018-11 泉州南安江崎村(tinnabulans);
+Cisticola juncidis,1,17个亚种;----------------------------------------------------;2018-11 泉州南安江崎村(tinnabulans);2026-10-2 印尼中爪哇省(malaya);
 Cisticola lais,0,
 Cisticola lateralis,0,
 Cisticola luapula,0,
@@ -7586,7 +7586,7 @@ Locustella luscinioides,0,
 Locustella luteoventris,1,单型种(全);----------------------------------------------------;2024-5-1 三明峨眉峰;
 Locustella major,0,
 Locustella mandelli,1,2个亚种;----------------------------------------------------;2020-03-14 厦门天竺山公园(melanorhyncha);
-Locustella montis,2,Ijen--main road 29%;
+Locustella montis,1,2个亚种;----------------------------------------------------;2026-10-3 印尼伊真火山(montis，爪哇);
 Locustella musculus,0,
 Locustella naevia,0,
 Locustella portenta,0,
@@ -7597,7 +7597,7 @@ Elaphrornis palliseri,0,
 Schoenicola platyurus,0,
 Schoenicola striatus,0,
 Catriscus brevirostris,0,
-Megalurus palustris,2,香额湖 43%;苏典 18%;大盈江 11%;
+Megalurus palustris,1,3个亚种;----------------------------------------------------;2026-10-2 印尼爪哇岛伊真火山(palustris);
 Bradypterus baboecala,0,
 Bradypterus bangwaensis,0,
 Bradypterus barratti,0,
@@ -7631,7 +7631,7 @@ Cincloramphus whitneyi,0,
 Pnoepyga albiventer,2,
 Pnoepyga formosana,0,
 Pnoepyga immaculata,0,
-Pnoepyga pusilla,1,7个亚种;----------------------------------------------------;2020-1-13 厦门天竺山(pusilla);
+Pnoepyga pusilla,1,7个亚种;----------------------------------------------------;2020-1-13 厦门天竺山(pusilla);2026-10-6 印尼天竺山(rufa，爪哇);
 Pseudochelidon eurystomina,0,
 Pseudochelidon sirintarae,2,
 Psalidoprocne albiceps,0,
@@ -7690,7 +7690,7 @@ Hirundo angolensis,0,
 Hirundo atrocaerulea,0,
 Hirundo dimidiata,0,
 Hirundo domicola,0,
-Hirundo javanica,3,6个亚种;----------------------------------------------------;2018-9 台湾高雄鸟松湿地公园(namiyei);2019-8-18 新加坡市区(javanica);
+Hirundo javanica,3,6个亚种;----------------------------------------------------;2018-9 台湾高雄鸟松湿地公园(namiyei);2019-8-18 新加坡市区(javanica);2026-10-5 爪哇外南梦DeDjawatan森林(javanica);
 Hirundo leucosoma,0,
 Hirundo lucida,0,
 Hirundo megaensis,0,
@@ -7708,7 +7708,7 @@ Delichon urbicum,1,2个亚种;--------------------------------------------------
 Cecropis abyssinica,0,
 Cecropis badia,0,
 Cecropis cucullata,0,
-Cecropis daurica,1,8个亚种;----------------------------------------------------;2018-2 厦门翔安东埭桥水库(daurica);
+Cecropis daurica,1,8个亚种;----------------------------------------------------;2018-2 厦门翔安东埭桥水库(daurica);2026-10-2 爪哇日惹(striolata);
 Cecropis hyperythra,0,
 Cecropis melanocrissus,0,
 Cecropis rufula,0,
@@ -7757,7 +7757,7 @@ Cettia major,1,2个亚种;----------------------------------------------------;2
 Abroscopus albogularis,1,3个亚种;----------------------------------------------------;2020-1-23 福州森林公园(fulvifacies);2020-11-2 西安祥裕森林公园(fulvifacies);2021-4-23 杭州西湖(fulvifacies);
 Abroscopus schisticeps,2,长地方水库 55%;紫溪山 40%;
 Abroscopus superciliaris,0,长地方水库 22%;
-Phyllergates cucullatus,1,16个亚种;----------------------------------------------------;2024-8-11 厦门小坪山(coronatus);
+Phyllergates cucullatus,1,16个亚种;----------------------------------------------------;2024-8-11 厦门小坪山(coronatus);2026-10-3 印尼伊真火山(cucullatus);
 Phyllergates heterolaemus,0,
 Tickellia hodgsoni,2,苏典 18%;
 Horornis acanthizoides,2,
@@ -7766,7 +7766,7 @@ Horornis brunnescens,0,
 Horornis canturians,1,2个亚种;----------------------------------------------------;2022-3-20 厦门园博苑(canturians);
 Horornis carolinae,0,
 Horornis diphone,2,
-Horornis flavolivaceus,1,13个亚种;----------------------------------------------------;2025-7-20 云南梁王山(intricatus);
+Horornis flavolivaceus,1,13个亚种;----------------------------------------------------;2025-7-20 云南梁王山(intricatus);2026-10-3 印尼伊真火山(vulcanius);
 Horornis fortipes,1,4个亚种;----------------------------------------------------;2019-12-20 广州中山大学南校区(davidianus);2021-1-21 厦门十里蓝山(davidianus);2024-3-2 四川唐家河(davidianus);
 Horornis haddeni,0,
 Horornis parens,0,
@@ -7795,14 +7795,14 @@ Phylloscopus forresti,2,苏典 36%;大理苍山--清碧溪10%;
 Phylloscopus fuligiventer,0,
 Phylloscopus fuscatus,1,2个亚种;----------------------------------------------------;2018-3 厦门集美水上运动中心(fuscatus);2022-1-18 海南南渡江(fuscatus);
 Phylloscopus goodsoni,1,2个亚种;----------------------------------------------------;2021-2-15 福州森林公园(fokiensis);
-Phylloscopus grammiceps,2,Ijen--main road 55%;
+Phylloscopus grammiceps,1,2个亚种;----------------------------------------------------;2026-10-3 印尼伊真火山(grammiceps，爪哇和巴厘岛);
 Phylloscopus griseolus,0,
 Phylloscopus hainanus,0,
 Phylloscopus herberti,0,
 Phylloscopus humei,3,2个亚种;----------------------------------------------------;2021-5-15 宁夏石嘴山大武口森林公园(mandellii);
 Phylloscopus ibericus,0,
 Phylloscopus ijimae,0,
-Phylloscopus inornatus,5,单型种(全);----------------------------------------------------;2018-10-6 台湾野柳地质公园;2022-1-20 海南尖峰岭;
+Phylloscopus inornatus,1,单型种(全);----------------------------------------------------;2018-10-6 台湾野柳地质公园;2022-1-20 海南尖峰岭;
 Phylloscopus intensior,1,2个亚种;----------------------------------------------------;2025-7-15 昆明西山(muleyitensis);
 Phylloscopus intermedius,1,3个亚种;----------------------------------------------------;2024-5-1 三明峨眉峰(intermedius);
 Phylloscopus kansuensis,0,
@@ -7842,7 +7842,7 @@ Phylloscopus subaffinis,3,单型种(全);---------------------------------------
 Phylloscopus subviridis,0,
 Phylloscopus tenellipes,1,单型种(全);----------------------------------------------------;2020-4-10 厦门天竺山;2021-4-24 杭州植物园;
 Phylloscopus tephrocephalus,1,单型种(全);----------------------------------------------------;2025-7-31 大理苍山国家步道;
-Phylloscopus trivirgatus,2,
+Phylloscopus trivirgatus,1,4个亚种;----------------------------------------------------;2026-10-3 印尼伊真火山(trivirgatus);
 Phylloscopus trochiloides,2,版纳植物园4%;
 Phylloscopus trochilus,0,
 Phylloscopus tytleri,0,
@@ -7913,13 +7913,13 @@ Phyllastrephus viridiceps,0,
 Phyllastrephus xavieri,0,
 Microtarsus eutilotus,0,
 Microtarsus fuscoflavescens,0,
-Microtarsus melanocephalos,2,版纳植物园13%;
+Microtarsus melanocephalos,1,4个亚种;----------------------------------------------------;2026-10-5 印尼爪哇Alas purwo国家公园(melanocephalos);
 Microtarsus melanoleucos,0,
 Microtarsus nieuwenhuisii,0,
 Microtarsus priocephalus,0,
 Microtarsus urostictus,0,
 Rubigula cyaniventris,0,
-Rubigula dispar,0,
+Rubigula dispar,1,单型种(全);----------------------------------------------------;2026-10-5 印尼爪哇Alas purwo国家公园;
 Rubigula erythropthalmos,0,
 Rubigula flaviventris,2,苏典 18%;长地方水库 22%;
 Rubigula gularis,0,
@@ -7929,7 +7929,7 @@ Rubigula squamata,0,
 Nok hualon,0,
 Spizixos canifrons,1,2个亚种;----------------------------------------------------;2025-7-16 昆明西山(ingrami);
 Spizixos semitorques,1,2个亚种;----------------------------------------------------;2019-4 福州森林公园(semitorques);2020-11-1 西安陕西宾馆(semitorques);2021-4-24 杭州植物园(semitorques);2024-3-2 四川唐家河(semitorques);
-Pycnonotus aurigaster,1,9个亚种;----------------------------------------------------;2017-12 厦门集美大学(chrysorrhoides);2025-7-17 昆明滇池草海湿地(latouchei);
+Pycnonotus aurigaster,1,9个亚种;----------------------------------------------------;2017-12 厦门集美大学(chrysorrhoides);2025-7-17 昆明滇池草海湿地(latouchei);2026-10-1 印尼雅加达sheraton酒店(aurigaster，爪哇和巴厘岛);
 Pycnonotus barbatus,1,5个亚种;----------------------------------------------------;2023-5-21 多伦多动物园;
 Pycnonotus bimaculatus,1,2个亚种;----------------------------------------------------;2019-8-19 新加坡裕廊飞禽公园(bimaculatus);
 Pycnonotus blanfordi,0,
@@ -7941,7 +7941,7 @@ Pycnonotus conradi,2,
 Pycnonotus davisoni,0,
 Pycnonotus finlaysoni,0,
 Pycnonotus flavescens,2,苏典 27%;长地方水库 89%;
-Pycnonotus goiavier,1,6个亚种;----------------------------------------------------;2018-8-18 新加坡巴西立公园(analis);
+Pycnonotus goiavier,1,6个亚种;----------------------------------------------------;2018-8-18 新加坡巴西立公园(analis);2026-10-5 印尼爪哇Alas purwo国家公园(analis);
 Pycnonotus jocosus,1,9个亚种;----------------------------------------------------;2017-12 厦门集美大学(jocosus);2022-1-18 海南南渡江(hainanensis);
 Pycnonotus leucogenys,0,
 Pycnonotus leucops,2,Kinabalu Park--HQ area 12%;Kinabalu Park--Power Station Road 17%;Kinabalu Park--Summit trail 44%;Kinabalu Park--Laban Rata 33%;
@@ -7951,7 +7951,7 @@ Pycnonotus nigricans,0,
 Pycnonotus penicillatus,0,
 Pycnonotus plumosus,2,Muara Angke NR 1%;
 Pycnonotus pseudosimplex,0,
-Pycnonotus simplex,0,
+Pycnonotus simplex,1,4个亚种;----------------------------------------------------;2026-10-5 印尼爪哇Alas purwo国家公园(prillwitzi，爪哇);
 Pycnonotus sinensis,1,4个亚种;----------------------------------------------------;2017-12 厦门前埔(sinensis，广布);2021-4-23 杭州西湖(sinensis，广布);2022-1-19 海南尖峰岭(hainanus，黑头);2024-3-1 四川德阳旌河(sinensis，广布);2025-7-17 昆明滇池草海湿地(sinensis，广布);
 Pycnonotus snouckaerti,0,
 Pycnonotus taivanus,1,单型种(全);----------------------------------------------------;2018-10-1 台湾垦丁;
@@ -7986,7 +7986,7 @@ Ixos leucogrammicus,0,
 Ixos malaccensis,0,
 Ixos mcclellandii,1,9个亚种;----------------------------------------------------;2018-2 莆田凤凰山(holtii);2022-1-19 海南尖峰岭(similis);2025-7-15 昆明西山(holtii);
 Ixos sumatranus,0,
-Ixos virescens,2,Ijen--main road 55%;
+Ixos virescens,1,单型种(全);----------------------------------------------------;2026-10-3 印尼伊真火山;
 Hypsipetes affinis,0,
 Hypsipetes amaurotis,2,
 Hypsipetes aureus,0,
@@ -8112,7 +8112,7 @@ Megazosterops palauensis,1,单型种(全);--------------------------------------
 Heleia crassirostris,2,Kisol 40%;forest south of Kisol 24%;
 Heleia dohertyi,2,Kisol 16%;
 Heleia goodfellowi,0,
-Heleia javanica,0,
+Heleia javanica,1,3个亚种;----------------------------------------------------;2026-10-3 印尼伊真火山(elongata，爪哇岛极东部);
 Heleia muelleri,0,
 Heleia pinaiae,0,
 Heleia squamiceps,0,
@@ -8230,11 +8230,11 @@ Zosterops vellalavella,0,
 Zosterops virens,0,
 Zosterops winifredae,0,
 Zosterops xanthochroa,0,
-Timalia pileata,2,Muara Angke NR 1%;
+Timalia pileata,0,Muara Angke NR 1%;
 Dumetia atriceps,0,
 Dumetia hyperythra,0,
 Mixornis bornensis,2,Danum Valley--Borneo Rainforest Lodge 21%;
-Mixornis flavicollis,2,
+Mixornis flavicollis,1,单型种(全);----------------------------------------------------;2026-10-5 印尼爪哇Alas purwo国家公园;
 Mixornis gularis,2,版纳植物园27%;
 Mixornis kelleyi,0,
 Mixornis prillwitzi,0,
@@ -8243,7 +8243,7 @@ Macronus striaticeps,0,
 Cyanoderma bicolor,0,
 Cyanoderma chrysaeum,2,长地方水库 22%;
 Cyanoderma erythropterum,0,
-Cyanoderma melanothorax,0,Ijen--main road 42%;
+Cyanoderma melanothorax,1,3个亚种;----------------------------------------------------;2026-10-3 印尼伊真火山(intermedium，爪哇东部);
 Cyanoderma pyrrhops,0,
 Cyanoderma ruficeps,1,6个亚种;----------------------------------------------------;2018-11-12 厦门天竺山森林公园(davidi);2020-11-2 西安祥裕森林公园(davidi);2025-7-14 昆明西山(davidi);
 Cyanoderma rufifrons,0,
@@ -8261,7 +8261,7 @@ Pomatorhinus bornensis,0,
 Pomatorhinus ferruginosus,0,
 Pomatorhinus horsfieldii,0,
 Pomatorhinus melanurus,0,
-Pomatorhinus montanus,1,2个亚种;----------------------------------------------------;2019-5-7 香港公园尤德观鸟园;
+Pomatorhinus montanus,1,2个亚种;----------------------------------------------------;2026-10-3 印尼伊真火山(ottolanderi，爪哇东部和巴厘岛);
 Pomatorhinus musicus,0,
 Pomatorhinus ochraceiceps,2,
 Pomatorhinus phayrei,2,
@@ -8295,7 +8295,7 @@ Turdinus macrodactylus,0,
 Turdinus marmoratus,0,
 Malacopteron affine,0,
 Malacopteron albogulare,0,
-Malacopteron cinereum,2,
+Malacopteron cinereum,0,
 Malacopteron magnirostre,0,
 Malacopteron magnum,0,
 Malacopteron palawanense,0,
@@ -8312,14 +8312,14 @@ Pellorneum albiventre,2,
 Pellorneum bicolor,0,
 Pellorneum buettikoferi,0,
 Pellorneum capistratoides,0,
-Pellorneum capistratum,0,
+Pellorneum capistratum,1,单型种(全);----------------------------------------------------;2026-10-5 印尼爪哇Alas purwo国家公园;
 Pellorneum celebense,0,
 Pellorneum cinereiceps,0,
 Pellorneum fuscocapillus,0,
 Pellorneum malaccense,0,
 Pellorneum nigrocapitatum,0,
 Pellorneum palustre,0,
-Pellorneum pyrrogenys,2,
+Pellorneum pyrrogenys,0,
 Pellorneum rostratum,0,
 Pellorneum ruficeps,2,版纳植物园15%;
 Pellorneum tickelli,2,版纳植物园4%;
@@ -8346,7 +8346,7 @@ Napothera naungmungensis,0,
 Napothera pasquieri,0,
 Malacocincla abbotti,0,
 Malacocincla perspicillata,0,
-Malacocincla sepiaria,2,Ijen--Erek Erek Jungle Park 29%;
+Malacocincla sepiaria,1,5个亚种;----------------------------------------------------;2026-10-3 印尼伊真火山(sepiaria，爪哇和巴厘岛);
 Gypsophila annamensis,2,版纳植物园9%;
 Gypsophila brevicaudata,2,
 Gypsophila calcicola,0,
@@ -8784,7 +8784,7 @@ Acridotheres cristatellus,1,3个亚种;-----------------------------------------
 Acridotheres fuscus,0,
 Acridotheres ginginianus,1,单型种(全);----------------------------------------------------;2019-8-19 新加坡裕廊飞禽公园;2023-1-15 阿联酋拉斯海玛;
 Acridotheres grandis,3,单型种(全);----------------------------------------------------;2020-11-22 北京动物园;
-Acridotheres javanicus,1,单型种(全);----------------------------------------------------;2018-10-1 台湾高雄卫武营都会公园;2019-8-17 新加坡;
+Acridotheres javanicus,1,单型种(全);----------------------------------------------------;2018-10-1 台湾高雄卫武营都会公园;2019-8-17 新加坡;2026-10-1 印度尼西亚雅加达机场;
 Acridotheres leucocephalus,0,
 Acridotheres melanopterus,1,3个亚种;----------------------------------------------------;2019-8-19 新加坡裕廊飞禽公园(melanopterus);
 Acridotheres tristis,1,2个亚种;----------------------------------------------------;2018-4 厦门集美大学(tristis);2018-10-1 台湾(tristis);2019-1 新西兰北岛(tristis);2019-8-17 新加坡(tristis);2022-1-18 海南儋州(tristis);2023-1-9 阿联酋迪拜(引进种);
@@ -8865,7 +8865,7 @@ Myadestes woahensis,0,
 Zoothera andromedae,0,
 Zoothera atrigena,0,
 Zoothera aurea,1,2个亚种;----------------------------------------------------;2019-12-20 广州中山大学南校区(aurea);2021-1-21 厦门十里蓝山(aurea);
-Zoothera dauma,2,来凤山森林公园3%;姜家寨1%;
+Zoothera dauma,1,3个亚种;----------------------------------------------------;2026-10-3 印尼伊真火山(horsfieldi);
 Zoothera dixoni,1,单型种(全);----------------------------------------------------;2024-3-3 四川唐家河;
 Zoothera everetti,2,Kinabalu Park--HQ area 10%;Kinabalu Park--Power Station Road 17%;Kinabalu Park--Summit trail 4%;
 Zoothera griseiceps,0,
@@ -9097,12 +9097,12 @@ Muscicapa dauurica,1,3个亚种;------------------------------------------------
 Muscicapa epulata,0,
 Muscicapa ferruginea,1,单型种(全);----------------------------------------------------;2020-4-25 厦门天竺山公园;
 Muscicapa gambagae,0,
-Muscicapa griseisticta,1,单型种(全);----------------------------------------------------;2019-4-27 厦门同安杉际内;
+Muscicapa griseisticta,5,单型种(全);----------------------------------------------------;2019-4-27 厦门同安杉际内;
 Muscicapa muttui,1,单型种(全);----------------------------------------------------;2020-7-3 厦门天竺山森林公园;
 Muscicapa randi,0,
 Muscicapa segregata,0,
 Muscicapa sethsmithi,0,
-Muscicapa sibirica,1,4个亚种;----------------------------------------------------;2019-9-30 厦门植物园西园(sibirica);2019-10-4 广西北海冠头岭(sibirica);
+Muscicapa sibirica,1,4个亚种;----------------------------------------------------;2019-9-30 厦门植物园西园(sibirica);2019-10-4 广西北海冠头岭(sibirica);2026-10-7 印尼雅加达Taman Wisata Alam Angke公园;
 Muscicapa sodhii,0,
 Muscicapa striata,1,5个亚种;----------------------------------------------------;2023-7-10 新疆冲乎尔村(sarudnyi);
 Muscicapa williamsoni,0,
@@ -9122,7 +9122,7 @@ Eumyias additus,0,
 Eumyias albicaudatus,0,
 Eumyias hoevelli,0,
 Eumyias hyacinthinus,0,
-Eumyias indigo,0,Ijen--main road 62%;
+Eumyias indigo,1,5个亚种;----------------------------------------------------;2026-10-3 印尼伊真火山(indigo);
 Eumyias oscillans,2,Golo Lusang 34%;Kisol 8%;forest south of Kisol 2%;科摩多岛1.8%;
 Eumyias panayensis,0,
 Eumyias sanfordi,0,
@@ -9161,8 +9161,8 @@ Cyornis superbus,2,Poring Hot Springs 5%;Mount Trusmadi 3%;
 Cyornis tickelliae,0,
 Cyornis turcosus,0,
 Cyornis umbratilis,0,
-Cyornis unicolor,0,
-Cyornis whitei,0,2个亚种;----------------------------------------------------;昆明(whitei);
+Cyornis unicolor,1,3个亚种;----------------------------------------------------;2026-10-3 印尼伊真火山(cyanopolia);
+Cyornis whitei,0,2个亚种;----------------------------------------------------;
 Erithacus rubecula,0,
 Swynnertonia swynnertoni,0,
 Pogonocichla stellata,0,
@@ -9228,7 +9228,7 @@ Myophonus blighi,0,
 Myophonus borneensis,2,Kinabalu Park--HQ area 56%;Kinabalu Park--Power Station Road 48%;Kinabalu Park--Summit trail 35%;
 Myophonus caeruleus,1,6个亚种;----------------------------------------------------;2018-2 莆田东圳水渠(caeruleus，黑嘴);2020-8-2 西藏吉隆沟(temminckii，黄嘴);2025-7-31 大理无为寺(eugenei);
 Myophonus castaneus,0,
-Myophonus glaucinus,0,
+Myophonus glaucinus,1,单型种(全);----------------------------------------------------;2026-10-3 印尼伊真火山;
 Myophonus horsfieldii,0,
 Myophonus insularis,0,
 Myophonus melanurus,0,
@@ -9252,7 +9252,7 @@ Brachypteryx erythrogyna,0,Kinabalu Park--HQ area 38%;Kinabalu Park--Power Stati
 Brachypteryx floris,2,Golo Lusang 32%;
 Brachypteryx goodfellowi,0,
 Brachypteryx hyperythra,0,
-Brachypteryx leucophris,1,5个亚种;----------------------------------------------------;2020-3-27 厦门十里蓝山(carolinae);
+Brachypteryx leucophris,1,5个亚种;----------------------------------------------------;2020-3-27 厦门十里蓝山(carolinae);2026-10-2 印尼爪哇岛伊真火山(leucophris);
 Brachypteryx montana,0,
 Brachypteryx poliogyna,0,
 Brachypteryx saturata,0,
@@ -9270,7 +9270,7 @@ Ficedula erithacus,0,来凤山森林公园2%;
 Ficedula harterti,0,
 Ficedula henrici,0,
 Ficedula hodgsoni,0,
-Ficedula hyperythra,0,来凤山森林公园6%;版纳植物园1%;
+Ficedula hyperythra,1,14个亚种;----------------------------------------------------;2026-10-3 印尼伊真火山(vulcani);
 Ficedula hypoleuca,0,
 Ficedula luzoniensis,0,
 Ficedula mugimaki,1,单型种(全);----------------------------------------------------;2021-10-31 福州悦华酒店;
@@ -9290,7 +9290,7 @@ Ficedula subrubra,0,
 Ficedula superciliaris,2,紫溪山 23%;
 Ficedula timorensis,0,
 Ficedula tricolor,0, 姜家寨1%;大理苍山--清碧溪10%;
-Ficedula westermanni,2,长地方水库 44%;紫溪山 10%;
+Ficedula westermanni,1,3个亚种;----------------------------------------------------;2026-10-3 印尼伊真火山(hasselti);
 Ficedula zanthopygia,1,单型种(全);----------------------------------------------------;2021-4-24 杭州植物园;2024-4-12 厦门虎头山公园;
 Tarsiger albocoeruleus,0,
 Tarsiger chrysaeus,0,
@@ -9439,16 +9439,16 @@ Dicaeum pygmaeum,0,
 Dicaeum quadricolor,0,
 Dicaeum retrocinctum,0,
 Dicaeum rhodopygiale,2,Golo Lusang 31%;
-Dicaeum sanguinolentum,0,Ijen--main road 23%;
+Dicaeum sanguinolentum,1,单型种(全);----------------------------------------------------;2026-10-3 印尼伊真火山;
 Dicaeum schistaceiceps,0,
-Dicaeum trigonostigma,0,
+Dicaeum trigonostigma,17,17个亚种;----------------------------------------------------;2026-10-5 印尼爪哇Alas purwo国家公园(flaviclunis);
 Dicaeum tristrami,0,
 Dicaeum trochileum,0,Muara Angke NR 24%;
 Dicaeum virescens,0,
 Dicaeum vulneratum,0,
 Dicaeum wilhelminae,0,
 Kurochkinegramma hypogrammicum,0,版纳植物园3%;
-Arachnothera affinis,2,
+Arachnothera affinis,1,单型种(全);----------------------------------------------------;2026-10-5 印尼爪哇Alas purwo国家公园;
 Arachnothera chrysogenys,0,
 Arachnothera clarae,0,
 Arachnothera crassirostris,0,
@@ -9457,17 +9457,17 @@ Arachnothera everetti,2,Kinabalu Park--HQ area 1%;Sepilok--Rainforest Discovery 
 Arachnothera flammifera,0,
 Arachnothera flavigaster,0,
 Arachnothera juliae,2,Kinabalu Park--HQ area 14%;
-Arachnothera longirostra,0,版纳植物园34%;
+Arachnothera longirostra,17,10个亚种;----------------------------------------------------;2026-10-1 印度尼西亚爪哇Sheraton酒店(prillwitzi，爪哇);
 Arachnothera magna,0,苏典 27%;长地方水库 89%;
 Arachnothera modesta,0,
 Arachnothera robusta,0,
-Chalcoparia singalensis,0,Muara Angke NR 1%;版纳植物园16%;
+Chalcoparia singalensis,1,11个亚种;----------------------------------------------------;2026-10-5 印尼爪哇Alas purwo国家公园(phoenicotis，爪哇中西部和东部);
 Anthreptes anchietae,0,
 Anthreptes aurantius,0,
 Anthreptes gabonicus,0,
 Anthreptes griseigularis,0,
 Anthreptes longuemarei,0,
-Anthreptes malacensis,1,16个亚种;----------------------------------------------------;2018-8-18 新加坡巴西立公园(malacensis);
+Anthreptes malacensis,1,16个亚种;----------------------------------------------------;2018-8-18 新加坡巴西立公园(malacensis);2026-10-1 印尼婆罗浮屠(malacensis);
 Anthreptes neglectus,0,
 Anthreptes orientalis,0,
 Anthreptes rectirostris,0,
@@ -9487,7 +9487,7 @@ Aethopyga bella,0,
 Aethopyga boltoni,0,
 Aethopyga christinae,1,3个亚种;----------------------------------------------------;2018-2 莆田东圳水渠(latouchii，红喉褐背);2022-1-20 海南尖峰岭(christinae，暗喉黑背);
 Aethopyga duyvenbodei,0,
-Aethopyga eximia,0,
+Aethopyga eximia,1,单型种(全);----------------------------------------------------;2026-10-3 印尼伊真火山;
 Aethopyga flagrans,0,
 Aethopyga gouldiae,3,4个亚种;----------------------------------------------------;2025-7-27 昆明金殿公园(dabryii);
 Aethopyga guimarasensis,0,
@@ -9577,7 +9577,7 @@ Cinnyris moreaui,0,
 Cinnyris nectarinioides,0,
 Cinnyris neergaardi,0,
 Cinnyris notatus,0,
-Cinnyris ornatus,1,21个亚种;----------------------------------------------------;2019-8-20 新加坡植物园(ornatus);2022-1-18 海南南渡江(白腹，rhizophorae);
+Cinnyris ornatus,1,21个亚种;----------------------------------------------------;2019-8-20 新加坡植物园(ornatus);2022-1-18 海南南渡江(白腹，rhizophorae);2026-10-4 印尼外南梦solong酒店(ornatus);
 Cinnyris osea,0,
 Cinnyris oustaleti,0,
 Cinnyris pembae,0,
@@ -9786,7 +9786,7 @@ Mayrimunia tristissima,0,
 Lonchura atricapilla,3,7个亚种;----------------------------------------------------;2025-1-31 帕劳Long Island公园(jagori);
 Lonchura caniceps,0,
 Lonchura castaneothorax,0,
-Lonchura ferruginosa,0,
+Lonchura ferruginosa,2,
 Lonchura flaviprymna,0,
 Lonchura forbesi,0,
 Lonchura fuscans,0,Kinabalu Park--HQ area 2%;Sepilok--Rainforest Discovery Center 22%;Poring Hot Springs 30%;
@@ -9794,8 +9794,8 @@ Lonchura grandis,0,
 Lonchura hunsteini,0,
 Lonchura kelaarti,0,
 Lonchura leucogastra,0,
-Lonchura leucogastroides,2,Muara Angke NR 38%;
-Lonchura maja,1,单型种(全);----------------------------------------------------;2019-8-19 新加坡裕廊飞禽公园;
+Lonchura leucogastroides,1,单型种(全);----------------------------------------------------;2026-10-1 印尼婆罗浮屠;
+Lonchura maja,1,单型种(全);----------------------------------------------------;2019-8-19 新加坡裕廊飞禽公园;2026-10-2 印尼东爪哇省;
 Lonchura malacca,0,
 Lonchura melaena,0,
 Lonchura molucca,2,River Mouth south of Labuan Bajo (39%);
@@ -9804,7 +9804,7 @@ Lonchura monticola,0,
 Lonchura nevermanni,0,
 Lonchura nigerrima,0,
 Lonchura pallida,2,Labuan Bajo (21%);
-Lonchura punctulata,1,11个亚种;----------------------------------------------------;2018-6 厦门忠仑公园(topela);2022-1-18 海南儋州(topela);
+Lonchura punctulata,1,11个亚种;----------------------------------------------------;2018-6 厦门忠仑公园(topela);2022-1-18 海南儋州(topela);2026-10-2 印尼中爪哇省(nisoria);
 Lonchura quinticolor,2,Labuan Bajo (8%);
 Lonchura spectabilis,0,
 Lonchura striata,1,6个亚种;----------------------------------------------------;2018-5 厦门天竺山森林公园(swinhoei);
@@ -9941,7 +9941,7 @@ Passer italiae,0,
 Passer luteus,0,
 Passer melanurus,0,
 Passer moabiticus,0,
-Passer montanus,1,9个亚种;----------------------------------------------------;2017-12 厦门集美大学(saturatus);2018-8 新加坡(malaccensis);2020-7-24 西藏拉萨(tibetanus);2022-1-22 海南三亚(malaccensis);2023-7-5 兰州黄河沿岸(kansuensis);2023-7-6 新疆乌鲁木齐植物园(dilutus);2026-2-11 内蒙古海拉尔(dybowskii);
+Passer montanus,1,9个亚种;----------------------------------------------------;2017-12 厦门集美大学(saturatus);2018-8 新加坡(malaccensis);2020-7-24 西藏拉萨(tibetanus);2022-1-22 海南三亚(malaccensis);2023-7-5 兰州黄河沿岸(kansuensis);2023-7-6 新疆乌鲁木齐植物园(dilutus);2026-2-11 内蒙古海拉尔(dybowskii);2026-10-1 印度尼西亚爪哇Sheraton酒店;
 Passer motitensis,0,
 Passer pyrrhonotus,0,
 Passer rufocinctus,0,
@@ -9952,7 +9952,7 @@ Passer swainsonii,0,
 Passer zarudnyi,0,
 Dendronanthus indicus,2,
 Motacilla aguimp,0,
-Motacilla alba,5,9个亚种;----------------------------------------------------;2017-12 厦门湿地公园;2020-7-25 布达拉宫广场;2021-5-14 宁夏银川水洞沟;2021-10-29 杏林湾(ocularis，眼纹灰背);2022-1-18 海南儋州(leucopsis，东亚，白脸);2023-1-9 阿联酋迪拜(alba，白脸灰背);2023-7-5 兰州黄河沿岸(baicalensis，白脸灰背);2023-7-6 乌鲁木齐植物园(personata，黑脸灰背);2024-3-1 四川德阳旌河(alboides，西南，黑脸黑背);2025-7-17 昆明滇池草海湿地(alboides，西南，黑脸黑背);
+Motacilla alba,1,9个亚种;----------------------------------------------------;2017-12 厦门湿地公园;2020-7-25 布达拉宫广场;2021-5-14 宁夏银川水洞沟;2021-10-29 杏林湾(ocularis，眼纹灰背);2022-1-18 海南儋州(leucopsis，东亚，白脸);2023-1-9 阿联酋迪拜(alba，白脸灰背);2023-7-5 兰州黄河沿岸(baicalensis，白脸灰背);2023-7-6 乌鲁木齐植物园(personata，黑脸灰背);2024-3-1 四川德阳旌河(alboides，西南，黑脸黑背);2025-7-17 昆明滇池草海湿地(alboides，西南，黑脸黑背);
 Motacilla bocagii,0,
 Motacilla capensis,0,
 Motacilla cinerea,1,3个亚种;----------------------------------------------------;2018-2 莆田东圳水渠(cinerea);2021-5-14 宁夏银川水洞沟(cinerea);2022-1-18 海南白沙门公园(cinerea);
@@ -10012,7 +10012,7 @@ Anthus richardi,1,单型种(全);-----------------------------------------------
 Anthus roseatus,2,苏典 18%;大盈江 14%;
 Anthus rubescens,1,2个亚种;----------------------------------------------------;2022-10-22 多伦多Thompson公园(rubescens);
 Anthus ruficollis,0,
-Anthus rufulus,0,大盈江 19%;
+Anthus rufulus,1,8个亚种;----------------------------------------------------;2026-10-6 印尼外南梦机场(rustica);
 Anthus similis,0,
 Anthus sokokensis,0,
 Anthus spinoletta,3,3个亚种;----------------------------------------------------;2023-12-9 江西永修九合乡(blakistoni);
@@ -10288,7 +10288,7 @@ Emberiza jankowskii,0,
 Emberiza koslowi,0,
 Emberiza lathami,1,单型种(全);----------------------------------------------------;2020-3-27 厦门田头村;
 Emberiza leucocephalos,2,
-Emberiza melanocephala,1,单型种(全);----------------------------------------------------;2021-1-21 厦门田头村;
+Emberiza melanocephala,5,单型种(全);----------------------------------------------------;2021-1-21 厦门田头村;
 Emberiza pallasi,1,4个亚种;----------------------------------------------------;2020-10-31 陕西西安湖(pallasi);2021-5-16 宁夏石嘴山市沙湖(pallasi);2024-11-1 泉州九十九溪(polaris);
 Emberiza personata,0,
 Emberiza poliopleura,0,

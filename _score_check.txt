@@ -1,7 +1,0 @@
-m=11122
-median=2.000 min=1.000 max=6.000
-band dist:{0: 5560, 1: 2781, 2: 1388, 3: 694, 4: 303, 5: 396}
-Zapornia fusca cnt=39917 score=1.33 star=1.5
-Struthio camelus cnt=57599 score=1.27 star=1.5
-Moho braccatus cnt=9 score=5.42 star=5.5
-Apteryx maxima cnt=3371 score=2.15 star=2.0

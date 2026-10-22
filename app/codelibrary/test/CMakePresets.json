@@ -1,0 +1,113 @@
+{
+    "version": 10,
+    "configurePresets": [
+        {
+            "name": "dbg",
+            "displayName": "Debug Configuration",
+            "description": "Debug build with debugging symbols",
+            "generator": "Ninja",
+            "binaryDir": "${sourceDir}/build/debug",
+            "cacheVariables": {
+                "CMAKE_BUILD_TYPE": "Debug",
+                "CMAKE_EXPORT_COMPILE_COMMANDS": "ON"
+            }
+        },
+        {
+            "name": "rel",
+            "displayName": "Release Configuration",
+            "description": "Optimized release build",
+            "generator": "Ninja",
+            "binaryDir": "${sourceDir}/build/release",
+            "cacheVariables": {
+                "CMAKE_BUILD_TYPE": "Release",
+                "CMAKE_EXPORT_COMPILE_COMMANDS": "ON"
+            }
+        },
+        {
+            "name": "rel-asan",
+            "displayName": "Release with AddressSanitizer",
+            "description": "Release build with AddressSanitizer for memory error detection",
+            "generator": "Ninja",
+            "binaryDir": "${sourceDir}/build/release-asan",
+            "cacheVariables": {
+                "CMAKE_BUILD_TYPE": "RelWithDebInfo",
+                "CMAKE_CXX_FLAGS": "-fsanitize=address,undefined -fno-omit-frame-pointer",
+                "CMAKE_EXE_LINKER_FLAGS": "-fsanitize=address,undefined",
+                "CMAKE_EXPORT_COMPILE_COMMANDS": "ON"
+            }
+        }
+    ],
+    "buildPresets": [
+        {
+            "name": "dbg",
+            "displayName": "Debug Build",
+            "configurePreset": "dbg"
+        },
+        {
+            "name": "rel",
+            "displayName": "Release Build",
+            "configurePreset": "rel"
+        },
+        {
+            "name": "rel-asan",
+            "displayName": "Release with AddressSanitizer Build",
+            "configurePreset": "rel-asan"
+        }
+    ],
+    "testPresets": [
+        {
+            "name": "dbg",
+            "displayName": "Debug Tests",
+            "configurePreset": "dbg",
+            "output": {
+                "outputOnFailure": true,
+                "verbosity": "verbose"
+            },
+            "environment": {
+                "CTEST_OUTPUT_ON_FAILURE": "1",
+                "FORCE_COLOR": "1",
+                "CLICOLOR_FORCE": "1"
+            },
+            "execution": {
+                "noTestsAction": "error",
+                "stopOnFailure": false
+            }
+        },
+        {
+            "name": "rel",
+            "displayName": "Release Tests",
+            "configurePreset": "rel",
+            "output": {
+                "outputOnFailure": true,
+                "verbosity": "verbose"
+            },
+            "environment": {
+                "CTEST_OUTPUT_ON_FAILURE": "1",
+                "FORCE_COLOR": "1",
+                "CLICOLOR_FORCE": "1"
+            },
+            "execution": {
+                "noTestsAction": "error",
+                "stopOnFailure": false
+            }
+        },
+        {
+            "name": "rel-asan",
+            "displayName": "Release with AddressSanitizer Tests",
+            "configurePreset": "rel-asan",
+            "output": {
+                "outputOnFailure": true,
+                "verbosity": "verbose"
+            },
+            "environment": {
+                "CTEST_OUTPUT_ON_FAILURE": "1",
+                "FORCE_COLOR": "1",
+                "CLICOLOR_FORCE": "1"
+            },
+            "execution": {
+                "noTestsAction": "error",
+                "stopOnFailure": false
+            }
+        }
+    ]
+}

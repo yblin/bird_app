@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>resources/save-icon.png</file>
+        <file>resources/load-image-icon.png</file>
+        <file>resources/monkey-icon.png</file>
+        <file>resources/reload-icon.png</file>
+        <file>resources/search-icon.png</file>
+        <file>resources/swallow_bird.png</file>
+        <file>resources/app.ico</file>
+        <file>resources/export.png</file>
+        <file>resources/distribution.png</file>
+        <file>resources/left.png</file>
+        <file>resources/right.png</file>
+        <file>resources/load_sound.png</file>
+    </qresource>
+</RCC>

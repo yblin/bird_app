@@ -1,0 +1,4 @@
+#ifndef POLYLINE_KERNEL_H
+#define POLYLINE_KERNEL_H
+
+#endif // POLYLINE_KERNEL_H

@@ -8609,12 +8609,11 @@ Cistothorus palustris,1,14个亚种;--------------------------------------------
 Cistothorus platensis,0,
 Cistothorus stellaris,0,
 Ferminia cerverai,17,单型种(全);----------------------------------------------------;2022-12-28 古巴萨帕塔;
-Thryorchilus browni,0,
-Troglodytes aedon,1,30个亚种;----------------------------------------------------;2022-6-11 多伦多High park(aedon);
+Nannus aedon,1,30个亚种;----------------------------------------------------;2022-6-11 多伦多High park(aedon);
 Troglodytes beani,0,
+Troglodytes browni,0,
 Troglodytes cobbi,0,
 Troglodytes grenadensis,0,
-Troglodytes hiemalis,1,2个亚种;----------------------------------------------------;2022-10-17 多伦多Thompson公园(hiemalis);
 Troglodytes martinicensis,0,
 Troglodytes mesoleucus,0,
 Troglodytes monticola,0,
@@ -8627,7 +8626,8 @@ Troglodytes rufulus,0,
 Troglodytes sissonii,0,
 Troglodytes solstitialis,0,
 Troglodytes tanneri,0,
-Troglodytes troglodytes,3,27个亚种;----------------------------------------------------;2020-8-2 西藏吉隆镇扎村山路(nipalensis);2020-11-2 西安祥裕森林公园(idius);2024-3-3 四川唐家河(szetschuanus);
+Nannus hiemalis,1,2个亚种;----------------------------------------------------;2022-10-17 多伦多Thompson公园(hiemalis);
+Nannus troglodytes,3,27个亚种;----------------------------------------------------;2020-8-2 西藏吉隆镇扎村山路(nipalensis);2020-11-2 西安祥裕森林公园(idius);2024-3-3 四川唐家河(szetschuanus);
 Odontorchilus branickii,0,
 Odontorchilus cinereus,0,
 Uropsila leucogastra,0,
@@ -9089,13 +9089,13 @@ Artomyias ussheri,0,
 Bradornis comitatus,0,
 Bradornis mariquensis,0,
 Bradornis microrhynchus,0,
-Humblotia flavirostris,0,
 Muscicapa adusta,0,
 Muscicapa aquatica,0,
 Muscicapa cassini,0,
 Muscicapa dauurica,1,3个亚种;----------------------------------------------------;2018-4 厦门集美水上运动中心(dauurica);2021-4-23 杭州西湖(dauurica);2025-7-14 昆明西山(dauurica);
 Muscicapa epulata,0,
 Muscicapa ferruginea,1,单型种(全);----------------------------------------------------;2020-4-25 厦门天竺山公园;
+Muscicapa flavirostris,0,
 Muscicapa gambagae,0,
 Muscicapa griseisticta,1,单型种(全);----------------------------------------------------;2019-4-27 厦门同安杉际内;
 Muscicapa muttui,1,单型种(全);----------------------------------------------------;2020-7-3 厦门天竺山森林公园;
@@ -9218,6 +9218,7 @@ Myiomela sumatrana,0,
 Enicurus borneensis,2,Kinabalu Park--HQ area 38%;Kinabalu Park--Power Station Road 23%;Kinabalu Park--Summit trail 6%;
 Enicurus frontalis,0,
 Enicurus immaculatus,2,
+Enicurus leschenaulti,0,
 Enicurus maculatus,1,4个亚种;----------------------------------------------------;2024-5-2 三明峨眉峰(bacatus);2025-7-28 大理苍山(guttatus);
 Enicurus ruficapillus,0,
 Enicurus schistaceus,1,单型种(全);----------------------------------------------------;2018-2 莆田九龙谷森林公园;
@@ -9227,8 +9228,9 @@ Enicurus velatus,0,
 Cinclidium frontale,0,
 Myophonus blighi,0,
 Myophonus borneensis,2,Kinabalu Park--HQ area 56%;Kinabalu Park--Power Station Road 48%;Kinabalu Park--Summit trail 35%;
-Myophonus caeruleus,1,6个亚种;----------------------------------------------------;2018-2 莆田东圳水渠(caeruleus，黑嘴);2020-8-2 西藏吉隆沟(temminckii，黄嘴);2025-7-31 大理无为寺(eugenei);
+Myophonus caeruleus,1,单型种(全);----------------------------------------------------;2018-2 莆田东圳水渠;;;2020-8-2 西藏吉隆沟(temminckii，黄嘴);2025-7-31 大理无为寺(eugenei);
 Myophonus castaneus,0,
+Myophonus flavirostris,1,
 Myophonus glaucinus,1,单型种(全);----------------------------------------------------;2026-10-3 印尼伊真火山;
 Myophonus horsfieldii,0,
 Myophonus insularis,0,

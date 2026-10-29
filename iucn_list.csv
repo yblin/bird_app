@@ -8609,12 +8609,11 @@ Cistothorus palustris,Least Concern
 Cistothorus platensis,Least Concern
 Cistothorus stellaris,Least Concern
 Ferminia cerverai,Endangered
-Thryorchilus browni,Least Concern
-Troglodytes aedon,Least Concern
+Nannus aedon,Least Concern
 Troglodytes beani,Least Concern
+Troglodytes browni,Least Concern
 Troglodytes cobbi,Least Concern
 Troglodytes grenadensis,Unknown
-Troglodytes hiemalis,Least Concern
 Troglodytes martinicensis,Unknown
 Troglodytes mesoleucus,Unknown
 Troglodytes monticola,Critically Endangered
@@ -8627,7 +8626,8 @@ Troglodytes rufulus,Least Concern
 Troglodytes sissonii,Near Threatened
 Troglodytes solstitialis,Least Concern
 Troglodytes tanneri,Vulnerable
-Troglodytes troglodytes,Least Concern
+Nannus hiemalis,Least Concern
+Nannus troglodytes,Least Concern
 Odontorchilus branickii,Least Concern
 Odontorchilus cinereus,Least Concern
 Uropsila leucogastra,Least Concern
@@ -9089,13 +9089,13 @@ Artomyias ussheri,Least Concern
 Bradornis comitatus,Least Concern
 Bradornis mariquensis,Least Concern
 Bradornis microrhynchus,Least Concern
-Humblotia flavirostris,Vulnerable
 Muscicapa adusta,Least Concern
 Muscicapa aquatica,Least Concern
 Muscicapa cassini,Least Concern
 Muscicapa dauurica,Least Concern
 Muscicapa epulata,Least Concern
 Muscicapa ferruginea,Least Concern
+Muscicapa flavirostris,Vulnerable
 Muscicapa gambagae,Least Concern
 Muscicapa griseisticta,Least Concern
 Muscicapa muttui,Least Concern
@@ -9218,6 +9218,7 @@ Myiomela sumatrana,Unknown
 Enicurus borneensis,Unknown
 Enicurus frontalis,Unknown
 Enicurus immaculatus,Least Concern
+Enicurus leschenaulti,Unknown
 Enicurus maculatus,Least Concern
 Enicurus ruficapillus,Near Threatened
 Enicurus schistaceus,Least Concern
@@ -9229,6 +9230,7 @@ Myophonus blighi,Endangered
 Myophonus borneensis,Least Concern
 Myophonus caeruleus,Least Concern
 Myophonus castaneus,Least Concern
+Myophonus flavirostris,Unknown
 Myophonus glaucinus,Least Concern
 Myophonus horsfieldii,Least Concern
 Myophonus insularis,Least Concern

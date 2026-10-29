@@ -51,6 +51,7 @@ Crypturellus noctivagus,Near Threatened
 Crypturellus obsoletus,Least Concern
 Crypturellus parvirostris,Least Concern
 Crypturellus ptaritepui,Least Concern
+Crypturellus resonans,Unknown
 Crypturellus soui,Least Concern
 Crypturellus strigulosus,Least Concern
 Crypturellus tataupa,Least Concern
@@ -9215,12 +9216,13 @@ Myiomela diana,Least Concern
 Myiomela leucura,Least Concern
 Myiomela sumatrana,Unknown
 Enicurus borneensis,Unknown
+Enicurus frontalis,Unknown
 Enicurus immaculatus,Least Concern
-Enicurus leschenaulti,Least Concern
 Enicurus maculatus,Least Concern
 Enicurus ruficapillus,Near Threatened
 Enicurus schistaceus,Least Concern
 Enicurus scouleri,Least Concern
+Enicurus sinensis,Least Concern
 Enicurus velatus,Least Concern
 Cinclidium frontale,Least Concern
 Myophonus blighi,Endangered
@@ -9365,6 +9367,7 @@ Oenanthe familiaris,Least Concern
 Oenanthe finschii,Least Concern
 Oenanthe frenata,Least Concern
 Oenanthe fusca,Least Concern
+Oenanthe halophila,Unknown
 Oenanthe heuglinii,Least Concern
 Oenanthe hispanica,Least Concern
 Oenanthe isabellina,Least Concern
@@ -9705,9 +9708,9 @@ Foudia madagascariensis,Least Concern
 Foudia omissa,Least Concern
 Foudia rubra,Endangered
 Foudia sechellarum,Near Threatened
-Brachycope anomala,Least Concern
 Euplectes afer,Least Concern
 Euplectes albonotatus,Least Concern
+Euplectes anomalus,Least Concern
 Euplectes ardens,Least Concern
 Euplectes aureus,Least Concern
 Euplectes axillaris,Least Concern
@@ -10262,50 +10265,49 @@ Plectrophenax nivalis,Least Concern
 Calcarius lapponicus,Least Concern
 Calcarius ornatus,Vulnerable
 Calcarius pictus,Least Concern
-Emberiza affinis,Least Concern
-Emberiza aureola,Critically Endangered
-Emberiza bruniceps,Least Concern
 Emberiza buchanani,Least Concern
-Emberiza cabanisi,Least Concern
 Emberiza caesia,Least Concern
 Emberiza calandra,Least Concern
-Emberiza capensis,Least Concern
-Emberiza chrysophrys,Least Concern
 Emberiza cia,Least Concern
 Emberiza cineracea,Near Threatened
 Emberiza cioides,Least Concern
 Emberiza cirlus,Least Concern
 Emberiza citrinella,Least Concern
-Emberiza elegans,Least Concern
-Emberiza flaviventris,Least Concern
 Emberiza fucata,Least Concern
-Emberiza godlewskii,Least Concern
 Emberiza goslingi,Least Concern
 Emberiza hortulana,Least Concern
-Emberiza impetuani,Least Concern
 Emberiza jankowskii,Endangered
 Emberiza koslowi,Least Concern
-Emberiza lathami,Least Concern
 Emberiza leucocephalos,Least Concern
-Emberiza melanocephala,Least Concern
-Emberiza pallasi,Least Concern
-Emberiza personata,Least Concern
-Emberiza poliopleura,Least Concern
-Emberiza pusilla,Least Concern
-Emberiza rustica,Near Threatened
-Emberiza rutila,Least Concern
-Emberiza sahari,Least Concern
-Emberiza schoeniclus,Least Concern
-Emberiza siemsseni,Least Concern
-Emberiza socotrana,Near Threatened
-Emberiza spodocephala,Least Concern
 Emberiza stewarti,Least Concern
-Emberiza striolata,Least Concern
-Emberiza sulphurata,Least Concern
-Emberiza tahapisi,Least Concern
-Emberiza tristrami,Least Concern
-Emberiza variabilis,Least Concern
-Emberiza yessoensis,Near Threatened
+Schoeniclus aureolus,Critically Endangered
+Schoeniclus chrysophrys,Least Concern
+Schoeniclus elegans,Least Concern
+Schoeniclus pallasi,Least Concern
+Schoeniclus personatus,Least Concern
+Schoeniclus pusillus,Least Concern
+Schoeniclus rusticus,Near Threatened
+Schoeniclus rutilus,Least Concern
+Schoeniclus schoeniclus,Least Concern
+Schoeniclus siemsseni,Least Concern
+Schoeniclus spodocephalus,Least Concern
+Schoeniclus sulphuratus,Least Concern
+Schoeniclus tristrami,Least Concern
+Schoeniclus variabilis,Least Concern
+Schoeniclus yessoensis,Near Threatened
+Melophus bruniceps,Least Concern
+Melophus lathami,Least Concern
+Melophus melanocephalus,Least Concern
+Fringillaria affinis,Least Concern
+Fringillaria cabanisi,Least Concern
+Fringillaria capensis,Least Concern
+Fringillaria flaviventris,Least Concern
+Fringillaria impetuani,Least Concern
+Fringillaria poliopleura,Least Concern
+Fringillaria sahari,Least Concern
+Fringillaria socotrana,Near Threatened
+Fringillaria striolata,Least Concern
+Fringillaria tahapisi,Least Concern
 Amphispizopsis quinquestriata,Least Concern
 Amphispiza bilineata,Least Concern
 Calamospiza melanocorys,Least Concern
@@ -10657,7 +10659,6 @@ Basileuterus belli,Least Concern
 Basileuterus culicivorus,Least Concern
 Basileuterus delattrii,Unknown
 Basileuterus ignotus,Vulnerable
-Basileuterus lachrymosus,Least Concern
 Basileuterus melanogenys,Least Concern
 Basileuterus melanotis,Least Concern
 Basileuterus punctipectus,Least Concern
@@ -10665,6 +10666,7 @@ Basileuterus rufifrons,Least Concern
 Basileuterus tacarcunae,Least Concern
 Basileuterus trifasciatus,Least Concern
 Basileuterus tristriatus,Least Concern
+Euthlypis lachrymosa,Least Concern
 Cardellina canadensis,Least Concern
 Cardellina pusilla,Least Concern
 Cardellina rubra,Least Concern
@@ -10862,6 +10864,7 @@ Diglossa humeralis,Least Concern
 Diglossa indigotica,Least Concern
 Diglossa lafresnayii,Least Concern
 Diglossa major,Least Concern
+Diglossa melanopis,Unknown
 Diglossa mystacalis,Least Concern
 Diglossa plumbea,Least Concern
 Diglossa sittoides,Least Concern
@@ -10954,6 +10957,7 @@ Poospiza ornata,Least Concern
 Poospiza rubecula,Near Threatened
 Poospiza rufosuperciliaris,Least Concern
 Poospiza whitii,Least Concern
+Cnemoscopus chrysogaster,Unknown
 Cnemoscopus rubrirostris,Least Concern
 Castanozoster thoracicus,Least Concern
 Poospizopsis caesar,Least Concern

@@ -2224,7 +2224,7 @@
 --------,墨西哥鹪鹩属,,Catherpes
 --------,细嘴鹪鹩属,,Hylorchilus
 --------,夜莺鹪鹩属,,Microcerculus
---------,卡罗苇鹪鹩属,,Thryothorus
+--------,卡罗莱纳苇鹪鹩属,,Thryothorus
 --------,比氏苇鹪鹩属,,Thryomanes
 --------,曲嘴鹪鹩属,,Campylorhynchus
 --------,沼泽鹪鹩属,,Cistothorus
@@ -2541,6 +2541,9 @@
 --------,铁爪鹀属,,Calcarius
 ----,鹀科,Old World Buntings,Emberizidae
 --------,鹀属,,Emberiza
+--------,芦鹀属,,Schoeniclus
+--------,凤头鹀属,,Melophus
+--------,非洲鹀属,,Fringillaria
 ----,雀鹀科,New World Sparrows,Passerellidae
 --------,五纹猛雀鹀属,,Amphispizopsis
 --------,漠鹀属,,Amphispiza
@@ -2635,6 +2638,7 @@
 --------,橙尾鸲莺属,,Setophaga
 --------,米欧王森莺属,,Myiothlypis
 --------,王森莺属,,Basileuterus
+--------,扇尾森莺属,,Euthlypis
 --------,红脸森莺属,,Cardellina
 --------,鸲莺属,,Myioborus
 ----,美洲雀科,Cardinals & Allies,Cardinalidae

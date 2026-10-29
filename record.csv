@@ -51,6 +51,7 @@ Crypturellus noctivagus,0,
 Crypturellus obsoletus,0,
 Crypturellus parvirostris,0,
 Crypturellus ptaritepui,0,
+Crypturellus resonans,0,
 Crypturellus soui,0,3-20 Estacion Biologica La Selva 11.95%;
 Crypturellus strigulosus,0,
 Crypturellus tataupa,0,
@@ -1473,7 +1474,7 @@ Scolopax minor,1,单型种(全);------------------------------------------------
 Scolopax mira,0,
 Scolopax rochussenii,0,
 Scolopax rosenbergii,0,
-Scolopax rusticola,5,单型种(全);----------------------------------------------------;2026-1-24 厦门人民会堂;
+Scolopax rusticola,1,单型种(全);----------------------------------------------------;2026-1-24 厦门人民会堂;
 Scolopax saturata,0,
 Coenocorypha aucklandica,0,
 Coenocorypha barrierensis,0,
@@ -9215,12 +9216,13 @@ Myiomela diana,0,
 Myiomela leucura,3,3个亚种;----------------------------------------------------;2025-7-16 昆明西山(leucura);2026-6-8 厦门天竺山东门(leucura);
 Myiomela sumatrana,0,
 Enicurus borneensis,2,Kinabalu Park--HQ area 38%;Kinabalu Park--Power Station Road 23%;Kinabalu Park--Summit trail 6%;
+Enicurus frontalis,0,
 Enicurus immaculatus,2,
-Enicurus leschenaulti,1,5个亚种;----------------------------------------------------;2020-5-2 福建永泰青云山(sinensis);2020-6-5 三明萝卜岩(sinensis);2020-11-2 西安祥裕森林公园(sinensis);2024-3-2 四川唐家河(sinensis);
 Enicurus maculatus,1,4个亚种;----------------------------------------------------;2024-5-2 三明峨眉峰(bacatus);2025-7-28 大理苍山(guttatus);
 Enicurus ruficapillus,0,
 Enicurus schistaceus,1,单型种(全);----------------------------------------------------;2018-2 莆田九龙谷森林公园;
 Enicurus scouleri,3,单型种(全);----------------------------------------------------;2020-11-2 西安祥裕森林公园;2024-3-2 四川唐家河;
+Enicurus sinensis,1,5个亚种;----------------------------------------------------;2020-5-2 福建永泰青云山(sinensis);2020-6-5 三明萝卜岩(sinensis);2020-11-2 西安祥裕森林公园(sinensis);2024-3-2 四川唐家河(sinensis);
 Enicurus velatus,0,
 Cinclidium frontale,0,
 Myophonus blighi,0,
@@ -9365,6 +9367,7 @@ Oenanthe familiaris,0,
 Oenanthe finschii,0,
 Oenanthe frenata,0,
 Oenanthe fusca,0,
+Oenanthe halophila,0,
 Oenanthe heuglinii,0,
 Oenanthe hispanica,0,
 Oenanthe isabellina,2,单型种;----------------------------------------------------;
@@ -9705,9 +9708,9 @@ Foudia madagascariensis,0,
 Foudia omissa,0,
 Foudia rubra,0,
 Foudia sechellarum,0,
-Brachycope anomala,0,
 Euplectes afer,0,
 Euplectes albonotatus,0,
+Euplectes anomalus,0,
 Euplectes ardens,0,
 Euplectes aureus,0,
 Euplectes axillaris,0,
@@ -10262,50 +10265,49 @@ Plectrophenax nivalis,1,4个亚种;---------------------------------------------
 Calcarius lapponicus,1,5个亚种;----------------------------------------------------;2022-10-10 多伦多Ashbridge's Bay公园(subcalcaratus);
 Calcarius ornatus,0,
 Calcarius pictus,0,
-Emberiza affinis,0,
-Emberiza aureola,5,2个亚种;----------------------------------------------------;2020-11-23 厦门田头村(ornata);
-Emberiza bruniceps,0,
 Emberiza buchanani,0,
-Emberiza cabanisi,0,
 Emberiza caesia,0,
 Emberiza calandra,0,
-Emberiza capensis,0,
-Emberiza chrysophrys,1,单型种(全);----------------------------------------------------;2021-4-17 厦门田头村;
 Emberiza cia,1,6个亚种;----------------------------------------------------;2023-7-10 新疆冲乎尔村(par);
 Emberiza cineracea,0,
 Emberiza cioides,2,
 Emberiza cirlus,0,
 Emberiza citrinella,1,3个亚种;----------------------------------------------------;2019-1 新西兰南岛(caliginosa);
-Emberiza elegans,3,3个亚种;----------------------------------------------------;2019-10-12 哈尔滨市黑龙江省植物园(elegans);2020-11-1 西安陕西宾馆(elegantula);2023-11-20 苏州虎丘湿地公园(elegans);
-Emberiza flaviventris,0,
 Emberiza fucata,1,3个亚种;----------------------------------------------------;2020-3-29 厦门田头村(kuatunensis);2023-12-7 江西永修九合乡(kuatunensis);2025-7-20 云南梁王山(arcuata);
-Emberiza godlewskii,1,5个亚种;----------------------------------------------------;2020-7-29 西藏江孜宗山遗址(khamensis，西南);2025-7-20 云南梁王山(yunnanensis，西南);
-Emberiza goslingi,0,
+Emberiza goslingi,1,5个亚种;----------------------------------------------------;2020-7-29 西藏江孜宗山遗址(khamensis，西南);2025-7-20 云南梁王山(yunnanensis，西南);
 Emberiza hortulana,0,
-Emberiza impetuani,0,
 Emberiza jankowskii,0,
 Emberiza koslowi,0,
-Emberiza lathami,1,单型种(全);----------------------------------------------------;2020-3-27 厦门田头村;
 Emberiza leucocephalos,2,
-Emberiza melanocephala,5,单型种(全);----------------------------------------------------;2021-1-21 厦门田头村;
-Emberiza pallasi,1,4个亚种;----------------------------------------------------;2020-10-31 陕西西安湖(pallasi);2021-5-16 宁夏石嘴山市沙湖(pallasi);2024-11-1 泉州九十九溪(polaris);
-Emberiza personata,0,
-Emberiza poliopleura,0,
-Emberiza pusilla,1,单型种(全);----------------------------------------------------;2019-11-30 泉州德化县雷锋镇;2023-11-20 苏州虎丘湿地公园;
-Emberiza rustica,1,单型种(全);----------------------------------------------------;2022-2-20 厦门田头村;2023-12-7 江西永修九合乡;
-Emberiza rutila,2,单型种(全);----------------------------------------------------;
-Emberiza sahari,0,
-Emberiza schoeniclus,1,19个亚种;----------------------------------------------------;2026-1-25 厦门马銮湾(pyrrhulina);
-Emberiza siemsseni,3,单型种(全);----------------------------------------------------;2024-3-2 四川唐家河;
-Emberiza socotrana,0,
-Emberiza spodocephala,1,2个亚种;----------------------------------------------------;2021-5-16 宁夏石嘴山市沙湖;2022-3-22 厦门杏林湾(sordida);2023-11-18 苏州虎丘湿地公园(sordida);
 Emberiza stewarti,0,
-Emberiza striolata,0,
-Emberiza sulphurata,1,单型种(全);----------------------------------------------------;2020-3-29 厦门田头村;
-Emberiza tahapisi,0,
-Emberiza tristrami,1,单型种(全);----------------------------------------------------;2019-2-7 福州森林公园;2021-4-23 杭州西湖;
-Emberiza variabilis,0,
-Emberiza yessoensis,1,2个亚种;----------------------------------------------------;2026-1-24 泉州九十九溪(continentalis);
+Schoeniclus aureolus,1,2个亚种;----------------------------------------------------;2020-11-23 厦门田头村(ornata);
+Schoeniclus chrysophrys,1,单型种(全);----------------------------------------------------;2021-4-17 厦门田头村;
+Schoeniclus elegans,3,3个亚种;----------------------------------------------------;2019-10-12 哈尔滨市黑龙江省植物园(elegans);2020-11-1 西安陕西宾馆(elegantula);2023-11-20 苏州虎丘湿地公园(elegans);
+Schoeniclus pallasi,1,4个亚种;----------------------------------------------------;2020-10-31 陕西西安湖(pallasi);2021-5-16 宁夏石嘴山市沙湖(pallasi);2024-11-1 泉州九十九溪(polaris);
+Schoeniclus personatus,0,
+Schoeniclus pusillus,1,单型种(全);----------------------------------------------------;2019-11-30 泉州德化县雷锋镇;2023-11-20 苏州虎丘湿地公园;
+Schoeniclus rusticus,1,单型种(全);----------------------------------------------------;2022-2-20 厦门田头村;2023-12-7 江西永修九合乡;
+Schoeniclus rutilus,2,单型种(全);----------------------------------------------------;
+Schoeniclus schoeniclus,1,19个亚种;----------------------------------------------------;2026-1-25 厦门马銮湾(pyrrhulina);
+Schoeniclus siemsseni,3,单型种(全);----------------------------------------------------;2024-3-2 四川唐家河;
+Schoeniclus spodocephalus,1,2个亚种;----------------------------------------------------;2021-5-16 宁夏石嘴山市沙湖;2022-3-22 厦门杏林湾(sordida);2023-11-18 苏州虎丘湿地公园(sordida);
+Schoeniclus sulphuratus,1,单型种(全);----------------------------------------------------;2020-3-29 厦门田头村;
+Schoeniclus tristrami,1,单型种(全);----------------------------------------------------;2019-2-7 福州森林公园;2021-4-23 杭州西湖;
+Schoeniclus variabilis,0,
+Schoeniclus yessoensis,1,2个亚种;----------------------------------------------------;2026-1-24 泉州九十九溪(continentalis);
+Melophus bruniceps,0,
+Melophus lathami,1,单型种(全);----------------------------------------------------;2020-3-27 厦门田头村;
+Melophus melanocephalus,1,单型种(全);----------------------------------------------------;2021-1-21 厦门田头村;
+Fringillaria affinis,0,
+Fringillaria cabanisi,0,
+Fringillaria capensis,0,
+Fringillaria flaviventris,0,
+Fringillaria impetuani,0,
+Fringillaria poliopleura,0,
+Fringillaria sahari,0,
+Fringillaria socotrana,0,
+Fringillaria striolata,0,
+Fringillaria tahapisi,0,
 Amphispizopsis quinquestriata,0,
 Amphispiza bilineata,0,
 Calamospiza melanocorys,0,
@@ -10498,7 +10500,7 @@ Icterus bullockiorum,0,
 Icterus cayanensis,0,
 Icterus chrysater,0,
 Icterus croconotus,0,
-Icterus cucullatus,4,
+Icterus cucullatus,0,
 Icterus dominicensis,0,
 Icterus galbula,1,单型种(全);----------------------------------------------------;2022-6-9 多伦多Thompson公园;
 Icterus graceannae,0,
@@ -10514,7 +10516,7 @@ Icterus mesomelas,0,
 Icterus nigrogularis,0,
 Icterus northropi,0,
 Icterus oberi,0,
-Icterus parisorum,4,
+Icterus parisorum,0,
 Icterus pectoralis,0,
 Icterus portoricensis,0,
 Icterus prosthemelas,0,3-19 La Paz Waterfall Gardens 12.61%;3-19 Tirimbina Rainforest 4.71%;3-20 Estacion Biologica La Selva 31.95%;3-21 Arenal Observatory Lodge 27.11%;3-21 Galeria de Colibriy Soda Cinchona 5.06%;3-22 Arenal Observatory Lodge--access rd 20.00%;
@@ -10541,7 +10543,7 @@ Euphagus carolinus,1,2个亚种;------------------------------------------------
 Euphagus cyanocephalus,0,
 Quiscalus lugubris,0,
 Quiscalus major,0,
-Quiscalus mexicanus,4,3-18 Hotel Bougainvillea 48.91%;3-19 La Paz Waterfall Gardens 14.80%;3-19 Donde Cope 50.00%;3-19 Tirimbina Rainforest 28.21%;3-20 Estacion Biologica La Selva 12.02%;3-21 Arenal Observatory Lodge 13.55%;3-21 Galeria de Colibriy Soda Cinchona 3.61%;3-23 Hotel de Montana Monteverde 79.25%;3-24 Curi-Cancha Refugio de Vida Silvestre 35.74%;3-24 Reserva Bosque Nuboso Monteverde 11.18%;3-25 Cerro Lodge 20.89%;3-25 Tarcoles--Tour en Bote 66.69%;3-26 PN Carara-Entrada principal 13.86%;
+Quiscalus mexicanus,0,3-18 Hotel Bougainvillea 48.91%;3-19 La Paz Waterfall Gardens 14.80%;3-19 Donde Cope 50.00%;3-19 Tirimbina Rainforest 28.21%;3-20 Estacion Biologica La Selva 12.02%;3-21 Arenal Observatory Lodge 13.55%;3-21 Galeria de Colibriy Soda Cinchona 3.61%;3-23 Hotel de Montana Monteverde 79.25%;3-24 Curi-Cancha Refugio de Vida Silvestre 35.74%;3-24 Reserva Bosque Nuboso Monteverde 11.18%;3-25 Cerro Lodge 20.89%;3-25 Tarcoles--Tour en Bote 66.69%;3-26 PN Carara-Entrada principal 13.86%;
 Quiscalus nicaraguensis,0,
 Quiscalus niger,1,7个亚种;----------------------------------------------------;2022-12-24 古巴哈瓦那(gundlachii);
 Quiscalus palustris,0,
@@ -10657,7 +10659,6 @@ Basileuterus belli,0,
 Basileuterus culicivorus,0,3-21 Arenal Observatory Lodge 20.78%;3-22 Arenal Observatory Lodge--access rd 8.57%;3-23 Hotel de Montana Monteverde 8.33%;3-24 Curi-Cancha Refugio de Vida Silvestre 40.98%;3-24 Reserva Bosque Nuboso Monteverde 16.50%;
 Basileuterus delattrii,0,3-18 Hotel Bougainvillea 30.35%;3-23 Hotel de Montana Monteverde 14.58%;3-24 Curi-Cancha Refugio de Vida Silvestre 6.72%;3-24 Reserva Bosque Nuboso Monteverde 2.76%;3-26 PN Carara-Entrada principal 8.23%;
 Basileuterus ignotus,0,
-Basileuterus lachrymosus,0,
 Basileuterus melanogenys,0,
 Basileuterus melanotis,0,3-19 La Paz Waterfall Gardens 24.37%;3-24 Curi-Cancha Refugio de Vida Silvestre 10.93%;3-24 Reserva Bosque Nuboso Monteverde 50.58%;
 Basileuterus punctipectus,0,
@@ -10665,6 +10666,7 @@ Basileuterus rufifrons,0,
 Basileuterus tacarcunae,0,
 Basileuterus trifasciatus,0,
 Basileuterus tristriatus,0,
+Euthlypis lachrymosa,0,
 Cardellina canadensis,1,单型种(全);----------------------------------------------------;2022-8-25 多伦多High park;
 Cardellina pusilla,1,3个亚种;----------------------------------------------------;2022-9-4 多伦多Colonel Samuel Smith公园(pusilla);
 Cardellina rubra,0,
@@ -10862,6 +10864,7 @@ Diglossa humeralis,0,
 Diglossa indigotica,0,
 Diglossa lafresnayii,0,
 Diglossa major,0,
+Diglossa melanopis,0,
 Diglossa mystacalis,0,
 Diglossa plumbea,0,3-19 La Paz Waterfall Gardens 15.68%;
 Diglossa sittoides,0,
@@ -10906,7 +10909,7 @@ Sporophila ardesiaca,0,
 Sporophila atrirostris,0,
 Sporophila beltoni,0,
 Sporophila bouvreuil,0,
-Sporophila bouvronides,4,
+Sporophila bouvronides,0,
 Sporophila caerulescens,0,
 Sporophila castaneiventris,0,
 Sporophila cinnamomea,0,
@@ -10954,6 +10957,7 @@ Poospiza ornata,0,
 Poospiza rubecula,0,
 Poospiza rufosuperciliaris,0,
 Poospiza whitii,0,
+Cnemoscopus chrysogaster,0,
 Cnemoscopus rubrirostris,0,
 Castanozoster thoracicus,0,
 Poospizopsis caesar,0,
